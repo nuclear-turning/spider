@@ -1,0 +1,198 @@
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><style>.trR{ text-align:right;}
+#wraper{width:1190px; margin:0 auto; margin-bottom:10px;text-align:left;}
+#left{ float:left;width:250px; text-align:left;}
+#right{float:right;width:930px;text-align:left;border-top:2px solid #619bc0; padding-bottom:10px;}
+.border_w{ border:1px solid #d3d3d3;border-top:2px solid #619bc0;}
+.t01{height:30px;line-height:30px;border:1px solid #dddddd;padding-left:10px;background:url(../images/tbg01.jpg) repeat-x bottom; color:#1183c1; font-size:14px;}
+.con_01{ padding:10px;}
+.con_cbg{ background:url(../images/con_cbg.gif) repeat-y;}
+.con_bbg{ background:url(../images/con_bbg.gif) no-repeat left bottom; height:1px; line-height:1px; font-size:0;}
+
+.source{margin:15px;background:url(../images/linex.gif) repeat-x bottom; padding-bottom:30px; margin-bottom:30px;}
+.source .source-img{border:1px solid #d3d3d3; text-align:center; padding:5px;margin-bottom:10px; }
+.source p{color:#666666; font-weight:bold; font-size:12px;}
+.source .fblue{ color:#236bac; font-weight:normal;}
+
+.t_tj{ height:27px;padding-top:2px;margin:15px; background:url(../images/con_t_tj.gif) no-repeat left top; padding-left:10px; color:#FFFFFF; font-size:14px;}
+.c12_01{ margin-left:15px; margin-right:15px; margin-bottom:15px;}
+.c12_01 li{font-size:12px; line-height:24px; background: url(../images/dot.gif) no-repeat 2px 10px; padding-left:15px;}
+
+#artibodyTitle{color:#236bac;font-family:"宋体";font-size:20px;font-weight: normal;line-height:35px;text-align:center;margin-top:10px;	text-align:center;}
+#artisubTitle{font-family:"宋体";font-size:16px;font-weight: normal;line-height:28px;text-align:center;}
+.articl_info{margin-left:30px; margin-right:30px; position:relative;border-bottom:1px solid #e1e1e1;padding-bottom:20px; margin-bottom:20px;}
+.btn-img{
+	background-image:url(../images/allbg.png);
+	background-repeat:no-repeat;
+	font-size:12px;		
+	cursor:pointer;
+	border: 0px none;
+	display: inline-block;
+	vertical-align:middle;
+	text-align:center;}
+
+.artInfo{height:22px;border-top:1px solid #e1e1e1;border-bottom:1px solid #e1e1e1;padding:5px;margin:20px;}
+.artInfo li{float:left;width:33%;height:22px; line-height:22px; color:#666666;}
+
+.artInfo li .collectionPage_link{
+	background-position:-509px -80px;
+	padding-left:10px;
+	margin-top:-2px;
+	_margin-top:0px;
+	margin-left:10px;
+	width:51px;
+	height:22px; 
+	line-height:22px;		
+	color:#1183c1;	}
+.artInfo li .printPage_link{
+	background-position:-570px -80px;
+	padding-left:10px;
+	margin-top:-2px;
+	_margin-top:0px;
+	margin-left:10px;
+	width:51px;
+	height:22px; 
+	line-height:22px;	
+	color:#1183c1;}
+.artInfo li .downloadPage_link{
+	background-position:-631px -80px;
+	margin-top:-2px;
+	_margin-top:0px;
+	margin-left:10px;
+	width:51px;
+	padding-left:10px;
+	height:22px; 
+	line-height:22px;	
+	color:#1183c1;}
+
+
+.artBaseInfo{line-height:24px; margin-bottom:5px;}
+.artBaseInfo .info_left{float:left;width:80px;}
+.artBaseInfo .info_right{float:left;width:790px;}
+
+.artBaseInfo dt{float:left;width:80px; color:#666666;line-height:20px; display:inline-block;}
+.artBaseInfo dd{color:#666666;line-height:20px;display:inline-block;}
+.artBaseInfo .col li{ float:left;width:210px; height:20px; line-height:20px;color:#666666;}
+
+.artBaseInfo .item{ float:left;width:50%;}
+.artBaseInfo .notice{
+	margin-left:10px;
+	width:61px;
+	padding-left:10px;
+	height:22px; 
+	line-height:22px;
+	background-position:-448px -80px;	
+	color:#1183c1;}
+
+.artInfo{height:30px;border-top:1px solid #e1e1e1;border-bottom:1px solid #e1e1e1;margin:20px 10px;}
+.artInfo div{ float:left;width:30%;height:30px; line-height:30px; text-align:center;}
+.artInfo div a{ margin-left:20px; margin-right:20px;}
+.artInfo li{float:left;width:33%;height:22px; line-height:22px; color:#666666;}
+
+.articl_info{margin-left:30px;margin-right:30px; position:relative;border-bottom:1px solid #e1e1e1;padding-bottom:20px; margin-bottom:20px;}
+.artBaseInfo{margin-bottom:5px;}
+.articl_info_t{float:left;width:80px;margin-right: -100%;font-weight:bold;line-height:24px;}
+.articl_info_c{float: left;width: 100%;}
+.articl_info_c .info_c{margin-left:80px; line-height:24px;}
+.artBaseInfo .marL{ margin-left:20PX;}
+.artBaseInfo .col_info{ float:left;width:30%;line-height:20px;}
+
+.fontSize{position: relative;right:0px;top:0px;font-size:12px; height:30px; line-height:30px; text-align:right;}
+.fontSize a{border:1px solid #c2c2c2;margin-right:10px;padding:4px 1px;*padding:1px; cursor:pointer;font-size:12px;}
+.fontSize a span{background:url(../images/page_a_36.png) repeat-x;padding:3px;}
+
+.fontSize a.now{border: #f9ad75 1px solid;padding:4px 1px;*padding:1px;}
+.fontSize a.now span{color:#ff7d27;background:url(../images/current_34.png) repeat-x bottom;padding:3px;}
+.artibody{margin-left:20px;margin-right:20px;font: 18px/180% "Microsoft YaHei","微软雅黑"; color:#666666;}
+.artibody p{margin-bottom:20px;}
+
+.fontSize A:link{ color:#000000;text-decoration:none;}
+.fontSize A:visited{ color:#000000;text-decoration:none;}
+.fontSize A:hover{ color:#FF0000;text-decoration:none;}
+.fontSize a.now:link{color:#ff7d27;text-decoration:none;}
+#Zoom img {max-width:600px; max-height:600px; scale:expression((this.offsetWidth > this.offsetHeight)?(this.style.width = this.offsetWidth >= 600 ? "600px" : "auto"):(this.style.height = this.offsetHeight >= 600 ? "600px" : "auto")); display:inline !important;}
+
+.t_artiInfo{font-size:14px; padding-left:20px;background:url(../images/linex.gif) repeat-x top; line-height:30px; margin-top:10px;}
+.li_artiInfo{margin-left:30px; margin-right:30px;padding-bottom:10px; }
+.li_artiInfo ul li{float:left;width:100%;padding:3px 0;}
+.li_artiInfo ul li .title{ float:left;width:65%;}
+.li_artiInfo ul li .author{ float:left;width:15%;}
+.li_artiInfo ul li .come{ float:right;width:20%;color:#999999; text-align:right;}
+
+
+.index_artInfo{height:36px; line-height:36px; border-top:1px solid #e1e1e1;border-bottom:1px solid #e1e1e1; margin-top:20px; padding-left:20px;  padding-right:20px;padding-right:10px; margin-bottom:10px; margin-left:10px;text-align:center;}
+.index_artInfo a.collectionPage_link{ background:url(../images/icon.gif) no-repeat 0 1px; padding-left:15px;}
+.index_artInfo a.printPage_link{background:url(../images/icon.gif) no-repeat 0 -55px; padding-left:15px;}
+.index_artInfo a.downloadPage_link{background:url(../images/icon.gif) no-repeat 0 -108px; padding-left:13px;}
+
+.index_body .main{margin-left:100px; line-height:28px;color:#000000; padding-bottom:30px; padding-top:20px;}</style></head><body><div id="wraper">
+			<div id="artTitles">
+				<h1 id="artibodyTitle">唐故游击将军穆泰墓志考释</h1>
+				<h2 id="artisubTitle">——兼论唐朝胡人汉化的问题</h2>
+			</div>
+			
+			<div class="articl_info">
+				<div class="artBaseInfo" id="autInfo">
+					<div class="articl_info_t">作 者：</div>
+					<div class="articl_info_c">
+						<div class="info_c">
+								<a target="_blank" href="/qw?s0=4&amp;s1=%e6%9d%8e%e9%b8%bf%e5%ae%be">李鸿宾</a> 
+						</div>
+					</div>
+					<br class="cls"/>
+				</div>
+				<div class="artBaseInfo" id="autDescription">
+					<div class="articl_info_t">作者简介：</div>
+					<div class="articl_info_c">
+						<div class="info_c">李鸿宾，中央民族大学历史文化学院教授。（北京 100081）</div>
+					</div>
+					<br class="cls"/>
+				</div>
+				<div class="artBaseInfo" id="tAutInfo"/>
+				<div class="artBaseInfo" id="orgInfo">
+					<div class="articl_info_t">原文出处：</div>
+					<div class="articl_info_c">
+						<div class="info_c">民族研究</div>
+					</div>
+					<br class="cls"/>
+				</div>
+				<div class="artBaseInfo" id="astInfo">
+					<div class="articl_info_t">内容提要：</div>
+					<div class="articl_info_c">
+						<div class="info_c">
+							<p>文章在考释近年出土的唐故游击将军穆泰墓志铭文的基础上，分析穆泰本人及其先人籍贯、家居、任职等情况，推测穆泰家族源自鲜卑，系北魏孝文帝改鲜卑(贵族)姓为汉姓辗转而来。文中对穆泰等人所任职务、任职地点等在前人相关研究的基础上多有订正和补充，澄清了若干唐史和民族史学界长期存而不明的问题，并以此揭示鲜卑人汉化的具体过程。就穆泰家族而论，因其多在都城西北诸民族势力活动之地，又以武职为显，其家族汉化较之进入内地核心区之鲜卑人汉化之例显有差别，其特征表现在：在融入儒家文化圈的过程中还保留着北方游牧民族文化的若干因子，在物质层面背后还寄托着本民族的某种精神情怀。</p>
+						</div>
+					</div>
+					<br class="cls"/>
+				</div>
+				<div id="artPdcInfo" class="artBaseInfo">
+					<div class="col_info"><b>期刊代号：</b>K22 </div>
+					<div class="col_info"><b>分类名称：</b>魏晋南北朝隋唐史 </div>
+					<div class="col_info"><b>复印期号：</b>2009 年 03 期 </div>
+					<br class="cls"/>
+				</div>
+				<div class="artBaseInfo" id="artKeyword">
+					<div class="articl_info_t">关 键 词：</div>
+					<div class="articl_info_c">
+						<div class="info_c">
+								<a target="_blank" href="/qw?s0=7&amp;s1=%e7%a9%86%e6%b3%b0">穆泰</a> 
+								<a target="_blank" href="/qw?s0=7&amp;s1=%e5%a2%93%e5%bf%97%e9%93%ad">墓志铭</a> 
+								<a target="_blank" href="/qw?s0=7&amp;s1=%e9%b2%9c%e5%8d%91">鲜卑</a> 
+								<a target="_blank" href="/qw?s0=7&amp;s1=%e8%83%a1%e4%ba%ba%e6%b1%89%e5%8c%96">胡人汉化</a> 
+
+						</div>
+					</div>
+					<br class="cls"/>
+				</div>
+				<div class="artBaseInfo" id="artTitleNote"/>
+				<a id="readArea" name="readArea"/>
+				
+			</div>
+			<div id="artText"><div class="artibody" id="Zoom" style="font-size: 14px;">
+    </p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;《文物》2008年第3期发表了庆阳市博物馆、庆城县博物馆撰写的《甘肃庆城唐代游击将军穆泰墓》(以下简称《穆泰墓》)，将2001年在甘肃庆城县发现的穆泰墓葬的情况作了详细的介绍和报道。庆阳(庆城)距长安西北不远，属于后人定名的丝绸之路范畴，而墓葬更是涉及当时胡人的状况。因此，本文专就墓志铭的有关信息进行解读，并就随葬品中的胡人俑，结合相关文献对唐朝胡人的若干情形进行讨论。不当之处，请批评教正。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;先对墓志铭进行考释。录文转引自《穆泰墓》，如下(断句与标点符号系笔者所加，后半部因残损有节略)：</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;唐故游击将军上柱国前灵州河润府左果毅穆君墓志铭</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;君讳泰，陇西天水人也。代习衣缨，家阀阅，荣耀千秋，几辉百祀。曾祖讳安，上护军，任豪州司马。才超七斗，儿戏三冬，理人若春露含花，行法似秋霜萎叶，恩临溉海，逢无晚讼之人。盗返秦郊，邑停夜吠之犬。父讳表，上骑都尉，任州录事参军。明如水镜，直若朱弦，预察人劳，才为代出，扬振退金，名早闻于汉史。子□□玉声已播于周朝，功立明时，名彰圣代，既文既武，能刚能柔。大唐证圣元年，授游击将军、上柱国、行庆州洪德镇副将，又至长安三年三月廿九日，改授灵州河润府左果毅都尉。金一耀一，横行马邑之边，□□含星，直入龙廷之塞。神龙元年，摄□安军副使，又至神龙三年，检摭定远域(城)大使。耿恭设拜之地，久戍忘归，广利郏山之境，一从征战，下□山而入蒲海，出鸿门而历鸡田，赤心事君，忠诚报国，虽未作□酶亦□□舟□，复因年齿雕暮，返退秋园，命□僚以言取□□□以自乐。开元十七年十月廿日遘疚，□□私□，春秋七十。不谓芬华易谢，□月难留，忽往逝小□□□□开元十八年岁次庚午二月廿九日葬于庆州城北五里，礼也。秦域□迤，陇□萧条……名播边关，□域后□，屡游燕代，响誉年载，应声而会，遐塞飞轺，威宣渡辽，位□班超，边□□□，义扬李广，退禄丘园，永舍烦□……</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;上文里值得我们关注的问题有如下数例：</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.家族与地望  穆氏，按唐人林宝《元和姓纂》卷10谓穆氏源出有二，一是“宋穆公之后，支孙氏焉。楚元王友有穆生，或作‘缪’，音同”；一是“代人，本姓邱穆陵氏，代为部落大人，为北人八族之首。后魏以穆、陆、奚、于比汉金、张、许、史。孝文迁洛阳，改为陆氏，以位尽王公，勋著当代”。宋人邓铭世的《古今姓氏书辨证》继承了这个说法。①</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;上面的这两支穆氏，前者是传统的汉人，世系久远；后者则是北魏孝文帝太和年间由鲜卑族系更改而成。按照孝文帝诏令的意思：“代人诸胄，先无姓族，虽功贤之胤，浑然未分。……比欲制定姓族，事多未就，且宜甄擢，随时渐铨。其穆、陆、贺、刘、楼、于、嵇、尉八姓，皆太祖已降，勋著当世，位尽王公；吏部勿充猥官，一同四姓。”②在这种情况下，邱穆陵氏就改成了穆氏，其地位一直是很高的。今人姚薇元、王仲荦等亦主此说。③</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;那么，穆泰家族属于上面两支中的哪个呢？是汉人还是鲜卑改姓呢？</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;先看籍贯或地望。志文记载为“陇西天水”。按《通典》卷174云：“秦平天下，是为陇西郡。汉武分陇西置天水郡。……晋分为天水及武阳二郡，兼置秦州。后魏为略阳郡。隋初郡废，炀帝初，复置天水郡。大唐为秦州，或为天水郡。”《元和郡县图志》卷39云：“本邽戎地，秦伐邽戎而置县焉。汉属陇西郡，晋属天水郡。后魏以避道武帝讳，改曰上邽，废县为镇。隋大业元年复为上邽县，属天水郡。武德二年属秦州。”根据《旧唐书》卷40《地理志三》的记载，武德二年(619)之后一直称秦州，到玄宗天宝元年(742)改为天水郡，穆泰去世于开元十八年(730)，时称秦州，志文上的“天水”显然是此前的名称，“陇西”又是地理概念，说明墓志记载祖籍地沿袭的是成说而非正规的叫法。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;其一，如上所说，秦州地处西陲，早先是羌戎聚居地，秦以后始为朝廷设置。唐时，该地处丝绸通路，又是多民族聚合处。穆泰这支以此为籍贯，应当说系出非汉民族的推测较为合理。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;其二，上文说穆氏由先辈邱穆陵氏改易而来。根据魏孝文帝变法的诏令，改姓之后的鲜卑人即以河南洛阳为籍，死后也就内地安葬，这已为人所熟知。今从《唐贞观八年条举氏族事件》残卷可知，穆姓是河南郡7个大姓之一；④斯2052号定名为《新集天下姓望氏族谱》敦煌文书，穆姓则是洛州河南郡23大姓之一，而且在北8418号《姓氏录》和伯3191号《郡望姓望》里都有证明，⑤这是北魏改姓之后穆氏在河南落籍的反映。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;其三，穆泰志文里有“代习衣缨，家阀阅，荣耀千秋，几辉百祀”的记载，这虽是自我炫耀，但联系其曾祖、父都在朝廷任职，他本人又曾任游击将军、上柱国、庆州洪德镇副将、河润府左果毅都尉等职衔，说明上述自夸并非空穴来风。值得指出的是，他的任职多系武职，套用墓志的言语，是“横行马邑之边”，“直入龙廷之塞”，“名播边关”，“屡游燕代”，可以与班超、李广等人媲美。班超和李广从事的功业均在边疆，穆泰的任职与他们联系起来，在撰主看来，穆泰从事的亦属边功。以武职行边功，有理由让我们揣测穆泰的族属更应该与代北鲜卑改变名称之后的穆氏联系起来。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;其四，既然穆泰这一族是鲜卑改姓的，而且属于大姓和望门，可是在《唐贞观八年条举氏族事件》残卷秦州天水郡7姓和《新集天下姓望氏族谱》里秦州天水郡罗列的20个姓中，却没有记载，⑥似乎不属于当地的望门。这两份氏族谱虽然残损，但有关秦州的内容都得以保留，应该说穆氏不见记载并非是残损的缘故。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.曾祖、父任职  穆泰曾祖讳安，父讳表，其曾祖和父亲生活的时代，墓志也没有做更多的交代。穆泰卒于唐玄宗开元十七年，终年70岁，应是虚岁，实际年龄当为69周岁。按此推算，他应出生在唐高宗显庆五年(660)(《穆泰墓》做同样的推测)。按照25年为一代的计算，他的父亲穆表理论上出生在太宗贞观九年(635)前后；他的曾祖，也就是穆表的祖父，应出生在隋文帝开皇五年(585)前后。事实上，考虑到那个时期的婚姻年龄，⑦25年为一代间隔应该不算短，所以穆泰的曾祖和父亲出生的年月，应该分别在开皇五年和贞观九年上下。这样看，穆泰的曾祖穆安当是隋至唐初时期的人，他的父亲穆表则是太宗至武则天时期的人物。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;现在再来看任职。曾祖穆安的职务是上护军和豪州司马。按上护军一词，我手头查找的《隋书》、《通典》、《唐六典》等文献中没有出现，但明朝有过这个职务，说明此前应有，待查。豪州司马，按“豪州”一名，《通典》、《元和郡县图志》和《旧唐书》等文献均记作“濠州”，⑧又《新唐书》卷38《地理志二》濠州钟离郡条则说：“‘濠’字初作‘豪’，元和三年(808)改从‘濠’。”清人顾祖禹《读史方舆纪要》卷21《南直三·凤阳府》也说：“隋改曰豪州，大业初复为钟离郡。唐复曰豪州，天宝初亦曰钟离郡，乾元初又为豪州。”这说明，“濠州”在宪宗元和三年之前，凡是以州为称的时候，都作“豪州”。按其州名取自濠水，值得我们注意的是，豪州之名就是在隋朝建立后不久出现的，按照《元和郡县图志》的说法，是在文帝开皇三年；⑨《隋书·地理志下》记载钟离郡“开皇二年改曰濠州”，这个“濠”字原本作“豪”，校注者根据《元和郡县图志》和《太平寰宇记》等文献改作“濠州”。⑩现在看来，穆泰曾祖穆安充任的豪州司马，证实《隋志》和《新唐志》的记载是不错的，校注将其改为“濠”可能倒失误了。无论如何，“豪州”一名是隋初改称则属事实，这也与上文穆安生当隋及唐初的推断是吻合的。(11)</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;这方墓志没有涉及穆泰的祖父。按照常理，不在朝廷或地方机构任职的人，常以“处士”的名分出现在墓志里。穆泰的祖父不见记载，且无任何说明，我们就有理由推测他没有担任过官职。为什么会是这样？还是张维慎先生提出了较好的说法。他看到穆安在东部豪州任职，虽然“才超七斗”，有“理人若春露含花，行法似秋霜萎叶，恩临溉海，逢无晚讼之人”的政绩，但是“盗返秦郊，邑停夜吠之犬”一句，恰说明他任职的结果，是从豪州偷偷地返回“秦郊”——穆泰的祖籍之地。这个“盗返”的“盗”如同“盗铸”钱币那样，是偷偷进行的意思，他说：“当初穆氏南迁(这里指去豪州任司马——笔者)并非心甘情愿，而是迫不得已。穆泰的曾祖是因眷恋故居而偷偷地返回世居地秦州的，害怕朝廷的追究，所以不让其子(穆泰的祖父)出来做官；隔了一代，到了其孙(穆泰的父亲)，才敢出来做官，官至秦州录事参军。这样，穆氏家族的仕宦历程也就顺畅了。”(12)我觉得这个解释有一定道理，特转录于此，聊备一说。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;其父穆表的职务先是上骑都尉，按此职系唐之勋官，即授予军人之职衔。《唐六典》说：“(尚书吏部)司勋郎中、员外郎掌邦国官人之勋级。凡勋十有二等：……六转为上骑都尉，比正五品。”(13)就骑都尉名称而言，始于汉武帝，曾以李陵为之，后世延续，至唐则以此为勋官。(14)关于勋官系统的起源，按照《旧唐书·职官志一》的说法，是“出于周、齐交战之际。本以酬战士，其后渐及朝流”。(15)勋官发展之趋向是由授给军功的武职战士，向非军功的朝士普通人转化。出现这种转化的原因，可能与隋唐交际之时的官制改变有关，北周原有一套上开府仪同三司的勋官系统，隋朝立国后文帝和炀帝又根据各自的需要增加和改定了不少名号，出现了勋官与散官名称相同但属两个系统的相互混杂的现象，所以到高宗咸亨五年(674)下诏重新厘定，各以类比，二者始于分明。(16)</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;穆表的行政职务是州的录事参军。按照唐朝规定，州分上中下三等，上州的录事参军事从七品上阶，中州录事参军事正八品上，下州录事参军事从八品上。录事参军事的职责是：“掌付事勾稽，省署抄目，纠正非违，监守符印。若列曹事有异同，得以闻奏。”(17)严耕望先生早有精深研究，他对录事参军事的结论是：“此职自唐初以来即‘纲纪六曹’，督察内外；惟品位仅高判司六曹一阶，故此项职权未见充分发挥。安史之乱后，盖中央鉴于地方行政有加强之必要，故代宗时代即提高此职之品位，并特令六曹与县令致敬。于是，此职在府州行政组织中之重要性更见增加，逐渐形成‘掌州(府)院’、几于六曹长官之地位，又兼督察内外之权，成为府州僚佐组织之核心职位。”(18)严先生这里论述的是唐朝前后录事参军事职权的整体情况，后期其权职更有增加，就初期而言，录事参军事在州里僚佐中已经颇为重要。穆表担任此职，说明他在州里是个比较重要的人物，墓志“名早闻于汉史”的称颂似乎是这种情形的写照。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.穆泰本人的任职  按墓志记载，穆泰曾充任以下职务：武则天证圣元年(695)，授游击将军、上柱国、行庆州洪德镇副将；长安三年(703)三月廿九日，授灵州河润府左果毅都尉。中宗神龙元年(705)，摄□安军副使；神龙三年，检摭定远域(城)大使。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;按墓志记载，穆泰最初的任职是游击将军、上柱国、庆州洪德镇副将，时间是证圣元年，时年35岁。其中游击将军是武散官，从五品上。《通典》作“游骑将军”，看来有欠准确。上柱国是勋官，正二品。穆泰最初的实际职务是(职事官)庆州洪德镇副将。按《元和郡县图志》，庆州系“隋文帝开皇三年改置合川镇，十六年割宁州归德县置”。唐庆州治安化(今甘肃庆阳)，即穆泰所葬之地。洪德镇副将，按洪德镇应属边军系统的镇戍。(19)《新唐书》卷50《兵志》说：“唐初，兵之戍边者，大曰军，小曰守捉，曰城，曰镇，而总之者曰道。”(20)洪德镇应属于文中记载的诸镇之一。又《唐六典》卷5《尚书兵部职方郎中员外郎》条记载：“凡天下之上镇二十，中镇九十，下镇一百三十有五。”洪德镇属于那一个级别呢？按庆州本属中都督府，(21)内辖洪德镇似不应属上镇。又按《新唐书》卷49下《百官志四下》记载，上镇派设防人500，中镇300，下镇不足300人。穆泰所在的镇，我推测应属中或下镇。镇的长官是镇将，副职叫镇副，从墓志里看出，又可以称为副将，其级别，如果是中镇镇副，当为从七品上；若是下镇镇副，则为从七品下。无论是七品上还是下，穆泰的职事官级别都低于游击将军的武散职，所以用“行”字表示，即如《旧唐书》卷42《职官志一》载唐令所称“以职事高者为守，职事卑者为行”的反映。镇将、镇副的职责，按《新唐书》卷49下《百官志四下》记载，是“掌捍防守御”。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;从这段记载我们大体可以看出，穆泰35岁时担任庆州洪德镇的副将，是边防军系统的一个中下级军官，这里恰是他的家乡。他所在的镇，是唐初延续北朝以来的防边旧制，随着形势的发展，镇戍体制逐渐转向军镇合流并统属于节度使的防边体系之内，(22)不过，此时的镇戍仍保持着初期的相貌。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;长安三年，穆泰转授灵州河润府左果毅都尉。按灵州(治回乐，今宁夏灵武西南)在庆州西北，更接近边疆之地。果毅都尉是府兵将领，唐朝府兵分上中下三等，上府有兵1200人，中府1000人，下府800人，为首者称折冲都尉，副职为左右果毅都尉。(23)据《旧唐书》卷42《职官志一》记载，上府果毅都尉从五品下，中府正六品上，下府从六品下。这里的河润府是折冲府的具体名称，唐朝600多个折冲府都有自己的确切名称。按照墓志记载，河润府在灵州境内，查《新唐书》卷37《地理志一》，灵州境内分布的折冲府有五，即武略、河间、静城、鸣沙和万春。今人张沛《唐折冲府汇考》沿承《新志》的说法，没有增加，(24)墓志铭里的这个“河润府”，按照张维慎的意见，“‘间’与‘润’字形相近而容易致误却是完全可能的”，就像他所说的下文中的“城”字误写成“域”字一样。(25)我原来认为“润”与“间”存在不小的差别，倾向于河润府不同于河间府，现在看来，“润”系“间”之误写的可能性也是存在的。如果按照这样的理解，灵州界内的折冲府仍旧是文献记载的5个，其中的河间府要么又叫河润府，要么后者是前者的误写。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;中宗神龙元年，穆泰摄□安军副使。这里的“安”字之前应作“丰”，即丰安军。(26)按《元和郡县图志》卷4《关内道·灵州》条记载：“丰安军，灵武郡西黄河外一百八十余里，万岁通天初置。管兵八千人，马一千三百匹。”穆泰先是在灵州充任河润府的果毅都尉，丰安军也在该州境内，特别是后面他担任的定远城大使，也同样在灵州。应该说，穆泰充任的这三个职务都在同一州之内。丰安军，亦属唐初以来的边军系统。不过，它的设置则晚在武则天时期。根据文献记载，丰安军初设时间有二，一是武则天万岁通天初年(696)，一是玄宗先天元年(712)。王永兴先生认为万岁通天元年为初置时间，从穆泰充任的时间来看，丰安军的设置确是早于先天元年，王先生的推定是准确的。(27)丰安军的地点，根据王亚勇的研究，是在隋唐时期的丰安县界内，当在今宁夏中宁县石空镇附近。(28)</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;神龙三年，穆泰充任定远域(城)大使。关于定远城的初设，《通典》和《元和郡县图志》认为是中宗景龙(707-710)年间由朔方道行军大总管张仁愿下令修建的；(29)《唐会要》、两《唐书》之《郭元振传》则主张定远城由郭氏修建，时间是在先天元年或二年。(30)墓志铭记载穆泰任职定远城大使，至少在中宗的神龙三年，这说明定远城之建应该早于上述二说，特别是郭元振主修一说，应该得到修正。那么，定远城究竟是由谁修建的呢？我认为还是张仁愿。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;根据我的研究，张仁愿充任朔方道行军大总管是在中宗神龙三年(707)五月，(31)他在任期间对北部防务做出的最大贡献，就是趁着复兴之后的东突厥西征的空当，在河套地区黄河北岸，修建了以东、中、西三座受降城为标志的包括1800所烽堠的防御工程。(32)既然张能修筑黄河北岸的三受降城巨型防御工事，那么距离朔方道本部的灵州之北不远处的定远城由他修建，应属合理考虑。问题的关键还在于，《通典》和《元和郡县图志》明明记载这座城就是张仁愿修的，只不过时间是在景龙中。墓志记载穆泰担任该城大使则是神龙三年。按三年九月即改元景龙，所以张仁愿景龙中修建定远城，经过墓志铭的核定，应该是在神龙三年五月张担任朔方道大总管之后立即开始的，(33)修成之后派驻军队，其首任大使，从时间前后来看，很可能就是穆泰。墓志铭用“检摭”的词汇描述，说明他被派任，有初始的涵义。这样看来，张仁愿代替沙吒忠义充任朔方道大总管之后，首先修筑灵州之北的定远城，之后才北上修筑三受降城。定远城在灵州附近，它的修建，对保护这座具有长安北大门之称的战略要地具有不可低估的意义。这里我引用王亚勇的一段评论：“定远军、新昌军、丰安军三个河外军事据点构成了唐代灵州控制宁夏河西地区、拱卫灵州及关中的前沿军事支撑点，它们与三受降城结合在一起，即是唐代灵州的河外六城，在整个唐朝一代具有重要的战略意义。”(34)除了“整个唐朝一代”这样泛论之外，我基本同意他的概括。这份墓志铭的记载，补充了正史有关张仁愿修筑防御工程的细节，具有重要的史料价值。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;以上分三个专题讨论了穆泰家族的居地，推测他们系鲜卑贵族改姓而来；接着论证了穆泰曾祖和父亲的任职；穆泰本人的任职履历，更是讨论的重点，这方面花费的篇幅最多。以下部分，我打算结合墓志、随葬品和文献，对穆泰族别(属)问题再作一申论，并以此涉及鲜卑人汉化的具体演进过程。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;《穆泰墓》一文没有对穆泰的族别(属)做出说明，只说了两条内容，一是从墓葬随葬品反映的情况看，“墓主人受到了外来文化和北方游牧民族文化的影响，也在某种程度上反映出唐时中外往来的情况”；二是“庆城县地处甘肃东部，一度是陇东地区的政治、经济、军事、文化中心。唐代在此设置庆州，是汉族与北方少数民族接触较多的地方”。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;我要说明的是，穆泰家族本身就是鲜卑系民族汉化的，他的任职和活动都属唐朝北方胡系民族的典型反映；他所在的地区，同样是胡汉民族交往杂居之地，这与《穆泰墓》文的意思相近，但我要更具体化一些。正如《穆泰墓》一文所说，穆泰墓葬的形制与唐朝一般的墓葬没有什么区别，符合唐令的相关规定。问题是随葬品中有不算少的胡人陶俑和骆驼、马等草原游牧民族生活的景象。据《穆泰墓》一文的分析，墓葬有袒胸胡人俑1件、牵夫胡人俑3件，还有骆驼俑3件、马俑3件和羊俑4件。其中袒胸胡人俑和牵夫胡人俑的造型明显不同于汉人，可以轻易地分辨出来，具有鲜明的胡人形象。这些胡人俑之放在穆泰的墓室作为随葬品，应当是刻意安排的结果。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;结合上文的讨论，穆泰家族的居地，先祖的任职和活动的地区，尤其是曾祖穆安私自从豪州西返秦州背后的乡里认同的情感，以及穆泰本人职务与活动的区域，都使我们有理由相信这个家族早期出自北方鲜卑系民族。墓志说他“玉声已播于周朝，功立明时，名彰圣代”，是说他在武则天当权的时候官运亨通，他“赤心事君，忠诚报国”，不论是武则天时代，还是中宗复辟之后，他的任职都没有受到任何影响。他是跟随武氏家族政治势力的人物，或追随二张的同党吗？墓志里没有反映。从现有的记载看，穆泰的官职还到不了上朝参政的地步，他只不过是地方军镇的一个职位不算高的将领，所以他与朝廷拥李拥武的政治势力是不搭界的。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;从墓志铭的记载看，穆泰的行为更像是驻守北部边地的胡人将领。上文所说他的任职几乎都是在庆州和灵州，尤其是后者，那是朔方军发展的根据地，而朔方军内部胡兵蕃将甚多。(35)穆泰活动的范围和担任的职务如丰安军副使、定远城大使，都是朔方军形成中的组成部分，《新唐书》卷64《方镇表一》说：玄宗开元九年，“置朔方军节度使，领单于大都护府，夏、盐、绥、银、丰、胜六州，定远、丰安二军，东中西三受降城”。(36)张仁愿的时代，是朔方军成型的时期，我在《唐朝三受降城与北部防务问题》一文中曾经总结说，朔方军正式确立之前有三个发展步骤：第一步是武则天时期薛怀义首次充任朔方道行军大总管，标志着朔方军名称的出现；第二步从魏元忠到沙吒忠义，表明朔方军向常驻军正规体制转化；张仁愿任职后，朔方军开始了正规化，是为第三步。到开元九年，朔方军节度使就正式形成了。穆泰的任职，正处在朔方军正规化的过程中。墓志说他“横行马邑之边”，“直入龙廷之塞”，“耿恭设拜之地，久戍忘归，广利郏山之境，一从征战”，以及“秦域□迤，陇□萧条”，“名播边关”，“屡游燕代”，与李广、班超相比附，这些词汇，都足以表明他一生大部分时间活动的地区和担任的职务，都是在西北边塞，都是“赤心事君，忠诚报国”，为朝廷尽力。这也正是胡族将领当时活动的普遍现象。可以说，作为边塞将领，穆泰的职责就是保卫朝廷和国家边地的稳固，不论是武则天当权，还是李唐复辟，对穆泰而言，其意义都是一样的。正因为他身处边塞，朝廷内部势力的斗争与更替，与他都没有直接的干系。这是墓志里有关他尽忠朝廷具体情况的直接反映。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;穆泰墓葬用胡人陶俑和马、驼等游牧系列产物做随葬，正如上文所说，不是一般性的、无意识的举措，而是有意的安排，这个安排证明他的家族出自北方胡人系统。经过多年胡汉文化的交融，穆泰墓葬在吸收汉化形制的基础上，还保留着若干胡系民族的痕迹。说到这里，文献上记载的北魏孝文帝强制汉化的措施，曾经一时激起社会的震荡，南下鲜卑改制并汉化，似乎是雷厉风行，瞬间即刻完成了。(37)事实上，鲜卑人的汉化有一个较长的演变过程，(38)魏孝文帝极端的举措，在历史上产生的影响大，留给后人的印象深。但是，他的改制所引起的激荡，也的确对北魏王朝造成了深刻的影响。就汉化而言，北魏末年动乱所引发的鲜卑化的回潮，也是6世纪前期影响北方黄河长城沿线地区的一股社会势力，用陈寅恪先生的话说，就是：“魏孝文帝迁都洛阳，其汉化程度更为增高，至宣武、孝明之世，则已达顶点，而逐渐腐化矣。然同时边塞六镇之鲜卑及胡化之汉族，则仍保留其本来之胡化，而不为洛都汉化之所浸染。故中央政权所在之洛阳其汉化愈深，则边塞六镇胡化民族对于汉化之反动亦愈甚，卒酿成六镇之叛乱，尔朱部落乘机而起。至武泰元年(公元五二八年)四月十三日河阴之大屠杀，遂为胡人及胡化民族反对汉化之公开表示，亦中古史划分时期之重要事变也。”(39)</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;继北魏之后的西魏—北周和东魏—北齐，特别是前者，为与后者抗衡并发展自身，以宇文泰为代表的统治集团，采取以鲜卑为核心的北方胡族文化与中原传统文明结合的路子，使西魏—北周逐步摆脱落后的局面，一举击败北齐。这是人所熟知的史实。在这一过程中，胡汉民族和文化相互融合、演进。生活在北方长城边地的各民族，他们一方面保持着原有的游牧社会的精神和物质气象，另一方面则又不断地统合于中原的汉人文化和世界中，胡汉文化和世界的交相互映，是北朝至隋唐时期北方尤其长城地区的一种社会现象。唐朝立国后，随着整个国家发展渠道的扩展，中原文化呈现恢复和上升的趋向，由胡转向汉成为发展的主流，这决定了北方民族汉化的走向。当然，具体到个人，情况会千差万别。穆泰家族成员的发展趋势，应该受这个主流的影响。这也就是他的墓葬形制与汉人无甚差别的原因，而随葬的胡人、胡系马驼的出现，则又在某种程度上反映出他对胡系家世祖源的追念，至少，在穆泰本人和为他安葬的亲属眼里，胡系源流的感怀，是不能忘却的，那是他们的精神寄托。身处汉人世界，甚至穆泰家族本身已成汉人世界组成部分的情况下，在墓葬中保留胡人遗痕并借以追忆先祖文化精神的情怀，这就是我们所看到的穆泰墓葬胡、汉二系文化物品并存的缘由。说到这里，我们可以对穆泰家族汉化有一个基本的结论：即从他的先祖到他本人，处在朝廷西北边缘之地的多民族群体交往捭阖之中，其汉化的过程中尚多保存旧世的风俗与文化，易言之，鲜卑拓跋的某些特性还隐藏在他的家族的记忆中。与汉化比较充分的鲜卑后裔相比，穆泰的汉化并不彻底。我这里仅以《新唐书》为例，与穆泰的汉化略作比较。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;《新唐书》卷200《儒学下·元澹传》记载的元澹(字行冲)，是北魏拓跋常山王之后，他生活的时代几与穆泰相同，穆泰卒于开元十七年，元行冲亦卒于此年，只是他比穆泰年长7岁，即永徽四年(653)出生(这里同样以虚岁计算)。但元行冲的任职与穆泰完全不同，他所担任的太常少卿、太子詹事、右散骑常侍、丽正校书事等职，都是典型的饱学之士充任的文职，而其前提则是他的进士身份，“自以书生”，参与编订《魏典》并校注儒经。同卷卢履冰，亦北魏都官尚书鲜卑卢义僖后人，(40)他与穆泰也属同代人，担任右补阙，任文士之职，对礼仪有精深研究。(41)另一位北魏京兆王元子推的后裔元万顷，“敏文辞”，“凡撰《列女传》、《臣轨》、《百寮新戒》、《乐书》等九千余篇”，是武则天时期著名的“北门学士”之一。(42)还有来自代北之后的于邵，“第进士，以书判超绝，补崇文校书郎”，后参与科举考试事宜。(43)这些与穆泰同样出身鲜卑的后人，同样担任职官，但与穆泰相比，居处京城，汉化的过程已经完成，鲜卑游牧生活的痕迹在他们身上已经荡然无存。而穆泰家族走向汉化，似乎正在行进之中，鲜卑祖源的痕迹亦有留存。穆泰的汉化较他们为迟，我想这主要是他的家居与上述诸人有别，更容易保持原来的传统；另外，穆泰家族武职的充任，也是保有传统的条件。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*本文初成之后，曾在陕西师范大学举办的“‘古都长安与隋唐文明’国际学术研讨会”上承蒙贾二强、薛平拴、穆渭生、拜根兴、张维慎、毛阳光等先生评议和指正，谨此致谢！笔者对部分内容进行了补充和订正。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;注释：</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;①参见(宋)邓名世撰、王力平点校：《古今姓氏书辨证》卷35《穆》，江西人民出版社2006年版。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;②《魏书》卷113《官氏志》(本文所引正史及《资治通鉴》均系中华书局点校本，以下不具名)。关于鲜卑贵族改汉姓，参见唐长孺：《论北魏孝文帝定姓族》，《魏晋南北朝史论拾遗》，中华书局1983年版，第79—91页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;③参见姚薇元：《北朝胡姓考》，中华书局1962年版，第25—28页；王仲荦：《<img onerror="this.src='/images/err.png'" src="http://img.ipub.exuezhe.com/jpg/K22/2009/K22T320.jpg" />华山馆丛稿续编》，山东大学出版社1995年版，第10、87页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;④参见王仲荦：《〈唐贞观八年条举氏族事件〉残卷考释》，《<img onerror="this.src='/images/err.png'" src="http://img.ipub.exuezhe.com/jpg/K22/2009/K22T320.jpg" />华山馆丛稿》，中华书局1987年版，第334页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⑤参见郑炳林：《敦煌地理文书汇辑校注》，甘肃教育出版社1989年版，第326、344、353页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⑥参见王仲荦：《〈唐贞观八年条举氏族事件〉残卷考释》，《<img onerror="this.src='/images/err.png'" src="http://img.ipub.exuezhe.com/jpg/K22/2009/K22T320.jpg" />华山馆丛稿》，第361页；王仲荦：《〈新集天下姓望氏族谱〉考释》，《<img onerror="this.src='/images/err.png'" src="http://img.ipub.exuezhe.com/jpg/K22/2009/K22T320.jpg" />华山馆丛稿》，第381页；郑炳林：《敦煌地理文书汇辑校注》，第324页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⑦按唐开元二十五年政府颁布的户令有这样的规定：“诸男年十五，女年十三以上，并听婚嫁。”这是唐朝开元年间男女初婚的年龄规定，宋朝和日本的相关条文也同样如此，说明男女初婚的年龄至少在那个时代大体上是一致的(参见[日]仁井田陞著、栗劲等编译：《唐令拾遗》户令第九，长春出版社1989年版，第158页)。李树桐教授所撰《唐代妇女的婚姻》一文中分析，当时女性结婚的年龄以14、15岁最多，14岁至18岁结婚者占大多数，这个统计与唐令的规定是吻合的。该文载同作者《唐史索隐》，台北商务印书馆1988年版。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⑧参见《通典》卷181《州郡十一·濠州》；《元和郡县图志》卷9《河南道五·濠州》；《旧唐书》卷40《地理志三·濠州》。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⑨参见《元和郡县图志》卷9《河南道五·濠州》。按此条校注说“‘濠’《隋志》作‘豪’，误”(第251页)，根据《新唐书·地理志·濠州》条和穆泰的墓志来看，元和三年以前的“濠州”应作“豪州”，并非失误。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⑩参见《隋书》卷31《地理志下·钟离郡》。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(11)关于“豪”、“濠”的区别，承陕西历史博物馆张维慎先生提示，谨此致谢！</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(12)这是张维慎先生给我的电子信函中的内容。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(13)(唐)李林甫等撰、陈仲夫点校：《唐六典》卷2《尚书吏部》，中华书局1992年版。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(14)参见《通典》卷34《职官十六·勋官》。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(15)《旧唐书》卷42《职官志一》。陈苏镇则认为勋官起源于西魏，见《北周隋唐的散官和勋官》，《北京大学学报》1991年第2期。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(16)张国刚先生认为咸亨五年始厘革定为十二转(参见《唐代官制》，三秦出版社1987年版，第167页)。按照《旧唐书·职官志一》的记载，早在高祖武德七年(624)朝廷就已下令将上柱国至武骑尉之间定为十二等，起正二品，至从七品。看来十二等(转)的规定在武德时期完成，而非高宗咸亨五年才制定的。这说明，唐朝初年在继承前朝制度的基础上已经划分了勋官和散官系统，只不过这两套系统的名称互用，导致错乱，到高宗咸亨五年进一步澄清而已。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(17)《唐六典》卷30《三府都护州县官吏》。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(18)严耕望：《唐代府州僚佐考》，《唐史研究丛稿》，香港新亚研究所1969年版，第138—139页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(19)边军按其性质应属地方军，参见王永兴：《唐代前期的地方兵》，《唐代前期军事史略论稿》，昆仑出版社2003年版。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(20)参见唐长孺：《唐书兵志笺正》，中华书局1962年版，第33页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(21)参见《旧唐书》卷38《地理志一·庆州中都督府》；《新唐书》卷37《地理志—庆州顺化郡》。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(22)参见唐长孺：《魏晋南北朝隋唐史三论——中国封建社会的形成和前期的变化》，武汉大学出版社1993年版，第414—428页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(23)参见唐长孺：《唐书兵志笺正》，第9—12页；谷霁光：《府兵制度考释》，上海人民出版社1962年版，第128—137页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(24)参见张沛：《唐折冲府汇考》，三秦出版社2003年版，第104—105页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(25)这里的引文是他给我写的电子信函。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(26)《穆泰墓》亦作“丰安军”。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(27)参见王永兴：《论唐代前期朔方节度》，《唐代前期西北军事研究》，中国社会科学出版社1994年版，第266—267页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(28)参见王亚勇：《丰安军与定远城》，《宁夏大学学报》2003年第6期。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(29)参见《通典》卷172《州郡二·序目下·朔方节度使》；《元和郡县图志》卷4《关内道·灵州》。李吉甫在灵州条的后面又列有“定远废城”，由郭元振修筑。这座城也在灵州东北二百里，与定远东城方位相同。王永兴先生认为这里的“东”疑为“军”(见《唐代前期西北军事研究》，第269页)。不管怎样，在李吉甫的笔下，是存在着定远东城和废城两个概念的。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(30)参见王永兴：《唐代前期西北军事研究》，第269页。王亚勇认为定远城系郭元振于先天二年修建，见王亚勇：《丰安军与定远城》，《宁夏大学学报》2003年第6期。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(31)参见拙文：《唐朝三受降城与北部防务问题》，《长城国际学术研讨会论文集》，吉林人民出版社1995年版，第144页。我在这篇文章中说张任职在景龙元年五月，是不确切的。景龙年号是在神龙三年九月才改称的，五月的时候只能是神龙而不是景龙。特此更正。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(32)参见王永兴：《张仁愿筑三受降城》，《唐代前期军事史略论稿》；拙文：《唐朝三受降城与北部防务问题》，《长城国际学术研讨会论文集》，第144页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(33)定远城在今宁夏平罗县姚伏镇东北3里处。参见王亚勇：《丰安军与定远城》，《宁夏大学学报》2003年第6期。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(34)王亚勇：《丰安军与定远城》，《宁夏大学学报》2003年第6期。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(35)参见王永兴：《论唐代前期朔方节度》，《唐代前期西北军事研究》，第247—265页；拙文：《朔方军的建置发展与胡兵蕃将》，《北大史学》第五卷，北京大学出版社1998年版；拙著：《唐朝朔方军研究》，吉林人民出版社2000年版，第138—156页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(36)参见吴廷燮：《唐方镇年表》卷1《朔方》，中华书局1980年版，第126—128页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(37)参见《魏书》卷7下《高祖纪下》。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(38)相关内容参见唐长孺：《拓跋族的汉化过程》，《魏晋南北朝史论丛续编》，生活·读书·新知三联书店1959年版；《拓跋国家的建立及其封建化》，《魏晋南北朝史论丛》，生活·读书·新知三联书店1955年版。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(39)陈寅恪：《唐代政治史述论稿》，上海古籍出版社1982年版，第14页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(40)卢氏分别由鲜卑拓跋和慕容氏改姓而来。参见姚薇元：《北朝胡姓考》，第95—100页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(41)参见《新唐书》卷200《儒学下·卢履冰传》。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(42)《新唐书》卷201《文艺上·元万顷传》。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(43)《新唐书》卷203《文艺下·于邵传》。查姚薇元《北朝胡姓考》，于氏系由鲜卑勿(万)忸(纽)于氏改姓而来。见该书第54—56页。于邵之所以是代北鲜卑姓，乃该传明确记载“其先自代来”，后转“为京兆万年人”。
+</div>
+<div class="page-list">
+    <div class="pageNav" id="pageList"></div>
+</div>
+</div><br class="cls"/>
+		</div>
+		</body></html>

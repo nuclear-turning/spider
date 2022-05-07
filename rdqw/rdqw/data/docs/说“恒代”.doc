@@ -1,0 +1,200 @@
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><style>.trR{ text-align:right;}
+#wraper{width:1190px; margin:0 auto; margin-bottom:10px;text-align:left;}
+#left{ float:left;width:250px; text-align:left;}
+#right{float:right;width:930px;text-align:left;border-top:2px solid #619bc0; padding-bottom:10px;}
+.border_w{ border:1px solid #d3d3d3;border-top:2px solid #619bc0;}
+.t01{height:30px;line-height:30px;border:1px solid #dddddd;padding-left:10px;background:url(../images/tbg01.jpg) repeat-x bottom; color:#1183c1; font-size:14px;}
+.con_01{ padding:10px;}
+.con_cbg{ background:url(../images/con_cbg.gif) repeat-y;}
+.con_bbg{ background:url(../images/con_bbg.gif) no-repeat left bottom; height:1px; line-height:1px; font-size:0;}
+
+.source{margin:15px;background:url(../images/linex.gif) repeat-x bottom; padding-bottom:30px; margin-bottom:30px;}
+.source .source-img{border:1px solid #d3d3d3; text-align:center; padding:5px;margin-bottom:10px; }
+.source p{color:#666666; font-weight:bold; font-size:12px;}
+.source .fblue{ color:#236bac; font-weight:normal;}
+
+.t_tj{ height:27px;padding-top:2px;margin:15px; background:url(../images/con_t_tj.gif) no-repeat left top; padding-left:10px; color:#FFFFFF; font-size:14px;}
+.c12_01{ margin-left:15px; margin-right:15px; margin-bottom:15px;}
+.c12_01 li{font-size:12px; line-height:24px; background: url(../images/dot.gif) no-repeat 2px 10px; padding-left:15px;}
+
+#artibodyTitle{color:#236bac;font-family:"宋体";font-size:20px;font-weight: normal;line-height:35px;text-align:center;margin-top:10px;	text-align:center;}
+#artisubTitle{font-family:"宋体";font-size:16px;font-weight: normal;line-height:28px;text-align:center;}
+.articl_info{margin-left:30px; margin-right:30px; position:relative;border-bottom:1px solid #e1e1e1;padding-bottom:20px; margin-bottom:20px;}
+.btn-img{
+	background-image:url(../images/allbg.png);
+	background-repeat:no-repeat;
+	font-size:12px;		
+	cursor:pointer;
+	border: 0px none;
+	display: inline-block;
+	vertical-align:middle;
+	text-align:center;}
+
+.artInfo{height:22px;border-top:1px solid #e1e1e1;border-bottom:1px solid #e1e1e1;padding:5px;margin:20px;}
+.artInfo li{float:left;width:33%;height:22px; line-height:22px; color:#666666;}
+
+.artInfo li .collectionPage_link{
+	background-position:-509px -80px;
+	padding-left:10px;
+	margin-top:-2px;
+	_margin-top:0px;
+	margin-left:10px;
+	width:51px;
+	height:22px; 
+	line-height:22px;		
+	color:#1183c1;	}
+.artInfo li .printPage_link{
+	background-position:-570px -80px;
+	padding-left:10px;
+	margin-top:-2px;
+	_margin-top:0px;
+	margin-left:10px;
+	width:51px;
+	height:22px; 
+	line-height:22px;	
+	color:#1183c1;}
+.artInfo li .downloadPage_link{
+	background-position:-631px -80px;
+	margin-top:-2px;
+	_margin-top:0px;
+	margin-left:10px;
+	width:51px;
+	padding-left:10px;
+	height:22px; 
+	line-height:22px;	
+	color:#1183c1;}
+
+
+.artBaseInfo{line-height:24px; margin-bottom:5px;}
+.artBaseInfo .info_left{float:left;width:80px;}
+.artBaseInfo .info_right{float:left;width:790px;}
+
+.artBaseInfo dt{float:left;width:80px; color:#666666;line-height:20px; display:inline-block;}
+.artBaseInfo dd{color:#666666;line-height:20px;display:inline-block;}
+.artBaseInfo .col li{ float:left;width:210px; height:20px; line-height:20px;color:#666666;}
+
+.artBaseInfo .item{ float:left;width:50%;}
+.artBaseInfo .notice{
+	margin-left:10px;
+	width:61px;
+	padding-left:10px;
+	height:22px; 
+	line-height:22px;
+	background-position:-448px -80px;	
+	color:#1183c1;}
+
+.artInfo{height:30px;border-top:1px solid #e1e1e1;border-bottom:1px solid #e1e1e1;margin:20px 10px;}
+.artInfo div{ float:left;width:30%;height:30px; line-height:30px; text-align:center;}
+.artInfo div a{ margin-left:20px; margin-right:20px;}
+.artInfo li{float:left;width:33%;height:22px; line-height:22px; color:#666666;}
+
+.articl_info{margin-left:30px;margin-right:30px; position:relative;border-bottom:1px solid #e1e1e1;padding-bottom:20px; margin-bottom:20px;}
+.artBaseInfo{margin-bottom:5px;}
+.articl_info_t{float:left;width:80px;margin-right: -100%;font-weight:bold;line-height:24px;}
+.articl_info_c{float: left;width: 100%;}
+.articl_info_c .info_c{margin-left:80px; line-height:24px;}
+.artBaseInfo .marL{ margin-left:20PX;}
+.artBaseInfo .col_info{ float:left;width:30%;line-height:20px;}
+
+.fontSize{position: relative;right:0px;top:0px;font-size:12px; height:30px; line-height:30px; text-align:right;}
+.fontSize a{border:1px solid #c2c2c2;margin-right:10px;padding:4px 1px;*padding:1px; cursor:pointer;font-size:12px;}
+.fontSize a span{background:url(../images/page_a_36.png) repeat-x;padding:3px;}
+
+.fontSize a.now{border: #f9ad75 1px solid;padding:4px 1px;*padding:1px;}
+.fontSize a.now span{color:#ff7d27;background:url(../images/current_34.png) repeat-x bottom;padding:3px;}
+.artibody{margin-left:20px;margin-right:20px;font: 18px/180% "Microsoft YaHei","微软雅黑"; color:#666666;}
+.artibody p{margin-bottom:20px;}
+
+.fontSize A:link{ color:#000000;text-decoration:none;}
+.fontSize A:visited{ color:#000000;text-decoration:none;}
+.fontSize A:hover{ color:#FF0000;text-decoration:none;}
+.fontSize a.now:link{color:#ff7d27;text-decoration:none;}
+#Zoom img {max-width:600px; max-height:600px; scale:expression((this.offsetWidth > this.offsetHeight)?(this.style.width = this.offsetWidth >= 600 ? "600px" : "auto"):(this.style.height = this.offsetHeight >= 600 ? "600px" : "auto")); display:inline !important;}
+
+.t_artiInfo{font-size:14px; padding-left:20px;background:url(../images/linex.gif) repeat-x top; line-height:30px; margin-top:10px;}
+.li_artiInfo{margin-left:30px; margin-right:30px;padding-bottom:10px; }
+.li_artiInfo ul li{float:left;width:100%;padding:3px 0;}
+.li_artiInfo ul li .title{ float:left;width:65%;}
+.li_artiInfo ul li .author{ float:left;width:15%;}
+.li_artiInfo ul li .come{ float:right;width:20%;color:#999999; text-align:right;}
+
+
+.index_artInfo{height:36px; line-height:36px; border-top:1px solid #e1e1e1;border-bottom:1px solid #e1e1e1; margin-top:20px; padding-left:20px;  padding-right:20px;padding-right:10px; margin-bottom:10px; margin-left:10px;text-align:center;}
+.index_artInfo a.collectionPage_link{ background:url(../images/icon.gif) no-repeat 0 1px; padding-left:15px;}
+.index_artInfo a.printPage_link{background:url(../images/icon.gif) no-repeat 0 -55px; padding-left:15px;}
+.index_artInfo a.downloadPage_link{background:url(../images/icon.gif) no-repeat 0 -108px; padding-left:13px;}
+
+.index_body .main{margin-left:100px; line-height:28px;color:#000000; padding-bottom:30px; padding-top:20px;}</style></head><body><div id="wraper">
+			<div id="artTitles">
+				<h1 id="artibodyTitle">说“恒代”</h1>
+				<h2 id="artisubTitle"/>
+			</div>
+			
+			<div class="articl_info">
+				<div class="artBaseInfo" id="autInfo">
+					<div class="articl_info_t">作 者：</div>
+					<div class="articl_info_c">
+						<div class="info_c">
+								<a target="_blank" href="/qw?s0=4&amp;s1=%e5%88%98%e6%99%93%e6%bb%a1">刘晓满</a> 
+						</div>
+					</div>
+					<br class="cls"/>
+				</div>
+				<div class="artBaseInfo" id="autDescription">
+					<div class="articl_info_t">作者简介：</div>
+					<div class="articl_info_c">
+						<div class="info_c">刘晓满，中国社会科学院研究生院硕士研究生。（北京 100102）</div>
+					</div>
+					<br class="cls"/>
+				</div>
+				<div class="artBaseInfo" id="tAutInfo"/>
+				<div class="artBaseInfo" id="orgInfo">
+					<div class="articl_info_t">原文出处：</div>
+					<div class="articl_info_c">
+						<div class="info_c">许昌学院学报</div>
+					</div>
+					<br class="cls"/>
+				</div>
+				<div class="artBaseInfo" id="astInfo">
+					<div class="articl_info_t">内容提要：</div>
+					<div class="articl_info_c">
+						<div class="info_c">
+							<p>学术界只知道“恒代”是在孝文帝迁都洛阳后出现的，作为恒州代郡的省称，特指代都平城或其周围地区。殊不知在迁都洛阳之前已经出现“恒代”，作为恒山代地的省称，泛指北魏国人拓跋族居住地区——“代地”。北魏之“代地”，即北魏拓跋猗卢代国代王“始封代土”，与春秋战国及西汉初期的代王封地有相承关系。从区域概念上界定“恒代”，就是北魏迁都洛阳之后的朔州黄河以东和恒州地区。恒代区域的东面是太行山脉，南面到恒山山脉和雁门山，西至黄河，北达阴山，可谓山河险要，易守难攻，具有独特的地理环境和民风社俗，不仅是拓跋魏的肇基之地，也是拓跋氏政权攻取中原的根据地，还是拓跋氏政权南下江淮的北方屏障，对北魏的政治变迁有着重要影响。</p>
+						</div>
+					</div>
+					<br class="cls"/>
+				</div>
+				<div id="artPdcInfo" class="artBaseInfo">
+					<div class="col_info"><b>期刊代号：</b>K22 </div>
+					<div class="col_info"><b>分类名称：</b>魏晋南北朝隋唐史 </div>
+					<div class="col_info"><b>复印期号：</b>2009 年 03 期 </div>
+					<br class="cls"/>
+				</div>
+				<div class="artBaseInfo" id="artKeyword">
+					<div class="articl_info_t">关 键 词：</div>
+					<div class="articl_info_c">
+						<div class="info_c">
+								<a target="_blank" href="/qw?s0=7&amp;s1=%e5%8c%97%e9%ad%8f">北魏</a> 
+								<a target="_blank" href="/qw?s0=7&amp;s1=%e6%81%92%e4%bb%a3">恒代</a> 
+								<a target="_blank" href="/qw?s0=7&amp;s1=%e6%81%92%e5%b7%9e">恒州</a> 
+								<a target="_blank" href="/qw?s0=7&amp;s1=%e4%bb%a3%e9%83%a1">代郡</a> 
+								<a target="_blank" href="/qw?s0=7&amp;s1=%e4%bb%a3%e5%9c%b0">代地</a> 
+								<a target="_blank" href="/qw?s0=7&amp;s1=%e6%81%92%e5%b1%b1">恒山</a> 
+
+						</div>
+					</div>
+					<br class="cls"/>
+				</div>
+				<div class="artBaseInfo" id="artTitleNote"/>
+				<a id="readArea" name="readArea"/>
+				
+			</div>
+			<div id="artText"><div class="artibody" id="Zoom" style="font-size: 14px;">
+    </p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[中图分类号]K239.21[文献标识码]A[文章编号]1671-9824(2008)06-0022-04</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“恒代”之称，首见北魏，而北魏后历代之史书和诗文中皆有沿用。但似乎无论古人还是今人在使用“恒代”一词时，对其含义的理解都有所偏差。本文试图对“恒代”一词之含义及其所指区域进行探讨，并对恒代区域在北魏历史上之意义略作论述，以期推动北魏史的研究。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;一、“恒代”名义</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;李凭先生在《北魏平城时代》中说：“所谓‘恒代’，系指恒州代郡的省称，为北魏迁都洛阳以后旧都平城京畿的新建置。”[1](P242)李先生的“恒代”之说应是依据《魏书·地形志上》之记载而来，《志》载恒州有代郡。恒州之注曰：“天兴中置司州，治代都平城，太和中改。”[2](卷106上)又，《水经·灅水注》：“(如浑水)其又南屈，迳平城县故城南。魏天兴二年，迁都于此……其水又南迳平城县故城东，司州代尹治皇都洛阳，以为恒州。”[3](P259-260)《元和郡县图志》卷18《河东道五·云州》：“晋乱，刘琨表封猗卢为代王，都平城。后魏道武帝又于此建都……孝文帝改为司州牧，置代尹。孝文帝迁都洛邑，改置恒州。”《太平寰宇记》卷49《河东道十·云州》略同。①可见李先生之说有依据。而其他学者对“恒代”的理解也大都与李先生相同，其故在皆主要以《魏书·地形志》之记载为根据，但这样的理解是不全面的。因为早在明元帝神瑞二年(415)，即见“恒代”之称。《魏书》卷35《崔浩传》载：</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;神瑞二年，秋谷不登，太史令王亮、苏垣因华阴公主等言谶书国家当治邺，应大乐五十年，劝太宗迁都。浩与特进周澹言于太宗曰：“今国家迁都于邺，可救今年之饥，非长久之策也，东州之人，常谓国家居广漠之地，民畜无算，号称牛毛之众。今留守旧都，分家南徙，恐不满诸州之地。参居郡县，处榛林之间，不便水土，疾疫死伤，情见事露，则百姓意沮。四方闻之，有轻侮之意。屈丐、蠕蠕必提挈而来，云中、平城则有危殆之虑。阻隔恒代千里之险，虽欲救援，赴之甚难。如此则声实俱损矣。”</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;《资治通鉴》卷117晋安帝义熙十一年(415)也记载了这次迁邺的讨论，胡三省对“阻隔恒、代千里之险”作注说：“自恒山至代有飞狐之口、倒马之关、夏屋、广昌、五迴之险。”这里的“恒代”应是指恒山以北的代地，是恒山和代地的简称，中间有很多险要之地，若为敌人所据，将对北魏政权造成非常不利的局面，不宜弃之远离。所以这次讨论的结果是不迁都邺城，而是“乃简国人尤贫者诣山东三州(定、襄、冀也)就食”。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;《资治通鉴》卷119宋营阳王景平元年(423)秦王炽磐对他的臣下曰：“今宋虽奄有江南，夏人雄据关中，皆不足与也。独魏主奕世英武，贤能为用，且谶云‘恒代之北当有真人。’吾将举国而事之。”②这里的恒代也应是一个地域概念，泛指北魏肇始之地——代地。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;在迁都洛阳之前，孝文帝在太和十八年(494)与大臣讨论迁都事宜时，也已出现了“恒代”一词。据《魏书》卷14《东阳王丕传》载：</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;及高祖(孝文帝)欲迁都，临太极殿，引见留守之官大议。乃诏丕等，如有所怀，各陈其志……(穆)罴进曰：“北有猃狁之寇，南有荆扬未宾，西有吐谷浑之阻，东有高句丽之难。四方未平，九区未定。以此推之，谓为不可。征伐之举，要须戎马，如其无马，事不可克。”高祖曰：“卿言无马，此理粗可。马常出北方，厩在此置，卿何虑无马？今代在恒山之北，为九州之外，以是之故，迁于中原。”……尚书于果曰：“臣诚不识古事，如闻百姓之言，先皇建都于此，无何欲移，以为不可。中原其如是所由拟。数有篡夺。自建邑平城以来，与天地并固，日月齐明。臣虽管见肤浅，性不昭达，终不以恒代之地，而拟伊洛之美。但以安土重迁，物之常性，一旦南移，惧不乐也。”</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;这次孝文帝讨论迁都事宜，大臣们畅所欲言，孝文帝说“今代在恒山之北，为九州之外，以是之故，迁于中原”，显然“恒代”是恒山和代地的简称，指恒山以北的代地；而与“伊洛”对举，就特指代都平城周围地区。这两者都是一个区域概念。而司马光在《资治通鉴》中记此讨论时，把尚书于果说的“终不以恒代之地，而拟伊洛之美”记为“臣非以代地胜伊、洛之美也”，[4](卷139)这样的替换说明“恒代”与“代地”应是所指区域差不多的概念。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;北魏迁都洛阳之后，“恒代”一词多特指代都平城或其周围地区。如世宗宣武帝拓跋恪时，任城王澄上表曰：“臣参训先朝，藉规有日，前言旧轨，颇亦闻之。又昔在恒代，亲习皇宗，熟袐序疑庭无阙日。臣每于侍坐，先帝未尝不以书典在怀，礼经为事，周旋之则，不辍于时。自凤举中京，方隆礼教，宗室之范，每蒙委及，四门之选，负荷铨量。”[2](卷19)这里的“又昔在恒代”显然是指代都平城。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;广阳王谐在太和十九年(482)薨，有司上奏孝文帝，称“广川王妃薨于代京，未审以新尊从于卑旧，为宜卑旧来就新尊”，于是，孝文帝颁布诏书说：“迁洛之人，自兹厥后，悉可归骸邙岭，皆不得就茔恒代。其有夫先葬在北，妇今丧在南，妇人从夫，宜还代葬。若欲移父就母，亦得任之。其有妻坟于恒代，夫死于洛，不得以尊就卑。欲移母就父，宜亦从之。若异葬亦从之。若不在葬限，身在代丧，葬之彼此，皆得任之。其户属恒燕，身官京洛，去留之宜，亦从所择。其属诸州者，各得任意。”[2](卷20)这条诏书明确规定，自今之后，凡是代北迁到洛阳之人，死后必须葬在洛阳邙山，不得还葬“恒代”；但若户籍在恒州和燕州，又在京师洛阳做官的以及户籍在其他诸州，死在洛阳的，葬地可任意选择。可见，“恒代”所指代的是一个特定区域，显然是特指代都平城周围地区。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;孝文帝任命思誉担任镇北将军、行镇北大将军，在光极堂引见百官时，对思誉说：“恒代路玄，旧都意重，故屈叔父远临此任。不可不敬慎所临，以副朕望。”[2](卷19下)这里“恒代”与“旧都”对举，特指“代都”平城。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;《魏书》卷72《阳尼传》附《阳固传》说：“固乃作《南、北二都赋》，称恒代田渔声乐侈靡之事，节以中京礼仪之式，因以讽谏。”这里的“恒代”也指代都平城。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;《魏书》卷39《成淹传》载，孝文帝到徐州巡视，欲乘船从泗水到黄河，沿黄河返回洛阳，成淹谏诤，认为黄河水急可能有危险，孝文帝说：“朕以恒代无运漕之路，故京邑民贫。今移都伊洛，欲通四方。”这里的“恒代”与“伊洛”对举，显然是指代都平城周围地区。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;但迁洛之后的“恒代”也有明显不特指代都平城或其周围地区的，如下两例：</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;《魏书》卷41《源贺传》附《源怀传》记载，宣武帝正始元年(504)，柔然南侵恒代，命怀源北征。其文曰：“正始元年九月，有告蠕蠕率十二万骑六道并进，欲直趋沃野、怀朔，南寇恒代。……怀至云中，蠕蠕亡遁。……怀旋至恒代，案视诸镇左右要害之地，可以筑城置戍之处。皆量其高下，揣其厚薄，及储粮积仗之宜，犬牙相救之势，凡表五十八条。”</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;《魏书·地形志序》：“孝昌之际，乱离尤甚。恒代而北，尽为丘虚，崤潼已西，烟火断绝，齐方全赵，死如乱麻。于是民生耗减，且将大半。”</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;其时已有恒州代郡之建制，即可认为是指“恒州代郡”，但理解为一个整体性的地域概念(恒山以北之广大代地)似乎更为恰当一些，即仍用“恒代”本源之意。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;综上所述，从北魏一朝的史料分析得出：“恒代”在迁洛之前指恒山和代地，在迁洛之后多特指代都平城或其周围地区，有时也泛指代地。“恒代”在后世文献和今人研究中也多有出现，但对它的理解大都来源于《魏书·地形志》，仅仅局限于迁洛之后的恒州代郡之说，是不全面的。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;二、“恒代”溯源</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;恒代地区与中原地区有着不同的风俗，有独特的地理环境和地域特征。那么恒代区域究竟指哪里呢？要弄清这个问题，首先要弄清“代”地所指及其与“恒”的关系。其实，恒州所辖地就是“代”地的主要区域，代地与恒山有着密切的关系。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;春秋战国时期就有代国，治所在今河北蔚县东北20里代王城。“赵襄子越句注而破并代以临胡貉。其后既与韩、魏共灭智伯，分晋地而有之，则赵有代、句注之北……而赵武灵王亦变俗胡服，习骑射，北破林胡、楼烦。筑长城，自代并阴山下，至高阙为塞。而置云中、雁门、代郡。”[5](《匈奴列传第五十》)《史记·秦始皇本纪》记载：“赵公子嘉率其宗数百人之代，自立为代王，与东燕合兵，军上谷。”就是赵国的公子嘉在代地自立为代王。秦亡后，项羽徙封赵歇为代王；陈余迎歇迁赵，歇因立陈余为代王。③汉高祖刘邦在汉高六年(前201)“以云中、雁门、代郡五十三县立兄宜信侯喜为代王”，七年十二月“立子如意为代王”[6](《高帝纪第一下》)高帝十一年，将云中郡划出，增辖太原郡及云中郡东部析置定襄郡属代国，诏书曰：“代地属常山之北，与夷狄边，赵乃从山南有之，远。数有胡寇，难以为国。颇取山南太原之地益属代，代之云中以西为云中郡，则代受边寇益少矣。”[6](《高帝纪第一下》)西汉初年代国所辖三郡继承赵武灵王所置的三郡，据《汉书·地理志》载：代郡下辖桑干、当城、高柳、马城、班氏、延陵、且如、平邑、参合、平舒、代、灵丘、广昌、卤城、并州川、道人、东部都尉等县；云中郡下辖云中、咸阳、陶林、桢陵、西部都尉治、犊和、沙陵、原阳、沙南、北舆、武泉等县；雁门郡下辖：善无、沃阳、繁畤、中陵、阴馆、累头山、楼烦、武州、陶、剧阳、崞、平城、埒、马邑、强阴等县。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;综上所述，西汉一朝代国的区域虽然一直有所变化，但大部分时间里，代、雁门、定襄三郡都属于西汉代国区域内。而考春秋战国时的代国、项羽封赵王歇所置代国与西汉初所置代国的辖境，也是大致相同的，所以它们之间应是有所承袭的关系，即都认为这样的一个区域应为“代”。作为一个地理区域来考量，代国的代地大体相当于今内蒙古土默特右旗和托克托县以东(黄河以东)，河北蔚县以西，阴山以南，雁门山以北地区。就是说，在拓跋氏代国出现之前，已有这样的一个名为“代”的区域常被提及，即所谓的“代地”。这个区域是适宜农耕和游牧兼作，历来就是汉族与北方游牧民族杂居的边郡之地，北方匈奴、乌桓等少数民族不断地侵扰这个地区，然后又以这个地区为根据地寇略中原。《史记·匈奴列传》云：“冒顿既立……悉复收秦所使蒙恬所夺匈奴地者，与汉关故河南塞，至朝那、肤施，遂侵燕代，是时汉兵与项羽相距，中国罢于兵革，以故冒顿自疆……而单于之庭直代、云中(《索引》曰：言匈奴之南直当代、云中也)。”又《汉书·高帝纪》有“代地居常山之北，④与夷狄边，赵乃从山南有之，远。数有胡寇，难以为国”的诏书。可见西汉初年，西汉王朝还不能完全地控制代地。而西汉一朝，由于代国居于靠近匈奴的边地，所以与代国有关的战事也时常发生。到了东汉末年，中原大乱，匈奴趁机南扰，雁门、定襄、代郡地区首当其冲，原居人口亡散殆尽。据《元和郡县图志》卷14《河东道三》云州条载：</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;今州即雁门郡地。在汉，雁门郡之平城县也……汉末大乱，匈奴侵边，自定襄以西，云中、雁门、西河遂空。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;又据《晋书》卷14《地理志上》并州条载：</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;魏黄初元年，复置并州，自陉岭以北并弃之，至晋因而不改。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;由此可知，最迟在曹魏黄初元年(220)，汉族统治势力已经退到了陉岭以南。西汉初所置代国的区域仅剩代郡一处，而其余的区域后来正是为拓跋氏所据。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;按《魏书·序纪》云：</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;昭皇帝讳禄官立，师祖之子也。分国为三部：帝自以一部居东，在上谷北，濡源之西，东接宇文部；以文帝之长子桓皇帝讳猗<img onerror="this.src='/images/err.png'" src="http://img.ipub.exuezhe.com/jpg/K22/2009/K22T302.jpg" />统一部，居代郡之参合陂北；以桓帝之弟穆皇帝讳猗卢统一部，居定襄之盛乐故城。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;又按《序纪》云：</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(穆皇帝三年)晋怀帝进帝大单于，封代公。帝以封邑去国悬远，民不相接，乃从刘琨求句注、陉北之地。琨……乃徙马邑、阴馆、楼繁、繁畤、崞五县之民于陉南，更立域邑，尽献其地，东接代郡，西连西河、朔方，方数百里。帝乃徙十万家以充之。……城盛乐以为北都，修故平城以为南都……乃更南百里于灅水之阳黄瓜堆修筑新平城，晋人谓之小平城，使长子六修镇之，统领南部。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;由上可知，拓跋氏最初的三部之地，主要包括上谷(今河北怀来县东南)，濡源(今河北丰宁县滦河上游)、代郡参合陂(今山西阳高县东北)。⑤拓跋氏在援晋战争中被封为代公，食代郡，并获得陉北之地，主要包括楼烦(在今宁武县)、马邑(在今朔县)、阴馆(在今代县)、繁畤和崞县(在今浑源县)，以上各县均在雁门关以北。拓跋氏“三部之地”与“陉北之地”连成一片，东接代郡，南达句注山，西接黄河、朔方，方圆好几百里，构成拓跋氏代国的“始封代土”——代地，即恒代区域。这个区域是北魏国人拓跋族最初的居住地区，也是拓跋魏的肇基之地。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;而关于“恒”，应为恒山。不仅仅因为恒在中国古代一直为恒山的简称。更是因为恒山的位置与“代”有着非常密切的联系，成为其南方的屏障。据中国地图出版社2007年版的《山西省地图册》中的山西省地势图可以看出，恒山山脉发源于西南之管涔山，沿东北走向，高峰迭起，有句注山、馒头山、铁角岭、恒山、六棱山，皆高二千多公尺，成为一堵南北的天然屏障，至河北省境内与太行山脉相接，《史记·周本纪》《正义》曰：“《括地志》云：‘太行、恒山连延，东北接碣石，西北接岳山。’言北望太行、恒山之边鄙都邑也。”又成为恒代区域与河北的天然分界。横跨今山西宁武、朔州、代县、应县、繁畤、山阴、浑源、灵丘等县。管涔山位于今神池县以南，其东侧即为句注山。句注山即陉岭，又名雁门山。据《读史方舆纪要》卷39《山西》“勾注”条：</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;勾注山在太原府代州西北二十五里，一名西陉山，亦曰雁门……《河东记》：勾注山以山形勾转水势注流而名。亦曰陉岭。自雁门以南谓之陉南，以北谓之陉北。⑥</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;由上可知，恒山西缘与雁门山相接，由西向东的走向正是“代”区域的南缘。而《魏书》中也有“代在恒山之北”的说法，⑦《史记·赵世家》载“从常山上临代，代可取也”，《正义》引《地道记》云：“恒山在上曲阳县西北四十里。北行四百五十里得恒山岌，号飞狐口，北则代郡也。”[5](《赵世家第十三》)更加印证了恒山与“代”的关系。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;《山西通志》卷118云：“魏旧号代，故部族均称代人。地兼今大朔、归绥及内蒙古诸部，固非蔚州之古代城，亦不止今大同一郡也。惟后来定都平城，则所谓八姓三十六族，多聚居京邑，固当举大同为代之统称耳。”就是说，北魏以降，“代”由今河北蔚县的代王城改指代都平城，代都平城泛指“代地”，也就是说，拓跋魏肇始的代国之地，即今天的张家口地区、大同、朔州及内蒙古集宁、呼和浩特、包头一带也可以统称为“代”地。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;综上所述，恒代区域在北魏一朝相当于迁都之后的朔州黄河以东地区和恒州，辖有云中郡、凉城郡、高柳郡、善无郡、代郡、繁畴郡、桑干郡、平齐郡、北灵丘郡、灵丘郡等。这个地区河流纵横、崇山环绕，东面是太行山脉，与华北平原分界；南边是恒山山脉和雁门山，是南下中原的重要通道。西有黄河，北有阴山阻隔。可谓山河险要，中有很多关隘和要塞，易守难攻，既有利于政治上的统治，又有利于军事上的攻防。北魏兴起于恒代区域，在北魏历史中，恒代常常被作为一个整体来论及。而恒代区域的主体“代”，则更为频繁地出现。如在《魏书》中常有“代人”之说，列传中有很多人的籍贯就直接列为“代人”。代人认为“代”地区是他们的乡里“代乡”。[2](卷31)</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;三、恒代区域在北魏历史上之意义</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;在此，我们把恒代界定为一个独立的具有自身特殊性的区域，是受自身政治制度与环境等要素制约而成的地理空间结构。恒代区域在北魏历史中的重要性即是由其自身的特殊性所决定的。那么，恒代区域的特殊性主要体现在哪里呢？已如前所述，这个区域历来就是汉族与北方游牧民族杂居的边郡之地，这是作为一个地理空间它自身所有的特殊性；但与北魏一朝的政治和边防形势相结合，恒代区域又有着更鲜明和具体的特殊性。它不仅是北魏的肇始之地，而后又成为与北方六镇的交接地带，可以说是拱卫北魏政权的重要屏障。作为一个王朝的肇始区域，往往会有很多攻城略地的军事活动与之相关；而北魏迁都洛阳后，据当时的相关史料，恒代区域突显其重要地位的时候也多与军事活动相关，为防备北方其他少数民族的来袭，必须要固守恒代之要冲；或作战活动中对敌人要进行的种种进退应对。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;《北史》卷16《太武五王列传第六·广阳王深》载：</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;会六镇尽叛，不得施行。深后上言：“今六镇俱叛，二部高车(元)，亦同恶党，以疲兵讨之，不必制敌。请简选兵，或留守恒州要处，更为后图。”</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;在同一时期，李崇也谈到了云中郡的重要性：</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;都督崔暹失利，崇将班师，会诸将议曰：“朔州是白道之冲，贼之咽喉，若此处不全，则并肆危矣。今欲选诸将一人，留以镇捍。不知谁堪此任？”[2](卷44)</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;以上的“要害”、“要处”、“咽喉”，都是比喻地当敌冲、地理位置和政治意义很大的地点。或为城邑，或为关隘，或为交通要道，或为山川河流等自然形势，但可谓是恒代区域的灵魂之所在，亦是维系北魏政治形势的关键点，所以可以这样说，恒代区域的重要性和特殊性在北魏历史中的切入点就是这些“要害”、“要处”。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;注释：</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;①《读史方舆纪要》(中华书局点校本，2005年版)卷44《山西·大同府》：“后魏主珪天兴中徙都平城，置司州牧及代尹，孝文太和中迁洛，改置恒州，(时司州改置于洛阳也。)又改代尹为万年县。”(1992页)考《舆地广记》卷19《河东路下·河东路化外州·云州》曰：“后魏道武徙都平城，置司州代尹。孝文迁都洛阳，改代尹曰万年尹。”则《方舆纪要》关于万年尹之说，盖有误合《通鉴》道武、孝文事及《舆地广记》之文而来者。其所以言误者，乃因《魏书》卷113《官氏志》栽：“延和元年三月改代尹为万年尹，代令为万年令，后复。”“延和”乃太武帝年号，延和元年乃公元432年，远早于孝文时。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;②此材料不见今本《晋书》载记。察其语气，似出魏人之口。疑为元本《十六国春秋》之佚文。伪本《十六国春秋》卷86所用者，当出《资治通鉴》。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;③《史记·项羽本纪》：“徙赵王歇为代王”；“……张耳走归汉。陈余迎故赵王歇于代，反之赵。赵王因立陈余为代王。”</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;④按：常山即恒山也。《汉书·地理志上》常山郡注：“高帝置。莽曰井关，属冀州。张晏曰恒山在西。避文帝讳故改曰常山。”(第6册，第1575，1576页)《元和郡县图志》卷17《河北道二·恒州》：“汉高帝三年，韩信东下井陉，击破陈余、赵王歇，以巨鹿之北境置恒山郡，因恒山为名，后避文帝讳，改曰常山。两汉恒山太守，皆理于元氏。晋理于真定，即今常山故城是也。”(《元和郡县图志》上册，第477页)同书卷22《河北道三·定州·恒阳县》恒山：“在县北百四十里。常水所出。《周官·职方氏》：‘并州山鎭曰恒山’，是为北岳。汉以避文帝讳，改曰常山。至周武帝平齐，复名恒山。”(《元和郡县图志》上册，第514页)则恒山之改名常山，亦与郡之改名同时。故《读史方舆纪要》(中华书局点校本)卷10《北直一》言：“恒山，亦曰常山，亦曰北岳。”</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⑤此处从严耕望先生对北魏参合陂的考证，见《唐代交通图考》第5卷《河东河北地区》第37篇《太原北塞交通诸道》附第8篇《北魏参合陂地望辨》，上海古籍出版社，2007年版第1397页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⑥《郡斋读书志》卷3下《小说类》“《河东记》)三卷”，曰：“不著撰人，亦记谲怪之事。”《通志》卷66《艺文略第四·郡邑》：“《河东记》三卷。”《文献通考》卷215《经籍考四十二·子部·小说家类》：“《河东记》三卷。鼌氏曰：唐薛渔思撰，亦记谲怪事。序云续牛僧孺之书。”《山西通志》卷175《经籍·说部》：“薛渔思《河东记》三卷。”《通志》之记载当来于《郡斋读书志》，《文献通考》之记载当直接来于《通志》。而《山西通志》之文当据《通志》《文献通考》而来。《太平寰宇记》卷49《河东道十·代州》曰：“按《河东记》云，代句注在州西北三十五里雁门县界，西经(陉)山也。”《太平御览》卷163《州郡部九·代州》：“《河东记》曰：代句注在州西北雁门界，西陉山是也。”《太平寰宇记》《太平御览》所载当有共同之来源。但《读史方舆纪要》之文，遍检史乘，而未有见。不知其依据为何？今姑依之。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⑦《魏书·东阳王丕传》(《武卫将军谓传》附)：“高祖曰：‘卿言无马，此理粗可。马常出北方，厩在此置，卿何虑无马？今代在恒山之北，为九州之外，以是之故，迁于中原。’”
+</div>
+<div class="page-list">
+    <div class="pageNav" id="pageList"></div>
+</div>
+</div><br class="cls"/>
+		</div>
+		</body></html>

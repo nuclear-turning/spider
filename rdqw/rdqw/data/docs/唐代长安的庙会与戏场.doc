@@ -1,0 +1,203 @@
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><style>.trR{ text-align:right;}
+#wraper{width:1190px; margin:0 auto; margin-bottom:10px;text-align:left;}
+#left{ float:left;width:250px; text-align:left;}
+#right{float:right;width:930px;text-align:left;border-top:2px solid #619bc0; padding-bottom:10px;}
+.border_w{ border:1px solid #d3d3d3;border-top:2px solid #619bc0;}
+.t01{height:30px;line-height:30px;border:1px solid #dddddd;padding-left:10px;background:url(../images/tbg01.jpg) repeat-x bottom; color:#1183c1; font-size:14px;}
+.con_01{ padding:10px;}
+.con_cbg{ background:url(../images/con_cbg.gif) repeat-y;}
+.con_bbg{ background:url(../images/con_bbg.gif) no-repeat left bottom; height:1px; line-height:1px; font-size:0;}
+
+.source{margin:15px;background:url(../images/linex.gif) repeat-x bottom; padding-bottom:30px; margin-bottom:30px;}
+.source .source-img{border:1px solid #d3d3d3; text-align:center; padding:5px;margin-bottom:10px; }
+.source p{color:#666666; font-weight:bold; font-size:12px;}
+.source .fblue{ color:#236bac; font-weight:normal;}
+
+.t_tj{ height:27px;padding-top:2px;margin:15px; background:url(../images/con_t_tj.gif) no-repeat left top; padding-left:10px; color:#FFFFFF; font-size:14px;}
+.c12_01{ margin-left:15px; margin-right:15px; margin-bottom:15px;}
+.c12_01 li{font-size:12px; line-height:24px; background: url(../images/dot.gif) no-repeat 2px 10px; padding-left:15px;}
+
+#artibodyTitle{color:#236bac;font-family:"宋体";font-size:20px;font-weight: normal;line-height:35px;text-align:center;margin-top:10px;	text-align:center;}
+#artisubTitle{font-family:"宋体";font-size:16px;font-weight: normal;line-height:28px;text-align:center;}
+.articl_info{margin-left:30px; margin-right:30px; position:relative;border-bottom:1px solid #e1e1e1;padding-bottom:20px; margin-bottom:20px;}
+.btn-img{
+	background-image:url(../images/allbg.png);
+	background-repeat:no-repeat;
+	font-size:12px;		
+	cursor:pointer;
+	border: 0px none;
+	display: inline-block;
+	vertical-align:middle;
+	text-align:center;}
+
+.artInfo{height:22px;border-top:1px solid #e1e1e1;border-bottom:1px solid #e1e1e1;padding:5px;margin:20px;}
+.artInfo li{float:left;width:33%;height:22px; line-height:22px; color:#666666;}
+
+.artInfo li .collectionPage_link{
+	background-position:-509px -80px;
+	padding-left:10px;
+	margin-top:-2px;
+	_margin-top:0px;
+	margin-left:10px;
+	width:51px;
+	height:22px; 
+	line-height:22px;		
+	color:#1183c1;	}
+.artInfo li .printPage_link{
+	background-position:-570px -80px;
+	padding-left:10px;
+	margin-top:-2px;
+	_margin-top:0px;
+	margin-left:10px;
+	width:51px;
+	height:22px; 
+	line-height:22px;	
+	color:#1183c1;}
+.artInfo li .downloadPage_link{
+	background-position:-631px -80px;
+	margin-top:-2px;
+	_margin-top:0px;
+	margin-left:10px;
+	width:51px;
+	padding-left:10px;
+	height:22px; 
+	line-height:22px;	
+	color:#1183c1;}
+
+
+.artBaseInfo{line-height:24px; margin-bottom:5px;}
+.artBaseInfo .info_left{float:left;width:80px;}
+.artBaseInfo .info_right{float:left;width:790px;}
+
+.artBaseInfo dt{float:left;width:80px; color:#666666;line-height:20px; display:inline-block;}
+.artBaseInfo dd{color:#666666;line-height:20px;display:inline-block;}
+.artBaseInfo .col li{ float:left;width:210px; height:20px; line-height:20px;color:#666666;}
+
+.artBaseInfo .item{ float:left;width:50%;}
+.artBaseInfo .notice{
+	margin-left:10px;
+	width:61px;
+	padding-left:10px;
+	height:22px; 
+	line-height:22px;
+	background-position:-448px -80px;	
+	color:#1183c1;}
+
+.artInfo{height:30px;border-top:1px solid #e1e1e1;border-bottom:1px solid #e1e1e1;margin:20px 10px;}
+.artInfo div{ float:left;width:30%;height:30px; line-height:30px; text-align:center;}
+.artInfo div a{ margin-left:20px; margin-right:20px;}
+.artInfo li{float:left;width:33%;height:22px; line-height:22px; color:#666666;}
+
+.articl_info{margin-left:30px;margin-right:30px; position:relative;border-bottom:1px solid #e1e1e1;padding-bottom:20px; margin-bottom:20px;}
+.artBaseInfo{margin-bottom:5px;}
+.articl_info_t{float:left;width:80px;margin-right: -100%;font-weight:bold;line-height:24px;}
+.articl_info_c{float: left;width: 100%;}
+.articl_info_c .info_c{margin-left:80px; line-height:24px;}
+.artBaseInfo .marL{ margin-left:20PX;}
+.artBaseInfo .col_info{ float:left;width:30%;line-height:20px;}
+
+.fontSize{position: relative;right:0px;top:0px;font-size:12px; height:30px; line-height:30px; text-align:right;}
+.fontSize a{border:1px solid #c2c2c2;margin-right:10px;padding:4px 1px;*padding:1px; cursor:pointer;font-size:12px;}
+.fontSize a span{background:url(../images/page_a_36.png) repeat-x;padding:3px;}
+
+.fontSize a.now{border: #f9ad75 1px solid;padding:4px 1px;*padding:1px;}
+.fontSize a.now span{color:#ff7d27;background:url(../images/current_34.png) repeat-x bottom;padding:3px;}
+.artibody{margin-left:20px;margin-right:20px;font: 18px/180% "Microsoft YaHei","微软雅黑"; color:#666666;}
+.artibody p{margin-bottom:20px;}
+
+.fontSize A:link{ color:#000000;text-decoration:none;}
+.fontSize A:visited{ color:#000000;text-decoration:none;}
+.fontSize A:hover{ color:#FF0000;text-decoration:none;}
+.fontSize a.now:link{color:#ff7d27;text-decoration:none;}
+#Zoom img {max-width:600px; max-height:600px; scale:expression((this.offsetWidth > this.offsetHeight)?(this.style.width = this.offsetWidth >= 600 ? "600px" : "auto"):(this.style.height = this.offsetHeight >= 600 ? "600px" : "auto")); display:inline !important;}
+
+.t_artiInfo{font-size:14px; padding-left:20px;background:url(../images/linex.gif) repeat-x top; line-height:30px; margin-top:10px;}
+.li_artiInfo{margin-left:30px; margin-right:30px;padding-bottom:10px; }
+.li_artiInfo ul li{float:left;width:100%;padding:3px 0;}
+.li_artiInfo ul li .title{ float:left;width:65%;}
+.li_artiInfo ul li .author{ float:left;width:15%;}
+.li_artiInfo ul li .come{ float:right;width:20%;color:#999999; text-align:right;}
+
+
+.index_artInfo{height:36px; line-height:36px; border-top:1px solid #e1e1e1;border-bottom:1px solid #e1e1e1; margin-top:20px; padding-left:20px;  padding-right:20px;padding-right:10px; margin-bottom:10px; margin-left:10px;text-align:center;}
+.index_artInfo a.collectionPage_link{ background:url(../images/icon.gif) no-repeat 0 1px; padding-left:15px;}
+.index_artInfo a.printPage_link{background:url(../images/icon.gif) no-repeat 0 -55px; padding-left:15px;}
+.index_artInfo a.downloadPage_link{background:url(../images/icon.gif) no-repeat 0 -108px; padding-left:13px;}
+
+.index_body .main{margin-left:100px; line-height:28px;color:#000000; padding-bottom:30px; padding-top:20px;}</style></head><body><div id="wraper">
+			<div id="artTitles">
+				<h1 id="artibodyTitle">唐代长安的庙会与戏场</h1>
+				<h2 id="artisubTitle">——兼论中古时期庙会与戏场的起源及其结合</h2>
+			</div>
+			
+			<div class="articl_info">
+				<div class="artBaseInfo" id="autInfo">
+					<div class="articl_info_t">作 者：</div>
+					<div class="articl_info_c">
+						<div class="info_c">
+								<a target="_blank" href="/qw?s0=4&amp;s1=%e7%8e%8b%e6%b0%b8%e5%b9%b3">王永平</a> 
+						</div>
+					</div>
+					<br class="cls"/>
+				</div>
+				<div class="artBaseInfo" id="autDescription">
+					<div class="articl_info_t">作者简介：</div>
+					<div class="articl_info_c">
+						<div class="info_c">王永平，首都师范大学历史学院教授、博士生导师。（北京 100048）</div>
+					</div>
+					<br class="cls"/>
+				</div>
+				<div class="artBaseInfo" id="tAutInfo"/>
+				<div class="artBaseInfo" id="orgInfo">
+					<div class="articl_info_t">原文出处：</div>
+					<div class="articl_info_c">
+						<div class="info_c">河北学刊</div>
+					</div>
+					<br class="cls"/>
+				</div>
+				<div class="artBaseInfo" id="astInfo">
+					<div class="articl_info_t">内容提要：</div>
+					<div class="articl_info_c">
+						<div class="info_c">
+							<p>庙会和戏场是中古时期民众娱乐生活的重要地点和场所。庙会起源于宗教活动，戏场发端于集体娱乐，庙会与戏场的结合表现了中古时期宗教活动世俗化的一种发展趋势，也是民众对休闲娱乐生活需求的一种必然结果。唐代是中古时期宗教发展的重要时期，全国各地佛寺、道观林立，庙会和戏场作为一种专门的娱乐场所迅速地发展和成熟起来。唐都长安作为全国的政治、经济、文化和宗教活动中心，寺庙宫观更是星罗棋布，庙会与戏场异常的兴盛和发达，它既满足了市民休闲娱乐生活的需要，又反映了都市生活的丰富多彩，也为宋代勾栏瓦舍的出现奠定了基础。</p>
+						</div>
+					</div>
+					<br class="cls"/>
+				</div>
+				<div id="artPdcInfo" class="artBaseInfo">
+					<div class="col_info"><b>期刊代号：</b>K22 </div>
+					<div class="col_info"><b>分类名称：</b>魏晋南北朝隋唐史 </div>
+					<div class="col_info"><b>复印期号：</b>2009 年 02 期 </div>
+					<br class="cls"/>
+				</div>
+				<div class="artBaseInfo" id="artKeyword">
+					<div class="articl_info_t">关 键 词：</div>
+					<div class="articl_info_c">
+						<div class="info_c">
+								<a target="_blank" href="/qw?s0=7&amp;s1=%e5%ba%99%e4%bc%9a">庙会</a> 
+								<a target="_blank" href="/qw?s0=7&amp;s1=%e6%88%8f%e5%9c%ba">戏场</a> 
+								<a target="_blank" href="/qw?s0=7&amp;s1=%e5%ae%97%e6%95%99%e6%b4%bb%e5%8a%a8">宗教活动</a> 
+								<a target="_blank" href="/qw?s0=7&amp;s1=%e4%bc%91%e9%97%b2%e5%a8%b1%e4%b9%90">休闲娱乐</a> 
+								<a target="_blank" href="/qw?s0=7&amp;s1=%e5%94%90%e4%bb%a3%e9%95%bf%e5%ae%89%0a%e3%80%80%e3%80%80temple+fair">唐代长安
+　　temple fair</a> 
+								<a target="_blank" href="/qw?s0=7&amp;s1=theatre">theatre</a> 
+								<a target="_blank" href="/qw?s0=7&amp;s1=religious+activities">religious activities</a> 
+								<a target="_blank" href="/qw?s0=7&amp;s1=leisure+and+entertainment">leisure and entertainment</a> 
+
+						</div>
+					</div>
+					<br class="cls"/>
+				</div>
+				<div class="artBaseInfo" id="artTitleNote"/>
+				<a id="readArea" name="readArea"/>
+				
+			</div>
+			<div id="artText"><div class="artibody" id="Zoom" style="font-size: 14px;">
+    </p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[中图分类号]K242  [文献标识码]A  [文章编号]1003-7071(2008)06-0072-07</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;一、庙会与戏场的起源</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;关于庙会的起源，比较通行的说法是在唐代就已经出现了。《辞海》“庙会”条解释：</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;庙会，亦称“庙市”。中国的市集形式之一。唐代已经存在。在寺庙节日或规定日期举行。一般设在寺庙内或其附近，故称“庙会”。《北平风俗类征·市肆》引《妙香室丛话》：“京师隆福寺，每月九日，百货云集，谓之庙会。”[1](P1172)</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;该词条虽然没有明确指出庙会产生的具体时代，但从其表述的意思可以理解为出现于唐代。其实早在20世纪30年代，全汉升就在《中国庙市之史的考察》一文中梳理了庙市从宋代至民国早期演进的轨迹，并进而推测说，宋代以前就出现了定期的庙市。可是因为材料之不足，他并未作详细论证。其后半个多世纪，对于庙市的研究和介绍，一直是详于宋后而略于宋前。到1980年代后期，谢重光在《唐代庙市》一文中，根据全汉升的推测又作了深入研究，肯定了庙会最初的确是萌芽和兴起于唐代。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;对于全汉升的观点和《辞海》的说法，朱越利提出了不同意见。他认为，庙会和庙市是两个既互相有联系，又有区别的概念，不能将二者混同在一起。他在《何谓庙会——〈辞海〉“庙会”条释文辨证》一文中说：</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;庙会是由宗教节日的宗教活动引起，并包括这些内容在内的，在寺庙内或其附近举行酬神、娱神、求神、娱乐、游冶、集市等活动的群众聚会。被引起的活动可能只有一项，也可能有两项或多项。这种庙会是多内涵型庙会。庙市是在规定的日期内在寺庙内或其附近举行的集市。庙市也被称为庙会。这种庙会是纯集市型庙会。多内涵型庙会上的集市也可称为庙市。应当说，多内涵型庙会才是民众心目中真正的庙会，从科学研究的严格意义上讲也才是名副其实的庙会。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;在这里，朱越利对庙会和庙市两个概念作了详细分辨，认为庙会的内涵要大于庙市，庙会可以包含庙市，也可以没有庙市；而庙市虽然有时候也能称之为庙会，但却不是真正意义上庙会，它只能是依托庙会而形成的一种集市。所以，“庙市是庙市，庙会是庙会，二者本自有别。庙市起源虽早，但当初并未称为庙市，直到宋代也还称为‘瓦市’。而多内涵型庙会却很早即称为这个会那个会了。”朱越利的观点虽然有一定道理，但他却忽略了一个问题，即庙会与庙市是两个不断发展演变着的概念。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;其实，庙会与庙市是两个出现相当晚的概念，大约在明清时期才大量见诸于史籍记载，如《辞海》与《辞源》征引的都是清人的著作。但这并不意味着真正的庙会与庙市也是在这一时期才出现的。笔者同意朱越利关于庙会的起源最初是和宗教活动有关的观点，但认为在庙会上不一定一开始就形成了集市活动。随着时代发展，庙会上才逐渐形成和出现了定期或不定期的集市；尤其是在宗教活动不断世俗化和商品经济取得长足发展的过程中，庙会上的集市规模越来越大，其对民众经济文化生活的影响也日益深入，而庙会中的宗教活动却逐渐淡化，这时的庙会称之为庙市也无不可。但庙市从来也没有而且也不可能取代庙会的概念。相反，随着时代的发展，尤其是到了近现代，庙会的概念已经发生了很大变化，它的指称趋向也日益取代庙市而成为市集的重要形式之一，而庙市的概念却在逐渐消失。有些庙会既没有宗教活动，也不一定设在寺院中或寺院附近，宁欣在《乡村的庙会与庙市》一文中就指出：“庙会活动虽然还是多以寺庙为中心，却也不局限于寺庙，在举办时往往延伸至城镇的大街小巷、乡间的各个村落之间。”[2]如改革开放以来，各地涌现出来的许多庙会，像北京的龙潭庙会、地坛庙会、玉渊潭庙会等，虽然还称之为庙会，但却都与宗教活动无关，而演变成为纯粹的商品交易和文化娱乐集会。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;朱越利还指出，庙会是中国传统的节日形式，它的渊源，“可以一直上溯到古老的社祭”。在社祭活动中，乡里民众共同祭祀，聚饮欢会，形成了集会结社；庙会中的各种拜香会、花会，还继承了这种古老的传统。而佛、道教庙会，可以说是受到了这种中国传统节日文化的影响，也是宗教“主动适应中国传统节日文化，主动向民众心理靠拢”的结果，反映了佛、道教的世俗化。还有人从佛典词汇的研究入手，认为庙会不是本土文化的遗产，而只能是“佛教的产物”[3](P217—222)。笔者认为，这两种意见都不全面，前者太过于强调本土传统文化的影响，而忽视了佛教在庙会产生过程中的主导作用；后者则片面解读了庙会的字面儿含义，单纯注意到了外来文化的影响，而忽略了佛教传入后逐渐中国化的状况。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;其实，庙会的产生是各种宗教祭祀活动发展的产物，但在这种活动中的民众聚会还不能理解为就是庙会，而佛教的传入与流播对最终催生庙会起了至关重要的作用。庙会主要是依托佛、道教的寺院宫观而逐渐形成的，同时它又是在伴随着民间信仰活动的开展而发展、完善和普及起来的；它在产生和发展的过程中，还受到了中国传统文化的深刻影响。庙会萌芽于魏晋南北朝时期，形成于唐代，成熟定型于宋代，宋以后则大盛于民间。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“戏场”的出现则要比庙会早得多。戏场，一般是指表演杂技戏曲的场所。隋代长安大兴善寺沙门僧琨曾说：“‘戏场’则歌舞音声。”[4](卷5，《隋朝传译佛经录·论场》)中古时期的戏场，具有游戏、娱乐和竞技的功能，其表演内容则多为歌舞百戏。戏场根据其用途，可分为专业性和综合性两种。戏场至晚在汉魏时期就已经出现了，汉末应场《斗鸡诗》曰：</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;戚戚怀不乐，无以释劳勤。兄弟游戏场，命驾迎众宾。二部分曹伍，群鸡焕以陈。双距解长绁，飞踊超敌伦。芥羽张金距，连战何缤纷。从朝至日夕，胜负尚未分。专场驱众敌，刚捷逸等群。四坐同休赞，宾主怀悦欣。博弈非不乐，此戏世所珍[5](P384)。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;诗中描写的是一个斗鸡戏场，设于中央，四周为观众席。这是目前所见文献中关于戏场的最早记载，像这样的专业性戏场应该早就出现了。如先秦或更早时期出现的角抵、蹴鞠等游戏竞技表演活动也应该都有专门的或临时性的戏场。南朝梁萧方等编撰的《三十国春秋》说：“吴王皓闻师之将兴也，乃使刘恪守牛渚，使张梯造攻车于戏场。”[6](P1543)这大概是一个比较大的戏场，可能用于综合性的杂技百戏表演。其实像这样的综合性戏场早在两汉时期就已经出现了。如东汉时人张衡的《西京赋》和李尤的《平乐观赋》都曾描写到了平乐观广场表演杂技百戏的热闹场面。《西京赋》曰：</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;大驾幸乎平乐，张甲乙而袭被翠。……临迥望之广场，程角抵之妙戏。乌获扛鼎，都卢寻橦。冲狭燕濯，胸突铦锋。跳丸剑之挥霍，走索上而相逢。……总会仙倡，戏豹舞罴。白虎鼓瑟，苍龙吹篪。女、娥坐而唱歌……洪涯立而指麾……巨兽百寻，是为曼延。……奇幻儵忽，易貌分形。吞刀吐火，云雾杳冥。画地成川，流渭通泾。东海黄公，赤刀粤祝。……尔乃建戏车，树修旃。侲僮呈材，上下翩翻。突倒投而跟挂，譬陨绝而复联。百马同辔，骋足并驰，撞末之妓，态不可弥[7](P37—38)。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;《平乐观赋》曰：</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;观平乐之制：郁崔嵬以离娄，赫岩岩其崟峉。纷电影以盘盱，弥平原之博敞。……尔乃大和隆平，万国肃清，殊方重译，绝域造庭，四表交会，抱珍远并，杂遝归谊，集于春正。玩屈奇之神怪，显逸才之捷武。百僚于时，各命所主。方曲既设，秘戏连叙。逍遥俯仰，节以鞀鼓。戏车高橦，驰骋百马，连翩九仞，离合上下，或以驰骋，覆车颠倒。乌获扛鼎，千钧若羽。吞刃吐火，燕跃乌踌。陵高履索，踊跃旋舞。飞丸跳剑，沸渭回扰。巴渝隈一，逾肩相受。有仙驾雀，其形蚴虬。骑驴驰射，狐兔惊走。侏儒巨人，戏谑为耦。禽鹿六駮，白象朱首，鱼龙曼延，嵔蜒山阜，龟螭蟾蜍，挈琴鼓缶[8](P1134)。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;平乐观是东汉永平五年(62年)，汉明帝在西京长安汉上林宫苑中设立的一座宫殿[9](P127)。从这两篇赋中可以看出，这座宫殿前面有一个很大的广场，是专门用来观看杂技百戏表演活动的。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;这种在宫殿前面的广场或其他比较宽敞的场地进行杂技百戏表演活动的情况，在魏晋南北朝时期一直传承不绝。但是直到隋代，才正式将朝廷组织的这种大型综合性百戏表演活动场所称之为戏场。如《隋书》记载：</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;每岁正月，万国来朝，留至十五日，于端门外，建国门内，绵亘八里，列为戏场。百官起棚夹路，从昏达旦，以纵观之。至晦而罢。伎人皆衣锦绣缯彩。其歌舞者，多为妇人服，鸣环佩，饰以花毦者，殆三万人[10](卷15，《音乐志下》)。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;这是描写隋炀帝在元宵节设置戏场表演百戏歌舞杂技的情况。《资治通鉴》则记载了这样一次戏场表演活动：</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;帝以诸蕃酋长毕集洛阳，丁丑，于端门街盛陈百戏，戏场周围五千步，执丝竹者万八千人，声闻数十里，自昏达旦，灯火光烛天地；终月而罢，所费巨万。自是岁以为常[11](卷181，《隋炀帝大业六年正月条》)。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;诗人薛道衡在《和许给事善心戏场转韵诗》中说：</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;京洛重新年，复属月轮圆。……万方皆集会，百戏尽来前。临衢车不绝，夹道阁相连。……佳丽俨成行，相携入戏场。衣类何平叔，人同张子房。……竟夕鱼负灯，彻夜龙衔烛。欢笑无穷已，歌咏还相续。羌笛陇头吟，胡舞龟兹曲。假面饰金银，盛服摇珠玉。宵深戏未阑，兢为人所难。卧驱飞玉勒，立骑转银鞍。纵横既跃剑，挥霍复跳丸。抑扬百兽舞，盘跚五禽戏。狻猊弄斑足，巨象垂长鼻。青羊跪复跳，白马回旋骑。忽睹罗浮起，俄看郁昌至。峰岭既崔嵬，林丛亦青翠。麋鹿下腾倚，猴猿或蹲跂。……繁星渐寥落，斜月尚徘徊。王孙犹劳戏，公子未归来[12](P579—580)。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;像这种由政府出面组织的戏场，一般规模都很大，所表演的节目内容也非常丰富，百戏、歌舞、杂技，琳琅满目。这样的戏场与后代所说的戏院、茶楼等专门演戏的场所是并不相同的。类似的戏场，在唐代也很常见。如唐人郑綮《开天传信记》载：“上御勤政楼大酺，纵士庶观看。百戏竞作，人物填咽。金吾卫士白棒雨下，不能制止。”高力士建议召河南丞严安之“处分打场”。张九龄《奉和圣制南郊礼毕酺宴》也描写道：“春发三条路，酺开百戏场。流恩均庶品，纵观聚康庄。妙舞来平乐，新声出建章。分曹日抱戴，赴节凤归昌。”[13](P595)这样的百戏场，唐政府在节日酺会期间经常举办。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;二、庙会与戏场的结合</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;关于庙会与戏场的结合，论者大都将其上溯到北朝。如任半塘就说：“唐寺设戏场，乃沿北朝之旧。”[14](P965)他还列举了北魏杨衒之著的《洛阳伽蓝记》“长秋寺”、“瑶光寺”、“禅虚寺”等条以为证。张弓则是从伎乐供养与自娱的角度出发，以“景乐寺”为例，认为：“佛寺设伎乐自娱，始于元魏”，同时还具有明显的“娱人”动机[15](P857、858)。这些论断都是非常有见地的。从北魏庙会与戏场的结合情况来看，寺院一般应该具备以下三个条件：</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;其一，寺院及其周围应该有比较宽敞的空地，以满足人群的聚集与流动。如景明寺，“在宣阳门外一里御道东。其东西南北方五百步。前望嵩山、少室，却负帝城。……形胜之地，爽垲独美。山悬堂观，一千余间。复殿重房，交疏对霤，青台紫阁，浮道相通。……伽蓝之妙，最得称首。时世好崇福，四月七日，京师诸像，皆来此寺。……至八日，以次入宣阳门，向阊阖宫前受皇帝散花。于时金花映日，宝盖浮云，幡幢若林，得烟似雾。梵乐法音，聒动天地。百戏腾骧，所在骈比。名僧德众，负锡为群。信徒法侣，持花成薮。车骑填咽，繁衍相倾。”[16](P124)又如禅虚寺，“在大夏门外御道西。寺前有阅武场，岁终农隙，甲士习战，千乘万骑，常在于此。有羽林马僧相善觚角戏，掷戟与百尺树齐等，虎贲张车渠掷刀出楼一丈。帝亦观戏在楼，恒令二人对为角戏。”[16](P207)由此可以看出，无论是规模巨大的景明寺，还是寺前设有阅武场的禅虚寺，都能够满足庙会与戏场设置的基本需求。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;其二，寺院应该处于交通便利之处，以利于赶会和观戏的人们往来。如长秋寺，在“西阳门内御道北一里，亦在延年里。即是晋中朝时金市处。”寺内有一尊“六牙白象负释迦在虚空中”，每年“四月四日，此像常出，辟邪、师(狮)子导引其前。吞刀吐火，腾骧一面。缘幢上索，诡谲不常。奇伎异服，冠于朝市。像停之处，观者如睹。迭相践跃，常有死者。”又如昭仪尼寺，“在东阳门内一里御道南。……寺有一佛二菩萨，塑工精绝，京师所无也。四月七日，常出诣景明。景明三像，恒出迎之。伎乐之盛，与刘腾(指长秋寺——引者)相比。”[16](144、53)由于两寺都处于城内御道两边，非常便于人们往来。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;其三，寺院还应经常在固定的日子举行佛事活动，以吸引民众前来瞻拜礼敬。如宗圣寺，“有像一躯，举高三丈八尺；端严殊特，相好毕备，士庶瞻仰，目不暂瞬。此像一出，市井皆空，炎光浑赫，独绝世表。妙伎杂乐，亚于刘腾。城东士女，多来此寺观看也。”又如景兴尼寺，“有金像辇，去地三丈，施宝盖，四面垂金铃七宝珠，飞天伎乐，望之云表。作工甚精，难可扬推。像出之日，常诏羽林一百人举此像。丝竹杂伎，皆由旨给。”[16](P76、82)此皆指在四月八日佛诞日举行行像法会的场景。再如景乐寺，“在阊阖南御道东，西望永宁寺正相当。有倾听殿一所，像辇在焉。雕刻巧妙，冠绝一时。堂庑周环，曲房连接。……至于六斋，常设女乐。歌声绕梁，舞袖徐转；丝管寥亮，谐妙入神。……召诸音乐，逞伎寺内。奇禽怪兽，舞抃殿庭，飞空幻惑，世所未睹，异端奇术，总萃其中。剥驴投井，植枣种瓜；须臾之间皆得食。士女观者，目乱睛迷。”[16](P50)佛教徒修行，规定以每月八日、十四日、十五日、二十三日、二十六日、三十日为六斋日。每到斋会之日，也是庙会之时，即设音乐、歌舞、百戏、杂技、幻术之类的表演，听任满城士女前来观看，这是一幅多么热闹的庙会与戏场相结合的场景！</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;从以上情况来看，庙会与戏场的结合，表现了中古时期宗教活动世俗化的一种发展趋势，佛教徒为了吸纳善男信女，在庄严的佛事活动中，加入了许多歌舞百戏杂技的内容，而民众则通过这些游戏活动也正好满足了他们对休闲娱乐生活的需求。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;三、唐都长安的庙会与戏场</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;唐代是中古宗教的大发展时期，随着全国各地佛寺、道观的大量兴建，庙会和戏场作为一种专门的娱乐场所迅速地发展和成熟起来。唐代的庙会分为相对固定的节日性庙会和具有不确定性的临时性庙会。节日庙会中比较大的如元旦、元宵节(上元)、浴佛节、盂兰盆节(中元节)等，都有较为大型的宗教娱乐活动，并形成戏场。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;唐都长安是全国的政治、经济和文化中心，也是宗教活动的中心。长安的寺院宫观最多时达二百多座，这里的庙会与戏场异常的兴盛和发达。如《旧唐书》记载中唐时盂兰盆节盛会曰：</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;代宗七月望日于内道场造盂兰盆，饰以金翠，所费百万。又设高祖已下七圣神座，备幡节、龙伞、衣裳之制，各书尊号于幡上以识之，舁出内，陈于寺观。是日，排仪仗，百僚序立于光顺门以俟之，幡花鼓舞，迎呼道路。岁以为常[17](卷118，《王缙传》)。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;这样热闹的节日盛会在当时和唐都已经十分常见。至于一些临时性的庙会则往往和寺观的一些宗教活动，如无遮大会和斋醮大会等相结合。无遮会是中古时期佛寺经常举行的一种不分上下贵贱、贤愚道俗，平等行财施和法施的法会，无遮斋则是在无遮会上设斋饭普施僧俗群众的一种宗教活动。这种斋会往往历时多日，参加者甚众，成为热闹非凡的一种临时性庙会。敦煌变文提到“七日无遮会”，该变文云：“闻有无遮之会，远近皆来，才沾长者之恩，声抱忻懽之意。我即随情施物，逐意令将，故无吝惜之心，只有舍财之念。……七朝人众饼(骈)阗。……我向街衢游玩，里闬巡行，见贫者抱玉擎金，睹老者儋绫易绢。”[18(《维摩诘经讲经文》)无遮会是一种祈福消灾、救拔孤贫、供养僧众、施舍财宝的宗教活动。唐代经常举行这种宗教活动，参加者往往不计其数。如唐中宗曾于景龙三年(709年)七月于安福门设无遮斋，翌年正月又于化度寺设无遮大斋[17](卷7，《中宗纪》)。唐懿宗咸通十四年(873年)三月，从法门寺奉迎佛骨，京城富室竞为设无遮大会。据《资治通鉴》记载：</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;春，三月，癸巳，上遣敕使诣法门寺迎佛骨，群臣谏者甚众，至有言宪宗迎佛骨寻晏驾者。上曰：“朕生得见之，死亦无恨！”广造浮图、宝帐、香舆、幡花、幢盖以迎之，皆饰以金玉、锦绣、珠翠。自京城至寺三百里间，道路车马，昼夜不绝。夏，四月，壬寅，佛骨至京师，导以禁军兵仗、公私音乐，沸天烛地，绵亘数十里。仪卫之盛，过于郊祀，元和之时不及远矣。富室夹道为彩楼及无遮会，竞为侈靡。……迎佛骨入禁中，三日，出置安国崇化寺。宰相已下竞施金帛，不可胜纪[11](卷252)。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;唐人苏鹗在《杜阳杂编》中对这次奉迎佛骨也有更为详细的记载，其中提到富室设无遮斋会的情况非常翔实：</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;十四年春，诏大德僧数十辈，于凤翔法门寺迎佛骨。……长安豪家竞饰车服，驾肩弥路。四方挈老扶幼来观者，莫不蔬素以待恩福。……初迎佛骨，有诏令京城及畿甸，于路傍垒土为香刹。或高一二丈，迨八九尺，悉以金翠饰之，京城之内约及万数。……又坊市豪家，相为无遮斋，大会通衢间，结彩为楼阁、台殿。或水银以为池，金玉以为树，竞取僧徒，广设佛像，吹螺击钹，灯烛相继。又令小儿玉带金额，白脚呵唱于其间，恣为嬉戏。又结锦绣为小车，与以载歌舞。如是充于辇毂之下，而延寿里推为繁华之最[19](卷下)。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;从这些无遮斋会的情况来看，莫不是士女云集，万头攒动，吹螺击钹，鼓乐喧天，结彩楼，搭殿阁，载歌载舞，恣为嬉戏，人声鼎沸，热闹非凡。这样的盛会由于吸引了无数的善男信女和喜欢凑热闹的群众，自然就形成了具有很大需求的市场，许多商贩和卖艺者也纷纷从四方汇集到这里，交易货物，表演节目，这样就形成了颇具规模的庙会。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;这种庙会在经济发达、交通方便之地随处可见，寺观也因此成为一方文化娱乐活动的中心。在庙会上一般都设有“戏场”。中古时期，稍微具有点规模的佛寺道观通常都有伎乐供养，除用于做法事等宗教活动或自娱外，还经常组织乐舞百戏演出，这样就形成了戏场。地处长安近郊玉华山的玉华寺就有皇家供养的伎乐，大慈恩寺僧人嘉尚曾随侍玄奘于此译经，“夜睹玉华寺内，广博严净，伎乐盈满”[20](P73)。玉华寺原为唐高祖武德七年(624年)在同官县玉华山所建的仁智宫，唐太宗时改名为玉华宫，内置伎乐。唐永徽二年(651年)，唐高宗改宫为寺，作为玄奘的译场。所以，此寺内的伎乐应承自玉华宫的皇家伎乐。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;位于长安崇义坊的招福寺，原为隋正觉寺旧址，唐初寺毁后，“以其地立第赐诸王，睿宗在藩居之。”唐高宗乾封二年(667年)，重建此寺。武则天长安二年(702年)，“内出等身金铜像一铺，并《九部乐》。南、北两门额，上(唐玄宗)与岐、薛二王亲送至寺，彩乘象舆，羽卫四合，街中余香，数日不歇。”[21](P259)《九部乐》是隋及唐初朝廷宴享时演奏的九部大乐，每一部乐的演奏阵容都很庞大，朝廷用全套的《九部乐》供养于招福寺，可见该寺拥有大型音乐演奏的实力。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;长乐坊安国寺，原为皇子李旦府邸，唐景云元年(710年)，李旦即位，为唐睿宗，舍宅建寺。寺内有红楼，当初为舞榭，后来大约就作了寺内戏场。这是一座典型的皇家寺院，唐顺宗时大内曾出宫女三百人于安国寺安置，其中有不少属于掖庭教坊女乐。由此可以想见，此寺宫廷伎乐演奏水平也是一定很高的。唐懿宗时，曾于寺内“设万人斋……亲幸赏劳，观者如堵”。著名音乐舞蹈家李可及，“善音律，尤能转喉为新声，音辞曲折，听者忘倦，京师屠酤少年效之，谓之‘拍弹’。……又常于安国寺作《菩萨蛮舞》，上益怜之。”[22](P737)此舞是一种大型乐舞，参加表演者多达数百人，呈四方菩萨蛮队[19](卷下)。这些都是皇室赏赐给寺观的伎乐供养。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;戏场除了组织歌舞音声等表演之外，还有各种百戏、杂戏和杂技表演。唐初，僧人道宣在《量处轻重仪》中讲到佛寺的各种财物时，就专门列出“戏具”与“杂剧戏具”两类物品：“所用戏具。谓傀儡戏、面竿、桡影、舞师(狮)子、白马、俳优传述众像，变现之像也”；“杂剧戏具。谓蒲博、博弈、投壶牵道、六甲行成，并所须骰子、马局之属。”[4](卷45)佛寺之中备有这么多用于表演的百戏、杂技道具，表明唐代佛寺戏场的确经常上演各种题材的节目。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;后来，许多江湖卖艺人和侠士也经常利用庙会、戏场进行演出或比试，这样就使得戏场的活动内容更加丰富多彩。如京师长安戏场就非常热闹，有击球的、剑舞的、樗蒲的各种各样的文娱节目表演。据李亢《独异志》记载：</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;唐贞元中，有乞者解如海，其手自臂而堕，足自胫而脱，善击球、樗蒲戏，又善剑舞、数丹丸，挟二妻，生子数人。至元和末犹在，长安戏场中日集数千人观之[23](卷上)。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;一个身体残疾的乞丐，以非凡的毅力练就了一身出色的技艺，居然靠卖艺活跃于京城戏场长达三十余年，并且每天能够吸引多达数千名的观众到戏场观看他的表演，足见其表演艺术之精湛。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;又据《乾月巽子》记载，唐元和九年(814年)，在京师戏场有侏儒表演魔术，“见一短女人，服孝衣，约长三尺已来，言语声音，若大妇人，咄咄似有所尤，即云：‘千忍万忍，终须决一场。我终不放伊！’弹指数下云：‘大奇大奇。’……日旰，及广衢，车马已闹，此妇女为行路所怪，不知其由。如此两日，稍稍人多……及景风门，见广衢中，人闹已万万，如东西隅之戏场。大围之，其间无数小儿环坐，短女人往，布幂其首，言词转无次第，群小儿大共嗤笑。有人欲近之，则来拿攫，小儿又退。如是日中，看者转众。短女人方坐，有一小儿突前，牵其幂首布，遂落。见三尺小青竹，挂一触髅<img onerror="this.src='/images/err.png'" src="http://img.ipub.exuezhe.com/jpg/K22/2009/K22T211.jpg" />然。金吾以其事上闻。”[24](P2722)像这样的表演吸引了数万人围观，可见长安戏场之活跃。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;此外，长安寺院还流行俗讲。据唐人段成式《酉阳杂俎》续集载，长安平康坊菩提寺，“佛殿内槽东壁维魔变，舍利佛角转睐。元和末，俗讲僧文淑装之，笔迹尽矣。”[21](卷5，《寺塔记上》)这里提到的文淑和尚，又作文叙或文溆，是唐代非常著名的一位俗讲僧人，这幅“维魔变”图就是为了配合他的讲唱而创作的。关于这位俗讲僧文淑，唐人赵磷《因话录》也有记载：</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;有文淑僧者，公为聚众谭(谈)说，假托经论，所言无非淫秽鄙亵之事。不逞之徒，转相鼓扇扶树。愚夫冶妇，乐闻其说，听者填咽寺舍，瞻礼崇奉，呼为“和尚”。教坊效其声调，以为歌曲。其氓庶易诱，释徒苟知真理，及文义稍精，亦甚嗤鄙之。近日，庸僧以名系功德使，不惧台省府县，以士流好窥其所为，视衣冠过于仇雠，而淑僧最甚，前后杖背，流在边地数矣[25](卷4，《角部》)。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;文淑在当时的影响很大。他所宣讲的内容，假托佛教教义，而参之以世俗故事。所谓“淫秽鄙亵之事”，无非就是一些才子佳人、男女艳情、风尘妓女、商贾小贩之类的故事。正因为如此，他的讲唱才能得到人们的共鸣，收到了“听者填咽寺舍，瞻礼崇奉”的娱乐效果。文淑的讲唱活动还影响到其他娱乐形式，当时有一首叫《文叙子》的乐曲，据说就是受他讲经说法时的声调与语气的影响和启发而创作出来的①。他的活动，甚至还受到当时统治者的重视，唐敬宗就曾亲临兴福寺听过文淑的讲唱[11](P7850)。直到唐武宗统治时期，他还曾奉敕举行俗讲。就是这样一位深受人们喜爱的俗讲僧，不但遭到所谓“衣冠”之流的仇视，而且也为“正统”僧人所不容。他们指责他“公为聚众谭说，假托经论”，最后被“前后杖背，流东边地数矣”。文淑历事唐宪、穆、敬、文、武五朝，前后长达四十余年，数经流放，而声誉日隆，直到唐会昌年间，日本僧人圆仁入唐求法到达长安时，还听过他宣讲的《法华经》，并称赞：“城中俗讲，此法师第一。”[26](P147)</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;除了文淑之外，唐代参与俗讲的僧人还有很多。据圆仁《入唐求法巡礼行记》记载，唐会昌元年(841年)，唐武宗“又敕于左、右街七寺开俗讲。左街四处：此资圣寺，令云花寺赐紫大德海岸法师讲《花(华)严经》；保寿寺，令左街僧录、三教讲论、赐紫、引驾大德体虚法师讲《法华经》；菩提寺，令招福寺内供奉、三教讲论大德齐高法师讲《涅槃经》；景公寺令光影法师讲。右街三处：会昌寺令内供奉、三教讲论、赐紫、引驾大德文溆法师讲《法华经》。……惠日寺、崇福寺讲法师未得其名。……会昌元年五月一日，敕开讲，两街十寺讲佛教……当寺内供奉讲论大德嗣标法师，当寺讲《金刚经》；青龙寺圆镜法师，于菩提寺讲《涅槃经》。……九月一日，敕两街诸寺开俗讲。……会昌二年正月一日……诸寺开俗讲……五月奉敕开俗讲，两街各五座。”由此可见，与文淑同时，还有海岸、体虚、齐高、光影、嗣标和圆镜等高僧大德都曾奉敕开过俗讲。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;除了僧尼经常举办俗讲外，道士也有类似的讲唱活动。《入唐求法巡礼行记》还记载，唐会昌元年(841年)正月九日，“又敕开讲道教，左街令敕新从剑南道召太清宫内供奉矩令费，于玄真观讲《南华》等经；右街一处，未得其名。并皆奉敕讲。……会昌元年五月一日，敕开讲……两观讲道教。”唐代佛、道二教斗争十分激烈，这也在讲唱活动中表现出来。僧尼及道士都利用讲唱艺术来吸引和招徕听众，广收信徒，募集资财，借以扩大各自的宗教势力。韩愈的《华山女》诗就反映了这种状况：</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;街东街西讲佛经，撞钟吹螺闹宫庭。广张罪福资诱胁，听众狎恰排浮萍。黄衣道士亦讲说，座下寥落如明星。华山女儿家奉道，欲驱异教归仙灵。洗妆拭面着冠帔，白咽红颊长眉青。遂来升座演真诀，观门不许人开扃。不知谁人暗相报，訇然振动如雷霆。扫除众寺人迹绝，骅骝塞路连辎<img onerror="this.src='/images/err.png'" src="http://img.ipub.exuezhe.com/jpg/K22/2009/K22T212.jpg" />。观中人满坐观外，后至无地无由听。抽簪脱钏解环佩，堆金叠玉光青荧。天门贵人传诏召，六宫愿识师颜形。玉皇颔首许归去，乘龙驾鹤来青冥。豪家少年岂知道，来绕百匝脚不停。云窗雾阁事恍惚，重重翠幕深金屏。仙梯难攀俗缘重，浪凭青鸟通丁宁[13](P3823—3824)。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;这首诗描写了唐代寺观讲唱活动的盛况以及僧、道争相招揽听众的情况。华山女儿以靓丽的姿色和出众的讲唱，把僧徒们所诱胁的听众全部吸引过来，甚至还赢得了帝后的赏识，取得了暂时的局部胜利。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;寺院大都设有专供娱乐的场所“戏场”。戏场经常表演各种百戏节目，僧人俗讲可谓近水楼台，占尽先机。据宋人钱易《南部新书》记载：</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;长安戏场多集于慈恩，小者在青龙，其次荐福、永寿，尼讲盛于保唐，名德聚之安国[27](卷戊)。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;其中，慈恩寺的戏场最为著名。唐代流传着一则非常著名的故事称：唐宣宗万寿公主的小叔子郑觊病危，唐宣宗派人前往探视，“还，问‘公主何在？’曰：‘在慈恩寺观戏场。’上怒，叹曰：‘我怪士大夫家不欲与我家为昏，良有以也！’亟命召公主入宫……上责之曰：‘岂有小郎病，不往省视，乃观戏乎！’”[11](P8036)这则故事反映出长安戏场具有很强的吸引力。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;保唐寺的尼讲几乎每月都要举行，连平康里的诸妓都被深深吸引，她们虽然没有行动自由，但每到开讲之时，都会花钱买个方便，前去听讲。据孙棨《北里志》说：“诸妓以出里艰难，每南街保唐寺有讲席，多以月之八日，相牵率听焉。皆纳其假母一缗，然后能出于里。”每月八日正是佛教徒修行规定的六斋会日之一，从北魏的情形看，斋会之日，也正是庙会之时，即设音乐、歌舞、百戏、杂技、幻术之类的表演，寺院中专门开俗讲的场合，称为讲院或变场。讲院设于寺院之中，《敦煌变文集》收录有《无常讲经文》和《角座文汇抄》两篇文书，其结尾处均有“劝即此日申间劝，且乞时时过讲院”句，是劝诱善男信女们经常到讲院听俗讲之语。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;变场既可设于寺院，亦可设于街头闹市，并无固定的地点。《酉阳杂俎》前集卷五“怪术”载：“虞部郎中陆绍，元和中，尝看表兄于定水寺，因为院僧具蜜饵时果，邻院僧右邀之。良久，僧与一李秀才偕至，乃环坐，笑语颇剧。”院僧呵斥秀才：“望酒旗玩变场者，岂有佳者乎”则是指街头闹市的变场。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;长安寺院庙会戏场上还有“市人”讲小说，《酉阳杂俎》续集卷四“贬误”中记载：“予太和末，因弟生日观杂戏，有市人小说呼扁鹊作‘褊鹊’字，上声。予令任道升字正之。市人言：‘二十年前尝于上都斋会设此，有一秀才甚赏呼某，“扁”字与“褊”同声，云世人皆误。’”[21]这则故事说明，在佛教斋会上已经出现了“小说”这种说书形式，而这位“市人”是在庙会上表演的街头艺人，他故意念“扁”为“褊”，以增加笑料，吸引观众。可见这种说书形式已经成为庙会之上长安市民消遣娱乐的一种很好方式。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;总之，庙会与戏场的出现，既满足了市民追求休闲娱乐生活的欲望，又反映了都市生活的丰富多彩，也为宋代勾栏瓦舍的出现奠定了基础。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;注释：</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;①据段安节《乐府杂录》“文淑子”条记载：“长庆中，俗讲僧文淑善吟经，其声宛畅，感动里人。乐工黄米饭依其念四声观世间菩萨，乃撰此曲。”《太平广记》卷204引《卢氏杂说》亦云：“文宗善吹小管，时法师文淑为入内大德，一日得罪流之。弟子入内收拾院中籍入家具辈，犹作法师讲声，上采其声为曲子，号《文淑子》。”
+</div>
+<div class="page-list">
+    <div class="pageNav" id="pageList"></div>
+</div>
+</div><br class="cls"/>
+		</div>
+		</body></html>

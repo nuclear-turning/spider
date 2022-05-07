@@ -1,0 +1,199 @@
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><style>.trR{ text-align:right;}
+#wraper{width:1190px; margin:0 auto; margin-bottom:10px;text-align:left;}
+#left{ float:left;width:250px; text-align:left;}
+#right{float:right;width:930px;text-align:left;border-top:2px solid #619bc0; padding-bottom:10px;}
+.border_w{ border:1px solid #d3d3d3;border-top:2px solid #619bc0;}
+.t01{height:30px;line-height:30px;border:1px solid #dddddd;padding-left:10px;background:url(../images/tbg01.jpg) repeat-x bottom; color:#1183c1; font-size:14px;}
+.con_01{ padding:10px;}
+.con_cbg{ background:url(../images/con_cbg.gif) repeat-y;}
+.con_bbg{ background:url(../images/con_bbg.gif) no-repeat left bottom; height:1px; line-height:1px; font-size:0;}
+
+.source{margin:15px;background:url(../images/linex.gif) repeat-x bottom; padding-bottom:30px; margin-bottom:30px;}
+.source .source-img{border:1px solid #d3d3d3; text-align:center; padding:5px;margin-bottom:10px; }
+.source p{color:#666666; font-weight:bold; font-size:12px;}
+.source .fblue{ color:#236bac; font-weight:normal;}
+
+.t_tj{ height:27px;padding-top:2px;margin:15px; background:url(../images/con_t_tj.gif) no-repeat left top; padding-left:10px; color:#FFFFFF; font-size:14px;}
+.c12_01{ margin-left:15px; margin-right:15px; margin-bottom:15px;}
+.c12_01 li{font-size:12px; line-height:24px; background: url(../images/dot.gif) no-repeat 2px 10px; padding-left:15px;}
+
+#artibodyTitle{color:#236bac;font-family:"宋体";font-size:20px;font-weight: normal;line-height:35px;text-align:center;margin-top:10px;	text-align:center;}
+#artisubTitle{font-family:"宋体";font-size:16px;font-weight: normal;line-height:28px;text-align:center;}
+.articl_info{margin-left:30px; margin-right:30px; position:relative;border-bottom:1px solid #e1e1e1;padding-bottom:20px; margin-bottom:20px;}
+.btn-img{
+	background-image:url(../images/allbg.png);
+	background-repeat:no-repeat;
+	font-size:12px;		
+	cursor:pointer;
+	border: 0px none;
+	display: inline-block;
+	vertical-align:middle;
+	text-align:center;}
+
+.artInfo{height:22px;border-top:1px solid #e1e1e1;border-bottom:1px solid #e1e1e1;padding:5px;margin:20px;}
+.artInfo li{float:left;width:33%;height:22px; line-height:22px; color:#666666;}
+
+.artInfo li .collectionPage_link{
+	background-position:-509px -80px;
+	padding-left:10px;
+	margin-top:-2px;
+	_margin-top:0px;
+	margin-left:10px;
+	width:51px;
+	height:22px; 
+	line-height:22px;		
+	color:#1183c1;	}
+.artInfo li .printPage_link{
+	background-position:-570px -80px;
+	padding-left:10px;
+	margin-top:-2px;
+	_margin-top:0px;
+	margin-left:10px;
+	width:51px;
+	height:22px; 
+	line-height:22px;	
+	color:#1183c1;}
+.artInfo li .downloadPage_link{
+	background-position:-631px -80px;
+	margin-top:-2px;
+	_margin-top:0px;
+	margin-left:10px;
+	width:51px;
+	padding-left:10px;
+	height:22px; 
+	line-height:22px;	
+	color:#1183c1;}
+
+
+.artBaseInfo{line-height:24px; margin-bottom:5px;}
+.artBaseInfo .info_left{float:left;width:80px;}
+.artBaseInfo .info_right{float:left;width:790px;}
+
+.artBaseInfo dt{float:left;width:80px; color:#666666;line-height:20px; display:inline-block;}
+.artBaseInfo dd{color:#666666;line-height:20px;display:inline-block;}
+.artBaseInfo .col li{ float:left;width:210px; height:20px; line-height:20px;color:#666666;}
+
+.artBaseInfo .item{ float:left;width:50%;}
+.artBaseInfo .notice{
+	margin-left:10px;
+	width:61px;
+	padding-left:10px;
+	height:22px; 
+	line-height:22px;
+	background-position:-448px -80px;	
+	color:#1183c1;}
+
+.artInfo{height:30px;border-top:1px solid #e1e1e1;border-bottom:1px solid #e1e1e1;margin:20px 10px;}
+.artInfo div{ float:left;width:30%;height:30px; line-height:30px; text-align:center;}
+.artInfo div a{ margin-left:20px; margin-right:20px;}
+.artInfo li{float:left;width:33%;height:22px; line-height:22px; color:#666666;}
+
+.articl_info{margin-left:30px;margin-right:30px; position:relative;border-bottom:1px solid #e1e1e1;padding-bottom:20px; margin-bottom:20px;}
+.artBaseInfo{margin-bottom:5px;}
+.articl_info_t{float:left;width:80px;margin-right: -100%;font-weight:bold;line-height:24px;}
+.articl_info_c{float: left;width: 100%;}
+.articl_info_c .info_c{margin-left:80px; line-height:24px;}
+.artBaseInfo .marL{ margin-left:20PX;}
+.artBaseInfo .col_info{ float:left;width:30%;line-height:20px;}
+
+.fontSize{position: relative;right:0px;top:0px;font-size:12px; height:30px; line-height:30px; text-align:right;}
+.fontSize a{border:1px solid #c2c2c2;margin-right:10px;padding:4px 1px;*padding:1px; cursor:pointer;font-size:12px;}
+.fontSize a span{background:url(../images/page_a_36.png) repeat-x;padding:3px;}
+
+.fontSize a.now{border: #f9ad75 1px solid;padding:4px 1px;*padding:1px;}
+.fontSize a.now span{color:#ff7d27;background:url(../images/current_34.png) repeat-x bottom;padding:3px;}
+.artibody{margin-left:20px;margin-right:20px;font: 18px/180% "Microsoft YaHei","微软雅黑"; color:#666666;}
+.artibody p{margin-bottom:20px;}
+
+.fontSize A:link{ color:#000000;text-decoration:none;}
+.fontSize A:visited{ color:#000000;text-decoration:none;}
+.fontSize A:hover{ color:#FF0000;text-decoration:none;}
+.fontSize a.now:link{color:#ff7d27;text-decoration:none;}
+#Zoom img {max-width:600px; max-height:600px; scale:expression((this.offsetWidth > this.offsetHeight)?(this.style.width = this.offsetWidth >= 600 ? "600px" : "auto"):(this.style.height = this.offsetHeight >= 600 ? "600px" : "auto")); display:inline !important;}
+
+.t_artiInfo{font-size:14px; padding-left:20px;background:url(../images/linex.gif) repeat-x top; line-height:30px; margin-top:10px;}
+.li_artiInfo{margin-left:30px; margin-right:30px;padding-bottom:10px; }
+.li_artiInfo ul li{float:left;width:100%;padding:3px 0;}
+.li_artiInfo ul li .title{ float:left;width:65%;}
+.li_artiInfo ul li .author{ float:left;width:15%;}
+.li_artiInfo ul li .come{ float:right;width:20%;color:#999999; text-align:right;}
+
+
+.index_artInfo{height:36px; line-height:36px; border-top:1px solid #e1e1e1;border-bottom:1px solid #e1e1e1; margin-top:20px; padding-left:20px;  padding-right:20px;padding-right:10px; margin-bottom:10px; margin-left:10px;text-align:center;}
+.index_artInfo a.collectionPage_link{ background:url(../images/icon.gif) no-repeat 0 1px; padding-left:15px;}
+.index_artInfo a.printPage_link{background:url(../images/icon.gif) no-repeat 0 -55px; padding-left:15px;}
+.index_artInfo a.downloadPage_link{background:url(../images/icon.gif) no-repeat 0 -108px; padding-left:13px;}
+
+.index_body .main{margin-left:100px; line-height:28px;color:#000000; padding-bottom:30px; padding-top:20px;}</style></head><body><div id="wraper">
+			<div id="artTitles">
+				<h1 id="artibodyTitle">魏晋南北朝时期华北内河航运与军事活动的关系</h1>
+				<h2 id="artisubTitle"/>
+			</div>
+			
+			<div class="articl_info">
+				<div class="artBaseInfo" id="autInfo">
+					<div class="articl_info_t">作 者：</div>
+					<div class="articl_info_c">
+						<div class="info_c">
+								<a target="_blank" href="/qw?s0=4&amp;s1=%e7%8e%8b%e5%88%a9%e5%8d%8e">王利华</a> 
+						</div>
+					</div>
+					<br class="cls"/>
+				</div>
+				<div class="artBaseInfo" id="autDescription">
+					<div class="articl_info_t">作者简介：</div>
+					<div class="articl_info_c">
+						<div class="info_c">王利华，南开大学中国社会史研究中心教授，历史学博士。（天津 300071）</div>
+					</div>
+					<br class="cls"/>
+				</div>
+				<div class="artBaseInfo" id="tAutInfo"/>
+				<div class="artBaseInfo" id="orgInfo">
+					<div class="articl_info_t">原文出处：</div>
+					<div class="articl_info_c">
+						<div class="info_c">社会科学战线</div>
+					</div>
+					<br class="cls"/>
+				</div>
+				<div class="artBaseInfo" id="astInfo">
+					<div class="articl_info_t">内容提要：</div>
+					<div class="articl_info_c">
+						<div class="info_c">
+							<p>魏晋南北朝时期，北方各族政权都很重视发展内河航运事业，开凿运渠，疏通河道，这些努力大多是出于军事活动的需要，而非一般性的交通和物资转输。其时，华北地区的众多河流水量仍然丰富并且比较稳定，许多河流都可以通航，渠河相联形成水上交通网络，成为兵力调动和战争物资转输的重要通道，对军事活动和战争形势产生了重要影响。此番情节以往不甚受到学人关注，实则不论从古代军事史还是环境变迁史来说，都是甚有意义的情况。</p>
+						</div>
+					</div>
+					<br class="cls"/>
+				</div>
+				<div id="artPdcInfo" class="artBaseInfo">
+					<div class="col_info"><b>期刊代号：</b>K22 </div>
+					<div class="col_info"><b>分类名称：</b>魏晋南北朝隋唐史 </div>
+					<div class="col_info"><b>复印期号：</b>2009 年 01 期 </div>
+					<br class="cls"/>
+				</div>
+				<div class="artBaseInfo" id="artKeyword">
+					<div class="articl_info_t">关 键 词：</div>
+					<div class="articl_info_c">
+						<div class="info_c">
+								<a target="_blank" href="/qw?s0=7&amp;s1=%e9%ad%8f%e6%99%8b%e5%8d%97%e5%8c%97%e6%9c%9d">魏晋南北朝</a> 
+								<a target="_blank" href="/qw?s0=7&amp;s1=%e5%8d%8e%e5%8c%97%e5%9c%b0%e5%8c%ba">华北地区</a> 
+								<a target="_blank" href="/qw?s0=7&amp;s1=%e6%b0%b4%e6%96%87%e7%8e%af%e5%a2%83">水文环境</a> 
+								<a target="_blank" href="/qw?s0=7&amp;s1=%e5%86%85%e6%b2%b3%e8%88%aa%e8%bf%90">内河航运</a> 
+								<a target="_blank" href="/qw?s0=7&amp;s1=%e5%86%9b%e4%ba%8b%e6%b4%bb%e5%8a%a8">军事活动</a> 
+
+						</div>
+					</div>
+					<br class="cls"/>
+				</div>
+				<div class="artBaseInfo" id="artTitleNote"/>
+				<a id="readArea" name="readArea"/>
+				
+			</div>
+			<div id="artText"><div class="artibody" id="Zoom" style="font-size: 14px;">
+    </p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;中图分类号：K235;K901.9  文献标识码：A  文章编号：0257-0246(2008)09-0149-07</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;古代北方的行旅和物资流通并不完全倚恃车马畜力，内河航运交通亦曾甚可称道，只是由于自然环境改变（水资源减少）逐渐衰落了。即以魏晋南北朝时期而言，华北①地区内河航运曾相当发达，刺激当时华北内河航运迅速发展的主要因素，并非一般性的物资转输需要，而是军事活动的需要，这与两汉和隋唐以后河流航运主要发挥内聚性物资流通功能的情况很不一样。这不仅在古代军事史上是一个有趣的现象，在华北交通史上也是饶有兴味的一章。本文分阶段对有关史实稍作梳理，舛误之处敬请驳正。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;一、曹魏西晋时期</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;曹魏虽是一个割据王朝，统治的时间也不长，却对华北河运事业的发展作出了突出贡献。正是曹魏开凿了几条重要运渠，最早将黄河以北的众多河流联通起来，形成了庞大的运输网络，不仅促进了魏晋北朝时期河北经济与社会发展，也为后代大运河的全线贯通打下了基础。②而曹魏积极开沟凿渠、发展河流航运的主要动机，乃是为了便于军事活动。在黄河以南地区，曹魏的军事活动亦多倚恃河流航运。在曹魏以前，西汉贾让曾有过发展河北水运的动议，但未见实施；东汉时期更曾有过尝试，亦是劳而无功。③及至东汉末年，天下大乱，中原逐鹿，曹操与袁氏集团经过多年厮杀，逐渐统一了北方，但袁氏残余力量仍龟缩于东北一隅，并与边境的乌丸相勾结。为了彻底清除袁氏残余、并解除乌丸的威胁，曹操在河北开凿了若干渠道，将这一地区的多条河流联通起来，以便于兵力调动和军需物资转输。大体过程是：汉献帝建安九年(204)，曹操在淇水入黄河口筑枋头堰，遏淇水入白沟，增加白沟水量，使之能够大量通行船只，并与清水连接成一条河运航道。④建安十一年(206)，为了讨伐乌丸，复凿渠引滹沱入泒水，名平虏渠；从泃河口凿渠入潞河，以通海，名泉州渠；同时还开挖一条新河，引鲍丘水自雍奴县界东出，历盐关口，至东亭附近注入濡水。这样就将泒水、潞水、鲍丘水和濡水等河流连接起来。从而，西南起自淇水、白沟，东北下经清水，渡平虏渠，入泒水、潞水、鲍丘水，再经泉州渠、新河两条人工河渠，直抵濡水，形成了一条贯通河北大平原、直抵今长城附近的水上运输线。⑤</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;约略同一时期，曹操自许昌迁于邺（今河北临漳县西南）并以此为都。为了都城转输之便，曹魏又相继开凿了几条人工漕渠，使河北平原上的众多河流进一步互相沟通，形成河运网络。其中之一是建安十八年(213)凿渠引漳水入白沟，谓之“利漕渠”，打通滨临漳水的邺城之河运航道。⑥由于利漕渠的开通，清漳水、白沟、淇水等河流互相连接。《水经注》卷9《淇水》云：“白沟又东北，迳罗勒城东，又东北，漳水注之，谓之利漕口。自下清漳、白沟、淇河，咸得通称也。”卷10《浊漳水》又说：“汉献帝建安十八年，魏太祖凿渠，引漳水东入清、洹，以通河漕。”其后，又于太和年间开凿了白马渠，沟通滹沱河和衡漳水；景初年间，公孙渊反叛，复凿鲁口渠，沟通滹沱河与泒水，以满足军粮运输的需要。“于是河北平原西南部又有了一条南北向的水运航道，即在平原西部，从邺出发，由利漕渠、漳水、白马渠、滹沱河、鲁口渠、泒水，也可以到达今天津地区”。⑦</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;由于曹魏的积极经营，河北内河航运取得了前所未有的发展，不仅对曹魏、而且对整个北朝的政治、军事与经济都发挥了巨大作用；隋朝大运河北段也是凭借了曹魏时期的基础。大体上说，从曹魏至北魏时期，这些航道都是可以通航的，不但曹操领兵北征袁氏和乌丸是凭借这些水道，曹魏末期司马懿领兵征讨公孙渊亦借此运输军粮。⑧到了北魏时期，有人建议定都邺城，其重要理由之一正是这个地区有良好的内河航运条件。《后魏书》载：“文帝太和十八年(494)，卜迁都，经邺，登铜雀台，御史崔光等曰：‘邺城平原千里，漕运四通，有西门、史起旧迹，可以饶富，在德不在险，请都之。’”⑥魏晋北朝时期河北内河运道之通畅由此可见。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;曹魏发展内河航运的活动，前期主要集中于河北，后期则将重点转向了河南，但同样是基于军事活动的需要，不过目标已转向了东南的孙吴。孙吴地处江淮以南，其地多水，其人习舟楫，具有水上军事优势。为了征伐孙吴、混一中国，曹魏积极发展水军。因此之故，当时发展河南地区的河运，就不仅仅是为了通行军粮船只，同时也是为了调度水师舰船。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;早在建安年间，曹操已开始训练水军。建安十三年正月，曹操在邺城“作玄武池以肄舟师”，大约是为南下征伐刘表、孙权做准备；赤壁之战失败后，曹魏更加积极地发展水军，故建安十四年三月，曹操率军至谯郡，“作轻舟，治水军”。⑩曹丕《浮淮赋》说：“建安十四年，师自谯东征，大兴水军，泛舟万艘，虽孝武舳舻千里，殆不过也。”(11)足见曹魏水师之盛。自魏文帝以后，历次南下军事行动均大量打造船只，派出大批舟师。(12)王粲有诗云：“朝发邺都桥，暮济白马津。逍遥河堤上，左右望我军。连舫逾万艘，带甲千万人。”(13)所描绘的正是曹魏水师南下的盛况。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;不用说，水师的调动以及南下伐吴的整个军事行动，都需要有通畅的水上运道，为此，曹魏及西晋先后开凿了若干个运渠。早在建安七年，已经开凿了睢阳渠；魏文帝黄初六年(225)又开凿了讨虏渠；豫州刺史主持开凿了贾侯渠；著名将领邓艾更先后开凿了广漕渠、淮阳渠和百尺渠，兼灌溉和航运之利。《晋书》卷26《食货志》云：“（邓艾）兼修广淮阳、百尺二渠，上引河流，下通淮颍，大治诸陂于颍南、颍北，穿渠三百余里，溉田二万顷，淮南、淮北皆相连接。自寿春到京师，农官兵田，鸡犬之声，阡陌相属。每东南有事，大军出征，泛舟而下，达于江淮，资食有储，而无水害，艾所建也。”因史书记载简略，上述运渠的具体位置、所连接的河流均已无法弄清，但它们都在黄淮平原的汴、汝、涡、颍、睢、淮之间，这一点应无问题。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;值得注意的是，曹魏及西晋南征的航运路线，史书有几条相对清晰的记载。《三国志》卷2《魏书·文帝纪》云：黄初五年“八月，为水军，亲御龙舟，循蔡、颍，浮淮，幸寿春”。又云：黄初六年“八月，帝遂以舟师自谯循涡入淮，从陆道幸徐”。可知曹魏时，蔡水、颍水、涡水等均可通行较大船只，并与黄河和淮河相通。又，在晋初伐吴战争中，王濬率领了一支相当庞大的军队，杜预在给王濬的书信中称：“足下径取秣陵，自江入淮，逾于泗、汴，溯河而上，振旅还都。”所经由的河流明显不同于曹魏，说明晋初伐吴军队返京时所经行的是东面的一条航道，其西面的蔡、颍、涡水是否仍然畅通则不得而知。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;西晋时，都城洛阳周围的河运也受到重视，晋武帝泰始十年(274)曾计划凿陕南山，决黄河东注洛水“以通运漕”，不过没有真正实施；晋怀帝永嘉初年，李矩、袁孚等在洛阳修千金欯堨“以利运漕”，(14)其目的都在于发展京师周围的内河运输。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;魏晋时，河东与关中诸河的通航情况，史无明载。仅见的一条资料与曹操讨伐韩遂、马超有关，虽然在潼关一战中利用了不少船只，但进入关中是否以船只载兵或者运粮，却没有记载。(15)不过，从后来刘裕由水路入关中的事实来看，当时汾、渭诸河均可通航应无可疑。由上可见，魏晋时期，华北较大的河流均可大量通行船只。由于曹魏积极开挖人工渠道、沟通诸河，在黄河南北形成了庞大的内河运输网络，对当时军需物资转输和水师活动发挥了重要作用，内河航运是相当发达的。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;二、东晋十六国时期</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;永嘉乱后，中原版荡，各族政权纷攘而立，彼此杀伐，兴亡无常，此一时期北方政权没有进行过大举开凿沟渠的活动。但这并不意味着航道尽废、水运衰落。事实上，在当时频繁的战争中，各地、特别是黄河以南的河流航道发挥了极其重要的转输功能。由于其时政局混乱，史事纷杂，全面述说甚为不便，故只择其中重要的几组，略作叙述。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;第一组史实是后赵的军事活动与内河航运。史书记载石勒与内河航运有关的一项活动，是他曾在葛陂“课农造舟”，为进攻东晋做准备；虽然他并没有能够成功南下，但其子石虎却在淮河巨灵口（地点不详，当在寿春附近）与东晋军队交锋，双方都动用了不少船只。同书又载：石勒父子兵败后退至汲郡，夺取东燕将领向冰、会雄等人屯据在枋口附近水渎中的大量船只和物资，兵势复振。(16)</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;后赵定都于邺，其地为曹魏故都，因曹魏积极经营而形成的良好河运条件，恰为后赵军事活动所倚恃，大量制造和运用舟船是后赵军事上的一大特点。史称石虎“志在穷兵”，“敕河南四州具南师之备，并、朔、秦、雍严四讨之资，青、冀、幽州三五发卒，诸州造甲者五十万人。兼公侯牧宰竞兴私利，百姓失业，十室而七。船夫十七万人为水所没、猛兽所害，三分而一”。(17)为了讨伐昌黎，他曾“以船三百艘运谷三十万斛诣高句丽”，“又令青州造船千艘”。为了攻讨慕容皝，“令司、冀、青、徐、幽、并、雍兼复之家，五丁取三，四丁取二，合邺城旧军满五十万，具船万艘，自河通海，运谷豆千一百万斛于安乐城，以备征军之调”。(18)石虎的军船通过了哪些河流运道不甚清楚，但其中肯定利用了黄河和清水，其讨伐慕容氏是通过黄河运道将军需物资运往海上的；东晋成帝咸康四年(338)，桃豹、王华等则率舟师由位于清河河口的漂榆津（今天津静海县北）入海。其他方面的记载也证实：后赵充分利用了黄河以北的河流航运条件。例如，石虎曾因租赋数额巨大、转输劳烦，“令中仓岁入百万斛，余皆储之水次”；他还曾下令“刑赎之家得以钱代财帛，无钱听以谷麦，皆随时价输水次仓”。又因“冀州八郡雨雹，大伤秋稼”，“遣御史所在发水次仓麦，以给秋种”。(19)所谓“水次仓”，即是建于诸河水道附近的官仓。从石虎的这些命令看来，当时水次仓的数量应颇为不少，由此可以间接推知：后赵时期的内河航运相当发达。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;第二组值得陈述的史实，与前秦苻坚南下伐晋有关。这是东晋十六国时期最大的一次军事行动，兵力和物资转输十分浩大。《晋书》卷114《苻坚载记》下称：“坚发长安，戎卒六十余万，骑二十七万，前后千里，旗鼓相望。坚至项城，凉州之兵始达咸阳，蜀汉之军顺流而下，幽、冀之众至于彭城，东西万里，水陆齐进。运漕万艘，自河入石门，达于汝、颍。”(20)其中明确指出的一条航道，是由黄河入石门、经颍水南下淮河。(21)可见当时由关中经渭水下黄河、由黄河入颍水下淮河的运道畅通，并且通航能力相当可观。究竟有多少军队和物资经过了这条水道不太清楚，但《资治通鉴》称苻融所率先行到达颍口（指颍水入淮水口）的军队有30万。笔者推测：经由此道而下的只是关中和凉州之兵，由幽、冀南下彭城的军队则可能是经过东面的另一条水道。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;这一推测可由晋军反攻的路线得到证明。《晋书》卷79《谢安传附玄传》是这样记载的：“既而安奏苻坚丧败，宜乘其衅会，以玄为前锋都督，率冠军将军桓石虔径造涡、颍，经略旧都。玄复率众次于彭城（今徐州），遣参军刘袭攻坚兖州刺史张崇于鄄城（今山东鄄城北），走之，使刘牢之守鄄城。兖州既平，玄患水道险涩，粮运艰难，用督护闻人奭谋，堰吕梁水，树栅，立七埭为派，拥二岸之流，以利运漕，自此公私利便。”根据这一记载，谢玄军队反攻的路线分东西两路：西路是桓石虔等率兵赴涡、颍，所取水道即苻融南下路线；东路则取道彭城，进攻兖州，由此可知当时还有一条由淮河入泗水而北上的航道。不过，由谢玄壅吕梁水、立七埭以利运漕的举动可以发现，东路运道虽通，但水流不是很大，所以谢玄有“粮运艰难”的后顾之忧。(22)补充说明一点：谢玄壅水立埭是此一时期第一次设埭截水以通运漕的活动。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;第三组相关事实则是东晋桓温的北伐活动。桓温数次北伐，也都是大规模的军事行动，调动了大量兵力和物资，军队移动和军粮转运也是借助于舟船，河运渠道通畅与否直接关系到北伐的成败。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;桓温第一次北伐，派遣高武进据鲁阳、戴施进屯河上，“勒舟师以逼许、洛，以谯、梁水道既通，请徐、豫兵乘淮、泗入河。”也就是说，第一次北伐时，军队由淮河经泗水入黄河，进逼许昌、洛阳，沿途运道是通畅的。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;但是晋废帝太和四年(369)的那次北伐却很不幸运。时值大旱，汴水流浅，运道不通，桓温不得不派兵从巨野泽凿渠三百余里入清水，并引汶水汇之，达到由泗水入清水、由清水入黄河的目的。对此，《资治通鉴》概括得比较好：“大司马温自兖州伐燕。郗超曰：‘道远，汴水又浅，恐漕运难通。’温不从。六月辛丑，温至金乡，天旱，水道绝。温使冠军将军毛虎生凿巨野三百里，引汶水会于清水……温引舟师自清水入河，舳舻数百里。”此次进军，由于汴水水浅，难通漕运，军需补给困难，所以郗超试图劝止，但急于成功的桓温不接受劝告，竟引巨野泽水入清水，晋军经清水入黄河，一直西进到达了河内地区。桓温在从东路进军的同时，命袁真、赵悦等进兵谯、梁一带，并试图占据石门，打通从西路运输军粮的道路，袁真等在谯、梁一带取得了胜利，却一直无法打开石门，导致粮道不通，东晋大军食尽，不得不焚舟船、弃辎重铠仗，自陆道奔还。退兵过程中又被敌军追击，襄邑一战即损失了三万人。(23)桓温的这次北伐，因为沿途河道不通，运输发生了很大困难，以惨败告终。不过，史书记载说明，当时运道不很通畅是由大旱造成的。桓温的军队为了通运，凿渠引巨野泽和汶水入清水，乃是此一时期第二次、也是最大的一次凿渠通运行动。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;第四组相关史实是晋末刘裕的两次军事行动。前一次是为了讨伐青州的慕容超，晋安帝义熙五年(409)年四月，刘裕的军队从建邺出发，溯淮入泗，五月到达下邳，均由水路。至下邳以后，“留船舰辎重，步军进琅邪”。(24)可见此时由淮入泗可至下邳（今江苏邳县南），下邳至琅邪（今山东临沂一带）的水道是否通畅，宋书无明载，此间的沂水或许亦可通船。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;更重要的是刘裕西征关中。东晋安帝义熙十三年(417)正月，刘裕“以舟师进讨”，(25)具体路线宋书本传未载。但他们曾经过彭城、留城（应即留县城，在今江苏沛县与徐州之间、微山湖西岸），走的是由淮入泗、北上清水的航道，而不是西面的涡、颍诸水，也不是到达彭城以后西行汴水。十分难得的是，《魏书》却记得很清楚，其称：“泰常元年(416)，司马德宗将刘裕伐姚泓，舟师自淮、泗入清，欲溯河西上，假道于国。”(26)也就是说：刘裕此次西征，亦取道桓温主力军队在太和四年所走的路线。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;东晋西征军行至洛阳时，刘裕还曾遣人溯洛水而上，探寻西进航行通道。《水经注》卷15《洛水》云：“洛水又东，迳檀山南，其山四绝孤峙，山上有坞聚，俗谓之檀山坞。义熙中，刘公西入长安，舟师所届，次于洛阳。命参军戴延之与府舍人虞道元，即舟溯流，穷览洛川，欲知水军可至之处。延之届此而返，竟不达其源也。”又，《太平御览》卷770引戴延之《西征记》曰：“檀山凡去洛城水道五百三十里，由新安、渑池、宜阳、三乐。三乐男女老劣未尝见舡，既闻晋使溯流，皆相引蚁聚川侧，俯仰倾笑。”(27)这一事实说明，当时洛水上中游也是可以通行船只的，但上游航运并没有发展起来，三乐的百姓对船只很陌生，所以见到晋人的舟船时，尔乃聚观戏笑。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;值得注意的是刘裕北讨、西征的行军时间。其北讨慕容超是在四五月间，北方河流汛期尚未到来，其军船与粮船可以行至下邳。而其西征之时，部队一月由建康出发，到洛阳的时间约在四月，即此前循水路行进的时间是在一月至四月间。此时正是北方河流水量最少的枯水季节，但他们却可一路舟行到达洛阳，并且还能乘舟行至洛水中上游，说明当时河流即使在枯水期水量亦甚丰富，可行船只。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;此外，《宋书》记载了由黄河入渭河的一些情况。该书卷45《王镇恶传》云：“大军次潼关，谋进取之计，镇恶请率水军自河入渭。伪镇北将军姚强屯兵泾上，镇恶遣毛德祖击破之，直至渭桥。镇恶所乘皆蒙冲小舰，行船者悉在舰内，羌见舰溯渭而进，舰外不见有乘行船人，北土素无舟楫，莫不惊惋，咸谓为神。镇恶既至，令将士食毕，便弃船登岸。渭水流急，倏忽间，诸舰悉逐流去。”镇恶由黄入渭时间是七月，渭河正值汛期，自然是水多流急，通行船只没有问题。但当地人似乎很久没有见过舟船，所以当王镇恶部队的舰船入渭时，敌军感到很惊异。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;三、北朝时期</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;北朝时期，特别是北魏时期，内河航运甚受重视，并且同样主要出于军事需要。(28)</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;北魏君臣在统一北方之前已注意到水运。早在太武帝太平真君七年(446)，大臣刁雍即上奏表，建议通过水运解决北方边镇军粮运输问题，但未见实施。(29)其后又有薛钦、朱元旭、崔休、元雍、李崇等讨论发展河运，漕转京西水次汾、华二州和恒农、河北、河东、正平、平阳五郡的贡赋，其中崔休还提到“东路诸州皆先通水运，今年租调，悉用舟楫”。也就是说，在北魏初期，华北东部已通漕运。(30)同一时期，为了防犯晋、宋之兵，已有造船戍河之举。神麚三年(430)三月，“（太武）帝闻刘义隆将寇边，乃诏冀、定、相三州造船三千艘，简幽州以南戍兵集于河上以备之。”(31)又曾因南朝兵至，边将请“就漳水造船，严以为备”，但被崔浩劝止。(32)可见北魏前期已经重视水运。但北魏河运事业的真正发展，是在迁都洛阳之后。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;北魏迁都洛阳之后，所面临的自然环境与平城时期迥然不同，加以此后同南朝的战争日益频繁，发展河运既是经济的需要，更是军事的需要。在南迁过程中，统治阶层就已经考虑到了水运问题。《太平御览》卷161引《后魏书》曰：“文帝太和十八年，卜迁都，经邺，登铜雀台，御史崔光等曰：‘邺城平原千里，漕运四通，有西门、史起旧迹，可以饶富，在德不在险，请都之。’”但都城最终还是定在水运更加方便、地方更加广大的洛阳。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;为了发展河运，孝文帝曾多次泛舟巡游，西幸长安、东达皜磝，北至邺城，南抵徐州。自邺还京途中，孝文帝“泛舟洪池”，对大臣李冲说：“朕欲从此通渠于洛，南伐之日，何容不从此入洛，从洛入河，从河入汴，从汴入清，以至于淮？下船而战，犹出户而斗，此乃军国之大计。今沟渠若须二万人以下、六十日有成者，宜以渐修之。”李冲认为，如能成功，“便是士无远涉之劳，战有兼人之力。”(33)后来行巡徐州，又“泛泗入河，溯流还洛”，行至皜磝时，随行大臣成淹“以黄河峻急，虑有倾危，乃上疏陈谏”。孝文帝说：“朕以恒、代无运漕之路，故京邑民贫。今移都伊、洛，欲通运四方，而黄河急峻，人皆难涉。我因有此行，必须乘流，所以开百姓之心。知卿至诚，而今者不得相纳。”(34)充分表达了他对发展河流航运的急迫心情。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;随着东南战事的发展，前线军队人数不断增加，军需物资转输也就成了一大难题。为了解决军粮供给问题，北魏一面组织戍边士兵屯田和进行和籴，一面在可通水运的地区设立运仓。《魏书·食货志》称：“自徐、扬内附之后，仍世经略江淮，于是转运中州，以实边镇，百姓疲于道路。乃令番戍之兵，营起屯田，又收内郡兵资与民和籴，积为边备。有司又请于水运之次，随便置仓，乃于小平、石门、白马津、漳涯、黑水、济州、陈郡、大梁凡八所，各立邸阁，每军国有须，应机漕引。自此费役微省。”此八个设仓之处，小平、黑水不详何地，石门当在距洛阳不远的黄河岸边，漳涯从名称来看当在漳水之岸，白马津（在今河南滑县）和济州（今山东聊城与东阿之间）都在黄河沿岸；陈郡（今河南沈丘附近）在颍水岸边，大梁（今河南开封）则在蒗荡渠（汴水）边，均在内河航运线上。又《魏书》卷50《尉元传》载：尉元曾因彭城饥荒，上表请以所缴获的宋军船只900艘，运输冀、相、济、兖四州粟救饥，据此可知此四州与彭城水路相通。这些情况，反映当时黄河南北水运仍具相当规模。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;由孝文帝巡游路线及设仓的地点，我们大体可以断定：当时河流航运，往西可至长安，往东可直通入海，向北可水行至邺城，而往南则可“从河入汴，从汴入清，以至于淮”。颍水亦可通运，故在陈郡也设有运仓。由于当时的战事主要在东南，所以关于黄河以南的河运资料较多。文献记载同一时期的南北战事多在淮河一线，而战争双方也都充分地利用了水运条件，动用了大量船只。特别有意思的是，在淮河沿线展开的战役多是水战，(35)因此缘淮一带水运最为发达。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;北魏以后，邺城周围河流仍可通运，北齐神武帝高欢曾“遣三千骑镇建兴，益河东及济州兵于白沟，虏船不听向洛，诸州和籴粟运入邺城”。(36)平原东北部的漯水似乎也通舟运，所以《水经注》说：“漯水又北，迳聊城县故城西。城内有金城，周币有水，南门有驰道，绝水南出，自外泛舟而行矣。”(37)黄淮之间的运道，原来的西线即颍水，和其上游长社（今河南长葛东北）临近的洧水都可通船，(38)是否全线贯通则不得而知；原来的东线，清水至淮河也可通运。(39)不过，据《水经注》记载，泗水在冬春季节水浅沙多，所以行者多取道附近的丁溪。其称：“泗水又东南流，丁溪水注之。溪水上承泗水于吕县，东南流，北带广隰，山高而注于泗川。泗水冬春浅涩，常排沙通道，是以行者多从此溪。即陆机《行思赋》所云乘丁水之捷岸，排泗川之积沙者也”。(40)至于华北西部，据北周庾信《终南山义谷铭》记载：北周武帝保定二年(562)曾有人在关中“凿石开谷，下南山之材”。《铭》称其运道“东出蓝田，则控灞乘浐；西连子午，则据泾浮渭。派别八溪，分流九谷，铜梁四注，石阙双耸。青绮春门，沟渠交映，绿槐秋市，舟楫相通，运以冥宫。裁其梓匠，岂如运石丹泉，裁通梁阳之殿；穿渠谷水，直浇金墉之城。国富人殷，方传千载，立功立事，敢勒山阿”。(41)这一举动早于唐人凿渠以漕南山薪炭几个世纪。由这些情况可见，北齐、北周时期，各地河流仍通舟运，与北魏相比似乎没有很大的改变，不过与军事活动的关系则渐渐不像过去那么密切了。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;北朝时期基本不见有凿渠通运的记载，虽然当时也有些人提出一些设想，却未见实行。仅《魏书》卷66《崔亮传》称崔亮建议：“修汴、蔡二渠，以通边运，公私赖焉。”即使他的建议曾得到了实施，也只是疏浚前代旧渠，而非新开。所以北朝时期的通运河渠，与东晋十六国时期相比，未见有新的发展。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;通过以上史实陈述，魏晋南北朝时期的军事活动，与当时华北内河航运的关系，昭昭可见，无须再增赘言。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;注释：</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;①本文所云“华北”，系采用自然地理区划概念，其范围约相当于通常所说的黄河中下游地区，而非指现代行政区划中的华北区。特作说明。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;②关于曹魏在河北地区开渠通漕对古代运河发展的贡献，已有多位学者作过论述，例如日本学者佐久间吉也早在1970年代已有专论（见所撰《关于曹操时漕运路线的形成》，载《社会文化史学》1976年号；中国学者的有关论著也时有提及，如邹逸麟主编《黄淮海平原历史地理》，合肥：安徽教育出版社，1997年，第150-151页即有概括论述）。本文叙述虽嫌重复，但主要强调其军事目标和功能。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;③《汉书》卷29《沟洫志》、《后汉书》卷16《邓寇传》。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;④《三国志》卷1《魏书·武帝纪》；《水经注》卷9《淇水》。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⑤《三国志》卷1《魏书·武帝纪》：“三郡乌丸承天下乱，破幽州，略有汉民合十余万户。袁绍皆立其酋豪为单于，以家人子为己女，妻焉。辽西单于蹋顿尤强，为绍所厚，故尚兄弟归之，数入塞为害。公将征之，凿渠，自呼沱入泒水，名平虏渠；又从泃河口凿入潞河，名泉州渠，以通海。”卷14《魏书·程郭董刘蒋刘传》云：“后袁尚依乌丸蹋顿，太祖将征之。患军粮难致，凿平虏、泉州二渠入海通运。”关于“新河”，《水经注》卷14《濡水》云“濡水东南流，迳乐安亭，东与新河故渎合。渎自雍奴县承鲍丘水，东出，谓之盐关口。魏太祖征蹋顿，与泃口俱导也，世谓之新河矣”，以“平虏”作为渠名，直接点明了开凿该渠的军事目的。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⑥《三国志》卷1《魏书·武帝纪》。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⑦邹逸麟主编：《黄淮海平原历史地理》，合肥：安徽教育出版社，1997年，第151页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⑧史载司马懿征伐公孙渊时，由于遭遇30多天大雨，河流暴涨，魏军的运输船只甚至得以进入大辽水、到达襄平城下（今辽宁辽阳市西南）!当然，华北河运线并不能通往辽东的大辽水，魏军船只应是由海道抵达的。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⑨据《太平御览》卷161引。按此文不见今本《魏书》，不知所指《后魏书》出自何人。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⑩《三国志》卷1《魏书·武帝纪》。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(11)《艺文类聚》卷8引魏文帝《浮淮赋》。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(12)《三国志》卷2《魏书·文帝纪》、卷28《魏书·王毌丘诸葛邓钟传》。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(13)王粲：《从军行》，载《文选》卷27。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(14)分见《晋书》卷3《武帝纪》、卷63《李矩传》，《通典》卷10《食货》10。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(15)《三国志》卷18《魏书·二李臧文吕许典二庞阎传》。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(16)《晋书》卷104《石勒载记》上。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(17)《晋书》卷106《石季龙载记》上，《魏书》卷95《羯胡石勒传》。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(18)《晋书》卷106《石季龙载记》上。按：文中“高句丽”，当指今辽东半岛。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(19)《晋书》卷106《石季龙载记》上。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(20)《魏书》卷95《临渭氐苻健传》，《资治通鉴》卷105，《晋纪》卷27同。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(21)按：文中“石门”的具体位置不详，“项城”即项县城，位于颍水边，在今河南任丘；其言“达于汝、颍”，他处未见汝水通航记载，此处可能是因行文关系而虚写的，待考。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(22)其事又见《太平御览》卷73引《晋中兴书》。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(23)《晋书》卷67《郗鉴传附超传》、卷98《桓温传》，《资治通鉴》卷102《晋纪》24。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(24)《宋书》卷1《武帝纪》1。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(25)《宋书》卷2《武帝纪》2。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(26)《魏书》卷35《崔浩传》。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(27)按：“劣”当为“少”或“幼”字之误；“倾”疑亦误。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(28)薛瑞泽先生曾撰文讨论北魏时期的内河航运（参见薛瑞泽：《北魏的内河航运》，《山西师大学报》2001年3期），对有关史实进行了梳理，虽然叙事或有未周，却为本文提供了很好的参考。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(29)《魏书》卷38《刁雍传》。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(30)《魏书》卷110《食货志》。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(31)《魏书》卷4上《世祖纪》上。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(32)《魏书》卷35《崔浩传》。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(33)《魏书》卷53《李冲传》。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(34)《魏书》卷79《成淹传》。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(35)具体事实，可参《魏书》卷66《李崇传》、卷70《傅永传》等记载。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(36)《北齐书》卷2《神武帝纪》下。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(37)《水经注》卷5《河水》五。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(38)《北齐书》卷27《刘丰传》。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(39)《周书》卷40《王轨传》。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(40)《水经注》卷25《泗水》。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(41)兹据《初学记》卷5《地理》上引。
+</div>
+<div class="page-list">
+    <div class="pageNav" id="pageList"></div>
+</div>
+</div><br class="cls"/>
+		</div>
+		</body></html>

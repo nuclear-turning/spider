@@ -1,0 +1,200 @@
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><style>.trR{ text-align:right;}
+#wraper{width:1190px; margin:0 auto; margin-bottom:10px;text-align:left;}
+#left{ float:left;width:250px; text-align:left;}
+#right{float:right;width:930px;text-align:left;border-top:2px solid #619bc0; padding-bottom:10px;}
+.border_w{ border:1px solid #d3d3d3;border-top:2px solid #619bc0;}
+.t01{height:30px;line-height:30px;border:1px solid #dddddd;padding-left:10px;background:url(../images/tbg01.jpg) repeat-x bottom; color:#1183c1; font-size:14px;}
+.con_01{ padding:10px;}
+.con_cbg{ background:url(../images/con_cbg.gif) repeat-y;}
+.con_bbg{ background:url(../images/con_bbg.gif) no-repeat left bottom; height:1px; line-height:1px; font-size:0;}
+
+.source{margin:15px;background:url(../images/linex.gif) repeat-x bottom; padding-bottom:30px; margin-bottom:30px;}
+.source .source-img{border:1px solid #d3d3d3; text-align:center; padding:5px;margin-bottom:10px; }
+.source p{color:#666666; font-weight:bold; font-size:12px;}
+.source .fblue{ color:#236bac; font-weight:normal;}
+
+.t_tj{ height:27px;padding-top:2px;margin:15px; background:url(../images/con_t_tj.gif) no-repeat left top; padding-left:10px; color:#FFFFFF; font-size:14px;}
+.c12_01{ margin-left:15px; margin-right:15px; margin-bottom:15px;}
+.c12_01 li{font-size:12px; line-height:24px; background: url(../images/dot.gif) no-repeat 2px 10px; padding-left:15px;}
+
+#artibodyTitle{color:#236bac;font-family:"宋体";font-size:20px;font-weight: normal;line-height:35px;text-align:center;margin-top:10px;	text-align:center;}
+#artisubTitle{font-family:"宋体";font-size:16px;font-weight: normal;line-height:28px;text-align:center;}
+.articl_info{margin-left:30px; margin-right:30px; position:relative;border-bottom:1px solid #e1e1e1;padding-bottom:20px; margin-bottom:20px;}
+.btn-img{
+	background-image:url(../images/allbg.png);
+	background-repeat:no-repeat;
+	font-size:12px;		
+	cursor:pointer;
+	border: 0px none;
+	display: inline-block;
+	vertical-align:middle;
+	text-align:center;}
+
+.artInfo{height:22px;border-top:1px solid #e1e1e1;border-bottom:1px solid #e1e1e1;padding:5px;margin:20px;}
+.artInfo li{float:left;width:33%;height:22px; line-height:22px; color:#666666;}
+
+.artInfo li .collectionPage_link{
+	background-position:-509px -80px;
+	padding-left:10px;
+	margin-top:-2px;
+	_margin-top:0px;
+	margin-left:10px;
+	width:51px;
+	height:22px; 
+	line-height:22px;		
+	color:#1183c1;	}
+.artInfo li .printPage_link{
+	background-position:-570px -80px;
+	padding-left:10px;
+	margin-top:-2px;
+	_margin-top:0px;
+	margin-left:10px;
+	width:51px;
+	height:22px; 
+	line-height:22px;	
+	color:#1183c1;}
+.artInfo li .downloadPage_link{
+	background-position:-631px -80px;
+	margin-top:-2px;
+	_margin-top:0px;
+	margin-left:10px;
+	width:51px;
+	padding-left:10px;
+	height:22px; 
+	line-height:22px;	
+	color:#1183c1;}
+
+
+.artBaseInfo{line-height:24px; margin-bottom:5px;}
+.artBaseInfo .info_left{float:left;width:80px;}
+.artBaseInfo .info_right{float:left;width:790px;}
+
+.artBaseInfo dt{float:left;width:80px; color:#666666;line-height:20px; display:inline-block;}
+.artBaseInfo dd{color:#666666;line-height:20px;display:inline-block;}
+.artBaseInfo .col li{ float:left;width:210px; height:20px; line-height:20px;color:#666666;}
+
+.artBaseInfo .item{ float:left;width:50%;}
+.artBaseInfo .notice{
+	margin-left:10px;
+	width:61px;
+	padding-left:10px;
+	height:22px; 
+	line-height:22px;
+	background-position:-448px -80px;	
+	color:#1183c1;}
+
+.artInfo{height:30px;border-top:1px solid #e1e1e1;border-bottom:1px solid #e1e1e1;margin:20px 10px;}
+.artInfo div{ float:left;width:30%;height:30px; line-height:30px; text-align:center;}
+.artInfo div a{ margin-left:20px; margin-right:20px;}
+.artInfo li{float:left;width:33%;height:22px; line-height:22px; color:#666666;}
+
+.articl_info{margin-left:30px;margin-right:30px; position:relative;border-bottom:1px solid #e1e1e1;padding-bottom:20px; margin-bottom:20px;}
+.artBaseInfo{margin-bottom:5px;}
+.articl_info_t{float:left;width:80px;margin-right: -100%;font-weight:bold;line-height:24px;}
+.articl_info_c{float: left;width: 100%;}
+.articl_info_c .info_c{margin-left:80px; line-height:24px;}
+.artBaseInfo .marL{ margin-left:20PX;}
+.artBaseInfo .col_info{ float:left;width:30%;line-height:20px;}
+
+.fontSize{position: relative;right:0px;top:0px;font-size:12px; height:30px; line-height:30px; text-align:right;}
+.fontSize a{border:1px solid #c2c2c2;margin-right:10px;padding:4px 1px;*padding:1px; cursor:pointer;font-size:12px;}
+.fontSize a span{background:url(../images/page_a_36.png) repeat-x;padding:3px;}
+
+.fontSize a.now{border: #f9ad75 1px solid;padding:4px 1px;*padding:1px;}
+.fontSize a.now span{color:#ff7d27;background:url(../images/current_34.png) repeat-x bottom;padding:3px;}
+.artibody{margin-left:20px;margin-right:20px;font: 18px/180% "Microsoft YaHei","微软雅黑"; color:#666666;}
+.artibody p{margin-bottom:20px;}
+
+.fontSize A:link{ color:#000000;text-decoration:none;}
+.fontSize A:visited{ color:#000000;text-decoration:none;}
+.fontSize A:hover{ color:#FF0000;text-decoration:none;}
+.fontSize a.now:link{color:#ff7d27;text-decoration:none;}
+#Zoom img {max-width:600px; max-height:600px; scale:expression((this.offsetWidth > this.offsetHeight)?(this.style.width = this.offsetWidth >= 600 ? "600px" : "auto"):(this.style.height = this.offsetHeight >= 600 ? "600px" : "auto")); display:inline !important;}
+
+.t_artiInfo{font-size:14px; padding-left:20px;background:url(../images/linex.gif) repeat-x top; line-height:30px; margin-top:10px;}
+.li_artiInfo{margin-left:30px; margin-right:30px;padding-bottom:10px; }
+.li_artiInfo ul li{float:left;width:100%;padding:3px 0;}
+.li_artiInfo ul li .title{ float:left;width:65%;}
+.li_artiInfo ul li .author{ float:left;width:15%;}
+.li_artiInfo ul li .come{ float:right;width:20%;color:#999999; text-align:right;}
+
+
+.index_artInfo{height:36px; line-height:36px; border-top:1px solid #e1e1e1;border-bottom:1px solid #e1e1e1; margin-top:20px; padding-left:20px;  padding-right:20px;padding-right:10px; margin-bottom:10px; margin-left:10px;text-align:center;}
+.index_artInfo a.collectionPage_link{ background:url(../images/icon.gif) no-repeat 0 1px; padding-left:15px;}
+.index_artInfo a.printPage_link{background:url(../images/icon.gif) no-repeat 0 -55px; padding-left:15px;}
+.index_artInfo a.downloadPage_link{background:url(../images/icon.gif) no-repeat 0 -108px; padding-left:13px;}
+
+.index_body .main{margin-left:100px; line-height:28px;color:#000000; padding-bottom:30px; padding-top:20px;}</style></head><body><div id="wraper">
+			<div id="artTitles">
+				<h1 id="artibodyTitle">六朝时期的纬学</h1>
+				<h2 id="artisubTitle"/>
+			</div>
+			
+			<div class="articl_info">
+				<div class="artBaseInfo" id="autInfo">
+					<div class="articl_info_t">作 者：</div>
+					<div class="articl_info_c">
+						<div class="info_c">
+								<a target="_blank" href="/qw?s0=4&amp;s1=%e5%88%98%e5%9b%bd%e5%bf%a0">刘国忠</a> 
+						</div>
+					</div>
+					<br class="cls"/>
+				</div>
+				<div class="artBaseInfo" id="autDescription">
+					<div class="articl_info_t">作者简介：</div>
+					<div class="articl_info_c">
+						<div class="info_c">刘国忠，清华大学历史系副教授。（北京 100084）</div>
+					</div>
+					<br class="cls"/>
+				</div>
+				<div class="artBaseInfo" id="tAutInfo"/>
+				<div class="artBaseInfo" id="orgInfo">
+					<div class="articl_info_t">原文出处：</div>
+					<div class="articl_info_c">
+						<div class="info_c">史学月刊</div>
+					</div>
+					<br class="cls"/>
+				</div>
+				<div class="artBaseInfo" id="astInfo">
+					<div class="articl_info_t">内容提要：</div>
+					<div class="articl_info_c">
+						<div class="info_c">
+							<p>纬学产生于西汉后期，东汉时大为盛行，到魏晋南北朝时则因官方的屡次禁绝而逐渐式微。纬学屡遭官方禁止的原因，主要是统治者现实的政治需要，是主要针对敌对一方的，这并不妨碍他们自己援引纬书来服务政权。所谓禁纬对当时士人影响有限。虽然士人阶层对纬学看法不同，但士人对纬学的研习一直没有中断。从六朝时期纬学的命运起伏中，我们可以看到一种思想或学说生存所应具备的各项条件以及它对环境所采取的应对方法。</p>
+						</div>
+					</div>
+					<br class="cls"/>
+				</div>
+				<div id="artPdcInfo" class="artBaseInfo">
+					<div class="col_info"><b>期刊代号：</b>K22 </div>
+					<div class="col_info"><b>分类名称：</b>魏晋南北朝隋唐史 </div>
+					<div class="col_info"><b>复印期号：</b>2009 年 03 期 </div>
+					<br class="cls"/>
+				</div>
+				<div class="artBaseInfo" id="artKeyword">
+					<div class="articl_info_t">关 键 词：</div>
+					<div class="articl_info_c">
+						<div class="info_c">
+								<a target="_blank" href="/qw?s0=7&amp;s1=%e7%ba%ac%e5%ad%a6">纬学</a> 
+								<a target="_blank" href="/qw?s0=7&amp;s1=%e5%85%ad%e6%9c%9d">六朝</a> 
+								<a target="_blank" href="/qw?s0=7&amp;s1=%e3%80%8a%e6%ad%a3%e7%ba%ac%e3%80%8b%0a%e3%80%80%e3%80%80divination+study">《正纬》
+　　divination study</a> 
+								<a target="_blank" href="/qw?s0=7&amp;s1=Six+Dynasties">Six Dynasties</a> 
+								<a target="_blank" href="/qw?s0=7&amp;s1=Orthodox+Divination+Study">Orthodox Divination Study</a> 
+
+						</div>
+					</div>
+					<br class="cls"/>
+				</div>
+				<div class="artBaseInfo" id="artTitleNote"/>
+				<a id="readArea" name="readArea"/>
+				
+			</div>
+			<div id="artText"><div class="artibody" id="Zoom" style="font-size: 14px;">
+    </p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[中图分类号]K235；B235.9  [文献标识码]A  [文章编号]0583-0214(2009)02-0046-06</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;纬学是经学的组成部分，兴起于西汉后期，到了东汉时因受到光武帝刘秀及其他统治者的提倡而大盛，成为当时学者的重要研习对象，被称为“内学”，以与被称为“外学”的“五经”相对应。然而到了东汉末年，社会持续动荡，特别是随着东汉的灭亡，笼罩在纬学上面的政治光环亦随之消失，纬学失去了它存在的政治基础，其地位开始变得飘移不定起来。在随后的六朝①时期，不少统治者曾出于政治上的考虑对纬学和纬书加以禁止，从而给人们造成一个印象，似乎当时的纬学已经式微，在社会上已经没有什么地位，对于当时学者们已经不再产生什么影响。实际情况是否如此，需要做进一步的研究和探讨。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;从以往的研究成果来看，国内历史学和思想史的研究者对于六朝时期纬学的情况很少予以关注②，反而是一些文学研究者比较重视对六朝时期的纬学情况加以讨论。这些文学研究者关注六朝时期纬学状况的直接原因是出于对刘勰《文心雕龙·正纬》的研究和讨论。《文心雕龙》一书中的前五篇《原道》、《征圣》、《宗经》、《正纬》和《辨骚》，刘勰称之为“文之枢纽”，而其中的《正纬》正是针对纬学所做的讨论。这种情况引起了研究《文心雕龙》的学者们的注意，黄侃、范文澜等学者都曾专门针对《正纬》作了许多有益的讨论，后来牟世金先生在《文心雕龙研究》一书中，还专门就此篇作了全面的论述③。牟先生指出：“如果谶纬在晋宋以后已经绝迹，在文人中已毫无市场，大家都认清了谶纬的诡伪面目，又有何正纬之必要呢？”他通过对《正纬》的细致分析以及对六朝文学作品所受纬学影响的综合考察，得出的结论是，刘勰之所以要正纬，“正是当时的客观现实决定的：一方面是宋武的虽禁未绝，一方面是六朝文学所受的深刻影响”。李学勤先生读后亦指出：“魏晋以后屡次查禁，重点在于图谶，纬学仍在流传。隋代萧吉撰著《五行大义》，仍然广引纬书……《文心雕龙·正纬》所述，正说明当时纬学影响的广被。”④由于刘勰的著作一直深受文学研究者的关注，因此近年还有一些学者因为探讨《文心雕龙》的《正纬》进而探讨六朝纬学的情况⑤。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;笔者也一直很关注六朝时期的纬学情况，注重搜集相关资料，并曾做过一些初步的讨论⑥。由于国内以往关注六朝纬学的学者多从文学作品的分析角度入手，对于其他典籍中非常丰富的相关材料涉及不多，笔者觉得尚有必要再做一些较详细的讨论，故草撰此文。本来谶自谶，纬自纬，但东汉以后，谶纬已经结合在一起，密不可分，可谓一荣俱荣，一毁俱毁，故本文亦将之结合在一起讨论。不当之处，敬祈方家学者批评指正。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;六朝时期对纬学的禁止</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;纬学的兴盛一直是与政治紧密结合的，它往往通过制造一些政治预言，干预和参与政治。东汉末年，政治形势持续动荡，军阀林立，统一的政治基础已经不复存在，这就使纬学在政治上的依托出现了很大的困难。虽然不少政治势力仍然在利用纬学制造政治舆论，但这种做法往往也招致其他政治势力对纬学的反感或忌惮。从当时的政治形势来看，不少政治家仍然利用纬学制造舆论，谋求政治利益；与此同时，一些政治势力则出于政治上的需要，开始对纬学加以禁止，从而揭开了纬学式微的序幕。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;最早采取禁纬措施的是曹操。史载在他掌权时期“科禁内学”⑦。曹操为什么要对纬学加以禁止，史籍中并没有明确说明。但从当时的形势来看，应该是出于政治上的考虑。当时一些割据军阀往往利用谶纬的政治预言来制造舆论，为自己谋求政治利益或篡权做准备，例如袁术就曾利用谶纬之言制造舆论，进而登基称帝⑧。袁氏的这一做法在当时曾遭到了孙策的痛切责难：</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;世人多惑于图纬而牵非类，比合文字以悦所事，苟以阿上惑众，终有后悔者。自往迄今，未尝无之，不可不深择而熟思。⑨</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;孙策已经指出当时的政治家往往利用谶纬之书“比合文字”，制造舆论，从而“阿上惑众”。曹操的“科禁内学”，应该就是出于对这种现象的防范，有着很强的政治实用性。在此之后，曹魏及西晋的一些学者则试图从理论上对纬学加以批判，“魏代王肃，推引古学，以难其义。王弼、杜预，从而明之”⑩。应该说，这种批判不仅仅是出于学术的争鸣，而更多是具有政治上的含义，试图配合政治的需要推倒纬学思想体系。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;然而，正是由于纬学可以被用来为政治服务，因此曹操的“科禁内学”并未有太大的成效，许多割据势力仍然热衷于用谶纬之说为政治的张权铺平道路。公元221年，刘备称帝，建立蜀国。在他登基之前，他手下一些官僚及文人就利用谶纬来为他的称帝制造舆论：</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;议郎阳泉侯刘豹、青衣侯向举、偏将军张裔、黄权、大司马属殷纯、益州别驾从事赵莋、治中从事杨洪、从事祭酒何宗、议曹从事杜琼、劝学从事张爽、尹黙、谯周等上言：“臣闻《河图》、《洛书》，五经谶、纬，孔子所甄，验应自远。谨案《洛书甄曜度》曰：‘赤三日德昌，九世会备，合为帝际。’《洛书宝号命》曰：‘天度帝道备称皇，以统握契，百成不败。’《洛书录运期》曰：‘九侯七杰争命民炊骸，道路籍籍履人头，谁使主者玄且来。’《孝经钩命决录》曰：‘帝三建九会备’……当有圣主起于此州，以致中兴……愿大王应天顺民，速即洪业，以宁海内。”(11)</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;刘备就是在这样一种被纬学笼罩的氛围中接受了群臣的劝谏，正式当上了皇帝。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;饶有趣味的是，曹魏一方虽然自曹操已经“科禁内学”，但是他的属下仍然引用纬学来证明汉室将亡，天命将归曹魏：“侍中陈群、尚书桓阶奏曰：汉自安帝已来，政去公室，国统数绝，至于今者，唯有名号。尺土一民，皆非汉有，期运久已尽，历数久已终，非始今日也。是以桓、灵之间，诸明图纬者，皆言‘汉行气尽，黄家当兴’。”(12)而到了他儿子曹丕篡汉时，左中郎将李伏上书，援引一位“长于内学”的姜合之言，宣扬曹魏代汉系天命所归，而辛毗、陈矫、陈群等人也上书，声称“考图纬之言，以效神明之应，稽之古代，未有不然者也”。太史令许芝更是详细罗列曹魏代汉早已见于谶纬之书的“证据”，用以说明曹魏代汉之举系“河洛所表，图谶所载，昭然明白，天下学士所共见”(13)。最后，曹丕依照谶纬“符命”称帝。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;从三国时期的这些政治现象可以看出，各种政治势力无论是对纬学的“禁”抑或“用”，实际上都出于自己的政治需要。但由于纬学可以为不同的政治势力所利用，实际上已经给它自身的处境增添了巨大风险。一旦有一个政治力量掌握了实权，为了防范其他政治力量也利用纬学进行政治宣传，就往往会对纬学的流传采取限制和禁止措施。这一局面一直贯穿于六朝历史的始终。如晋武帝泰始三年十二月，“禁星气谶纬之学”(14)，后赵的石虎亦“禁郡国不得私学星谶，敢有犯者诛”(15)，前秦的苻坚也禁止“图谶之学”(16)，然而他自己对谶纬之学仍然十分迷信。据《晋书》卷114载，苻坚在淝水之战失败后，前秦政权随之瓦解，后来苻坚为姚苌所虏，姚苌向苻坚索求传国玺，称自己“次膺符历”。苻坚对其斥责说：“图纬符命，何所依据？”(17)认为姚苌根本没有纬学的依据，没有上天的征验，因此也就没有资格篡位。石虎之禁谶纬，也应该有其政治的背景。比如有一种叫《易纬纪表》的纬书，其中就有“太白晕尾五色，不出三年，石季龙将刘宁寇没狁狄道”(18)之语，石虎之禁谶纬，可能就与纬书中这些政治性预言密切相关。因此石虎、苻坚的禁谶纬行为都是出于自身的需要(19)。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;南北朝时，南北双方的政权都不约而同地采取了禁纬的措施。北魏的太武帝拓跋焘针对“愚民无识，信惑妖邪，私养师巫，挟藏谶记、阴阳、图纬、方伎之书”(20)的情况，同样进行禁纬。所谓的会使民众“信惑妖邪”，也是害怕纬学会被一些政治反对势力加以利用。到了孝文帝拓跋宏所下的禁纬之令，则说得更为明显：</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;图谶之兴，起于三季。既非经国之典，徒为妖邪所凭。自今图谶、秘纬及名为《孔子闭房记》者，一皆焚之。留者以大辟论。(21)</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;这篇诏书否定了谶纬之学出自孔子的传统观点，否认它们是“经国之典”，这是历来禁纬的一个鲜明特色。不过孝文帝当时之所以对它们加以禁毁，却是因为谶纬之学“徒为妖邪所凭”，即纬学会被一些政治势力用来制造舆论，成为政治斗争的工具，因此要加以禁止。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;南方的政权也同样如此。宋孝武帝刘骏大明年中曾下令禁图谶(22)，可是宋朝政权却也照样援引谶纬之书来为政治服务。如刘裕代晋时，声称“图谶之文既明，人神之望已改”，太史令骆达还特地陈述天文符瑞数十条(23)，论证刘氏代晋的合法性。而孝武帝刘骏的禁谶纬，可能与竟陵王刘诞“征引巫史，潜考图纬，自谓体应符相，富贵可期”，因而图谋篡位有关(24)。而范晔等人亦曾以“谶纬天文，并有征验”为由，谋立刘义康为帝(25)。齐高帝萧道成代宋时，亦言“象纬昭澈，布新之符已显，图谶彪炳，受终之义既彰”(26)，为禅代寻求理论依据。至于他以齐为国号，则是根据谶书“金刀得刃齐刈之”的说法，故称国号为齐，“实应天命”(27)。梁武帝萧衍下令“禁畜谶纬”(28)，可是在他代齐时，著名道士陶弘景也曾“援引图谶，数处皆成‘梁’字，令弟子进之”(29)。特别有意思的是梁武帝本人实际上也对纬学极有研究，《梁书·武帝纪》称他“六艺备闲，棋登逸品，阴阳纬候，卜筮占决，并悉称善”(30)。昭明太子萧统亦“驰神图纬，研精爻画”(31)，甚至一直到梁武帝的从孙萧吉撰写《五行大义》一书时，仍然大量引用纬书，论证自己的观点(32)，足见萧氏家族对纬学的喜好渊源有自。因此，梁武帝对纬学的禁止，也是出于政治的需要而非对纬学抱有成见。陈高祖陈霸先据说也“明纬候、孤虚、遁甲之术”(33)，其政治用心昭然若揭。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;隋文帝杨坚建立了隋朝，他虽然声称自己是“应箓受图，君临海内”(34)，与此同时亦非常忌讳别人同样利用谶纬。因此在掌握政权之后，他同样采用禁纬的措施，史称“及高祖受禅，禁之愈切”(35)。然而当王劭“采民间歌谣，引图书谶纬，依约符命，捃摭佛经，撰为《皇隋灵感志》，合三十卷，奏之”时，隋文帝却将之“宣示天下”(36)。可见其禁纬也有两面性，一切皆以自己的政治需要为出发点。隋炀帝杨广通过一系列阴谋获得皇位，上台之后，他一方面打击异己力量，另一方面对纬学采取了最为严厉的禁绝手段：“炀帝即位，乃发使四出，搜天下书籍与谶纬相涉者，皆焚之，为吏所纠者至死。自是无复其学，秘府之内，亦多散亡。”(37)这给纬学造成了毁灭性打击。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;从六朝统治阶层对纬学的态度来看，各时期的统治者对纬学是既利用，又禁止。由于纬学的政治色彩太浓，对政治的干预太深，容易为政治野心家们断章取义地加以利用。而这些人对纬学的利用往往是作为一时的宣传或政治借口，当他们一旦达到目的后，为了防范他人对纬学的利用和发挥，又要采取禁止的措施。因此六朝的纬学命运多舛，加上纬学本身一些内容的荒诞不经，有其自身的致命弱点，这也为历朝的禁纬提供了口实。因此，整个六朝纬学在政治上的境遇是每况愈下，它靠依附政治获得了一定的生存空间，但最终也给自己带来了接连不断的厄运，成为政治斗争的牺牲品。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;六朝时期的学人与纬学</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;六朝时期统治者对于纬学的禁或用主要是出于政治的需要，而且在历史上多次有禁纬的行动。那么作为当时文化精英的学者们与纬学是一种什么样的关系，他们对待纬学又是一种什么样的态度呢？换言之，皇权与官方对纬学所采取的措施特别是禁纬的行为是否能够得到这些士人的认同呢？这是我们很感兴趣的话题。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;关于六朝士人与纬学的关系，颜之推曾有一个很重要的论述：</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;俗间儒士，不涉群书，经纬之外，义疏而已。(38)</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;这是针对当时的学风加以批评，强调广泛学习的重要性。颜之推在此批评当时的儒士“不涉群书”，阅读书籍范围很有限，给我们揭示了当时儒生读书的大致范围。这里有一点很值得注意，当时普通的儒生(颜之推称其为“俗儒”)虽然读书有限，但还都是读“经纬”和“义疏”之书的。“经”是儒家经典，“义疏”则是对经书的注解和阐释，而另外的“纬”则是纬书。可见当时普通的儒生仍然是研读纬书、熟悉纬学的。这是由于纬学本来就是经学的组成部分，纬书的出现就是配合经书的，离开了纬书，就不可能对汉代以来的经学有全面而明确的理解(39)，因此六朝时期的学者研习纬书，仍是一种很自然的事情。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;整个六朝，士人们对纬学的研习一直没有中断，有关士人研习纬书或者以此出名的人很多，见于记载者比比皆是。如《三国志》的《谯周传》称谯周之父谯峅“兼通诸经及图纬”(40)；《晋书·张华传》称张华对于“图纬、方伎之书，莫不详览”(第1068页)；《晋书·索靖传》称索靖“该博经史，兼通内纬”(第1648页)；《晋书·虞喜传》称虞喜“专心经传，兼览谶纬”(第2349页)；《杜夷传》称杜夷“博览经籍百家之书，算历、图纬，靡不毕究”(第2353页)；《晋书·宋纤传》称宋纤“明究经纬”，并且有弟子三千多人(第2453页)；《晋书·台产传》称台产“少专京氏易，善图谶、秘纬、天文”等领域的知识(第2503页)；《晋书·王堕传》称王堕“博学有雄才，明天文图纬”(第2880页)；《魏书·燕凤传》称燕凤“明习阴阳谶纬”(第609页)；《魏书·高谦之传》称高谦之“专意经史，天文、算历、图纬之书，多所该涉”(第1708页)；《魏书·常爽传》称常爽“明习纬候”(第1848页)；《徐遵明传》称徐遵明“钻经纬之微言，研圣贤之妙旨”(第1856页)；《刁冲传》称刁冲对“阴阳、图纬、算数、天文、风气之书莫不关综，当世服其精博”(第1858页)；《李业兴传》称李业兴“博涉百家，图纬、风角、天文、占候，无不讨练”(第1860页)；《魏书·律历志上》称高允“该览群籍，赞明五纬”(第2660页)；《北齐书》称李公绪“尤善阴阳图纬之学”(41)；《北齐书·宋景业传》称宋景业“为阴阳纬候之学”(第675页)；《周书》称陆弥之父陆旭“好《老》、《易》、纬候之学”(42)；《周书·沈重传》称沈重对于“阴阳图纬，道经释典，靡不毕综”(第810页)；《宋书·周续之传》称周续之“通五经并纬候，名冠同门”(第2280页)；《梁书·庾诜传》称庾诜的“纬候书射，棋算机巧，并一时之绝”(第750页)；《南史·顾越传》称顾越“音律图纬，咸尽其精微”(第1752页)；《隋书·李德林传》称李德林“阴阳纬候，无不通涉”(第1193页)；《隋书·房晖远传》称房晖远“兼善图纬”(第1716页)；《马光传》称马光“图书谶纬，莫不毕览”(第1717页)；《隋书·诸葛颍传》称诸葛颍“习周易、图纬……颇得其要”(第1734页)等等，材料十分丰富，不能备举。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;然而，由于六朝多有禁纬之举，因此就引出了一个问题，这些士人对纬学的研习是否会因此而受影响？从另一个角度来说，当时的士人是否会完全按国家的禁令来行事？这是我们所关心的。从材料来看，六朝时期的士人并没有完全为当时的政治所左右，在研习纬学方面，他们仍然有自己的见解和态度，甚至还违背朝廷禁令，偷偷研习纬书。如三国时魏国的吉茂在曹操“科禁内学”时，他自己虽然有谶纬之书，却“匿不送官”(43)。梁武帝时禁止谶纬之学，阮孝绪却收藏有许多这方面的著作，后来是因为有人相求，阮孝绪怕连累别人，所以才将它们焚毁(44)。因此，在六朝即使是禁纬令实行之际，还仍然有人冒着危险研习纬学。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;六朝的士人们研习纬学，是因为纬学本身具备经典一样的重要性。虽然在政治上不时有禁纬之举，但是当时一些典章制度仍然与纬学具有密切的关系。比如从《晋书》的《舆服志》我们可以知道，天子之车的车辕皆曲向上，其原因是“取礼纬‘山车垂句’之义，言不揉而能自曲”(45)，这种制度本身即是从礼纬的相关言论发展而来。又如封禅之举，《晋书·礼志下》称：“封禅之说，经典无闻。礼有因天事天，因地事地，因名山升中于天，而凤皇降，龟龙格。天子所以巡狩，至于方岳，燔柴祭天，以告其成功，事似而非也。谶纬诸说皆云：王者封泰山，禅梁甫，易姓纪号。秦汉行其典，前史各陈其制矣。”到了西晋灭吴之后，张华等人声称西晋的统一大业“虽古《河图》、《洛书》之征，不是过也”，因此“宜宣大典，礼中岳，封泰山，禅梁父，发德号，明至尊，享天休，笃黎庶，勒千载之表，播流后之声。俾百世之下，莫不兴起”。只是由于晋武帝尚有自知之明，封禅一事才不了了之(46)。但我们仍然能从中看到纬学对当时国家制度的影响。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;另外，六朝的许多学者都能利用纬学的理论观点与材料，著书立说，开展学术讨论。《魏书》的《刘兰传》称刘兰“推《经》、《传》之由，本注者之意，参以纬候及先儒旧事，甚为精悉。自后经义审博，皆由于兰”(47)。《南齐书·礼志上》记载了建元元年关于祭祀礼仪的一场争论。当时王俭引用《礼记·王制》的相关论述以及《礼纬稽命徵》“三年一袷，五年一褅”的规定，提出了自己的看法，获得了朝廷采纳(48)。《周书》称熊安生“讨论图纬，捃摭异闻，先儒所未悟者，皆发明之”(49)。而历仕梁、北周、隋三朝的萧吉在所著《五行大义》中更是广引纬学文献，阐述五行理论。杜台卿的《玉烛宝典》也是大量依据纬学文献，讨论岁时源流。六朝的许多典籍都是这样广泛引用纬学文献以证己说，可见当时纬学在许多士人心目中仍然具有经典一样的地位。这一影响并不仅局限在儒学之中，道教也深受其影响。比如陶弘景所编撰的《真诰》一书，甚至连各篇名字都全部模仿纬书，因此宋代学者高似孙言：“《真诰》之作，其纬于经者乎！其目自《运期象》至于《翼真栓》凡七，盖有象乎纬。能通乎纬，则知《诰》矣。”(50)此可谓一语中的。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;不过，纬学与纬书本身确实有其非学术性的一面，除了过多政治性的附会，还有很多荒诞不经的内容。汉代在政治的高压下，也仍然有一些正直的学者指出纬书的问题(51)。六朝时期，笼罩在纬学之上的政治光环已经不复存在，学者们可以更全面、更冷静、更客观地来认识纬学自身，一些士人对纬书中的牵强附会之处大加批评。如梁代天监年间，梁武帝曾计划去会稽举行封禅礼仪，许懋上言梁武帝，称封禅之说出自纬书，为“曲说”：</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;臣案舜幸岱宗，是为巡狩，而郑引《孝经钩命决》云“封于泰山，考绩柴燎，禅乎梁甫，刻石纪号”。此纬书之曲说，非正经之通义也……郑玄有参、柴之风，不能推寻正经，专信纬候之书，斯为谬矣。(52)</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;许懋本人强烈反对封禅，只是认为它出于纬书，不符合经典，可见许懋对纬学是持反对态度的。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;与许懋持类似看法的人还有梁朝的朱异。《魏书·李业兴传》曾记载了李业兴出使梁朝时与朱异的一场辩论：</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;四年，与兼散骑常侍李谐、兼吏部郎卢元明使萧衍，衍散骑常侍朱异问业兴……业兴曰：“我昨见明堂四柱方屋，都无五九之室，当是裴頠所制。明堂上圆下方，裴唯除室耳。今此上不圆何也？”异曰：“圆方之说，经典无文，何怪于方？”业兴曰：“圆方之言，出处甚明，卿自不见。见卿录梁主《孝经义》亦云上圆下方，卿言岂非自相矛盾！”异曰：“若然，圆方竟出何经？”业兴曰：“出《孝经援神契》。”异曰：“纬候之书，何用信也！”业兴曰：“卿若不信，灵威仰、叶光纪之类经典亦无出者，卿复信不？”异不答。(53)</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;朱异未作回答，可能是对李业兴之说不以为然；也有可能是虽然不同意李业兴之说，但又无法驳倒对方。不管朱异最终的想法如何，从其“纬候之书，何用信也”的话语来看，他对纬书和纬学显然是抱着一种怀疑和摒弃的态度(54)。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;另外还有一种情况值得注意。虽然六朝的不少士人已经对于纬学的经典性加以怀疑或否定，但他们并没有全盘否定纬学的价值，特别是一些文人喜欢利用纬学的丰富素材进行文学创作。这方面以刘勰的态度最为典型。刘勰在《文心雕龙》的《正纬》中指出，纬书“事丰奇伟，辞富膏腴，无益经典而有助文章”，因此六朝的文人都非常注意吸收纬书中“事丰奇伟，辞富膏腴”的素材进行文学创作。六朝文人的作品辞藻温丽，好用典故，其中很多典故都是来自纬书。如左思《吴都赋》“火齐之宝，骇鸡之珍”一句中，“骇鸡之珍”之说即出自《孝经援神契》的“神灵滋液，则犀骇鸡”。对此宋衷注释说：“角有光，鸡见而骇惊也。”又如谢灵运《游赤石进帆海》有“水宿淹晨暮，阴霞屡兴没”，其中的“阴霞”即用了《河图》之语：“昆仑山有五色水，赤水之气，上蒸为霞，阴而赫然。”对于六朝文学与纬学的关系问题，学者们已有不少讨论，此不复赘。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;简短的结论</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;一种思想或学说的存在、发展或衰亡，往往与政治环境、统治者的好恶以及他们所采取的相应措施有很大的关系，但是也并不能完全为政治所左右。思想或学说的兴亡还与它的学术价值、理论贡献以及在民众特别是士人心目中的影响力有密切关系。另一方面，如果一种思想或学说只能过分依赖于政治才能存在，那么这种思想或学说的生命力将是很有限的。从六朝时期纬学的命运，我们可以看到一种思想或学说生存所应具备的各项条件，及其面对顺或逆的环境所应采取的应对方法。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(本文曾在2006年3月香港浸会大学召开的“转型时期的中国”国际学术研讨会上宣读)</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;注释：</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;①历史上因为东吴、东晋、宋、南齐、梁、陈先后定都于建康，称其为南朝六朝；而魏、西晋、北魏、北齐、北周、隋则因建都于北方，被称为北朝六朝；后人也把三国至隋南北两方泛称为六朝。本文所说的六朝即是后一含义。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;②关于以往学者的纬学研究情况，杨权在《谶纬研究述略》(《中国史研究动态》2001年第6期)有比较详细的讨论，可以参看。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;③牟世金：《〈正纬〉和〈辨骚〉的枢纽意义》，《文心雕龙研究》(人民文学出版社1995年版)第184～196页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;④李学勤：《〈汉书·李寻传〉与纬学的兴起》，《古文献丛论》，上海远东出版社1996年版，第266页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⑤如孙蓉蓉：《〈正纬〉与谶纬》(《南京大学学报》2004年第4期)，黄金鹏：《纬书与汉魏六朝文论》(《北京大学学报》1999年第4期)，杨清之：《论刘勰“正纬”的理论价值》(《海南师范学院学报》2002年第3期)等文。他们都从文学的角度探讨了纬学在六朝时期的影响。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⑥刘国忠：《五行大义研究》，辽宁教育出版社1999年版，第66～72页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⑦陈寿：《三国志》卷二三《常林传》裴松之注，中华书局1962年标点本，第660页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⑧《三国志》卷六《袁术传》裴松之注，第210页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⑨《三国志》卷四六《孙破虏讨逆传》裴松之注，第1106页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⑩魏徵：《隋书·经籍志》，中华书局1973年标点本，第941页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(11)《三国志》卷三二《先主传》，第887～888页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(12)《三国志》卷一《武帝纪》裴松之注，第52～53页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(13)《三国志》卷二《文帝纪》裴松之注，第62～65页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(14)房玄龄：《晋书·武帝纪》，中华书局1974年标点本，第56页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(15)《晋书·石季龙载记上》，第2765页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(16)(17)《晋书·苻坚载记》，第2897、2928页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(18)安居香山、中村璋八辑：《纬书集成》，河北人民出版社1994年版，第327页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(19)晋武帝的“禁星气谶纬之学”，史书中并未涉及其原因，然而这一命令是在他即位后不久就下达的，与六朝时期的其他禁纬事件有着惊人的一致性，应该也是出于政治上的考虑。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(20)见魏收：《魏书·世祖纪下》，中华书局1974年标点本，第97页。特别有意思的是，在魏太祖拓跋珪时希望搜集典籍，其大臣李先还特别劝拓跋珪要搜集天文秘纬之书(见《魏书·李先传》，第789页)。可是没过多少年，到拓跋珪之孙拓跋焘继位后，就已经把纬学列为禁止的对象。这也从另一个侧面告诉我们，禁纬是出于政治目的，而并非是针对其学术本身。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(21)《魏书·高祖纪下》，第155页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(22)《隋书·经籍志》，第941页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(23)沈约：《宋书·武帝纪中》，中华书局1974年标点本，第47～48页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(24)《宋书·刘诞传》，第2029页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(25)《宋书·范晔传》，第1825页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(26)萧子显：《南齐书·高帝纪上》，中华书局1972年标点本，第21页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(27)《南齐书·崔祖思传》，第517页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(28)李延寿：《南史·阮孝绪传》，中华书局1975年标点本，第1895页。《隋书·经籍志》亦称“梁天监已后，又重其制”，对纬学的禁止进一步加强。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(29)姚思廉：《梁书·陶弘景传》，中华书局1973年标点本，第743页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(30)《梁书·武帝纪下》，第96页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(31)《梁书·昭明太子传》，第170页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(32)萧吉是梁武帝萧衍之兄萧懿的孙子，精于阴阳数术之学，所撰《五行大义》的内容中，大量引用了各种纬学书籍。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(33)《南史·陈本纪上》，第257页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(34)《隋书·高祖纪上》，第14页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(35)(37)《隋书·经籍志》，第941、941页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(36)《隋书·王劭传》，第1608页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(38)颜之推：《颜氏家训集解·勉学》，中华书局1996年版，第183页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(39)李学勤：《〈纬书集成〉序》，河北人民出版社1994年版，第2页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(40)《三国志·蜀书·谯周传》，第1027页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(41)李百药：《北齐书·李公绪传》，中华书局1982年标点本，第396页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(42)令狐德棻：《周书·陆弥传》，中华书局1971年标点本，第469页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(43)《三国志·常林传》裴松之注，第660页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(44)《南史·阮孝绪传》，第1895页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(45)《晋书·舆服志》，第753页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(46)《晋书·礼志下》，第653～657页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(47)《魏书·刘兰传》，第1851页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(48)《南齐书·礼志上》，第118～121页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(49)《周书·熊安生传》，第812页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(50)见道藏本《真诰》的《序》。另外，日本学者对于谶纬思想与佛教的关系也做了不少研究，参见安居香山与中村璋八合著的《纬书的基础研究》第9章《汉魏六朝朝代的图谶与佛教》，国书刊行会1976年版。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(51)如郑兴、桓谭、尹敏、张衡等人都反对谶纬之学，参见《后汉书》上述诸人的本传。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(52)《梁书·许懋传》，第575～577页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(53)《魏书·李兴业传》，第1862～1863页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(54)当然，由于古代知识体系与今天迥异，许懋和朱异等人对纬学中不足之处的判断及分析，和我们今天的看法相比，还是有较大差异的。
+</div>
+<div class="page-list">
+    <div class="pageNav" id="pageList"></div>
+</div>
+</div><br class="cls"/>
+		</div>
+		</body></html>

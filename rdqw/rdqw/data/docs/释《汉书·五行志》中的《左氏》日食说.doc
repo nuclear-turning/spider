@@ -1,0 +1,198 @@
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><style>.trR{ text-align:right;}
+#wraper{width:1190px; margin:0 auto; margin-bottom:10px;text-align:left;}
+#left{ float:left;width:250px; text-align:left;}
+#right{float:right;width:930px;text-align:left;border-top:2px solid #619bc0; padding-bottom:10px;}
+.border_w{ border:1px solid #d3d3d3;border-top:2px solid #619bc0;}
+.t01{height:30px;line-height:30px;border:1px solid #dddddd;padding-left:10px;background:url(../images/tbg01.jpg) repeat-x bottom; color:#1183c1; font-size:14px;}
+.con_01{ padding:10px;}
+.con_cbg{ background:url(../images/con_cbg.gif) repeat-y;}
+.con_bbg{ background:url(../images/con_bbg.gif) no-repeat left bottom; height:1px; line-height:1px; font-size:0;}
+
+.source{margin:15px;background:url(../images/linex.gif) repeat-x bottom; padding-bottom:30px; margin-bottom:30px;}
+.source .source-img{border:1px solid #d3d3d3; text-align:center; padding:5px;margin-bottom:10px; }
+.source p{color:#666666; font-weight:bold; font-size:12px;}
+.source .fblue{ color:#236bac; font-weight:normal;}
+
+.t_tj{ height:27px;padding-top:2px;margin:15px; background:url(../images/con_t_tj.gif) no-repeat left top; padding-left:10px; color:#FFFFFF; font-size:14px;}
+.c12_01{ margin-left:15px; margin-right:15px; margin-bottom:15px;}
+.c12_01 li{font-size:12px; line-height:24px; background: url(../images/dot.gif) no-repeat 2px 10px; padding-left:15px;}
+
+#artibodyTitle{color:#236bac;font-family:"宋体";font-size:20px;font-weight: normal;line-height:35px;text-align:center;margin-top:10px;	text-align:center;}
+#artisubTitle{font-family:"宋体";font-size:16px;font-weight: normal;line-height:28px;text-align:center;}
+.articl_info{margin-left:30px; margin-right:30px; position:relative;border-bottom:1px solid #e1e1e1;padding-bottom:20px; margin-bottom:20px;}
+.btn-img{
+	background-image:url(../images/allbg.png);
+	background-repeat:no-repeat;
+	font-size:12px;		
+	cursor:pointer;
+	border: 0px none;
+	display: inline-block;
+	vertical-align:middle;
+	text-align:center;}
+
+.artInfo{height:22px;border-top:1px solid #e1e1e1;border-bottom:1px solid #e1e1e1;padding:5px;margin:20px;}
+.artInfo li{float:left;width:33%;height:22px; line-height:22px; color:#666666;}
+
+.artInfo li .collectionPage_link{
+	background-position:-509px -80px;
+	padding-left:10px;
+	margin-top:-2px;
+	_margin-top:0px;
+	margin-left:10px;
+	width:51px;
+	height:22px; 
+	line-height:22px;		
+	color:#1183c1;	}
+.artInfo li .printPage_link{
+	background-position:-570px -80px;
+	padding-left:10px;
+	margin-top:-2px;
+	_margin-top:0px;
+	margin-left:10px;
+	width:51px;
+	height:22px; 
+	line-height:22px;	
+	color:#1183c1;}
+.artInfo li .downloadPage_link{
+	background-position:-631px -80px;
+	margin-top:-2px;
+	_margin-top:0px;
+	margin-left:10px;
+	width:51px;
+	padding-left:10px;
+	height:22px; 
+	line-height:22px;	
+	color:#1183c1;}
+
+
+.artBaseInfo{line-height:24px; margin-bottom:5px;}
+.artBaseInfo .info_left{float:left;width:80px;}
+.artBaseInfo .info_right{float:left;width:790px;}
+
+.artBaseInfo dt{float:left;width:80px; color:#666666;line-height:20px; display:inline-block;}
+.artBaseInfo dd{color:#666666;line-height:20px;display:inline-block;}
+.artBaseInfo .col li{ float:left;width:210px; height:20px; line-height:20px;color:#666666;}
+
+.artBaseInfo .item{ float:left;width:50%;}
+.artBaseInfo .notice{
+	margin-left:10px;
+	width:61px;
+	padding-left:10px;
+	height:22px; 
+	line-height:22px;
+	background-position:-448px -80px;	
+	color:#1183c1;}
+
+.artInfo{height:30px;border-top:1px solid #e1e1e1;border-bottom:1px solid #e1e1e1;margin:20px 10px;}
+.artInfo div{ float:left;width:30%;height:30px; line-height:30px; text-align:center;}
+.artInfo div a{ margin-left:20px; margin-right:20px;}
+.artInfo li{float:left;width:33%;height:22px; line-height:22px; color:#666666;}
+
+.articl_info{margin-left:30px;margin-right:30px; position:relative;border-bottom:1px solid #e1e1e1;padding-bottom:20px; margin-bottom:20px;}
+.artBaseInfo{margin-bottom:5px;}
+.articl_info_t{float:left;width:80px;margin-right: -100%;font-weight:bold;line-height:24px;}
+.articl_info_c{float: left;width: 100%;}
+.articl_info_c .info_c{margin-left:80px; line-height:24px;}
+.artBaseInfo .marL{ margin-left:20PX;}
+.artBaseInfo .col_info{ float:left;width:30%;line-height:20px;}
+
+.fontSize{position: relative;right:0px;top:0px;font-size:12px; height:30px; line-height:30px; text-align:right;}
+.fontSize a{border:1px solid #c2c2c2;margin-right:10px;padding:4px 1px;*padding:1px; cursor:pointer;font-size:12px;}
+.fontSize a span{background:url(../images/page_a_36.png) repeat-x;padding:3px;}
+
+.fontSize a.now{border: #f9ad75 1px solid;padding:4px 1px;*padding:1px;}
+.fontSize a.now span{color:#ff7d27;background:url(../images/current_34.png) repeat-x bottom;padding:3px;}
+.artibody{margin-left:20px;margin-right:20px;font: 18px/180% "Microsoft YaHei","微软雅黑"; color:#666666;}
+.artibody p{margin-bottom:20px;}
+
+.fontSize A:link{ color:#000000;text-decoration:none;}
+.fontSize A:visited{ color:#000000;text-decoration:none;}
+.fontSize A:hover{ color:#FF0000;text-decoration:none;}
+.fontSize a.now:link{color:#ff7d27;text-decoration:none;}
+#Zoom img {max-width:600px; max-height:600px; scale:expression((this.offsetWidth > this.offsetHeight)?(this.style.width = this.offsetWidth >= 600 ? "600px" : "auto"):(this.style.height = this.offsetHeight >= 600 ? "600px" : "auto")); display:inline !important;}
+
+.t_artiInfo{font-size:14px; padding-left:20px;background:url(../images/linex.gif) repeat-x top; line-height:30px; margin-top:10px;}
+.li_artiInfo{margin-left:30px; margin-right:30px;padding-bottom:10px; }
+.li_artiInfo ul li{float:left;width:100%;padding:3px 0;}
+.li_artiInfo ul li .title{ float:left;width:65%;}
+.li_artiInfo ul li .author{ float:left;width:15%;}
+.li_artiInfo ul li .come{ float:right;width:20%;color:#999999; text-align:right;}
+
+
+.index_artInfo{height:36px; line-height:36px; border-top:1px solid #e1e1e1;border-bottom:1px solid #e1e1e1; margin-top:20px; padding-left:20px;  padding-right:20px;padding-right:10px; margin-bottom:10px; margin-left:10px;text-align:center;}
+.index_artInfo a.collectionPage_link{ background:url(../images/icon.gif) no-repeat 0 1px; padding-left:15px;}
+.index_artInfo a.printPage_link{background:url(../images/icon.gif) no-repeat 0 -55px; padding-left:15px;}
+.index_artInfo a.downloadPage_link{background:url(../images/icon.gif) no-repeat 0 -108px; padding-left:13px;}
+
+.index_body .main{margin-left:100px; line-height:28px;color:#000000; padding-bottom:30px; padding-top:20px;}</style></head><body><div id="wraper">
+			<div id="artTitles">
+				<h1 id="artibodyTitle">释《汉书·五行志》中的《左氏》日食说</h1>
+				<h2 id="artisubTitle"/>
+			</div>
+			
+			<div class="articl_info">
+				<div class="artBaseInfo" id="autInfo">
+					<div class="articl_info_t">作 者：</div>
+					<div class="articl_info_c">
+						<div class="info_c">
+								<a target="_blank" href="/qw?s0=4&amp;s1=%e9%83%9c%e7%a7%af%e6%84%8f">郜积意</a> 
+						</div>
+					</div>
+					<br class="cls"/>
+				</div>
+				<div class="artBaseInfo" id="autDescription">
+					<div class="articl_info_t">作者简介：</div>
+					<div class="articl_info_c">
+						<div class="info_c">郜积意，1966年生，南开大学文学院教授</div>
+					</div>
+					<br class="cls"/>
+				</div>
+				<div class="artBaseInfo" id="tAutInfo"/>
+				<div class="artBaseInfo" id="orgInfo">
+					<div class="articl_info_t">原文出处：</div>
+					<div class="articl_info_c">
+						<div class="info_c">中国史研究</div>
+					</div>
+					<br class="cls"/>
+				</div>
+				<div class="artBaseInfo" id="astInfo">
+					<div class="articl_info_t">内容提要：</div>
+					<div class="articl_info_c">
+						<div class="info_c">
+							<p>《汉书·五行志》下之下载《左氏》日食说云“朔十六，二日十八”，此数恐误，宜为“朔十八，二日十六”。因为欲合二日十八之数，则桓十七年十月朔日食、宣十年四月丙辰日食、昭七年四月甲辰日食，需归入食二日之例。但桓十七年十月朔日食无论在《汉志》文例，还是三统推算上，皆无食二日之可能，故二日十八之数无法满足，《汉志》所载恐是错文。清代学者如钱大昕、王引之论《左氏》日食说有误。</p>
+						</div>
+					</div>
+					<br class="cls"/>
+				</div>
+				<div id="artPdcInfo" class="artBaseInfo">
+					<div class="col_info"><b>期刊代号：</b>K21 </div>
+					<div class="col_info"><b>分类名称：</b>先秦、秦汉史 </div>
+					<div class="col_info"><b>复印期号：</b>2009 年 05 期 </div>
+					<br class="cls"/>
+				</div>
+				<div class="artBaseInfo" id="artKeyword">
+					<div class="articl_info_t">关 键 词：</div>
+					<div class="articl_info_c">
+						<div class="info_c">
+								<a target="_blank" href="/qw?s0=7&amp;s1=%e3%80%8a%e6%b1%89%e4%b9%a6%c2%b7%e4%ba%94%e8%a1%8c%e5%bf%97%e3%80%8b">《汉书·五行志》</a> 
+								<a target="_blank" href="/qw?s0=7&amp;s1=%e4%b8%89%e7%bb%9f%e6%9c%af">三统术</a> 
+								<a target="_blank" href="/qw?s0=7&amp;s1=%e6%97%a5%e9%a3%9f%e8%af%b4">日食说</a> 
+								<a target="_blank" href="/qw?s0=7&amp;s1=%e5%88%98%e6%ad%86">刘歆</a> 
+
+						</div>
+					</div>
+					<br class="cls"/>
+				</div>
+				<div class="artBaseInfo" id="artTitleNote"/>
+				<a id="readArea" name="readArea"/>
+				
+			</div>
+			<div id="artText"><div class="artibody" id="Zoom" style="font-size: 14px;">
+    </p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;《汉书·五行志》下之下论三《传》日食说云：“凡《春秋》十二公，二百四十二年，日食三十六，《穀梁》以为朔二十六，晦七，夜二，二日一。《公羊》以为朔二十七，二日七，晦二。《左氏》以为朔十六，二日十八，晦一，不书日者二。”①核诸三《传》，知《公》、《穀》日食之数，有传文可证。然《左氏》日食数，不见于传文，结合《五行志》前文所论，知班固所言“《左氏》以为”，其实是“刘歆以为”，刘歆据三统术重新推定经传日食之期，班固采以为说，并系诸《左氏》。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;然而，验诸三统术，《汉志》中的日食之数并不符合推算结果。对此问题，迄今未见理想的解释。有的学者因不明三统历算，不能揭其误，如惠栋、沈钦韩、王先谦诸家之《汉书注》。有的学者虽通晓三统术，但未及验算，仅凭直观立论，与实情不合，如王韬、新城新藏。有的学者虽有验算，却未仔细推勘，故结论仍有可商，如钱大昕、罗士琳。还有学者未明历算，反据以立论，其说不足征信，如王引之。概言之，《左氏》日食数不仅关乎历术，而且关乎文献比勘。笔者据三统反复推验，颇疑《汉志》所载恐有讹误，正确之数似宜为：“《左氏》以为朔十八，二日十六，晦一，不书日者二。”即食朔与食二日之数互为错文。兹将理据详细说明如下。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;一  析《五行志》中的刘歆日食分野说</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;要釐清《左氏》日食数问题，须对刘歆三统术及其解释经传日食的特点有所了解。《汉志》载经传37日食，刘歆均有释，为方便讨论，列表1如下。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img onerror="this.src='/images/err.png'" src="http://img.ipub.exuezhe.com/jpg/K21/2009/K21T503.jpg" /></p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;表1日食37，刘歆几乎更改了所有的日食之期。其改动的依据何在？学者们语焉不详。今由三统术得知，刘歆改动的原因，是以推算经传日食干支为准。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;所谓以日食干支为准，即在推算过程中，不判断日食的确切日期，仅推算此干支日所在。前者包含了食限计算，后者只是朔日名推算，方法与观念均不同。如庄公二十五年六月辛未朔日食，刘歆依辛未而改六月为五月二日，因为据三统术，此年六月庚子朔，五月庚午朔，辛未，为五月二日。至于五月、六月是否日食并不是他考察的范围。有时《春秋》言日不言朔，刘歆也以此日为准而重新推断，如文公元年二月癸亥日食，据三统术，此年正月癸亥朔，二月壬辰朔，故刘歆改为正月朔。至于正月、二月是否在食限之内，也不在其考察范围。而后世学者基于日食计算原理（如食限）断定真正的日食之期，并与经传日食相对照以示其间误差，故不以日食干支为准。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;刘歆改动经传日食之期既以干支日为准，则据三统术编排经传37日食之年朔闰表（见文后附表1），即可探知刘歆改动经传日食的特点。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;比如，隐公三年二月己巳日食，刘歆改为正月二日，据三统术，此年正月戊辰朔，己巳在正月二日。而二月则是丁酉朔，与己巳日相隔甚远，故改。文公十五年经文“六月辛丑朔，日有食之”，刘歆改为四月二日，此年据三统术，四月庚子朔，二日则为辛丑，而此年六月或闰六月的朔日皆远距辛丑，故改。成公十六年六月丙寅朔日食，据三统术，此年六月甲子朔，四月乙丑朔，故刘歆改为四月二日。昭公二十一年七月壬午朔日食，刘歆改为五月二日，此年据三统术，七月庚辰朔，五月辛巳朔，壬午为五月二日，故改。刘歆之改经传日食之期，皆是此类。由此可窥见刘歆改动的特点：</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;其一，刘歆认为经传日食的记载有一日之差，即或在晦，或在二日，非必朔日。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;其二，刘歆认为经传日食之干支日不误，误在年、月，如宣公八年经文“七月甲子，  日有食之”，刘歆改为“十月二日”，此年据三统术，七月甲午朔，八月甲子朔，九月甲午朔，十月癸亥朔，十月二日即为甲子，此为改月。又如襄公十四年经文“二月乙未朔，日有食之”，刘歆改为“前年十二月二日”，此年十二个月的朔日皆与乙末日不相邻，而前年十二月甲午朔，乙未在二日，故刘歆以“前年十二月二日”改之，此并改年、月。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;其三，若有两种选择，则视具体情形而定。如宣公八年七月甲子日食，据三统术，既可改为八月，也可改十月二日，刘歆选择后者。又如宣公十七年经文“六月癸卯，日有食之”，刘歆改为“三月晦”，此年据三统术，六月正是癸卯朔，不必改，然四月甲辰朔，三月晦也是癸卯，但刘歆不从六月癸卯日食，而改从三月晦日食。个中原因，可能是刘歆认为宣公世的日食记载与三统术相较，误差偏大。不过，误差之大小并非刘歆改动的定例，如昭十五年六月丁巳朔日食，刘歆改为三月鲁卫分，此年据三统术，三月丁巳朔，五月丙辰朔，二日亦是丁巳，知刘歆不从五月二日鲁赵分。昭二十四年五月乙未朔日食，刘歆改为二日鲁赵分。此年据三统术，三月乙未朔，五月甲午朔，知刘歆不从三月齐卫分。虽然对此两种可能的选择，刘歆取舍的真正缘由还无法确定，但其改动以经传日食之干支日为准，却无疑义。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;据此，即可推知班固在《五行志》中的某些记载有误，如昭公十七年经文“六月甲戌朔，日有食之”，《五行志》载刘歆云“六月二日”。此六月二日误，应为五月。据三统术，此年闰四月，五月甲戌朔，六月甲辰朔，六月二日乙巳，经既云“甲戌”，则合者为五月朔，无缘六月二日，且刘歆认为此月鲁、赵分，更是五月之证。又定公十二年经文“十一月丙寅朔，日有食之”，《五行志》载刘歆云“十二月二日”，亦误，当为十月二日。据三统术，此年闰六月，十月乙丑朔，十一月乙未朔，十二月甲子朔，丙寅为十月二日，不应为十二月二日，且刘歆认为此月楚、郑分，而楚、郑分野在十月，不在十二月。僖公十二年经文“三月庚午，日有食之”，《五行志》载刘歆云“三月齐卫分”，此脱“二日”，当云“三月二日齐卫分”。因此年三月己巳朔，庚午即三月二日。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;观刘歆改经传日食之期，皆据三统术推朔日干支之法。不过，其中三例须加说明，一是桓公十七年经文“十月朔，日有食之”，刘歆云“秦周分”，未言月日。二是庄公十八年经文“三月，日有食之”，刘歆云“晦，鲁卫分”，加晦日。三是僖公十五年经文“五月，日有食之”，刘歆云“二月朔”，改月加朔。由于此三例在经文中并无确定之日（即“三无甲乙”例），所以有必要讨论其改动的原因。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;僖公十五年经文五月日食，虽无确定之日，但经文有九月己卯晦之定点日，由此可推出此年五月是壬子朔，故经文“五月”，在刘歆看来应是“五月壬子”的脱文。又据三统术，壬子乃此年二月朔，故刘歆改为“二月朔”。知刘歆先补足经文之干支日，然后据三统以定夺。但桓公十七年十月日食，由于可以作为定点推测的日期相距甚远，不知刘歆是如何给出具体干支日的；同样，也不知刘歆为何推庄公十八年三月日食在庚辰日②。不过，此二例虽悬而不决，但参照僖公十五年之例，则刘歆改动日食之期，皆依朔日干支重新推算，并无疑问。据此，则王韬、新城新藏关于刘歆日食说的判断就不准确③。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;由表1日食表，知刘歆的日食说与分野说连在一起。刘歆改动日食之期，除三统推算外，分野说也是重要依据。今据《五行志》所载刘歆分野说的国名，再结合《三统历》二十八宿距度，可推其分野表2如下。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img onerror="this.src='/images/err.png'" src="http://img.ipub.exuezhe.com/jpg/K21/2009/K21T504.jpg" /></p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;对照表2分野表与表1日食表，其间歧异需要说明：分野表直接以一国当之，而日食表则提到分野之交，即二国共当之。为何有此差异呢？这是因为，三统推算日食时的日躔所在，须据日月合晨法，而日月合晨法必须计算闰月，故日食表以节气月为基础；至于分野表，则以朔望月为准。如宣公十七年六月癸卯日食，刘歆云三月晦鲁卫分，案：据分野表，三月当云卫分野，何以此处云鲁、卫分？今据日月合晨法，算得宣公十七年三月晦入奎十度④，而《三统历》降娄之次起于奎五度，则三月晦已为鲁分野。所以，据分野表，三月当云卫分野；若据日月合晨法，奎十度当云鲁分野。今刘歆云三月晦鲁、卫分，正可弥合二者之异。又如襄公十五年八月丁巳朔日食，刘歆云五月二日鲁、赵分，据三统合晨法，推得五月朔入娄八度，则二日入娄九度，而《三统历》娄宿九度属降娄之次，当为鲁分。但若据分野表，五月大梁之次，又为赵之分野，故刘歆云鲁、赵分，也可弥合二者之异。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;知晓日食表和分野表的差异所在，就可推出刘歆分野说的二国共当之法：凡日食在晦者，并计来月分野之国；凡日食在朔或二日者，并计前月分野之国。如隐公三年二月日食，刘歆以为正月二日燕、越分野，正月乃越之分野，今云燕、越之分野，是并计前月分野之国，因燕为十二月分野。又宣公十七六月日食，刘歆以为三月晦鲁、卫分，三月乃卫之分野，今云鲁、卫分，是并计来月分野之国，因四月乃鲁分野。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;据此，就可以纠正《汉书·五行志》所载分野之误，正如纠正日期之误一样。定公五年三月辛亥朔日食，《五行志》载刘歆云正月二日燕、赵分，据三统术，此年正月庚戌朔，二日辛亥，日期不误，故燕、赵分，当为燕、越分，因正月星纪之次，乃越分野，赵则五月大梁之分。昭公十五年六月丁巳朔日食，《五行志》载刘歆云三月鲁、卫分，据三统术，此年三月丁巳朔，日期不误，则鲁、卫分当为齐、卫分。有关《汉志》所载刘歆日食分野说之勘误，可见文后附表2。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;二  几种可能性变例的说明</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;在上述纠正《汉志》的基础上，对文中日食表重新验算，可以确定的有：三统食朔者十六，食二日者十五，见表3。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;表3可以确定日食之数共31，加上食于晦者一（即宣公十七年六月癸卯日食），不书日者二（即庄公十八年三月日食，僖公十五年五月日食），共34日食，惟有三例不确定者。此三例，即桓公十七年十月朔日食、宣公十年四月丙辰日食、昭公七年甲辰朔日食。若须合于《汉志》所言“二日十八”之数，此三例必属食二日。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img onerror="this.src='/images/err.png'" src="http://img.ipub.exuezhe.com/jpg/K21/2009/K21T505.jpg" /></p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;但问题却相当复杂，为满足此数，需要附加的条件过多，或有与实情相违者。桓十七年十月朔日食，《五行志》载刘歆云“楚郑分”，前缺月日。据《汉志》文例，前缺之日期，皆为蒙上。如庄十八年三月日食，《五行志》载“晦，鲁卫分”，“晦”前缺月，据前经文三月，知“晦”前蒙上当为三月。昭二十四年五月乙未朔日食，《五行志》载“二日鲁赵分”，二日前缺月，由前经文亦可知此处省“五月”。同样，昭三十一年十二月辛亥朔日食，《五行志》载“二日宋燕分”，显然是蒙上而省“十二月”。据此，桓十七年经文既是“十月朔”，则“楚郑分”前，最有可能蒙上而省“十月”二字。若是“二日”，《五行志》此处不宜用省文。若以为脱文，三十七日食中，又无独脱“二日”之例。且据三统推算，决不可能得出“庚子”之干支日。故以文例言之，此例以（十月朔）楚郑分的可能性为大。只要此例不属于食二日之例，则《汉志》所载食二日18之数就无法满足。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;正因如此，下面二例的选择才稍有依凭。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;其一，昭七年四月甲辰朔，刘歆改为二月鲁卫分。考三统，此年二月甲辰朔，四月癸卯朔，故《汉志》所载，既可改二月齐越分，也可改为四月二日鲁卫分。今以传文载士文伯言“鲁卫恶之”可相参证，故改为四月二日鲁卫分。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;其二，宣十年四月丙辰日食，《五行志》载刘歆云“二月鲁卫分”。考三统，此年二月丙辰朔，四月乙卯朔，故“二月鲁卫分”之误也有两种可能，一是日期不误，分野误，当改为“二月齐越分”。二是分野不误，日期误，则当改为“四月二日鲁卫分”。钱大昕、罗士琳皆以为当改作四月二日鲁卫分，但所提供的证据不足⑤。今考宣公世共三日食，宣八年七月甲子日食，刘歆改为十月二日，时历与三统相差三月。宣十七年六月癸卯日食，刘歆改为三月晦日食，时历与三统相差两月。今宣十年四月日食，若刘歆改为二月，亦相差两月，前后相类。虽然前文提及误差之大小并非刘歆改动的定例，但若此例改为四月二日鲁卫分，则食朔者十七，食二日者十七，与十六、十八之数殊为扞格。若改为二月齐越分，则总数变为食朔者十八，食二日者十六。考虑到《汉志》中十八、十六有形近而致讹的可能性，故笔者在三统推算的基础上，将此例归为食于朔者。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;据此，则日食之数当为食朔者十八，食二日者十六。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;此三例对于推算《左氏》日食数至为关键，但前人在论述时，对此三例并未详细比勘，所以，有关《左氏》日食数的推算总嫌粗疏。钱大昕曾撰《三统术衍》，知其精通三统算法，然钱氏《三史拾遗》估算《汉志》中的《左氏》日食数，却误差颇大。其论食二日18之数，见表4。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;上为钱氏所论食二日18之数。虽然其中二例（宣十年四月日食、昭七年四月日食）据三统推算，但余例皆依《汉志》。尤其是昭十七年六月甲戌日食，《汉志》云六月二日鲁赵分，钱氏竟不改日期，以为鲁赵分当作晋赵分⑥。考三统，此年五月甲戌朔，六月甲辰朔，七月壬申朔，故《汉志》所载分野不误，乃日期误。知钱氏未以三统验算。又，钱氏未计僖公十二年三月庚午日食之例。由此观之，钱氏并未重新推算37日食之期，故关于食二日18之数的解释并不准确。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img onerror="this.src='/images/err.png'" src="http://img.ipub.exuezhe.com/jpg/K21/2009/K21T506.jpg" /></p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;三  析高邮王氏论刘歆日食分野说</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;清代王念孙、引之父子的《读书杂志》，素为学林所推重。其中有专释刘歆之日食分野说者，举例繁富。如论“僖公十二年三月庚午朔，日有食之”之“朔”为衍字，极精审。然王氏不明三统术，论刘歆日食分野之由，举证愈繁，愈见其历学之疏。前揭诸家，多精晓历术，第因未及详察三统推算与《汉志》之间的矛盾，故致误。而王氏仅以文献为立论之据，论刘歆日食说之误，其特点与上述诸家不同，故专立一节辨明之。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;引之曰：刘歆说《左氏春秋》日食、分野凡三十七事，后人传写讹误者六事：1.昭公十五年六月丁巳朔，日有食之，刘歆以为三月鲁卫分。鲁，当为齐。周之三月，今正月。是月之朔，日躔去危而入营室，危，齐也，营室，卫也。故曰齐、卫分。若作鲁，则为奎之分野，奎为二月之朔日躔所在，非正月之宿矣。2.定公五年三月辛亥朔，日有食之，刘歆以为正月二日燕趙分。趙，当为越。周之正月。今十一月。是月二日，日躔去箕而入斗，箕，燕也，斗，越也。故曰燕、越分。若作趙，则为胃之分野，  胃为三月之朔日躔所在，非十一月之宿矣。此国名之误也。3.昭公十七年六月甲戌朔，日有食之，刘歆以为六月二日鲁趙分。六月当为五月，周之五月，今三月。是月二日，日躔去娄而入胃，娄，鲁也，胃，趙也。故曰鲁、趙分。严公二十五年六月辛未朔，日有食之，刘歆以为五月二日鲁趙分，是其证也。若作六月，则为今之四月，四月之朔，日躔去毕而入参，当云趙晋，不当云鲁趙矣。且凡歆以为某月者，皆与经不同，经云六月，则歆之所定必非六月也。4.定公十二年十一月丙寅朔，日有食之，刘歆以为十二月二日楚郑分。十二月，当为十月。周之十月，今八月，八月二日，日躔去轸而入角，轸，楚也，角，郑也。故曰楚、郑分。桓公十七年十月朔，日有食之，刘歆以为楚郑分，是其证也。若作十二月，则为今之十月，十月之朔，日躔去心而入尾，当云宋燕分，不当云楚郑分矣。5.僖公十二年三月庚午朔，日有食之，刘歆以为三月齐卫分。朔，衍字也（中略⑦）。三月，当为二日。凡《春秋》日食不书朔者，刘歆皆实指其晦、朔与二日。若隐公三年二月己巳日食，刘歆以为正月二日；严公十八年三月日食，刘歆以为晦；僖公十五年五月日食，刘歆以为二月朔；文公元年二月癸亥日食，刘歆以为正月朔；宣公十七年六月癸卯日食，刘歆以为三月晦朓；襄公十五年八月丁巳日食，刘歆以为五月二日是也。今僖公十二年三月庚午日食，不书朔，则歆亦当实指其晦、朔与二日，不当但言三月也。下文曰“左氏以为二日十八”，又曰“当春秋时，侯王率多缩朒不任事，故食二日仄慝者十八”，今遍数上下文，刘歆以为二日者十六（原注：哀公十四年五月庚申朔，日有食之，刘歆以为三月二日齐卫分，此获麟後事，不在日食三十六之内，故不数也），尚缺其二，盖一为僖公十二年三月二日，一为宣公十年四月二日也。不然，则凡言刘歆以为者，月日皆与经文不同，若经文言三月而歆无异辞，则但言齐卫分可矣（原注：桓公十七年十月朔，日有食之，刘歆以为楚郑分，是也），何须重复经文而言三月乎？6.宣公十年四月丙辰，日有食之，刘歆以为二月鲁卫分，二月当为二日。盖周之四月，今二月。是月二日，日躔去东壁而入奎。东壁，卫也，奎，鲁也，故曰鲁、卫分。若作二月，则义不可通，周之二月，今十二月，十二月二日，日躔去须女而入虚，当言越齐分，不当言鲁卫分矣。自僖公十二年三月之二日讹为三月，宣公十年四月之二日讹为二月，而左氏以为二日之十八，遂缺其二矣。此月日之误也。⑧</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;王氏之释，分国名之误与月日之误，甚确。与勘误表（见附表2）相比照，王氏以为传写讹误者六，而勘误表为八。即使不计哀公十四年五月无经之传例，仍缺昭公七年四月甲辰朔日食分野之例。此例《汉志》载刘歆云二月鲁卫分，钱大昕、罗士琳皆以为当作四月二日鲁卫分。王氏未能指出，不知何故？</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;先从第一例说起。王氏云：“昭公十五年六月丁巳朔，日有食之，刘歆以为三月鲁卫分。鲁，当为齐。周之三月，今正月。是月之朔，日躔去危而入营室，危，齐也，营室，卫也。故曰齐、卫分。若作鲁，则为奎之分野，奎为二月之朔日躔所在，非正月之宿矣。”</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;案：王氏以为鲁卫分当作齐卫分，是。云“是月之朔，日躔去危而入营室”者，据三统术，昭公十五年入甲申统第1117年，积月13803，至三月，共13805，积日407673，小余47，求得合晨度54又614/1539，数起牵牛初度，入室8度，王氏云“日躔去危而入营室”，是。但第三例云“日躔去娄而入胃”，不确，宜云“日躔去娄而入昴”。据三统术，此年闰四月，至五月，积月共13832，积日408470，小余74，求得合晨度为121又357/1539。数起牵牛初度，入昴8度。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;又如第六例。宣公十年四月丙辰日食，《五行志》载刘歆云：二月鲁卫分。王氏云：“二月当为二日。盖周之四月，今二月。是月二日，日躔去东壁而入奎。东壁，卫也，奎，鲁也，故曰鲁、卫分。若作二月，则义不可通，周之二月，今十二月，十二月二日，日躔去须女而入虚，当言越齐分，不当言鲁卫分矣。”</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;案：此例罗士琳也认为，当作四月二日鲁卫分。但罗氏的依据是“子骏凡遇朔日食，皆云某月朔，此独不云”，与王氏异。前文已指出，此例应为二月齐越分，不应为四月二日鲁卫分。罗氏之据不足凭。至于王氏云：“若作二月，则义不可通……当言越齐分，不当言鲁卫分矣。”是王氏以为分野不误而日期误，若分野改为齐越分，义即可通。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;最后说第五例。此例最为典型，因为王氏的结论是正确的，如果不仔细辨析，可能会认为他的论据也是正确的，其实不然。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;僖公十二年三月庚午日食，《五行志》载刘歆说：三月齐卫分。王氏以为，三月当为二日，即二日齐卫分。其据有二：</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.“凡《春秋》日食不书朔者，刘歆皆实指其晦、朔与二日。”</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;案：王氏所举之例共六，是，然此归纳不够全面，如宣公十年四月丙辰日食，刘歆云：二月鲁卫分。并未实指晦、朔、二日。王氏以为，此二月当为二日之误，因非《五行志》本文，故证据不足。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.“‘当春秋时，侯王率多缩朒不任事，故食二日仄慝者十八’，今遍数上下文，刘歆以为二日者十六（原注：哀公十四年五月庚申朔，日有食之，刘歆以为三月二日齐卫分，此获麟後事，不在日食三十六之内，故不数也），尚缺其二，盖一为僖公十二年三月二日，一为宣公十年四月二日也。”</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;案：因《五行志》两处提到食二日者十八，王氏据此判断僖公十二年三月及宣公十年四月的两次日食当在二日，以合18之数。但王氏持据可商，理由是：</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;其一，《五行志》云：“凡《春秋》十二公，二百四十二年，日食三十六。《穀梁》以为朔二十六，晦七，夜二，二日一。《公羊》以为朔二十七，二日七，晦二。  《左氏》以为朔十六，二日十八，晦一，不书日者二。”此中可注意者，《春秋》日食三十六，《公》、《穀》之释皆合此数，惟《左传》有哀公十四年五月日食例，故合《传》当有三十七日食，所谓“《左氏》以为朔十六，二日十八，晦一，不书日者二”，其总数正是37，所以，哀公十四年五月日食应计算在内。王氏以为此例“不在日食三十六之内，故不数也”，不确。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;其二，据三统术，37日食中，有三例的日食分野结果不确定。其中二例明显有两可选择，一为宣公十年四月丙辰日食，《五行志》载刘歆云二月鲁卫分。据三统术，既可改为二月齐越分，也可改为四月二日鲁卫分。一为昭公七年四月甲辰朔日食，《五行志》载刘歆云二月鲁卫分。据三统术，既可改为二月齐越分，也可改为四月二日鲁卫分。此二例的选择不同，势必影响到统计结果。今暂悬置此二例，先释“《左氏》以为朔十六，二日十八，晦一，不书日者二”是如何得出的。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;何谓“晦一，不书日者二”？晦一，指宣公十七年六月癸卯日食，刘歆释云：三月晦朓鲁卫分。案：庄公十八年三月日食，刘歆亦云：三月晦鲁卫分。晦应有二，何以此处仅云“晦一”？这是因为，庄公十八年三月日食，属于“不书日”之例，因经文三月的日食无干支。与此相类，是僖公十五年五月日食，经文亦无干支，同属“不书日”之例。这是“不书日者二”所指。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;除去此三例，其余日食之期，不在朔，便在二日。若不计宣公十年、昭公七年日食二例，以三统推算，可以确定无疑的有：食在二日者共15例（见表3）。如果根据王氏之说，宣十年、昭七年的日食分野均改为四月二日鲁卫分，则结果就是：食二日者十七。欲合18之数，还须包括桓十七年十月日食之例，但王氏认为此例为食朔，非食二日，故18之数其实无法实现。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;其三，王氏以食二日18计，由于不数哀公十四年五月庚申日食，即使加上宣公十年、昭公七年日食二例，只有17，还须加上昭公十七年日食，方合18之数。然据三统术，昭十七年六月甲戌朔日食，应是五月鲁赵分。今王氏以五月二日为说，非也。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;其四，王氏云：“凡言刘歆以为者，月日皆与经文不同，若经文言三月而歆无异辞，则但言齐卫分可矣，何须重复经文而言三月乎？”</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;案：此说含混，起例不稳。昭十七年六月甲戌朔日食，《汉志》载刘歆云“六月二日鲁赵分”，是与王氏“凡言刘歆以为者，月日皆与经文不同”不合。或有辩者，“六月二日”乃“五月”之讹。既如此，则王氏之起例，乃基于《五行志》的修正上，然则，又如何断定僖十二年三月庚午日食，《汉志》所载刘歆说非“三月二日齐卫分”？若再以昭二十四年、三十一年之日食例为援，又嫌举证单薄，仍不免循环论证之弊。故王氏虽推出僖十二年三月日食为食二日者，但所起之例并不稳当。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;其五，王氏又引《五行志》云“当春秋时，侯王率多缩朒不任事，故食二日仄慝者十八”⑨，此处复云食二日者十八，应是承前文“《左氏》以为朔十六，二日十八”而致误。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;总之，僖公十二年三月庚午日食，王氏虽改为二日齐卫分，结论正确，但其立论之据并不准确。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;他例依此类推。由此可见，王氏文献学之功精湛，虽不知三统算法，却能前后检核，竟推出僖公十二年三月庚午为三月二日，令人由衷起敬。然文献之精审，并不能弥补历学之疏失。今以三统术还原其结果，则王氏所论之得失，可谓彰彰明矣。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;四  结语</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;综上所述，欲准确推断《汉志》中的《左氏》日食数，其中三例最为关键。由于此三例在历算上有两可选择，在文献上又无明显表征，故如何归属至关重要。《汉志》云“朔者十六，二日者十八”，前提是桓十七年十月日食须在二日。然而，此前提既于历术无法验证，又于文例颇为不合。历代诸家在讨论此例时，亦无异词，即俱将此例归为食于朔者。倘若如此，则食朔者必至于17，而食二日决无18之数。正因如此，笔者在考虑桓十七年十月食在朔的前提下，斟酌其中二例的两可选择，将宣十年四月丙辰日食系诸食朔例，将昭七年四月甲辰日食系诸食二日例，前者以误差大小为据，后者以传文为据，最后之数即是食朔者十八，食二日者十六，故《汉志》所载恐为错文。昔刘师培曾慨叹《左氏》日食数“虽屡经近儒校定，然果合子骏之旧文与否，固未可知也”⑩。诚哉斯言！然以三统术为基础，结合《汉志》行文之例，诸说权衡，则食朔者十八、食二日者十六的可能性最大，此庶几可解刘氏之惑欤？兹不揣固陋，陈说如上，谨就正于明达君子。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img onerror="this.src='/images/err.png'" src="http://img.ipub.exuezhe.com/jpg/K21/2009/K21T507.jpg" /></p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img onerror="this.src='/images/err.png'" src="http://img.ipub.exuezhe.com/jpg/K21/2009/K21T508.jpg" /></p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img onerror="this.src='/images/err.png'" src="http://img.ipub.exuezhe.com/jpg/K21/2009/K21T509.jpg" /></p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;收稿日期：2008年6月27日</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;注释：</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;①《汉书》，北京，中华书局点校本，1962年，第1500页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;②桓公十七年十月日食，刘歆云“秦周分”，考三统术，此年十月己亥朔，则刘歆当认为经文或脱“戊戌”，或脱“己亥”，或脱“庚子”。庄公十八年三月日食，刘歆云“晦鲁卫分”，考三统术，此年三月晦庚辰，则刘歆认为经文脱“庚辰”。笔者试作推算，不敢确定其结果。据桓公三年经文七月壬辰朔日食为推算起点，则自桓公三年七月至桓公十七年十月，共177月（其中包括5个闰月），以每月加29日又43分（每日81分），得177×(29+43/81)=5226+78/81，5226-60×87=6。数起壬辰，算外6，得桓公十七年十月戊戌朔，戊戌于三统，为九月晦，则刘歆云“楚郑分”前当脱“九月晦”三字。然此结果与《五行志》所概括的三统推算结果（即晦一）有异，因为宣公十七年六月癸卯日食，刘歆释为三月晦鲁卫分，已是“晦一”之例，他例不应再有晦食。故此推算应不合刘歆本意。不过，若据此戊戌朔为推算起点，至庄公十八年三月，共229月（其中包括7个闰月），以每月加29日又43分，则229×(29+43/81)=6762+46/81，6762-60×112=42。数自戊戌起，算外42，可得三月庚辰朔。而庚辰于三统，正属晦日，则此结果又与刘歆说相合。但是，此推算是以桓公十七年为定点，间隔较远，而庄公二十五年经文就有六月辛未朔的定点日，若以此逆推，不可能推得庄公十八年三月庚辰朔，故笔者惑焉。谨此请教于高明之士。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;③比如，桓公三年七月日食，既。王韬《春秋日食辨正》云：“刘歆以为‘六月，赵与晋分’，此指夏正而言。姜岌谓：‘是岁七月癸亥朔，无壬辰，亦失闰。其八月壬辰朔，去交分，入食限。’《大衍》、《授时》二历并与之合。宋庆云以《时宪》法推之，入限亦在六月。夏之六月，即周之八月。”（收入《春秋历学三书》，曾次亮点校，北京，中华书局，1959年，第158页）王韬据食限而推此年日食在八月，则以刘歆云六月为夏正。然刘歆释《春秋》日食并不据食限。所谓六月赵晋分，谓经文七月壬辰日误，据《三统》，壬辰当在六月朔，且六月为赵晋之分野，故云六月赵晋分。此六月，正是周正，非夏正。若是夏正六月，当周正八月，应云秦、周分，不可云赵、晋分。又，僖公五年九月戊申朔日食，王韬云“刘歆以为夏正七月，秦、晋分”（第161页），其说并误。据《三统》，此年戊申朔在七月，不在九月，故刘歆改经文九月为七月，非以夏正改周正，因夏正七月为周楚分，不为秦晋分。在《春秋日食辩正》中，王韬先据食限法推出日食在何月，凡刘歆之说后此二月者，王韬皆以为刘歆用夏正，然据食限推算结果有与刘歆日食说相差非二月者，则刘歆用夏正说就不免扞格难通，如宣公八年七月甲子日食，刘歆以为十月二日楚、郑分，若据王韬食限推算；则此年日食在十月，夏正为八月（第164页），是刘歆又以周正为说。又如，昭公十七年经文六月甲戌朔日食，王韬以为食当在九月（第170页），然刘歆云“六月二日鲁、赵分”，明与夏正说不合。此例据《三统》，五月甲戌朔，故刘歆认为六月二日当是误文，应改为五月，且“鲁、赵分”，也为五月分野。凡诸种种，要皆以后世日食法以释刘歆之说，不合刘歆本旨。又，新城新藏云：“《五行志》内，关于《春秋》中各日食之记事，附有‘刘歆以为某月某日’之意见，惟此乃为占星术上须决定其应受日食之灾殃之分野。案《三统历》所推算之日食发生时日也，《三统历》以百三十五月为日蚀周期，惟此系近似之日蚀周期，盖如远溯至春秋时代，已有一、二日之差。即推算《春秋》之日蚀，得其起于朔者十六，起于初二者二十，以及起于晦者一，是亦良有以也。”（沈璿译《东洋天文学史研究》，上海，中华学艺社，1933年，第317页）案：此说似是而非也。观上文所述，知刘歆断经传日食，非据交食周期，而据朔日法，故误差非如新城氏所言，仅一、二日之差，乃有相差数月者。且据三统术推算经传日食，起于二日者或为十六，或为十八，并无二十之数，与新城氏概括不符。同书并云：“案《汉书·五行志》所载刘歆之说，《春秋》之三十六日蚀中，十六起于朔，十八起于初二，又一起于晦。”（第306页）其数前后违异，知新城氏论刘歆日食说仅凭《五行志》所载，并未据三统术重新推算，故未察《五行志》之误。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;④宣公十七年入甲申统第1052年，积月12999，至四月朔，积月共13002，则积日共383960，小余24，求合晨度：(383960×1539+24×19-1051×562120)÷1539=82+578/1539。数起牵牛初度，知入奎11度。则三月晦，入奎10度。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⑤罗士琳《春秋朔闰异同》卷上论此例云：“刘歆以为二月鲁卫分，今据刘氏前后所言分野考之，鲁卫实四月分。若二月，则当为齐越分。又据《三统》所推，是年二月丙辰朔，四月乙卯朔，丙辰，其二日也。子骏凡遇朔日食，皆云某月朔，此独不云，疑二月乃二日之讹。”（收入《续修四库全书·经部·春秋类》第147册，上海，上海古籍出版社，1996年，第646页）可知罗氏取舍之据乃“子骏凡遇朔日食，皆云某月朔，此独不云”。案：此据非也。如庄公三十年九月庚午朔日食，刘歆云八月秦周分，不言朔。据三统术，此年八月朔庚午，是刘歆论朔日食，非必云某月朔也。此类例证多达十余例，不为孤证，知罗氏之说不足凭。至于钱氏，其说未及论证。《三史拾遗》云：“月，当作日，谓食在四月二日也。经书四月丙辰而不言朔，故知食二日。”（收入《续修四库全书；史部·史评类》第454册，《续修四库全书·吏部·史评类》第454册，第913页上）</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⑥《三史拾遗》，第913页上。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⑦此省略之文，乃王氏专论衍“朔”之由，因中华书局点校本已示“朔”为衍字，为避文繁，故略之。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⑧王念孙：《读书杂志·汉书志·左氏春秋日食分野》，南京，江苏古籍出版社，2000年，第245-246页。文中之序号1、2等，系笔者为醒目而加。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⑨《汉书》，第1506页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⑩刘师培：《古历管窥》，收入《刘申叔遗书》上册，南京，江苏古籍出版社，1997年，第690页下。
+</div>
+<div class="page-list">
+    <div class="pageNav" id="pageList"></div>
+</div>
+</div><br class="cls"/>
+		</div>
+		</body></html>

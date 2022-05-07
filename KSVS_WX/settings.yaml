@@ -1,0 +1,53 @@
+cookies:
+  clientid: '3'
+  did: web_668b6a43d681ba8b3ef3ee372cbaae11
+  kpf: PC_WEB
+  kpn: KUAISHOU_VISION
+  kuaishou.server.web_ph: bf6746ec10e63537713a2a312ae0639c966f
+  kuaishou.server.web_st: ChZrdWFpc2hvdS5zZXJ2ZXIud2ViLnN0EqABobC6g-bOCoRpNhXIVoK3dMdV3QPCVcf-97Xqw3d_fXVClwcizEwbNenI28nKZ12DmaIVJiP6ubN1J_mZEmEhLRIr0l2mh_GQ9e80UaKbNU6ApjC5OFT7NgMbwQJhaZd-n_Z-KgXQggBnYwxgkWVEy6vEGT_3odQwWaLQUbsVvlP23qOQSfUFwjN1R1346QgOZ-t1z0f6qoHzxwk4K6LgBBoSnIqSq99L0mk4jolsseGdcwiNIiAOuZtM_1DCNt4CHpp1bUi2EqTGDKw158FVRTmXwo5SzygFMAE
+  passToken: ChNwYXNzcG9ydC5wYXNzLXRva2VuEpAB_yHZeM2pBEu-KAp6par8fwK_WVZGTcBiq71veyjdvBFRmmawQQzMlJgioF3JUczVc1iqCBUIE89PRc6tBcV-T-cWgJYcBt8rz27yRMXS2XgD3OmhqOoFeVR8tmhR8NBWHv9JjpJSNym4UkWrUR5GH_L6basz8APt5PLS3lGEXE6iXmRzlXJbX-ArYfLRXjfzGhJdo89YgU9AaYhCum5Xa_9JjU0iIHJ4toTq25fu81-u7EIRZNSSRv17vXPHngU95d--A3HTKAUwAQ
+  userId: '1671478683'
+db: data/data1_42.db
+detail_query: "query visionProfile($userId: String) {\n  visionProfile(userId: $userId)\
+  \ {\n    result\n    hostName\n    userProfile {\n      ownerCount {\n        fan\n\
+  \        photo\n        follow\n        photo_public\n        __typename\n     \
+  \ }\n      profile {\n        gender\n        user_name\n        user_id\n     \
+  \   headurl\n        user_text\n        user_profile_bg_url\n        __typename\n\
+  \      }\n      isFollowing\n      __typename\n    }\n    __typename\n  }\n}\n"
+get_directory_path: /home/turning/Desktop/data/task/KSVS
+headers:
+  Accept-Language: zh-CN,zh;q=0.9
+  Connection: keep-alive
+  Origin: https://www.kuaishou.com
+  Referer: https://www.kuaishou.com/profile/
+  Sec-Fetch-Dest: empty
+  Sec-Fetch-Mode: cors
+  Sec-Fetch-Site: same-origin
+  User-Agent: Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like
+    Gecko) Chrome/27.0.1500.55 Safari/537.36
+  accept: '*/*'
+  content-type: application/json
+id_query: "query visionSearchPhoto($keyword: String, $pcursor: String, $searchSessionId:\
+  \ String, $page: String, $webPageArea: String) {\n  visionSearchPhoto(keyword: $keyword,\
+  \ pcursor: $pcursor, searchSessionId: $searchSessionId, page: $page, webPageArea:\
+  \ $webPageArea) {\n    result\n    llsid\n    webPageArea\n    feeds {\n      type\n\
+  \      author {\n        id\n        name\n        following\n        headerUrl\n\
+  \        headerUrls {\n          cdn\n          url\n          __typename\n    \
+  \    }\n        __typename\n      }\n      tags {\n        type\n        name\n\
+  \        __typename\n      }\n      photo {\n        id\n        duration\n    \
+  \    caption\n        likeCount\n        realLikeCount\n        coverUrl\n     \
+  \   photoUrl\n        liked\n        timestamp\n        expTag\n        coverUrls\
+  \ {\n          cdn\n          url\n          __typename\n        }\n        photoUrls\
+  \ {\n          cdn\n          url\n          __typename\n        }\n        animatedCoverUrl\n\
+  \        stereoType\n        videoRatio\n        __typename\n      }\n      canAddComment\n\
+  \      currentPcursor\n      llsid\n      status\n      __typename\n    }\n    searchSessionId\n\
+  \    pcursor\n    aladdinBanner {\n      imgUrl\n      link\n      __typename\n\
+  \    }\n    __typename\n  }\n}\n"
+video_query: 'query visionProfilePhotoList($pcursor: String, $userId: String, $page:
+  String, $webPageArea: String) {\n  visionProfilePhotoList(pcursor: $pcursor, userId:
+  $userId, page: $page, webPageArea: $webPageArea) {\n    result\n    llsid\n    webPageArea\n    feeds
+  {\n      type\n      author {\n        id\n        name\n        following\n        headerUrl\n        headerUrls
+  {\n          cdn\n          url\n          __typename\n        }\n        __typename\n      }\n      tags
+  {\n        type\n        name\n        __typename\n      }\n      photo {\n        id\n        duration\n        caption\n        likeCount\n        realLikeCount\n        coverUrl\n        coverUrls
+  {\n          cdn\n          url\n          __typename\n        }\n        photoUrls
+  {\n          cdn\n          url\n          __typename\n        }\n        photoUrl\n        liked\n        timestamp\n        expTag\n        animatedCoverUrl\n        stereoType\n        videoRatio\n        profileUserTopPhoto\n        __typename\n      }\n      canAddComment\n      currentPcursor\n      llsid\n      status\n      __typename\n    }\n    hostName\n    pcursor\n    __typename\n  }\n}\n'

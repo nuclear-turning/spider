@@ -1,0 +1,203 @@
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><style>.trR{ text-align:right;}
+#wraper{width:1190px; margin:0 auto; margin-bottom:10px;text-align:left;}
+#left{ float:left;width:250px; text-align:left;}
+#right{float:right;width:930px;text-align:left;border-top:2px solid #619bc0; padding-bottom:10px;}
+.border_w{ border:1px solid #d3d3d3;border-top:2px solid #619bc0;}
+.t01{height:30px;line-height:30px;border:1px solid #dddddd;padding-left:10px;background:url(../images/tbg01.jpg) repeat-x bottom; color:#1183c1; font-size:14px;}
+.con_01{ padding:10px;}
+.con_cbg{ background:url(../images/con_cbg.gif) repeat-y;}
+.con_bbg{ background:url(../images/con_bbg.gif) no-repeat left bottom; height:1px; line-height:1px; font-size:0;}
+
+.source{margin:15px;background:url(../images/linex.gif) repeat-x bottom; padding-bottom:30px; margin-bottom:30px;}
+.source .source-img{border:1px solid #d3d3d3; text-align:center; padding:5px;margin-bottom:10px; }
+.source p{color:#666666; font-weight:bold; font-size:12px;}
+.source .fblue{ color:#236bac; font-weight:normal;}
+
+.t_tj{ height:27px;padding-top:2px;margin:15px; background:url(../images/con_t_tj.gif) no-repeat left top; padding-left:10px; color:#FFFFFF; font-size:14px;}
+.c12_01{ margin-left:15px; margin-right:15px; margin-bottom:15px;}
+.c12_01 li{font-size:12px; line-height:24px; background: url(../images/dot.gif) no-repeat 2px 10px; padding-left:15px;}
+
+#artibodyTitle{color:#236bac;font-family:"宋体";font-size:20px;font-weight: normal;line-height:35px;text-align:center;margin-top:10px;	text-align:center;}
+#artisubTitle{font-family:"宋体";font-size:16px;font-weight: normal;line-height:28px;text-align:center;}
+.articl_info{margin-left:30px; margin-right:30px; position:relative;border-bottom:1px solid #e1e1e1;padding-bottom:20px; margin-bottom:20px;}
+.btn-img{
+	background-image:url(../images/allbg.png);
+	background-repeat:no-repeat;
+	font-size:12px;		
+	cursor:pointer;
+	border: 0px none;
+	display: inline-block;
+	vertical-align:middle;
+	text-align:center;}
+
+.artInfo{height:22px;border-top:1px solid #e1e1e1;border-bottom:1px solid #e1e1e1;padding:5px;margin:20px;}
+.artInfo li{float:left;width:33%;height:22px; line-height:22px; color:#666666;}
+
+.artInfo li .collectionPage_link{
+	background-position:-509px -80px;
+	padding-left:10px;
+	margin-top:-2px;
+	_margin-top:0px;
+	margin-left:10px;
+	width:51px;
+	height:22px; 
+	line-height:22px;		
+	color:#1183c1;	}
+.artInfo li .printPage_link{
+	background-position:-570px -80px;
+	padding-left:10px;
+	margin-top:-2px;
+	_margin-top:0px;
+	margin-left:10px;
+	width:51px;
+	height:22px; 
+	line-height:22px;	
+	color:#1183c1;}
+.artInfo li .downloadPage_link{
+	background-position:-631px -80px;
+	margin-top:-2px;
+	_margin-top:0px;
+	margin-left:10px;
+	width:51px;
+	padding-left:10px;
+	height:22px; 
+	line-height:22px;	
+	color:#1183c1;}
+
+
+.artBaseInfo{line-height:24px; margin-bottom:5px;}
+.artBaseInfo .info_left{float:left;width:80px;}
+.artBaseInfo .info_right{float:left;width:790px;}
+
+.artBaseInfo dt{float:left;width:80px; color:#666666;line-height:20px; display:inline-block;}
+.artBaseInfo dd{color:#666666;line-height:20px;display:inline-block;}
+.artBaseInfo .col li{ float:left;width:210px; height:20px; line-height:20px;color:#666666;}
+
+.artBaseInfo .item{ float:left;width:50%;}
+.artBaseInfo .notice{
+	margin-left:10px;
+	width:61px;
+	padding-left:10px;
+	height:22px; 
+	line-height:22px;
+	background-position:-448px -80px;	
+	color:#1183c1;}
+
+.artInfo{height:30px;border-top:1px solid #e1e1e1;border-bottom:1px solid #e1e1e1;margin:20px 10px;}
+.artInfo div{ float:left;width:30%;height:30px; line-height:30px; text-align:center;}
+.artInfo div a{ margin-left:20px; margin-right:20px;}
+.artInfo li{float:left;width:33%;height:22px; line-height:22px; color:#666666;}
+
+.articl_info{margin-left:30px;margin-right:30px; position:relative;border-bottom:1px solid #e1e1e1;padding-bottom:20px; margin-bottom:20px;}
+.artBaseInfo{margin-bottom:5px;}
+.articl_info_t{float:left;width:80px;margin-right: -100%;font-weight:bold;line-height:24px;}
+.articl_info_c{float: left;width: 100%;}
+.articl_info_c .info_c{margin-left:80px; line-height:24px;}
+.artBaseInfo .marL{ margin-left:20PX;}
+.artBaseInfo .col_info{ float:left;width:30%;line-height:20px;}
+
+.fontSize{position: relative;right:0px;top:0px;font-size:12px; height:30px; line-height:30px; text-align:right;}
+.fontSize a{border:1px solid #c2c2c2;margin-right:10px;padding:4px 1px;*padding:1px; cursor:pointer;font-size:12px;}
+.fontSize a span{background:url(../images/page_a_36.png) repeat-x;padding:3px;}
+
+.fontSize a.now{border: #f9ad75 1px solid;padding:4px 1px;*padding:1px;}
+.fontSize a.now span{color:#ff7d27;background:url(../images/current_34.png) repeat-x bottom;padding:3px;}
+.artibody{margin-left:20px;margin-right:20px;font: 18px/180% "Microsoft YaHei","微软雅黑"; color:#666666;}
+.artibody p{margin-bottom:20px;}
+
+.fontSize A:link{ color:#000000;text-decoration:none;}
+.fontSize A:visited{ color:#000000;text-decoration:none;}
+.fontSize A:hover{ color:#FF0000;text-decoration:none;}
+.fontSize a.now:link{color:#ff7d27;text-decoration:none;}
+#Zoom img {max-width:600px; max-height:600px; scale:expression((this.offsetWidth > this.offsetHeight)?(this.style.width = this.offsetWidth >= 600 ? "600px" : "auto"):(this.style.height = this.offsetHeight >= 600 ? "600px" : "auto")); display:inline !important;}
+
+.t_artiInfo{font-size:14px; padding-left:20px;background:url(../images/linex.gif) repeat-x top; line-height:30px; margin-top:10px;}
+.li_artiInfo{margin-left:30px; margin-right:30px;padding-bottom:10px; }
+.li_artiInfo ul li{float:left;width:100%;padding:3px 0;}
+.li_artiInfo ul li .title{ float:left;width:65%;}
+.li_artiInfo ul li .author{ float:left;width:15%;}
+.li_artiInfo ul li .come{ float:right;width:20%;color:#999999; text-align:right;}
+
+
+.index_artInfo{height:36px; line-height:36px; border-top:1px solid #e1e1e1;border-bottom:1px solid #e1e1e1; margin-top:20px; padding-left:20px;  padding-right:20px;padding-right:10px; margin-bottom:10px; margin-left:10px;text-align:center;}
+.index_artInfo a.collectionPage_link{ background:url(../images/icon.gif) no-repeat 0 1px; padding-left:15px;}
+.index_artInfo a.printPage_link{background:url(../images/icon.gif) no-repeat 0 -55px; padding-left:15px;}
+.index_artInfo a.downloadPage_link{background:url(../images/icon.gif) no-repeat 0 -108px; padding-left:13px;}
+
+.index_body .main{margin-left:100px; line-height:28px;color:#000000; padding-bottom:30px; padding-top:20px;}</style></head><body><div id="wraper">
+			<div id="artTitles">
+				<h1 id="artibodyTitle">东汉光武帝平定“彭宠之叛”史实考论</h1>
+				<h2 id="artisubTitle"/>
+			</div>
+			
+			<div class="articl_info">
+				<div class="artBaseInfo" id="autInfo">
+					<div class="articl_info_t">作 者：</div>
+					<div class="articl_info_c">
+						<div class="info_c">
+								<a target="_blank" href="/qw?s0=4&amp;s1=%e5%ad%99%e5%ae%b6%e6%b4%b2">孙家洲</a> 
+						</div>
+					</div>
+					<br class="cls"/>
+				</div>
+				<div class="artBaseInfo" id="autDescription">
+					<div class="articl_info_t">作者简介：</div>
+					<div class="articl_info_c">
+						<div class="info_c">孙家洲，中国人民大学 历史学院，北京 100872
+    孙家洲（1955—），男，山东省莱州市人，中国人民大学历史学院院长、教授、博士生导师，主要从事秦汉史研究。</div>
+					</div>
+					<br class="cls"/>
+				</div>
+				<div class="artBaseInfo" id="tAutInfo"/>
+				<div class="artBaseInfo" id="orgInfo">
+					<div class="articl_info_t">原文出处：</div>
+					<div class="articl_info_c">
+						<div class="info_c">河北学刊</div>
+					</div>
+					<br class="cls"/>
+				</div>
+				<div class="artBaseInfo" id="astInfo">
+					<div class="articl_info_t">内容提要：</div>
+					<div class="articl_info_c">
+						<div class="info_c">
+							<p>东汉光武帝刘秀的“中兴之业”始于经营河北。而对渔阳郡的争夺，构成了其中非常重要的一个部分。在两汉之际，控制渔阳局面的彭宠，先归附更始政权，后来又投依“镇慰河北”的刘秀。彭宠所派出的渔阳精兵，与上谷太守耿况的军队，实为刘秀经营河北的核心军事力量。但是，东汉建武二年（公元26年）二月，彭宠却起兵造反，挥兵进攻幽州牧朱浮于蓟。这与同年正月发生的真定王刘杨谋反之事，先后相继，对刘秀经营河北大业形成了极大冲击。刘秀在处置彭宠之叛时，表现得十分宽容，甚至几近柔软寡断。分析从缓处理的原因，可能是刘秀为了笼络河北豪强势力而刻意作出的姿态。因为彭宠之叛，并非出自彭宠的初衷，而是出自刘秀亲信朱浮的刻意逼迫。当时人对朱浮的“生事”之举，多持非议。素以信守道德自我标榜的刘秀，在处理彭宠之叛时，势必顾及舆论评价。当然，为了笼络河北豪强势力，刘秀也有刻意作态的必要。刘秀的“中兴之业”由此显现出“道德战略”与“兵事战略”并重的特色。这是汉光武帝与汉高祖经略天下的大异其趣之处。</p>
+						</div>
+					</div>
+					<br class="cls"/>
+				</div>
+				<div id="artPdcInfo" class="artBaseInfo">
+					<div class="col_info"><b>期刊代号：</b>K21 </div>
+					<div class="col_info"><b>分类名称：</b>先秦、秦汉史 </div>
+					<div class="col_info"><b>复印期号：</b>2009 年 06 期 </div>
+					<br class="cls"/>
+				</div>
+				<div class="artBaseInfo" id="artKeyword">
+					<div class="articl_info_t">关 键 词：</div>
+					<div class="articl_info_c">
+						<div class="info_c">
+								<a target="_blank" href="/qw?s0=7&amp;s1=%e5%88%98%e7%a7%80">刘秀</a> 
+								<a target="_blank" href="/qw?s0=7&amp;s1=%e5%bd%ad%e5%ae%a0">彭宠</a> 
+								<a target="_blank" href="/qw?s0=7&amp;s1=%e6%9c%b1%e6%b5%ae">朱浮</a> 
+								<a target="_blank" href="/qw?s0=7&amp;s1=%e6%b2%b3%e5%8c%97%e5%a4%a7%e6%97%8f">河北大族</a> 
+								<a target="_blank" href="/qw?s0=7&amp;s1=Liu+Xiu">Liu Xiu</a> 
+								<a target="_blank" href="/qw?s0=7&amp;s1=Peng+Chong">Peng Chong</a> 
+								<a target="_blank" href="/qw?s0=7&amp;s1=Zhu+Fu">Zhu Fu</a> 
+								<a target="_blank" href="/qw?s0=7&amp;s1=influencing+persons+in+Hebei">influencing persons in Hebei</a> 
+
+						</div>
+					</div>
+					<br class="cls"/>
+				</div>
+				<div class="artBaseInfo" id="artTitleNote"/>
+				<a id="readArea" name="readArea"/>
+				
+			</div>
+			<div id="artText"><div class="artibody" id="Zoom" style="font-size: 14px;">
+    </p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;［中图分类号］K234.2［文献标识码］A［文章编号］1003－7071（2009）04－0089－06［收稿日期］2009－06－20</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;东汉光武帝刘秀虽然起兵舂陵（治今湖南宁远东北）而开帝业之端，其开国功臣中也不乏“帝乡”南阳人物，但是，他“中兴之业”的根基却是在河北奠定的，这实为历史定论。当代学者的几部研究刘秀的专著，对此都有论断①。河北基业虽是刘秀经营天下的最大资源，但却并不意味着刘秀对河北的控制是一直有效的。实际上，在刘秀称帝于鄗（今河北高邑东南）、定都洛阳之后不久，作为其大后方的河北之地，却在东汉建武二年（公元26年）二月，发生了渔阳太守彭宠起兵造反的变故。彭宠不仅兵围幽州，摆出了势将幽州牧朱浮置于死地的态势，而且还自称燕王，又与晚一年造反的涿郡太守张丰连兵，形成了对刘秀统治秩序的严重威胁。这场叛乱一直延续到东汉建武五年（公元29年）二月，历时四年，才得以侥幸平定。学者对这场叛乱的史事已多有梳理，关于刘秀重用人才、善于御下的论著也不胜枚举。然而，以善待功臣而著称的刘秀在对待彭宠的问题上何以表现得有些不合常理？这场叛乱发生的原因何在？而刘秀又为何顾虑重重，没有对其全力镇压？关于这些问题，学术界似关注较少，仅陈勇所撰《论光武帝“退功臣而进文吏”》（《历史研究》1995年第4期）一文注意到刘秀处理此事的畏首畏尾态度，并认为，其可能是担心一旦实行严厉的镇压会引来其他功臣的反感和猜疑。如此论述显然较为简略。笔者认为，围绕刘秀对待彭宠及其叛乱的态度和刘秀、彭宠、朱浮三人之间的关系等问题展开专题论述，可能会深化对“光武中兴”之业的认识，故此不避愚陋，将自己的分析和思考列述如下，敬请方家教正。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;一、彭宠在刘秀初定北方之时发挥过重要的作用</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;两汉之际，北方幽、冀二州统治权的转移，极富戏剧性。一位卜者出身的王郎，巧借“人心思汉”的社会风潮，假称西汉成帝之子，称帝于邯郸。他任官置守，“分遣将帅，徇下幽、冀”，移檄州郡，号称是汉家正统，结果是“赵国以北，辽东以西，皆从风而靡”[1](卷12，《王昌（郎）传》。一时之间，成为北方人心所向的政治力量。王郎势力的迅速崛起，几乎呈现势不可挡之势。一个有趣的历史场景出现了：当时以更始皇帝使臣面目经营河北的刘秀，本来已经形成了一定的地盘和影响，但是，王郎的声望竟然盖过了汉世远支的刘秀，迫使刘秀暂避其锋，步步被动。在刘秀携王霸等亲信到达蓟县（治今北京西南）之时，王郎以重赏购求刘秀首级的文书已经被当地人熟知。因此，王霸奉了刘秀之命在蓟县试图招兵买马之时，受到了市人的嘲笑与摒弃。随即发生了蓟县人响应王郎而起兵的事变，群起搜捕刘秀。刘秀只好仓皇逃命，沿途风险濒发，甚至有生死决于须臾的危急状况。暂且扭转了危急局面的是坚守信都郡（治今河北冀州）的太守任光和成郡（今河北平乡）的太守邳彤[1](卷21，《任光传》、《邳彤传》)。而真正帮助刘秀逆转大局的，则是两股势力：一是真定王刘扬（详后）；二是渔阳太守彭宠和上谷太守耿况。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;最早向刘秀提出可以凭借渔阳、上谷两郡之力抗击王郎的，是青年将领耿弇。耿弇是耿况之子，与刘秀一见倾心而归附。刘秀在蓟县进退维谷时，一度主张向南撤退，耿弇明确表示反对：“今兵从南来，不可南行。渔阳太守彭宠，公之邑人；上谷太守，即弇父也。发此两郡，控弦万骑，邯郸不足虑也。”[1](卷19，《耿弇传》)耿弇强调彭宠可以结为奥援的理由是，彭宠与刘秀是同乡。这种乡党关系，在乱世之中，确实可以成为政治联盟的感情基础。彭宠，南阳宛人，其父彭宏，西汉哀帝时为渔阳太守，有威名于边塞。彭氏在渔阳一带是大有影响的家族。王莽末年，彭宠与乡人吴汉逃亡至渔阳，投奔其父旧时属吏。更始政权建立，派遣谒者韩鸿持节徇北州（特指幽、并二州），赋予“承制得专拜二千石已下”的特权。韩鸿也是南阳宛人，在到达蓟县之后，遇到彭宠、吴汉“并乡闾故人，相见欢甚”，随即任命彭宠为偏将军，行渔阳太守事，同时任命吴汉为安乐令。彭宠得以控制渔阳，除了其家世影响之外，主要就是有任命权力的韩鸿恰恰是他的同乡。出于同样的道理，彭宠与刘秀结交是完全正常的。耿弇的劝说刘秀依靠渔阳、上谷两郡而自立，其依据就在于此。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;而对于彭宠等人而言，是支持处于劣势的刘秀，还是归附势头正盛的王郎？完全可以有不同的选择。因为当时王郎也正在招抚地方实力派。“会王郎诈立，传檄燕、赵，遣将徇渔阳、上谷，急发其兵，北州众多疑惑，欲从之。”[1](卷12，《彭宠传》)在众人狐疑不定的情况下，彭宠的选择，就是决定性的因素。按照《后汉书》相关列传的记载，彭宠决定支持刘秀，是因为内部有吴汉的建议，外部有上谷太守耿况派遣功曹寇恂前来邀约。彭宠在二人的影响之下，选择了支持刘秀。关于吴汉发挥的作用，史书有这样的记载：</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;吴汉字子颜，南阳宛人也。家贫，给事县为亭长。王莽末，以宾客犯法，乃亡命至渔阳。资用乏，以贩马自业，往来燕、蓟间，所至皆交结豪杰。……</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;会王郎起，北州扰惑。汉素闻光武长者，独欲归心，乃说太守彭宠曰：“渔阳、上谷突骑，天下所闻也。君何不合二郡精锐，附刘公击邯郸，此一时之功也。”宠以为然，而官属皆欲附王郎，宠不能夺。汉乃辞出，止外亭，念所以谲众，未知所出。望见道中有一人似儒生者，汉使人召之，为具食，问以所闻。生因言刘公所过，为郡县所归；邯郸举尊号者，实非刘氏。汉大喜，即诈为光武书，移檄渔阳，使生赍以诣宠，令具以所闻说之，汉复随后入。宠甚然之，于是遣汉将兵与上谷诸将并军而南，所至击斩王郎将帅。及光武于广阿，拜汉为偏将军。既拔邯郸，赐号建策侯[1](卷18，《吴汉传》)。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;关于耿况、耿弇、寇恂发挥的作用，史书是这样记载的：</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（耿）弇走昌平就况，因说况使寇恂东约彭宠，各发突骑二千匹，步兵千人。弇与景丹、寇恂及渔阳兵合军而南，所过击斩王郎大将、九卿、校尉以下四百余级，得印绶百二十五，节二，斩首三万级，定涿郡、中山、<img onerror="this.src='/images/err.png'" src="http://img.ipub.exuezhe.com/jpg/K21/2009/k21t621.jpg" />鹿、清河、河间凡二十二县，遂及光武于广阿。是时光武方攻王郎，传言二郡兵为邯郸来，众皆恐。既而悉诣营上谒。光武见弇等，说，曰：“当与渔阳、上谷士大夫共此大功。”乃皆以为偏将军，使还领其兵。加况大将军、兴义侯，得自置偏裨。弇等遂从拔邯郸[1](卷19，《耿弇传》)。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 及王郎起，遣将徇上谷，急况发兵。恂与门下掾闵业共说况曰：“邯鄣拔起，难可信向。昔王莽时，所难独有刘伯升耳。今闻大司马刘公，伯升母弟，尊贤下士，士多归之，可攀附也。”况曰：“邯郸方盛，力不能独拒，如何？”恂对曰：“今上谷完实，控弦万骑，举大郡之资，可以详择去就。恂请东约渔阳，齐心合众，邯郸不足图也。”况然之，乃遣恂到渔阳，结谋彭宠。恂还，至昌平，袭击邯郸使者，杀之，夺其军，遂与况子弇等俱南及光武于广阿。拜恂为偏将军，号承义侯，从破群贼。数与邓禹谋议，禹奇之，因奉牛酒共交欢[1](卷16，《寇恂传》)。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;以上材料，固然可以说明吴、耿、寇诸人对彭宠曾经发挥过重要的影响，但是，彭宠的作用也不可小视。彭宠作为一郡之守，是出动渔阳精兵援救刘秀的最高决策者。“宠乃发步骑三千人，以吴汉行长史，及都尉严宣、护军盖延、狐奴令王梁，与上谷军合而南，及光武于广阿。光武承制封宠建忠侯，赐号大将军。遂围邯郸，宠转粮食，前后不绝。”[1](卷12，《彭宠传》)由此可见，刘秀势力处于低谷时，彭宠对他的支持是巨大的，也是关键性的。他所派出的四位统兵将领，除了严宣仅此一见之外，其他三人吴汉、盖延、王梁皆是一时英杰，后来成为辅助刘秀开国的重要人物。两郡精兵与刘秀在广阿相会，使得刘秀的军事力量获得根本性的提升，因此，刘秀也报以隆礼重谢，“光武承制封宠建忠侯，赐号大将军”，实在是情理之中。并且，在稍后刘秀围攻邯郸的王郎势力之时，彭宠为之供应军粮，为刘秀击败王郎提供了后勤保障。因此，在辅佐刘秀初定河北之时，彭宠实际上发挥了非常独特的作用。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;二、彭宠之叛实出于“逼反”</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;彭宠虽然在刘秀平定河北的过程中发挥了重要作用，然而，我们看到的却是刘秀在对待彭宠的态度上有刻意怠慢、压抑之嫌。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;第一，在平定了王郎之后，刘秀与彭宠会面之时，压低了规格，使得自恃有大功的彭宠，很感失望。刘秀与彭宠之间的问题，实肇端于此，而且此种情形恰恰被刘秀的亲近之臣朱浮所悉知：</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;及王郎死，光武追铜马北至蓟。宠上谒，自负其功，意望甚焉，光武接之不能满，以此怀不平。光武知之，以问幽州牧朱浮，浮对曰：“前吴汉北发兵时，大王遗宠以所服剑，又倚以为北道主人。宠谓至当迎阁握手，交欢并坐。今既不然，所以失望。”浮因曰：“王莽为宰衡时，甄丰旦夕入谋议，时人语曰：‘夜半客，甄长伯。’及莽篡位后，丰意不平，卒以诛死。”光武大笑，以为不至于此[1](卷12，《彭宠传》)。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;朱浮不仅洞悉彭宠不满意于刘秀的原因，而且率先假借谈论王莽与其亲信甄丰的往事，暗示了彭宠受诛而死的可能性。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;第二，在刘秀称帝之后，重用了彭宠的部属，却冷落了彭宠本人。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;及即位，吴汉、王梁，宠之所遣，并为三公，而宠独无所加，愈怏怏不得志。叹曰：“我功当为王，但尔者，陛下忘我邪？”[1](卷12，《彭宠传》)</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;吴汉、王梁在追随刘秀征战之后，与刘秀的关系密切起来，而且确实立有军功，从刘秀酬谢功臣的角度而言，重用二人有其合理性，但对彭宠却无任何奖励甚至于没有安抚性的虚言相加，总不能说是处置得当吧。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;那么，刘秀对彭宠的礼遇失常，是一时的思虑不周，还是另有隐情？彭宠造反之后的一个举动，同样值得治史者深思：“（彭宠）又自以与耿况俱有重功，而恩赏并薄，数遣使要诱况。况不受，辄斩其使。”[1](卷12，《彭宠传》)在彭宠看来，上谷太守耿况同有大功，而且同样蒙受“恩赏并薄”的待遇，耿况也就有造反的理由。尽管耿况没有与彭宠结盟造反，但是，汉光武帝刘秀对他也有压抑之实。是否我们应该考虑：刘秀在有意冷落、贬抑彭宠与耿况？</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;刘秀何以有意贬低彭宠？一方面，可能出于他对彭宠的不信任。在刘秀势力弱小，王郎声势较盛之时，彭宠对刘秀的支持无疑发挥了重要的作用，但是，彭宠似乎自始即带有犹豫之情。在官属皆欲附王郎时，彭宠不能定夺，在吴汉等人的说动下支持了刘秀，却只派遣吴汉、王梁等南下追随光武，自己镇守渔阳，在刘秀看来可能并非倾心向己。王夫之曾论及此事：“意者宠之初发突骑助光武讨王郎，宠无固志，特为吴汉、王梁所胁诱，而耿况、寇恂从臾之，以此有隙焉……则宠有犹豫之情可知矣。”[2](卷6，《光武七》)看来彭宠似有犹豫之情、窥视之心。另一方面，彭宠没有直接参与刘秀对王郎的征伐活动，而是镇守渔阳，直接立下的战功很少，而在刘秀进据中原时，彭宠也未带兵追随，仍坐守河北的大后方——渔阳，刘秀对其当然是疑忌和防范的，更不用谈功劳了。这与吴汉、王梁、耿弇等人不同，他们直接追随刘秀平定王郎，其后又南征北讨，立下的战功卓著，当然可以显封。此外，彭宠自负其功，对刘秀的礼遇期望过高，很可能增强刘秀的反感心理。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;正是出于对彭宠的不信任，刘秀才选择了一位自己的心腹之臣——朱浮来出任幽州牧，而州牧的主要职责之一便是对地方郡守的监察。朱浮对刘秀的心思也揣摩得很透彻，他明确自己作为一个监察者的身份，因此，他与彭宠的不相安自然也是情理中事了。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;彭宠发起的渔阳之叛，并非出自彭宠初衷，而是遭受疑忌而被逼造反。从表面看来，直接的诱因是幽州牧朱浮与彭宠的矛盾，这是《后汉书》一再强调的原因。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;是时北州破散，而渔阳差完，有旧盐铁官，宠转以贸谷，积珍宝，益富强。朱浮与宠不相能，浮数谮构之。建武二年春，诏征宠，宠意浮卖己，上疏愿与浮俱征。又与吴汉、盖延等书，盛言浮枉状，固求同征。帝不许，益以自疑。而其妻素刚，不堪抑屈，固劝无受召。宠又与常所亲信吏计议，皆怀怨于浮，莫有劝行者。帝遣宠从弟子后兰卿喻之，宠因留子后兰卿，遂发兵反。拜署将帅，自将二万余人攻朱浮于蓟，分兵徇广阳、上谷、右北平[1](卷12，《彭宠传》)。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;从彭宠上奏愿意与朱浮同时受征来看，彭宠曾经自信地以为，只要同时面见皇帝，就有把握为自己洗刷朱浮强加的诬陷之词。而且，彭宠还分别致信昔日的部属、现在皇帝身边的重臣吴汉、盖延，显然是希望他们二人代为在刘秀面前申明冤情。可惜的是，吴汉、盖延并没有发挥这样的作用。彭宠被“逼反”的详情，《朱浮传》记载更为详细，而且对朱浮的谴责也更为明显。“浮年少有才能，颇欲厉风迹，收士心，辟召州中名宿涿郡王岑之属，以为从事，及王莽时故吏二千石，皆引置幕府，乃多发诸郡仓谷，禀赡其妻子。渔阳太守彭宠以为天下未定，师旅方起，不宜多置官属，以损军实，不从其令。浮性矜急自多，颇有不平，因以峻文诋之；宠亦佷强，兼负其功，嫌怨转积。浮密奏宠遣吏迎妻而不迎其母，又受货贿，杀害友人，多聚兵谷，意计难量。宠既积怨，闻，遂大怒，而举兵攻浮。”逼反彭宠显然是朱浮处置失当造成的。更加令人不可思议的是，就在彭宠举兵相逼之时，朱浮还致信彭宠，给予训斥与贬辱，有“伯通与吏人语，何以为颜？行步拜起，何以为容？坐卧念之，何以为心？引镜窥影，何施眉目？举措建功，何以为人”之说，还指斥彭宠“若以子之功论于朝廷，则为辽东豕也”[1](卷33，《朱浮传》)。如此文字，只能是加剧矛盾，使得彭宠再无改悔的余地。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;朱浮对彭宠的排斥、诬告，是他的个人行为，还是与刘秀也有某种关系？种种迹象表明，朱浮的所作所为似有刘秀的暗中授意。若非如此，朱浮也不太可能肆无忌惮的诋毁、诬告彭宠，举奏其过。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;值得注意的是，彭宠与朱浮的矛盾公开化之后，刘秀仍然在有意袒护朱浮，贬抑彭宠。彭宠要求与朱浮当面对质的要求，刘秀不予理会。而且，刘秀还故意将朱浮劾奏彭宠的文书漏泄，似乎在有意扩大事态。袁宏《后汉纪》的记载，值得我们关注：“是时北州残破，渔阳独完，有盐铁之积，宠多买金宝。浮数奏之，上辄漏泄，令宠闻，以胁恐之。是春，遣使征宠，宠上书愿与朱浮俱征。又与吴汉、王梁、盖延书，自陈无罪，为朱浮所侵。上不许，而汉等亦不敢报书。”[3](卷4，《光武皇帝·建武二年》)这里的记载，出现了两个问题：其一，这样的“胁恐”究竟要达到什么样的目的？是震慑还是刺激？其二，吴汉、王梁、盖延三人为何不敢给先前的上司复信？合理的解释是，他们在刘秀身边，得知刘秀对于彭宠的真实态度因而有所忌讳。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;因此，从表面来看，彭宠之叛出于朱浮的逼迫，但背后却隐藏着更深的原因：刘秀对彭宠的不信任与猜忌。由于对彭宠的猜疑防范，在他暗中支持和授意下，其心腹朱浮一再逼迫彭宠，事态逐渐扩大，终于出现彭宠的叛乱。可以说，彭宠之叛从根本上是刘秀处置失当而酿成的。对此，古代已经有人论及。明人于慎行即说：“光武成功河北，皆渔阳、上谷二郡之力也。及天下已定，二郡所遣校将，如吴汉、王梁、耿弇、皆至三公上将，而彭宠、耿况，曾无一尺之组，以筹其功，此宠所以反也。况不反者，弇乃其子耳。以光武之英略明达，而不能御一彭宠，岂别有说邪，直计失邪？”清人黄恩彤就此继续发挥：“光武即位……令王梁为大司空，封武强侯。邯郸之围，彭宠转运粮食，厥功甚伟，王梁侯矣，而彭宠不赏，朱浮复构陷其罪，能无叛乎？”[4](P103)明清之际的史学家王夫之也有主旨相同的评论：“光武之处彭宠，不谓之刻薄而寡恩，不得矣。……光武之刻薄寡恩也，不得以宠之诈愚而谢其咎也。”[2](卷6，《光武七》)这些评论，建立在洞察人情世故的基础之上，至今仍是我们分析相关问题的重要参照。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;三、刘秀平叛“从缓”原因蠡测</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;在彭宠于东汉建武二年（公元26年）二月举兵造反之后，刘秀采取的应变之策十分缓慢，表现得顾虑重重。我们来看看刘秀对整个事件的处理过程：</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;首先，迟至东汉建武二年（公元26年）八月，刘秀才派出游击将军邓隆率领一支规模不大的军队救援朱浮，按照史书的记载，是“时二郡畔戾，北州忧恐，浮以为天子必自将兵讨之，而但遣游击将军邓隆阴助浮”[1](卷33，《朱浮传》)，自以为了解刘秀心态的朱浮这次似乎有些“失算”，他没有预计到刘秀不来亲征，而仅仅是派遣一支小规模部队支援。而“阴助”一词也体现出刘秀的心态，他似乎不愿朝廷公卿知晓此事，扩大事态，似乎顾忌着某些方面的影响。但邓隆一战即败。“隆军潞南，浮军雍奴，遣吏奏状。帝读檄，怒谓使吏曰：‘营相去百里，其势岂可得相及？比若还，北军必败矣。’宠果盛兵临河以拒隆，又别发轻骑三千袭其后，大破隆军。浮远，遂不能救，引而去。”此后，刘秀对幽州事务竟然采取了置之不顾的处理方式。而彭宠则从容布局，吞并州县。“（彭）宠遂拔右北平、上谷数县。遣使以美女缯彩赂遗匈奴，要结和亲。单于使左南将军七八千骑，往来为游兵以助宠。又南结张步及富平获索诸豪杰，皆与交质连衡。”[1](卷12，《彭宠传》)</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;在蓟县形势已相当危急之时，朱浮上书要求汉光武帝增援，甚至亲征。“浮怀惧，以为帝怠于敌，不能救之，乃上疏曰：‘……今彭宠反畔，张丰逆节，以为陛下必弃捐他事，以时灭之。既历时月，寂寞无音。从围城而不救，放逆虏而不讨，臣诚惑之。昔高祖圣武，天下既定，犹身自征伐，未尝宁居。陛下虽兴大业，海内未集，而独逸豫，不顾北垂，百姓遑遑，无所系心，三河、冀州，曷足以传后哉！今释稼已孰，复为渔阳所掠。张丰狂悖，奸党日增，连年拒守，吏士疲劳，甲胄生虮虱，弓弩不得弛，上下燋心，相望救护，仰希陛下生活之恩。’”朱浮上书表达了自己的预测失误，并请求援助，口气已近于哀求。可面对朱浮的质疑与哀求，刘秀又是如何作为的呢？他诏书回报曰：“往年赤眉跋扈长安，跋扈犹暴横也。吾策其无谷必东，果来归降。今度此反虏，势无久全，其中必有内相斩者。今军资未充，故须后麦耳。”其中，“必有内相斩者”的推断只能是刘秀的遁词，而“军资未充”似乎也不能成为理由，当时诸将四处征伐，何以不缺军资呢？看来这也只不过是一种不出兵的搪塞借口而已。结果，无力守城的朱浮只好弃城逃命，处境极为狼狈。“（朱）浮城中粮尽，人相食。会上谷太守耿况遣骑来救浮，浮乃得遁走。南至良乡，其兵长反遮之，浮恐不得脱，乃下马刺杀其妻，仅以身免，城降于宠。”彭宠在攻拔蓟城之后，自立为燕王。东汉建武三年（公元27年）十月，“涿郡太守张丰执使者举兵反，自称无上大将军，与彭宠连兵”[1](卷20《祭遵传》)。刘秀没有及早镇压彭宠，在军事上造成了相当被动的局面。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;再来看看刘秀对朱浮的处置。搭上妻子生命而侥幸逃命的朱浮，回归洛阳之后遭到官员的弹劾，“尚书令侯霸奏浮败乱幽州，构成宠罪，徒劳军师，不能死节，罪当伏诛”。从吴汉、王梁、盖延等人不敢对故主报书，未就此事对刘秀进一词来看，朝臣是了解刘秀的真实态度的，但谁又敢触怒龙颜呢？只能将责任归于朱浮了。可是，刘秀却不忍心追究他的责任，反而任其做执金吾，“帝不忍，以浮代贾复为执金吾，徙封父城侯”[1](卷33，《朱浮传》)。假如没有刘秀的宽赦，朱浮恐怕难逃死罪。这样处置的原因也颇值得玩味。很可能是刘秀认识自身应该为这场叛乱负上主要责任，朱浮只是按照授意行事而已，不应当承担主要的罪责。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;东汉建武三年（公元27年）十月，耿弇向刘秀主动请缨平定彭宠、张丰之叛。刘秀“壮其意，乃许之”。直到翌年，刘秀诏耿弇进攻渔阳。然而，耿弇属于北州功臣，这一身份殊为敏感，况且其父耿况据上谷，与彭宠一样“恩赏并薄”，他深知刘秀的顾虑，“（弇）自疑，不敢独进，上书求诣洛阳”。刘秀诏书回报，表面上信任不二，可耿氏父子揣摩透了刘秀的怀疑心态，终究不自安，当耿况要求遣子耿国人侍（实际上是做人质）时，刘秀的态度是“善之，进封况为隃麋侯”[1](卷19，《耿弇传》)。看来，刘秀心理上是很认同这一做法的，这可以减轻他的怀疑之心。此后，在耿弇、祭遵、刘喜等人的进击下，彭宠逐渐走向灭亡。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;从东汉建武二年（公元26年）叛乱开始，直到建武四年（公元28年），刘秀才真正着手解决彭宠事件，一贯处事精明的刘秀在处置彭宠之叛时，表现得十分宽容，甚至几近柔软寡断。那么，从缓处理的原因何解？</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;诚然，东汉建武二至三年（公元26—27年），对刘秀而言确实是“多事之秋”：与赤眉军争夺关中经历了大败到获胜的转折；还有与其他地方割据势力之间的战争。但这并不意味着刘秀全然没有余力投入军队镇压渔阳彭宠之叛。因为，我们注意到另外一起大将叛乱事件：东汉建武二年（公元26年）八月，“破虏将军邓奉据淯阳反”[1](卷1上，《光武帝纪上》)。诱因是吴汉统兵在南阳一带略地，所过多所侵暴，“破虏将军邓奉谒归新野，怒吴汉掠其乡里，遂反，击破汉军，获其辎重，屯据淯阳，与诸贼合从”[1](卷17，《岑彭传》）。刘秀立即派出重兵镇压。“冬十一月，以廷尉岑彭为征南大将军，率八将军讨邓奉于堵乡。”[1](卷1上，《光武帝纪上》统兵将领有朱祐、贾复、建威大将军耿弇、汉中将军王常、武威将军郭守、越骑将军刘宏和偏将军刘嘉、耿植等，可谓名将云集，并力征讨邓奉。邓奉的军队皆南阳精兵，岑彭等名将联手进攻，连月不克。到东汉建武三年（公元27年）夏，刘秀亲自统兵南征，才集中全军精锐追歼邓奉于小长安[1](卷17，《岑彭传》)。刘秀对邓奉叛乱的镇压，可谓毫不留情。其中的原因，可能是邓奉盘踞之地是中原腹地，刘秀为了争夺对中原的控制权并且进而经营关中势在必得，所以，必须以雷霆万钧之势尽快荡平。两相比较，彭宠之叛的地域，毕竟是北边之地，其重要性与中原腹地相比较有所逊色。大臣伏湛谏阻刘秀亲征渔阳而应该全力争夺中原的主张，颇为切中当时急务[1](卷26，《伏湛传》)。所以，刘秀对彭宠的镇压有所宽缓，从地缘政治的轻重缓急考虑，倒也在情理之中。但在很长的一段时间内对彭宠几乎是“放任”不顾，显然还是有“手下留情”的一面。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;究其原因何在？可能刘秀自己感受到来自舆论的压力：彭宠的政治影响，确实有其特殊性：从籍贯而言，彭宠是南阳宛人，与刘秀、吴汉是同乡。这种同乡之谊，在战乱年代曾经发生过切实有效的作用。从起事地域而言，彭宠是渔阳的地方实力派，他对刘秀立足幽州所起的作用，是刘秀集团的上层人物所共知的。刘秀在处理彭宠之叛时，必须顾忌到舆论的评价。面对彭宠这样一位公认的功臣，其反叛主要由于刘秀自己的处置失当所致，这是朝臣所知的事实。如果断然镇压，可能会受到舆论的质疑和批评，不利于树立自身的形象。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;雄踞一方的彭宠，后来被家奴子密等三人劫持刺杀，子密等人携带彭宠的首级投奔刘秀。这是替刘秀除掉了心腹之患。刘秀在暗自庆幸之余，却将子密等人封为“不义侯”[1](卷12，《彭宠传》)。刘秀并非在玩弄文字游戏，而是因为他既然標揭“义”的旗帜，那么就必须坚持这一原则。如果刘秀迅速镇压彭宠，恐怕难免“不义”之讥，被认为是刻薄少恩。刘秀一直把自己标榜为正义的化身，由此不难体悟刘秀处理彭宠宁可从缓的心理需求。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;我们应该看到，刘秀在平定天下的全过程之中，十分注意个人的道德形象，高标“义”的价值，就是他的政治斗争策略之一。他把拒不与王莽合作的隐士尊崇为“天下义士”；还对许多归附于自己的将领颁授予“德”、“义”相关的官爵美号。仅据徐天麟撰《东汉会要》卷十八“王侯号”条，列举的与“德”、“义”相关的封侯者就有承义侯寇恂、成义侯梁统、兴义侯耿况、奉义侯景丹、辅义侯厍钧、扶义侯辛彤、助义侯竺曾、褒义侯史苞、褒德侯卓茂、归德侯刘飒、不义侯苍头子密。其他见于列传的尚有：朱祐，“世祖即位，拜为建义大将军”[1](卷22，《朱祐传》)；万修，“拜为偏将军，封造义侯”[1](卷21，《李忠传》)；王遵，“拜为太中大夫，封向义侯”[1](卷13，《隗嚣传》)。在兵戈方殷之时，借助于侯爵封号，如此重视标榜“德”、“义”的价值导向，刘秀可谓用心良苦。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;刘秀不得不“放缓”处理彭宠之叛，或许还有另外一个因素：这是刘秀为了笼络河北豪强势力而刻意作出的姿态。彭宠控制渔阳，对河北的局势起着举足轻重的作用，刘秀的部下又集结了大批北州人士，甚至是彭宠的旧部，对彭宠的处置很可能会发生微妙影响。在彭宠起兵之前一个月，还发生了真定王刘扬“谋反”被杀之事。两事先后相继，对刘秀经营河北大业，形成了极大冲击。因为，刘扬也是帮助刘秀在河北立足的关键人物。在刘秀与王郎争夺对河北的控制权之初，“真定王刘扬起兵以附王郎，众十余万”，当时，刘秀的势力有限，拥众十万人的刘扬举足轻重。刘秀遣人游说刘扬，刘扬乃归降。刘秀对真定王刘扬曾经采取过尽力笼络的手段，甚至于把结发爱妻阴丽华置于不顾，而娶刘扬的外甥女郭圣通为妻。这是标准的政治婚姻：“因留真定，纳郭后，后即扬之甥也，故以此结之。乃与扬及诸将置酒郭氏漆里舍，扬击筑为欢，因得进兵拔邯郸，从平河北。”[1](卷21，《刘植传》)由此可见，刘秀为了笼络河北豪杰，是何等曲意逢迎。而后来诛杀刘扬是因为他“造作谶记”、图谋天下之心暴露无遗，刘秀才密嘱大将耿纯借机加以掩捕[1](卷21，《耿纯传》)。在刚刚处死了刘扬之后，假如刘秀对彭宠的处置过于“刚性”，难免会在河北豪强势力中间引发不安。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;刘秀曾经标榜自己“吾理天下，亦欲以柔道行之”[1](卷1下，《光武帝纪下》)。他处理彭宠之叛的手法，当是例证之一。而这一方法的选择，在很大程度上是形势使然。从客观效果而言，刘秀的“从缓”处理方式有助于他争取人心，不仅有利于他巩固在河北的统治，而且也为他经略天下创造了有利的舆论氛围。论史者往往愿意比较“汉之二祖”的区别，在这个传统的比较框架内，其实可以增加如此视角：汉高祖取天下，倚重兵事战略与权诈之术；而汉光武帝取天下，则注重道德战略与兵事战略的交互为用。东汉平定天下之后，大局趋于稳定，没有出现西汉前期那般波涛汹涌的多变之局，或许与汉光武帝在开国之战中，就注意道德秩序建设的大格局、大战略直接相关。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;注释：</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;① 如张启琛《汉光武帝传》（天津人民出版社1990年版）、刘修明《从崩溃到中兴》（上海古籍出版社1989年版）、张鹤泉《光武帝刘秀传》（黑龙江人民出版社1993年版）、臧荣《东汉光武帝刘秀大传》（人民教育出版社2002年版）及安作璋与孟祥才《汉光武帝大传》（中华书局2008年版）等著作中均有对刘秀经营河北的相关论述。特别是黄留珠的《刘秀传》（人民出版社2003年版），以一章的篇幅论述刘秀经略河北的发展状况，并且分析了其取得成功的五个方面的原因，其中就包括“刘秀获得了河北地方豪族势力及官僚集团的支持”及“刘秀成功地争取到幽州突骑为己所用”两条，论证清晰明了，切中关键。
+</div>
+<div class="page-list">
+    <div class="pageNav" id="pageList"></div>
+</div>
+</div><br class="cls"/>
+		</div>
+		</body></html>

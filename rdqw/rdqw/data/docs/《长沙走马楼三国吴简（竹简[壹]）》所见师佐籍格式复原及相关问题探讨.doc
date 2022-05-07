@@ -1,0 +1,197 @@
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><style>.trR{ text-align:right;}
+#wraper{width:1190px; margin:0 auto; margin-bottom:10px;text-align:left;}
+#left{ float:left;width:250px; text-align:left;}
+#right{float:right;width:930px;text-align:left;border-top:2px solid #619bc0; padding-bottom:10px;}
+.border_w{ border:1px solid #d3d3d3;border-top:2px solid #619bc0;}
+.t01{height:30px;line-height:30px;border:1px solid #dddddd;padding-left:10px;background:url(../images/tbg01.jpg) repeat-x bottom; color:#1183c1; font-size:14px;}
+.con_01{ padding:10px;}
+.con_cbg{ background:url(../images/con_cbg.gif) repeat-y;}
+.con_bbg{ background:url(../images/con_bbg.gif) no-repeat left bottom; height:1px; line-height:1px; font-size:0;}
+
+.source{margin:15px;background:url(../images/linex.gif) repeat-x bottom; padding-bottom:30px; margin-bottom:30px;}
+.source .source-img{border:1px solid #d3d3d3; text-align:center; padding:5px;margin-bottom:10px; }
+.source p{color:#666666; font-weight:bold; font-size:12px;}
+.source .fblue{ color:#236bac; font-weight:normal;}
+
+.t_tj{ height:27px;padding-top:2px;margin:15px; background:url(../images/con_t_tj.gif) no-repeat left top; padding-left:10px; color:#FFFFFF; font-size:14px;}
+.c12_01{ margin-left:15px; margin-right:15px; margin-bottom:15px;}
+.c12_01 li{font-size:12px; line-height:24px; background: url(../images/dot.gif) no-repeat 2px 10px; padding-left:15px;}
+
+#artibodyTitle{color:#236bac;font-family:"宋体";font-size:20px;font-weight: normal;line-height:35px;text-align:center;margin-top:10px;	text-align:center;}
+#artisubTitle{font-family:"宋体";font-size:16px;font-weight: normal;line-height:28px;text-align:center;}
+.articl_info{margin-left:30px; margin-right:30px; position:relative;border-bottom:1px solid #e1e1e1;padding-bottom:20px; margin-bottom:20px;}
+.btn-img{
+	background-image:url(../images/allbg.png);
+	background-repeat:no-repeat;
+	font-size:12px;		
+	cursor:pointer;
+	border: 0px none;
+	display: inline-block;
+	vertical-align:middle;
+	text-align:center;}
+
+.artInfo{height:22px;border-top:1px solid #e1e1e1;border-bottom:1px solid #e1e1e1;padding:5px;margin:20px;}
+.artInfo li{float:left;width:33%;height:22px; line-height:22px; color:#666666;}
+
+.artInfo li .collectionPage_link{
+	background-position:-509px -80px;
+	padding-left:10px;
+	margin-top:-2px;
+	_margin-top:0px;
+	margin-left:10px;
+	width:51px;
+	height:22px; 
+	line-height:22px;		
+	color:#1183c1;	}
+.artInfo li .printPage_link{
+	background-position:-570px -80px;
+	padding-left:10px;
+	margin-top:-2px;
+	_margin-top:0px;
+	margin-left:10px;
+	width:51px;
+	height:22px; 
+	line-height:22px;	
+	color:#1183c1;}
+.artInfo li .downloadPage_link{
+	background-position:-631px -80px;
+	margin-top:-2px;
+	_margin-top:0px;
+	margin-left:10px;
+	width:51px;
+	padding-left:10px;
+	height:22px; 
+	line-height:22px;	
+	color:#1183c1;}
+
+
+.artBaseInfo{line-height:24px; margin-bottom:5px;}
+.artBaseInfo .info_left{float:left;width:80px;}
+.artBaseInfo .info_right{float:left;width:790px;}
+
+.artBaseInfo dt{float:left;width:80px; color:#666666;line-height:20px; display:inline-block;}
+.artBaseInfo dd{color:#666666;line-height:20px;display:inline-block;}
+.artBaseInfo .col li{ float:left;width:210px; height:20px; line-height:20px;color:#666666;}
+
+.artBaseInfo .item{ float:left;width:50%;}
+.artBaseInfo .notice{
+	margin-left:10px;
+	width:61px;
+	padding-left:10px;
+	height:22px; 
+	line-height:22px;
+	background-position:-448px -80px;	
+	color:#1183c1;}
+
+.artInfo{height:30px;border-top:1px solid #e1e1e1;border-bottom:1px solid #e1e1e1;margin:20px 10px;}
+.artInfo div{ float:left;width:30%;height:30px; line-height:30px; text-align:center;}
+.artInfo div a{ margin-left:20px; margin-right:20px;}
+.artInfo li{float:left;width:33%;height:22px; line-height:22px; color:#666666;}
+
+.articl_info{margin-left:30px;margin-right:30px; position:relative;border-bottom:1px solid #e1e1e1;padding-bottom:20px; margin-bottom:20px;}
+.artBaseInfo{margin-bottom:5px;}
+.articl_info_t{float:left;width:80px;margin-right: -100%;font-weight:bold;line-height:24px;}
+.articl_info_c{float: left;width: 100%;}
+.articl_info_c .info_c{margin-left:80px; line-height:24px;}
+.artBaseInfo .marL{ margin-left:20PX;}
+.artBaseInfo .col_info{ float:left;width:30%;line-height:20px;}
+
+.fontSize{position: relative;right:0px;top:0px;font-size:12px; height:30px; line-height:30px; text-align:right;}
+.fontSize a{border:1px solid #c2c2c2;margin-right:10px;padding:4px 1px;*padding:1px; cursor:pointer;font-size:12px;}
+.fontSize a span{background:url(../images/page_a_36.png) repeat-x;padding:3px;}
+
+.fontSize a.now{border: #f9ad75 1px solid;padding:4px 1px;*padding:1px;}
+.fontSize a.now span{color:#ff7d27;background:url(../images/current_34.png) repeat-x bottom;padding:3px;}
+.artibody{margin-left:20px;margin-right:20px;font: 18px/180% "Microsoft YaHei","微软雅黑"; color:#666666;}
+.artibody p{margin-bottom:20px;}
+
+.fontSize A:link{ color:#000000;text-decoration:none;}
+.fontSize A:visited{ color:#000000;text-decoration:none;}
+.fontSize A:hover{ color:#FF0000;text-decoration:none;}
+.fontSize a.now:link{color:#ff7d27;text-decoration:none;}
+#Zoom img {max-width:600px; max-height:600px; scale:expression((this.offsetWidth > this.offsetHeight)?(this.style.width = this.offsetWidth >= 600 ? "600px" : "auto"):(this.style.height = this.offsetHeight >= 600 ? "600px" : "auto")); display:inline !important;}
+
+.t_artiInfo{font-size:14px; padding-left:20px;background:url(../images/linex.gif) repeat-x top; line-height:30px; margin-top:10px;}
+.li_artiInfo{margin-left:30px; margin-right:30px;padding-bottom:10px; }
+.li_artiInfo ul li{float:left;width:100%;padding:3px 0;}
+.li_artiInfo ul li .title{ float:left;width:65%;}
+.li_artiInfo ul li .author{ float:left;width:15%;}
+.li_artiInfo ul li .come{ float:right;width:20%;color:#999999; text-align:right;}
+
+
+.index_artInfo{height:36px; line-height:36px; border-top:1px solid #e1e1e1;border-bottom:1px solid #e1e1e1; margin-top:20px; padding-left:20px;  padding-right:20px;padding-right:10px; margin-bottom:10px; margin-left:10px;text-align:center;}
+.index_artInfo a.collectionPage_link{ background:url(../images/icon.gif) no-repeat 0 1px; padding-left:15px;}
+.index_artInfo a.printPage_link{background:url(../images/icon.gif) no-repeat 0 -55px; padding-left:15px;}
+.index_artInfo a.downloadPage_link{background:url(../images/icon.gif) no-repeat 0 -108px; padding-left:13px;}
+
+.index_body .main{margin-left:100px; line-height:28px;color:#000000; padding-bottom:30px; padding-top:20px;}</style></head><body><div id="wraper">
+			<div id="artTitles">
+				<h1 id="artibodyTitle">《长沙走马楼三国吴简（竹简[壹]）》所见师佐籍格式复原及相关问题探讨</h1>
+				<h2 id="artisubTitle"/>
+			</div>
+			
+			<div class="articl_info">
+				<div class="artBaseInfo" id="autInfo">
+					<div class="articl_info_t">作 者：</div>
+					<div class="articl_info_c">
+						<div class="info_c">
+								<a target="_blank" href="/qw?s0=4&amp;s1=%e6%b2%88%e5%88%9a">沈刚</a> 
+						</div>
+					</div>
+					<br class="cls"/>
+				</div>
+				<div class="artBaseInfo" id="autDescription">
+					<div class="articl_info_t">作者简介：</div>
+					<div class="articl_info_c">
+						<div class="info_c">沈刚，吉林大学古籍研究所。</div>
+					</div>
+					<br class="cls"/>
+				</div>
+				<div class="artBaseInfo" id="tAutInfo"/>
+				<div class="artBaseInfo" id="orgInfo">
+					<div class="articl_info_t">原文出处：</div>
+					<div class="articl_info_c">
+						<div class="info_c">人文杂志</div>
+					</div>
+					<br class="cls"/>
+				</div>
+				<div class="artBaseInfo" id="astInfo">
+					<div class="articl_info_t">内容提要：</div>
+					<div class="articl_info_c">
+						<div class="info_c">
+							<p>本文对走马楼吴简中师佐籍的格式进行了重新复原，区分出右类和凡类的不同，认为师佐名籍是两次编成。师佐是由郡、县两级地方政府负责管理，但分工各有不同。政府在每年八月编制师佐籍总帐。师佐及其家属名籍的编制反映了孙吴政权对手工业管理者控制之严格。师佐集中在郡中的工官中，其社会地位在政治和经济两个方面表现不平衡。</p>
+						</div>
+					</div>
+					<br class="cls"/>
+				</div>
+				<div id="artPdcInfo" class="artBaseInfo">
+					<div class="col_info"><b>期刊代号：</b>K22 </div>
+					<div class="col_info"><b>分类名称：</b>魏晋南北朝隋唐史 </div>
+					<div class="col_info"><b>复印期号：</b>2009 年 02 期 </div>
+					<br class="cls"/>
+				</div>
+				<div class="artBaseInfo" id="artKeyword">
+					<div class="articl_info_t">关 键 词：</div>
+					<div class="articl_info_c">
+						<div class="info_c">
+								<a target="_blank" href="/qw?s0=7&amp;s1=%e5%b8%88%e4%bd%90">师佐</a> 
+								<a target="_blank" href="/qw?s0=7&amp;s1=%e8%b5%b0%e9%a9%ac%e6%a5%bc">走马楼</a> 
+								<a target="_blank" href="/qw?s0=7&amp;s1=%e6%a0%bc%e5%bc%8f">格式</a> 
+
+						</div>
+					</div>
+					<br class="cls"/>
+				</div>
+				<div class="artBaseInfo" id="artTitleNote"/>
+				<a id="readArea" name="readArea"/>
+				
+			</div>
+			<div id="artText"><div class="artibody" id="Zoom" style="font-size: 14px;">
+    </p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[中图分类号]K877.9[文献标识码]A[文章编号]0447-662X(2008)06-0152-06</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;《长沙走马楼三国吴简(竹简[壹])》①中有一批关于孙吴手工业者信息的材料，他们以师佐籍形式出现。罗新先生最早关注到这批材料，发表了《吴简中的“作部工师”问题》一文②，认为师佐是归属于荆州或更高级的武昌宫管辖，并对师佐身份进行了考察。而后韩树峰先生撰写了《长沙走马楼三国吴简所见师佐籍考》一文③，将师佐籍的格式做了通盘梳理，对师、佐名称、类别作了细致的考证，同时对师、佐的身份、社会地位、所处的历史背景做了分析。此后，于振波先生又发表《走马楼吴简师佐籍蠡测》一文④，对师、佐及其家庭成员的性别、年龄结构做了统计分析，并与吏民籍做了比较。认为吴简中的师、佐是在官营作坊供职的手工业者，衣食方面有一定保障，但人身受到官府的严格控制，并具有一定的流动性。这些成果虽然切入的角度不同，甚至在一些问题上还存在着分歧，但无疑为认识和解读这批材料奠定了坚实基础。当然，也应该看到，因为这批简牍多残断，并且格式相对单一，因而对这批材料的理解不可避免的存在着歧异，故鉴于此，我们踵继时贤，重新检核师佐籍材料，对与此相关问题做进一步的补充论述，不当之处，亦请专家指正。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;一、师佐籍格式再探</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;上述先行研究中，韩树峰先生对师佐名籍的具体格式作了排列，基本复原了师佐籍的框架，这样就可以更有效的利用这些散乱残断的资料。但对于结尾部分总结类简，还需要做进一步的分析。韩先生在结尾部分的排列方式为</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;右(或凡)+县名+领+师佐+人数+亲属称谓(+奴)+人数+合+人数</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;其+师佐+人数(或人数+师佐)+亲属称谓(+奴)+人数+见今送(或今见送)</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;其+亲属称谓+人数(或人数+亲属称谓)+在本县</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;其+亲属称谓+人数+别使(或使到武昌)(+录送)</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;韩先生将以“凡”、“右”开头的合计类作为一类。⑤我们仔细加以区分，发现其间的区别还是比较明显的：凡署“右”者指其右侧相关简册之内容。“凡”指数字总计或合计。或者说，“凡”类是“右”类的合计。这在居延汉简名籍简中比较常见，如：</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;右官吏三<img onerror="this.src='/images/err.png'" src="http://img.ipub.exuezhe.com/jpg/K22/2009/K22T201a.jpg" />231·44</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;凡吏十人EPT21：7</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;是为吏名籍。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;右庶士士吏候长十三人禄用帛十八匹二尺少半寸直万四千四百四十三  210·27</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;其二匹顾茭</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;凡吏十人用帛廿二匹</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;定受廿匹137·21</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;是为吏受俸名籍。在居延简中，二者的使用还是有一定的区别。凡类是一定时间内对右类的总计，并且凡类和右类不是一次编制成的。我们区分出“右”类，和“凡”类后，在韩先生工作基础上将师佐籍重新整理为：</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;单户师佐(或师佐家属)格式与韩文相同，略</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;右+县名(或略)+领(或略)+师佐+人数+亲属称谓(+奴)+人数+合+人数⑥</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;其+人数+在本县</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;其+人数+见今送</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;凡+县名+领+师佐+人数+亲属称谓+人数+合+人数</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;其+师佐+人数(或人数+师佐)+亲属称谓(+奴)+人数+见今送(或今见送)</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;其+亲属称谓+人数+在本县</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;其+亲属称谓+人数+别使(或使到武昌)(+录送)</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;从吴简师佐籍的记载看，右类简应是一个县每次向郡呈报的发送师佐及其附带家属名籍的明细及统计，这类简后面的“其+人数+在本县(见今送)”的内容，指师佐家属而言，因为师佐都已经发送到郡里。从已公布的记载师佐本人的单支简中，其末端均标注有“见”字，而无“留”字即为明证。因此对于师佐滞留本县情况不需要再做出统计。家属名籍简末端则标识“见”、“留”、“屯将行”等字样，说明家属去留不定，故需做出明细。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;凡类则是以县为单位，对该县一段时间内(很可能是一年)师佐及家属情况进行的总计。因为这类简后都以“合+人数”结尾，并且数量都是右类简的数倍。⑦</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;另外，简5908与简5907还很可能是相连的两支简：</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;凡吴昌领师佐十四人弟妻子卅七人合五十一人  简5908</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;其十四人师佐弟妻子廿一人见今送简5907</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;因为按照韩先生的提示，在只有13个县的师佐籍中，能够重复的概率很低，两支简中的师、佐皆为14人，因此视之为相邻的两支简。后面一支大约是“其+亲属+人数+在本县”。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;在单个师佐家属简中，有两人用一支简情况。韩文已经揭示出这一现象。这种类型简在已发现的吴简中共有4支：</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;审子男□年二岁见审女转年一岁  见简5816</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img onerror="this.src='/images/err.png'" src="http://img.ipub.exuezhe.com/jpg/K22/2009/K22T201a.jpg" />□妻绮年十八见□子男郡年一岁  见简6007</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img onerror="this.src='/images/err.png'" src="http://img.ipub.exuezhe.com/jpg/K22/2009/K22T201a.jpg" />社子女思年十岁见社子男聿年一岁见  简6010</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;唐妻汝年廿七见唐子女处年一岁  见简6796</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;简中登录的家属与户主关系为父子、父女、夫妻等，或许可以认为核心家庭可以允许两人同用一支简。⑧</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;韩先生对物故师佐籍格式也进行了复原，指出物故师佐籍和师佐籍是两套不同的簿籍，并且对物故师佐家属的明细简格式进行了复原。对韩先生的意见我们基本赞同，但对个别之处加以补充。首先从内容看，主要是记载物故师佐家属情况，因此称为“物故师佐家属籍”或许更准确一些。其次，总结简比韩先生排列要复杂一些。韩先生认为这一类简的结尾的形式为</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;右领+物故师佐+亲属称谓+人数</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;其+亲属称谓+人数+见今送</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;其+亲属称谓+人数+在本县</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;我们归纳这些物故师佐家属籍的总结简，大致有这样几种类型：</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A、右+物故师佐+亲属称谓+人数</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;B、右+物故师佐+亲属称谓+人数+在本县</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;C、右+物敌师佐+人数+亲属称谓+人数</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;D、右领+物故师佐+亲属称谓+人数</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;E、(凡)+物故(师佐)+人数+亲属称谓+人数+合+人数</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A、B、C三种类型基本相同，后两种可以看成是第一种的繁化，其中B类前面明细所列亲属皆在本县。D类从人数看是前面三种类型的数倍，并且有“领”字，因此可以判断是前面几种类型在一定时间的累计。最后一种人数是D类的数倍，并且有合计数，因此，可能是一年时间的合计数。放在这类名籍的最后。不过，E类只有一支，且有残泐，为简8768：<img onerror="this.src='/images/err.png'" src="http://img.ipub.exuezhe.com/jpg/K22/2009/K22T201a.jpg" /><img onerror="this.src='/images/err.png'" src="http://img.ipub.exuezhe.com/jpg/K22/2009/K22T201b+.jpg" />□□七人母妻子六十三人合七十人<img onerror="this.src='/images/err.png'" src="http://img.ipub.exuezhe.com/jpg/K22/2009/K22T201a.jpg" />。这支简也有可能与物故师佐家属籍关系并不大，只是郡所掌握在师佐籍中死亡人数的总计。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;韩文认为“其+亲属称谓+人数+见今送(在本县)”在“右领”简之后。其实也不尽然。如前所示，这类简我们已将它排在师佐籍中，因为师佐已经死亡，家属未必同师佐一样是具有娴熟技艺的工匠，因而将其家属集中到郡中或工场中，已无意义。作为郡县地方政府，只要统计好物故师、佐家属的人数，从名籍角度加以掌控即可。每一支反映物故师、佐家属具体情况的简后面标识“见”、“在本县”只是说明他们此时所在地点。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;从物故师、佐家属籍所反映的情况看，对于这类人需要定期进行整理，要单独编籍，从他们的人数和各县发送到长沙郡师、佐家属人数对比看，这类文书应该由长沙郡来编制，至于这类人如何处置，限于材料，不得而知。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;关于师佐籍还有一支特殊的简。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;鑪师□师□师锦师母妻子人名年纪为簿如牒  见  简5948</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;对于这支简，韩先生做了十分谨慎的处理。比照汉代简牍，特别是居延汉简的文书简，这应该是一支呈报类简。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;二、孙吴政府对师佐的管理</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;孙吴政权对手工业者的管理，前辈学者曾依据传世文献做了深入研究。唐长孺先生指出，“到了三国时期，对百工的奴役便成为一种官府作场获得劳动力的制度”，并举了孙吴交阯郡守孙谞“科郡上手工千余人送建业”的例子。⑨高敏先生根据《宋书·百官志》称江南诸郡县的冶铁机构，“多是吴所置”，指出东吴的官冶生产也设专官管理。⑩但是，对此问题传世文献记载很少，不能提供更多的支持。他们虽然都指出了政府对手工业者管理的一些方面，但限于材料，对其中的具体形态，无法进行更多的阐述。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;即使我们上溯到汉代，亦没有更多可资参考的例证。目前所见关于汉代国家对于手工业者管理材料，多是对生产过程的经营和管理，对于手工业者的人身控制，郡、县政府在这方面所表现出来的职责则付阙如。所以严耕望先生在《汉代地方行政制度》中对郡县机构的排列，虽然也提到工官，但只是将工官的地域分布做重点考察。因此，吴简中的师佐籍对于了解孙吴政权手工业管理的具体形式，无疑提供了重要帮助。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;吴简中师佐籍的出现有两点背景因素值得注意，一是手工业发展的私营倾向。作为西汉武帝以来经济统制政策的标志之一的冶铁业官营政策，在东汉章帝时已被放弃。章和二年的一道诏书追溯章帝时事说：“先帝恨之，故遣戒郡国罢盐铁之禁，纵民煮铸，入税县官如故事。”其它手工业部门即使还属于官营，也有松动的迹象。1978年四川省成都市出土一件铜鉴，其铭文为：“中平五年，蜀郡工官造作，周君，宜吉祥宜王”。宋治民先生据此指出：这件铜鉴的铭文和常见的铭文不同，它既有官府手工业的铭文内容，又有私人手工业的铭文内容。一方面表明它是蜀郡工官的产品，一方面带有铸造者的姓氏，又有常见的吉祥语，这些表明它是由蜀郡工官监制而由周姓作坊所承制。(11)这就表明国家对手工业的控制不似先前那样严格。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;另一方面是户籍制度的紊乱。汉代国家对社会人口资源控制的最主要手段是户籍管理，从张家山汉简《二年律令》中的一些法律条文就可以看出。但到了东汉时期，小农破产，投靠豪强，二者依附关系加深。而国家对这种关系并没承认，这就意味着这些人口并不能登录到户籍上。汉末的战乱，人口死亡流徙，对户籍制度的进一步破坏更可想而知了。在这种背景下，为了保证对战争的供给，并发展生产，重新对手工业者进行有效的控制，这对孙吴政权来说就十分必要了。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;从师佐籍的编制看，还是由郡县两级地方政权对师、佐进行控制。从韩先生列举的格式看，他们是以户为单位。每位师、佐均注明籍贯地，说明编制地虽然是在县，但最后要呈报到郡中，因为如果仅仅为县所控制，就不必在师佐前一一标识县名，或开头有一个即可，不必每个人都进行分列。而县级单位只负责掌握其所辖师、佐及家属的家庭关系、年龄、及所在地点等具体情况。这些资料呈报到郡级单位后，需要由郡级单位做出核查、统计。师、佐及家属籍结尾多有“见”、“留”等字样，我们观察图版，这两个字与同一支简中其它字的墨迹并不相同，在图版比较清晰的简5899、5902、5911、5912、5921、5925等都表现得比较明显。长沙郡根据这些资料最后作出统计。即“凡……”以下这部分是郡级单位书写。也就是说，我们今天所见到的师佐籍是郡一级单位的文书，并且是经过郡、县两级单位两次编制而成。以上情况说明，对于师佐的管理，是由郡、县两级地方政府负责，但分工各有不同，县掌握本县师、佐的具体情况，郡则负责整体把握和调配。这种制度和汉代有一定的承接关系。反映西汉后期情况的尹湾汉简《集簿》在记录东海郡下辖的县级单位，有县、侯国以及盐铁工官。工官和县是平级单位，因此，从行政级别角度，本郡各属县调集上来的手工业者，也需要由郡统一管理。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;从总结简中并不能看出每次统计的时间。但依常理推测，右类为县里编制，所记录的师、佐应是因需而发送到郡中，郡中的统计则有一定的周期。汉代统计户籍为每年八月。吴国的统计户籍时间虽不明确，但东牌楼东汉简牍中有一条民籍记录：建宁四年益成里户人工乘卅九算卒笃子公乘……(简79背)。(12)这种记载格式和走马楼吴简民籍记载的格式并无二致，说明在名籍制度方面二者有明显的因承关系，因此，我们推测孙吴政权每年编制师佐籍总帐的时间或许也在八月。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;师佐籍中对家属的记录与控制，也可以看出政权对手工业管理之严格。师佐籍不仅登录师佐本人的情况，同时对家属的情况也要登记在案。这虽与吴简中户籍简的格式大致相同，但在每位家庭成员后要注明目前“见”、“留”情况，其中包含有更多连坐的意味在内，是要对师、佐这类有特殊技能的人进行有效控制。即使没有家属，也要注明单身。如简7463，“乾锻佐吴昌这□年廿五单身见”。这更可说明师佐籍中对家属情况的重视。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;虽然政府要掌握师、佐家属的情况，但在现实生活中并不需要将他们和师佐集中到一起。于振波先生认为，师佐的技艺世代传袭。从经验判断，应该存在这种可能。不过，我们从目前已公布吴简所反映出来的情况看，这一迹象并不明显。师、佐家属被征发到郡中，并无规律可言，这一点韩树峰先生已经指出。我们推测，这很可能是根据师佐家庭和政府需要，随机而行。另一方面，师、佐家属也要从事手工业生产以外的活动，如：</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;小妻姑年廿七在本县屯将行  简  6705</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img onerror="this.src='/images/err.png'" src="http://img.ipub.exuezhe.com/jpg/K22/2009/K22T201c.jpg" />屯将行  简6766</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;不仅女性家庭成员“屯将行”，即使子弟有时也有这方面的义务：</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img onerror="this.src='/images/err.png'" src="http://img.ipub.exuezhe.com/jpg/K22/2009/K22T201a.jpg" /><img onerror="this.src='/images/err.png'" src="http://img.ipub.exuezhe.com/jpg/K22/2009/K22T201d.jpg" />□年十九在本县 屯将行  简  8958</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;□子男生年九岁在本县 屯将行  简  5924</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;□<img onerror="this.src='/images/err.png'" src="http://img.ipub.exuezhe.com/jpg/K22/2009/K22T201e.jpg" />男水年廿一别使行 屯将行  简  6715</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;□男弟惟年十五别使  简  6652</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img onerror="this.src='/images/err.png'" src="http://img.ipub.exuezhe.com/jpg/K22/2009/K22T201a.jpg" />□<img onerror="this.src='/images/err.png'" src="http://img.ipub.exuezhe.com/jpg/K22/2009/K22T201f.jpg" />□□□<img onerror="this.src='/images/err.png'" src="http://img.ipub.exuezhe.com/jpg/K22/2009/K22T201g.jpg" />简  6735</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;师佐的家属，特别是子弟等男性家庭成员也不一定从事手工业生产，说明当时工匠的技艺未必世袭传承。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;另外，物故师佐家属籍从另一面也可说明政府试图通过对师佐家属的控制来达到对师佐控制的目的。韩先生认为物故师佐家属籍能够反映出“物故师佐的家属也有部分被征发”，其实不尽然。我们找出所有这类简，发现其结尾处只有“见”、“留”两个字，而没有“见今送”这种明显表示征发的字样，也就是说，这类简只能显示家属目前所在的静止状况。这也是我们在排列这类简格式时，在结尾处只列统计总数，而没有再分列子项目的原因。政府之所以这么做，是因为师佐已经死亡，再控制这些家属已无必要，故对这些人在一定时间段内做出清理和统计。至于以后如何处置，是重新归于民籍还是一直属于师佐籍就不得而知了。物故师佐家属籍和师佐籍虽然都记述师佐及家属状况的，但二者性质截然不同。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;从吴简所反映的情况看，由郡统一管理，由县具体控制。这些手工业者只是集中在郡中的工官中。罗新先生根据文献记载和作部工师等材料推断这些师佐是要集中到荆州或武昌宫，韩树峰先生则对此提出异议，认为只是集中到郡的花名册。在师佐籍登记分类时曾有一支简：</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;其二人使<img onerror="this.src='/images/err.png'" src="http://img.ipub.exuezhe.com/jpg/K22/2009/K22T201h.jpg" />简8207</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;按照我们前面排列的格式判断，它讲的是师佐家属情况，但称之为“使”，并且只此一支，说明他们到武昌去应该是一种特殊情形，而非常态。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;我们从韩树峰先生对吴简中所见各类师佐工种的考证中可以看出，主要有纺织业、冶铁锻造业、制钱，以及具有地方特色的治皮业。他们当集中在专业的手工工场，因为设备、原料、场地等因素，不大可能到处转送。这种工场只能在郡中，甚至只是名籍集中到郡中进行统计，而工匠始终集中在手工工场。汉代的手工工场分为中央和郡县两种，孙吴虽然继承了汉代的制度，但因为战争等因素，可能还是郡一级的手工工场占支配地位。这些工种都与当时的社会状况密切相关，具有很强的指向性和实用性，都关系孙吴政权政治、军事、经济等军国大事。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;三、师、佐及其生存状态</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;作为手工业者的师、佐对称，不见于走马楼吴简公布以前的文献。不过对秦汉魏晋时代手工业作坊中工匠身份差异，已被史家所注意。陈直先生认为：“工之中又分为师、工、匠三种身份不同的名称，工之中以师的名称最尊。”(13)逄振镐先生在区分工匠与工师之间的区别时说：“‘工匠’有熟练的技术，负责作坊的生产技术工作，是作坊的技工。‘工师’是匠的头目，有更熟练的技术，负责传授技术、管理、考核工匠。”(14)罗新先生认为吴简中的佐“处于辅助地位，与师的关系大概类似近代学徒之于师傅”。根据于振波先生的统计走马楼吴简中师与佐的数量比为37：57，罗新先生的这种推断或能成立。事实上，在师佐籍本身的记述里虽能看出他们之间的区分，但很难看出师和佐在具体职能上的差异。在师佐籍中，多数是笼而统之的将其作统计，如“右领师佐多少人”。但是也有一少部分简，将二者分列。如前举的简5948：“鑪师□师□师锦师母妻子人名年纪为簿如牒见”。这里所呈报的对象严格限制为“师”。在竹简[贰]中也有一支简，简836：“领锻佐一户下品▼”。这也是师、佐分列的一个证明。在特殊的场景下，二者在身份上还是有明确界定的。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;不过，从政府对手工业者的管理措施看，二者区别并不大，还是一个整体。先前对官营作坊中工匠地位，研究者们都有不同的意见：吴荣曾先生根据战国及睡虎地秦简的材料，认为这一时期的工师“不仅要对官府工场产品的规格、质量负责，而且还有权去干预民间手工业的某些生产事宜。……从秦律来看，官府工匠可分成几等人。律文中提到的工，应是一种具有自由身份的匠师。……从秦律材料得到证实，在官府手工业作坊中仅有少数的工匠具有自由民的身份，其余多数则为不自由人或半自由人。”(15)杨生民先生分析汉代工匠的地位时认为：“其一，官府冶铁业中有‘工巧奴’从事生产，说明‘工’与奴在这里是同一种身份的人。但就一般情况而言，这种劳动者被称为‘工匠’、‘工’说明它与奴婢、卒、徒等有所区别。其二，从出土的金银扣漆器铭文中可以看出这些‘工’要受到卒的监护和丞、掾、佐等官吏的管理，所以‘工’的人身不是完全自由的。”(16)许辉先生认为：“六朝手工工匠的地位……其身份大致高于奴婢与刑徒，而低于一般自平民。统计他们的数量时，以家为单位，说明整个家庭处于被奴役的境地。户籍与士家兵户一样，世袭而不能随便移动。”(17)从前贤的叙述看，官营作坊工匠的身份有逐渐走低的趋向。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;走马楼吴简中的师佐出现蓄奴、有小妻等一些先前文献中没有记载的现象，韩树峰先生认为他们是工匠身份卑微和世袭的初始阶段。于振波先生则认为，他们虽然物质有保障，但“人身受到官府的严格控制，不能自主进行生产经营”。我们认为孙吴时期，师、佐的地位在政治和经济两方面表现是不平衡的。他们的政治地位比较低。韩树峰先生曾发现民籍户主姓名前一般都有爵位，而师、佐则无。并认为“孙吴政府授爵的对象主要是农民，师、佐被排除在外。”我们曾作过统计，民籍中的户主绝大多数都有公乘爵，因此我们推测，孙吴政权有过一个对民爵进行整齐的政策，都统一到公乘。民爵只有政治方面的意义，而在经济方面没有任何优复徭役等待遇。(18)但在这种背景下，师、佐名籍户主却仍无一有爵，这应该是秉承汉代对手工业者进行政治歧视的传统余绪。汉代重视小农，政府一直把保护小农作为施政的要务之一。因此，对农业以外的经济活动常常进行限制。如东汉明帝时期就实行过“禁民二业”的政策。其核心虽然是要禁止商业和高利贷对农民的侵蚀，但也包括小农兼营其它行业。虽然最后没有达到当时的预期效果，但也可窥知政府对工商业的态度。(19)因此孙吴政权在政治上对师、佐的歧视政策，乃渊源有自。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;尽管如此，但政治上的歧视与他们社会经济生活状况并不能画等号。从师佐籍看，当时官营工场中手工业者的经济状况与一般吏民并无太大差别。在吏民户籍中，常有户下奴、小妻的记载，在师佐籍中家庭人口中，也不乏这方面的记载。或者因为他们所具有的特殊技能，在战乱的环境中，其生存状态甚至要好于一般的小农。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;以上我们将长沙走马楼吴简中师佐籍和物故师佐家属籍的格式在韩先生排列的基础上做了一定补充，可以更清楚地看出这类名籍的大体框架。同时对这类名籍衍生出来的相关问题进行了探讨。需要指出的是，这里提到孙吴政府对师、佐等手工业者的管理并不是全貌，只是郡、县民政系统负责的部分，至于他们在工官中如何分配，如何管理，从师佐名籍中并不能反映出来。即使在我们进行讨论的部分，限于材料，还有一部分内容有很大推测成分在内。此外，关于这类名籍整理、登记的周期，师佐籍贯为何会有非长沙郡的属县，物故师佐家属的流向等问题在目前的师佐籍中并不能找到答案，要有待于更多新材料的公布和已公布相关吴简的深入研究了。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;本文在2008年3月中山大学历史系主办的“地域社会与魏晋南北朝研究”学术研讨会上蒙孟彦弘、侯旭东先生指教，谨致谢忱。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;注释：</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;①本文所引简牍均见走马楼简牍整理组：《长沙走马楼三国吴简(竹简[壹])》，文物出版社，2003年版。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;②见长沙市文物考古研究所编：《长沙三国吴简暨百年来简帛发现与研究国际学术研讨会论文集》，中华书局，2005年版。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;③见北京吴简研讨班：《吴简研究》(第一辑)，崇文书局，2004年版。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;④见《汉学研究》，24卷二期。本文以下引用罗新、韩树峰、于振波三位先生的观点均来自上述三篇论文，不一一注明。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⑤竹简[壹]整理者似乎也有这种倾向，在简5908：“凡吴昌领师佐十四人弟妻子卅七人合五十一人”下加注云：“凡‘疑’为‘右’之误。”认为都应该统一为“右”。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⑥县名或省，因为师佐名前已经标明来源地。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⑦尽管我们已经区分出了右类和凡类，但对于简6708“右见师佐廿一人兄弟妻子及奴七十八人合九十九人”，仍然不能放进我们所设定的格式中，从数量看，它是凡类简的两倍左右，和一般的右类明显不同，姑且存疑，以待更多吴简公布后再看是否有相关材料参证。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⑧简5830：章男弟槕年十五在本县章姪子男□年廿七在本县，这支简有些例外，是师、佐的旁系亲属，但这支简书写格式颇不类其它师佐籍，或非这类文书也未可知。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⑨唐长孺：《魏、晋至唐官府作场及官府工程的工匠》，载《魏晋南北朝史论丛续编》，生活、读书、新知三联书店，1959年版。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⑩高敏主编：《魏晋南北朝经济史》，上海人民出版社，1996年版，第808页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(11)宋治民：《汉代手工业》，巴蜀书社，1992年版，第50页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(12)长沙市文物考古研究所，中国文物研究所编：《长沙东牌楼东汉简牍》，文物出版社，2006年版，第107页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(13)陈直：《两汉工人的类别》，载《两汉经济史料论丛》，1980年版，199页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(14)逄振镐：《秦汉手工业的经营管理制度》，载《秦汉经济问题探讨》，华龄出版社，1990年版，第98页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(15)吴荣曾：《秦的官府手工业》，载《先秦两汉史研究》，中华书局，1995年版。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(16)杨生民：《汉代官、私工商业生产关系问题》，《杨生民经济史论集》，首都师范大学出版社，2002年版，第117-118页</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(17)许辉、蒋福亚主编：《六朝经济史》，江苏古籍出版社，1993年版，第304页。本部分为许辉先生撰写。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(18)沈刚：《走马楼吴简所见公乘、士伍述论》，中国魏晋南北朝史学会第九届年会论文，2007年，武汉大学。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(19)张鹤泉：《汉明帝研究》，吉林文书出版社，2002年版，第105页。
+</div>
+<div class="page-list">
+    <div class="pageNav" id="pageList"></div>
+</div>
+</div><br class="cls"/>
+		</div>
+		</body></html>

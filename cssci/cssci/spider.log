@@ -1,0 +1,69 @@
+2022-04-08 23:38:50 [scrapy.utils.log] INFO: Scrapy 2.6.1 started (bot: cssci)
+2022-04-08 23:38:50 [scrapy.utils.log] INFO: Versions: lxml 4.8.0.0, libxml2 2.9.12, cssselect 1.1.0, parsel 1.6.0, w3lib 1.22.0, Twisted 22.2.0, Python 3.7.13 (default, Mar 29 2022, 02:18:16) - [GCC 7.5.0], pyOpenSSL 22.0.0 (OpenSSL 1.1.1n  15 Mar 2022), cryptography 36.0.2, Platform Linux-5.17.1-arch1-1-x86_64-with-arch-Arch-Linux
+2022-04-08 23:38:50 [scrapy.crawler] INFO: Overridden settings:
+{'BOT_NAME': 'cssci',
+ 'CONCURRENT_REQUESTS': 20,
+ 'CONCURRENT_REQUESTS_PER_DOMAIN': 4,
+ 'DOWNLOAD_DELAY': 3,
+ 'DUPEFILTER_CLASS': 'cssci.dupefilter.RedisDupeFilter',
+ 'LOG_FILE': 'spider.log',
+ 'LOG_LEVEL': 'INFO',
+ 'NEWSPIDER_MODULE': 'cssci.spiders',
+ 'SCHEDULER': 'cssci.scheduler.Scheduler',
+ 'SPIDER_MODULES': ['cssci.spiders']}
+2022-04-08 23:38:50 [scrapy.extensions.telnet] INFO: Telnet Password: f28cc1ae975f89ec
+2022-04-08 23:38:50 [scrapy.middleware] INFO: Enabled extensions:
+['scrapy.extensions.corestats.CoreStats',
+ 'scrapy.extensions.telnet.TelnetConsole',
+ 'scrapy.extensions.memusage.MemoryUsage',
+ 'scrapy.extensions.logstats.LogStats']
+2022-04-08 23:38:50 [detail] INFO: Reading start URLs from redis key 'detail:start_urls' (batch size: 20, encoding: utf-8)
+2022-04-08 23:38:50 [scrapy.middleware] INFO: Enabled downloader middlewares:
+['scrapy.downloadermiddlewares.httpauth.HttpAuthMiddleware',
+ 'scrapy.downloadermiddlewares.downloadtimeout.DownloadTimeoutMiddleware',
+ 'scrapy.downloadermiddlewares.defaultheaders.DefaultHeadersMiddleware',
+ 'scrapy.downloadermiddlewares.useragent.UserAgentMiddleware',
+ 'cssci.middlewares.RandomUserAgentMiddleware',
+ 'scrapy.downloadermiddlewares.retry.RetryMiddleware',
+ 'scrapy.downloadermiddlewares.redirect.MetaRefreshMiddleware',
+ 'scrapy.downloadermiddlewares.httpcompression.HttpCompressionMiddleware',
+ 'scrapy.downloadermiddlewares.redirect.RedirectMiddleware',
+ 'scrapy.downloadermiddlewares.cookies.CookiesMiddleware',
+ 'scrapy.downloadermiddlewares.httpproxy.HttpProxyMiddleware',
+ 'scrapy.downloadermiddlewares.stats.DownloaderStats']
+2022-04-08 23:38:50 [scrapy.middleware] INFO: Enabled spider middlewares:
+['scrapy.spidermiddlewares.httperror.HttpErrorMiddleware',
+ 'scrapy.spidermiddlewares.offsite.OffsiteMiddleware',
+ 'scrapy.spidermiddlewares.referer.RefererMiddleware',
+ 'scrapy.spidermiddlewares.urllength.UrlLengthMiddleware',
+ 'scrapy.spidermiddlewares.depth.DepthMiddleware']
+2022-04-08 23:38:50 [scrapy.middleware] INFO: Enabled item pipelines:
+['cssci.pipelines.CssciPipeline']
+2022-04-08 23:38:50 [scrapy.core.engine] INFO: Spider opened
+2022-04-08 23:38:50 [py.warnings] WARNING: /home/turning/Desktop/data/archlinux/environment/miniconda3/envs/pack/lib/python3.7/site-packages/scrapy_redis/queue.py:1: ScrapyDeprecationWarning: Module scrapy.utils.reqser is deprecated, please use request.to_dict method and/or scrapy.utils.request.request_from_dict instead
+  from scrapy.utils.reqser import request_to_dict, request_from_dict
+
+2022-04-08 23:38:50 [scrapy.extensions.logstats] INFO: Crawled 0 pages (at 0 pages/min), scraped 0 items (at 0 items/min)
+2022-04-08 23:38:50 [scrapy.extensions.telnet] INFO: Telnet console listening on 127.0.0.1:6023
+2022-04-08 23:38:50 [detail] INFO: start req url:http://cssci.nju.edu.cn/control/controllers.php?control=search&action=source_id&id=11C0682021040010&rand=0.417339468426142
+2022-04-08 23:38:50 [detail] INFO: start req url:http://cssci.nju.edu.cn/control/controllers.php?control=search&action=source_id&id=11C0682021040009&rand=0.05529098626694562
+2022-04-08 23:38:50 [detail] INFO: start req url:http://cssci.nju.edu.cn/control/controllers.php?control=search&action=source_id&id=11C0682021040008&rand=0.6345217466947486
+2022-04-08 23:38:50 [detail] INFO: start req url:http://cssci.nju.edu.cn/control/controllers.php?control=search&action=source_id&id=11C0682021040007&rand=0.05871548766766255
+2022-04-08 23:38:50 [detail] INFO: start req url:http://cssci.nju.edu.cn/control/controllers.php?control=search&action=source_id&id=11C0682021040006&rand=0.9514538295537879
+2022-04-08 23:38:50 [detail] INFO: start req url:http://cssci.nju.edu.cn/control/controllers.php?control=search&action=source_id&id=11C0682021040005&rand=0.2685067937565708
+2022-04-08 23:38:50 [detail] INFO: start req url:http://cssci.nju.edu.cn/control/controllers.php?control=search&action=source_id&id=11C0682021040004&rand=0.09009340586019521
+2022-04-08 23:38:50 [detail] INFO: start req url:http://cssci.nju.edu.cn/control/controllers.php?control=search&action=source_id&id=11C0682021040003&rand=0.8458298050590787
+2022-04-08 23:38:50 [detail] INFO: start req url:http://cssci.nju.edu.cn/control/controllers.php?control=search&action=source_id&id=11C0682021040002&rand=0.7793363979993659
+2022-04-08 23:38:50 [detail] INFO: start req url:http://cssci.nju.edu.cn/control/controllers.php?control=search&action=source_id&id=11C0682021040001&rand=0.7286783478498934
+2022-04-08 23:38:50 [detail] INFO: start req url:http://cssci.nju.edu.cn/control/controllers.php?control=search&action=source_id&id=11D0602021010011&rand=0.5820430909045511
+2022-04-08 23:38:50 [detail] INFO: start req url:http://cssci.nju.edu.cn/control/controllers.php?control=search&action=source_id&id=11D0602021010010&rand=0.6387653586615115
+2022-04-08 23:38:50 [detail] INFO: start req url:http://cssci.nju.edu.cn/control/controllers.php?control=search&action=source_id&id=11D0602021010009&rand=0.4149032901426315
+2022-04-08 23:38:50 [detail] INFO: start req url:http://cssci.nju.edu.cn/control/controllers.php?control=search&action=source_id&id=11D0602021010008&rand=0.6511858227156153
+2022-04-08 23:38:50 [detail] INFO: start req url:http://cssci.nju.edu.cn/control/controllers.php?control=search&action=source_id&id=11D0602021010007&rand=0.9277786905612637
+2022-04-08 23:38:50 [detail] INFO: start req url:http://cssci.nju.edu.cn/control/controllers.php?control=search&action=source_id&id=11D0602021010006&rand=0.5171957937155736
+2022-04-08 23:38:50 [detail] INFO: start req url:http://cssci.nju.edu.cn/control/controllers.php?control=search&action=source_id&id=11D0602021010005&rand=0.540209943425134
+2022-04-08 23:38:50 [detail] INFO: start req url:http://cssci.nju.edu.cn/control/controllers.php?control=search&action=source_id&id=11D0602021010004&rand=0.5369226342044882
+2022-04-08 23:38:50 [detail] INFO: start req url:http://cssci.nju.edu.cn/control/controllers.php?control=search&action=source_id&id=11D0602021010003&rand=0.20792886698953206
+2022-04-08 23:38:50 [detail] INFO: start req url:http://cssci.nju.edu.cn/control/controllers.php?control=search&action=source_id&id=11D0602021010002&rand=0.7829839361197776
+2022-04-08 23:39:39 [scrapy.crawler] INFO: Received SIGINT, shutting down gracefully. Send again to force 
+2022-04-08 23:39:39 [scrapy.core.engine] INFO: Closing spider (shutdown)

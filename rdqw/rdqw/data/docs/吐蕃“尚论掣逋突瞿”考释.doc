@@ -1,0 +1,199 @@
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><style>.trR{ text-align:right;}
+#wraper{width:1190px; margin:0 auto; margin-bottom:10px;text-align:left;}
+#left{ float:left;width:250px; text-align:left;}
+#right{float:right;width:930px;text-align:left;border-top:2px solid #619bc0; padding-bottom:10px;}
+.border_w{ border:1px solid #d3d3d3;border-top:2px solid #619bc0;}
+.t01{height:30px;line-height:30px;border:1px solid #dddddd;padding-left:10px;background:url(../images/tbg01.jpg) repeat-x bottom; color:#1183c1; font-size:14px;}
+.con_01{ padding:10px;}
+.con_cbg{ background:url(../images/con_cbg.gif) repeat-y;}
+.con_bbg{ background:url(../images/con_bbg.gif) no-repeat left bottom; height:1px; line-height:1px; font-size:0;}
+
+.source{margin:15px;background:url(../images/linex.gif) repeat-x bottom; padding-bottom:30px; margin-bottom:30px;}
+.source .source-img{border:1px solid #d3d3d3; text-align:center; padding:5px;margin-bottom:10px; }
+.source p{color:#666666; font-weight:bold; font-size:12px;}
+.source .fblue{ color:#236bac; font-weight:normal;}
+
+.t_tj{ height:27px;padding-top:2px;margin:15px; background:url(../images/con_t_tj.gif) no-repeat left top; padding-left:10px; color:#FFFFFF; font-size:14px;}
+.c12_01{ margin-left:15px; margin-right:15px; margin-bottom:15px;}
+.c12_01 li{font-size:12px; line-height:24px; background: url(../images/dot.gif) no-repeat 2px 10px; padding-left:15px;}
+
+#artibodyTitle{color:#236bac;font-family:"宋体";font-size:20px;font-weight: normal;line-height:35px;text-align:center;margin-top:10px;	text-align:center;}
+#artisubTitle{font-family:"宋体";font-size:16px;font-weight: normal;line-height:28px;text-align:center;}
+.articl_info{margin-left:30px; margin-right:30px; position:relative;border-bottom:1px solid #e1e1e1;padding-bottom:20px; margin-bottom:20px;}
+.btn-img{
+	background-image:url(../images/allbg.png);
+	background-repeat:no-repeat;
+	font-size:12px;		
+	cursor:pointer;
+	border: 0px none;
+	display: inline-block;
+	vertical-align:middle;
+	text-align:center;}
+
+.artInfo{height:22px;border-top:1px solid #e1e1e1;border-bottom:1px solid #e1e1e1;padding:5px;margin:20px;}
+.artInfo li{float:left;width:33%;height:22px; line-height:22px; color:#666666;}
+
+.artInfo li .collectionPage_link{
+	background-position:-509px -80px;
+	padding-left:10px;
+	margin-top:-2px;
+	_margin-top:0px;
+	margin-left:10px;
+	width:51px;
+	height:22px; 
+	line-height:22px;		
+	color:#1183c1;	}
+.artInfo li .printPage_link{
+	background-position:-570px -80px;
+	padding-left:10px;
+	margin-top:-2px;
+	_margin-top:0px;
+	margin-left:10px;
+	width:51px;
+	height:22px; 
+	line-height:22px;	
+	color:#1183c1;}
+.artInfo li .downloadPage_link{
+	background-position:-631px -80px;
+	margin-top:-2px;
+	_margin-top:0px;
+	margin-left:10px;
+	width:51px;
+	padding-left:10px;
+	height:22px; 
+	line-height:22px;	
+	color:#1183c1;}
+
+
+.artBaseInfo{line-height:24px; margin-bottom:5px;}
+.artBaseInfo .info_left{float:left;width:80px;}
+.artBaseInfo .info_right{float:left;width:790px;}
+
+.artBaseInfo dt{float:left;width:80px; color:#666666;line-height:20px; display:inline-block;}
+.artBaseInfo dd{color:#666666;line-height:20px;display:inline-block;}
+.artBaseInfo .col li{ float:left;width:210px; height:20px; line-height:20px;color:#666666;}
+
+.artBaseInfo .item{ float:left;width:50%;}
+.artBaseInfo .notice{
+	margin-left:10px;
+	width:61px;
+	padding-left:10px;
+	height:22px; 
+	line-height:22px;
+	background-position:-448px -80px;	
+	color:#1183c1;}
+
+.artInfo{height:30px;border-top:1px solid #e1e1e1;border-bottom:1px solid #e1e1e1;margin:20px 10px;}
+.artInfo div{ float:left;width:30%;height:30px; line-height:30px; text-align:center;}
+.artInfo div a{ margin-left:20px; margin-right:20px;}
+.artInfo li{float:left;width:33%;height:22px; line-height:22px; color:#666666;}
+
+.articl_info{margin-left:30px;margin-right:30px; position:relative;border-bottom:1px solid #e1e1e1;padding-bottom:20px; margin-bottom:20px;}
+.artBaseInfo{margin-bottom:5px;}
+.articl_info_t{float:left;width:80px;margin-right: -100%;font-weight:bold;line-height:24px;}
+.articl_info_c{float: left;width: 100%;}
+.articl_info_c .info_c{margin-left:80px; line-height:24px;}
+.artBaseInfo .marL{ margin-left:20PX;}
+.artBaseInfo .col_info{ float:left;width:30%;line-height:20px;}
+
+.fontSize{position: relative;right:0px;top:0px;font-size:12px; height:30px; line-height:30px; text-align:right;}
+.fontSize a{border:1px solid #c2c2c2;margin-right:10px;padding:4px 1px;*padding:1px; cursor:pointer;font-size:12px;}
+.fontSize a span{background:url(../images/page_a_36.png) repeat-x;padding:3px;}
+
+.fontSize a.now{border: #f9ad75 1px solid;padding:4px 1px;*padding:1px;}
+.fontSize a.now span{color:#ff7d27;background:url(../images/current_34.png) repeat-x bottom;padding:3px;}
+.artibody{margin-left:20px;margin-right:20px;font: 18px/180% "Microsoft YaHei","微软雅黑"; color:#666666;}
+.artibody p{margin-bottom:20px;}
+
+.fontSize A:link{ color:#000000;text-decoration:none;}
+.fontSize A:visited{ color:#000000;text-decoration:none;}
+.fontSize A:hover{ color:#FF0000;text-decoration:none;}
+.fontSize a.now:link{color:#ff7d27;text-decoration:none;}
+#Zoom img {max-width:600px; max-height:600px; scale:expression((this.offsetWidth > this.offsetHeight)?(this.style.width = this.offsetWidth >= 600 ? "600px" : "auto"):(this.style.height = this.offsetHeight >= 600 ? "600px" : "auto")); display:inline !important;}
+
+.t_artiInfo{font-size:14px; padding-left:20px;background:url(../images/linex.gif) repeat-x top; line-height:30px; margin-top:10px;}
+.li_artiInfo{margin-left:30px; margin-right:30px;padding-bottom:10px; }
+.li_artiInfo ul li{float:left;width:100%;padding:3px 0;}
+.li_artiInfo ul li .title{ float:left;width:65%;}
+.li_artiInfo ul li .author{ float:left;width:15%;}
+.li_artiInfo ul li .come{ float:right;width:20%;color:#999999; text-align:right;}
+
+
+.index_artInfo{height:36px; line-height:36px; border-top:1px solid #e1e1e1;border-bottom:1px solid #e1e1e1; margin-top:20px; padding-left:20px;  padding-right:20px;padding-right:10px; margin-bottom:10px; margin-left:10px;text-align:center;}
+.index_artInfo a.collectionPage_link{ background:url(../images/icon.gif) no-repeat 0 1px; padding-left:15px;}
+.index_artInfo a.printPage_link{background:url(../images/icon.gif) no-repeat 0 -55px; padding-left:15px;}
+.index_artInfo a.downloadPage_link{background:url(../images/icon.gif) no-repeat 0 -108px; padding-left:13px;}
+
+.index_body .main{margin-left:100px; line-height:28px;color:#000000; padding-bottom:30px; padding-top:20px;}</style></head><body><div id="wraper">
+			<div id="artTitles">
+				<h1 id="artibodyTitle">吐蕃“尚论掣逋突瞿”考释</h1>
+				<h2 id="artisubTitle">——《新唐书·吐蕃传》误载举隅</h2>
+			</div>
+			
+			<div class="articl_info">
+				<div class="artBaseInfo" id="autInfo">
+					<div class="articl_info_t">作 者：</div>
+					<div class="articl_info_c">
+						<div class="info_c">
+								<a target="_blank" href="/qw?s0=4&amp;s1=%e6%9e%97%e5%86%a0%e7%be%a4">林冠群</a> 
+						</div>
+					</div>
+					<br class="cls"/>
+				</div>
+				<div class="artBaseInfo" id="autDescription">
+					<div class="articl_info_t">作者简介：</div>
+					<div class="articl_info_c">
+						<div class="info_c">林冠群，台湾吴凤技术学院通识中心教授，中正大学历史系兼任教授。</div>
+					</div>
+					<br class="cls"/>
+				</div>
+				<div class="artBaseInfo" id="tAutInfo"/>
+				<div class="artBaseInfo" id="orgInfo">
+					<div class="articl_info_t">原文出处：</div>
+					<div class="articl_info_c">
+						<div class="info_c">中国藏学</div>
+					</div>
+					<br class="cls"/>
+				</div>
+				<div class="artBaseInfo" id="astInfo">
+					<div class="articl_info_t">内容提要：</div>
+					<div class="articl_info_c">
+						<div class="info_c">
+							<p>本文从考证唐代吐蕃中央与边疆重要职官制度出发，通过对现存汉藏文献、史料、碑铭的校对，以及当代国际藏学相关研究成果的详细分析，“尚论掣逋突瞿”的源起、变迁、影响、结果与其代表的历史意义进行考释。本研究具体展现吐蕃相制在有唐一代的架构，提出有力史实修正了《新唐书·吐蕃传》及中国大陆、日本学者的部分观点，并以土著观点重新检视中原史官在边疆史取材、编纂时可能有的时空史观偏颇与限制。</p>
+						</div>
+					</div>
+					<br class="cls"/>
+				</div>
+				<div id="artPdcInfo" class="artBaseInfo">
+					<div class="col_info"><b>期刊代号：</b>K22 </div>
+					<div class="col_info"><b>分类名称：</b>魏晋南北朝隋唐史 </div>
+					<div class="col_info"><b>复印期号：</b>2009 年 01 期 </div>
+					<br class="cls"/>
+				</div>
+				<div class="artBaseInfo" id="artKeyword">
+					<div class="articl_info_t">关 键 词：</div>
+					<div class="articl_info_c">
+						<div class="info_c">
+								<a target="_blank" href="/qw?s0=7&amp;s1=%e5%94%90%e4%bb%a3">唐代</a> 
+								<a target="_blank" href="/qw?s0=7&amp;s1=%e5%90%90%e8%95%83">吐蕃</a> 
+								<a target="_blank" href="/qw?s0=7&amp;s1=%e6%b0%91%e6%97%8f%e5%8f%b2">民族史</a> 
+								<a target="_blank" href="/qw?s0=7&amp;s1=%e6%94%bf%e6%b2%bb%e5%88%b6%e5%ba%a6">政治制度</a> 
+								<a target="_blank" href="/qw?s0=7&amp;s1=%e5%b0%9a%e8%ae%ba%e6%8e%a3%e9%80%8b%e7%aa%81%e7%9e%bf">尚论掣逋突瞿</a> 
+
+						</div>
+					</div>
+					<br class="cls"/>
+				</div>
+				<div class="artBaseInfo" id="artTitleNote"/>
+				<a id="readArea" name="readArea"/>
+				
+			</div>
+			<div id="artText"><div class="artibody" id="Zoom" style="font-size: 14px;">
+    </p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;［中图分类号］K281=242  ［文献标识码］A  ［文章编号］1002-557(X)(2008)03-0007-12</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;一、前言</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“尚论掣逋突瞿”语出《新唐书·吐蕃传》①，《旧唐书·吐蕃传》等其他汉史料阙载。笔者于1989年所发表之《唐代吐蕃政治制度之研究》一文及大陆藏学界普遍将《新唐书·吐蕃传》相关“尚论掣逋突瞿”的记载，视为分析唐代吐蕃中央职官制度的根据，佥认吐蕃中央职官共分为3个系统。其一为议政系统，官设大论、小论及悉编掣逋（都护）等3人；其二为行政系统，设官曩论掣逋、曩论觅零逋、曩论充等3人；其三为司法监察系统，设有喻寒波掣逋、喻寒觅零逋、喻寒波充等3人，共9人，总号为“尚论掣逋突瞿”，藏文还原为“zhang lon chcd po dgu”，意为“九大尚论”②。亦即上述9位官员组成吐蕃中央政府，负责吐蕃朝政。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;然而，仍有个别学者提出质疑。日本佐藤长氏以为“尚论掣逋突瞿”应属吐蕃初期的中央官制③。大陆所出版的《藏族简史》中，常凤玄以为吐蕃于763年以后方设置大尚论（同平章事）9人总理朝政，即《新唐书·吐蕃传》所载的“尚论掣逋突瞿”④。如是，常凤玄的主张不但与佐藤长抵触，而且全然推翻《新唐书·吐蕃传》的记载，但《藏族简史》受篇幅所限，语焉未详，未多作说明。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;本文继佐藤长氏及常凤玄之后，试图解答《新唐书·吐蕃传》有关“尚论掣逋突瞿”记载的疑问，包括“尚论掣逋突瞿”此名词何时问世？内容为何？指的是何种制度？《新唐书·吐蕃传》的记载是否有错误？应如何解读等。本文以唐代吐蕃时期所遗存的史料，包括敦煌古藏文卷子、吐蕃碑铭、吐蕃简牍，以及教法史料中可信度较高的《贤者喜宴》所记载者，为本文论证的主要依据。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;二、《新唐书·吐蕃传》记载探疑</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;有关“尚论掣逋突瞿”，《新唐书·吐蕃传》记载：</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;其官有大相曰论茞，副相曰论茞扈莽，各一人，亦号大论、小论；都护一人曰悉编掣逋；又有内大相曰曩论掣逋，亦曰论莽热，副相曰曩论觅零逋，小相曰曩论充，各一人；又有整事大相曰喻寒波掣逋，副整事曰喻寒觅零逋，小整事曰喻寒波充，皆任国事，总号曰尚论掣逋突瞿。⑤</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;依上所载，吐蕃设官其一为大相曰论茞，还原藏文为blon che，亦号大论，是为吐蕃宰相。此官职早于吐蕃第8代赞普之时即已产生⑥。blon che大论顾名思义，为吐蕃最大的官员，为吐蕃官僚体系中最高位阶的官员。吐蕃政府的实际运作与控制，均由大论一人总其责。赞普为国家元首，象征吐蕃国家的统一，但大论才是实际负一切政治上的责任⑦。其二为副相，曰论茞扈莽，按P.T.1267“吐蕃赞普传记第二”记载，禄东赞(mgar stong rtsan yul zung)于大论任上老死，继任大论的人选产生两方人马的竞逐，为弭平争议，遂新设副大论一职⑧。P.T.1288“吐蕃大事纪年”记载，禄东赞系于兔年（667年）去世⑨。准此，副大论一职的设立应于667年以后。此副大论的官衔，“吐蕃赞普传记第二”记载为“blon chevi lugs slob pavi vog pon”⑩，意为教导作大论方法的副手。另I.O.750“吐蕃大事纪年”鸡年(757)记载：论结桑杰恭担任副大论多年于任上去世(blon skyes bzang rgyal kong blon chevi vog pon vtshal ba las gum)(11)。据上引文，副大论职称为“blon chevi vog dpon(pon)”，汉语音译应为“论茞扈奔”，而《新唐书·吐蕃传》所载之“论茞扈莽”，显然“莽”为“奔”之笔误。由此记载得知，副大论一职系为辅佐大论的副职。《新唐书·吐蕃传》载云吐蕃副大论又称小论，此似为想当然的记载，《吐蕃传》的作者可能为区别“大论”，以自创的“小论”作为相对于“大论”的另称，况且既然吐蕃每类职官均大中小区分，因此认为副大论又称小论。事实上，副大论有固定的称谓：blon chevi vog dpon，而且就目前所遗存的吐蕃史料中，未见有“小论”衔称的记载。若按汉文字义还原藏文，则成了“blon chung”，变成“小官员”的意思，仅次于大论的官职绝无可能使用如是称号。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;其三为都护一人，曰悉编掣逋。按“都护”官称在中原为地区的最高长官，并非设于中央。唐人将“悉编掣逋”比定为唐制“都护”，殊值商榷。原因在于“悉编掣逋”还原藏文为“spyan ched po”(12)，其中“spyan”为藏文“mig”（眼睛）的敬语，此官称意为代表赞普的眼睛督看地方。此官称在许多文献上均呈现出设置于边区的性质，或作为最高统治者的代表，以监督边区主官，或协同主官处理边区事务。例如P.T.1089“吐蕃官吏呈请状”，记载设于凉州军镇的官职之中有事务都护(rtsis spyan)、庄园官长都护(gzhis pon spyan)(13)；并记载吐蕃于沙州节儿(rtse rje blon)之下，设有唐人万户都护(rgyavi khri spyan)、唐人都护(rgyavi spyan)(14)。而P.T.1089“吐蕃官吏呈请状“全文所载，为4位吐蕃官员所组成的“德论会议”(bde blon gdun sa)之决议，此4名官员为德论尚赞桑(bde blon zhang btsan bzang)、论野悉札(blon rgyal sgra)以及都护论强热(spyan blon byang bzher)、论玉悉札(blong·yu sgra)(15)，排名首位者应为主官德论(bde blon)，排名第三的官衔为“都护”(spyan)。上述4位所组成的德论会议，讨论的是凉州、瓜州及沙州等事宜，证明了此德论会议是总管原李唐河西道的最高机构。上述4位吐蕃官员，排名在首位者为德论尚赞桑，也就是李唐所称呼的吐蕃北道节度使(16)，而“都护”(spyan)就是代表赞普监督德论者，并与德论共同处理辖区内所有事务，以会议形式议决，类似集体领导。此在白居易所撰之《代忠亮答吐蕃东道节度使论结都离等书》中，致书称吐蕃东道节度使领导人衔称为“大蕃东道节度使论公都监军使论公麾下”(17)得到印证。即吐蕃所振遣的东道节度使论公是为论结都离，而“都监军使论公”则是另一位吐蕃官称为spyan（亦译为都护）的官员，由此可见，李唐官方致书·吐蕃东道节度使时，必须同时将都监军使(spyan)与节度使并列。此确认吐蕃边疆地区的德论、军镇等，虽有主官，但实属集体领导。此等形式不仅德论一级如此，属德论下一级的将军衙(dmag pon vdun sa)及再下一级的州节儿(rtse rje)亦复如是。P.T.1089“吐蕃官吏呈请状”记载：</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sha cuvi rtse rje blon man cad/rgyavi dpon snavi gral thabs re shig vdi bzhin mchis par vtshal cig ces//kwa cuvi dmag pon dang spyan gyi mchid kyis bcas ces//（沙州节儿论以下，唐人官员品位暂按此执行。瓜州将军及都护作出决定。）(18)</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;又如《吐蕃简牍》第39片记载：byi bo bgyis pa khrims che la thug pa//dmag pon dang spyan gyis dbyongsd kyigs[1a] gsol cig//（淫人妻女，触及大法，将军及悉编（都护）应将犯人处以绞刑。）(19)又如P.T.1089“吐蕃官吏呈请状”在第54行及第77行等处，亦提及了设有沙州节儿都护(rtse rje spyan)等官职(20)。上述所举吐蕃有关“都护”(spyan)的官职，全部都是设置于边区，也都属于代表赞普，与吐蕃边区的各级主官，诸如德论、将军、节儿等共同召开会议，议决各类边区事务。吾人亦可自P.T.1287“吐蕃赞普传记第八”的记载，得到吐蕃对spyan官称概念的旁证。其载吐蕃没卢乞力苏然夏(vbro khri gzu ram shags)进袭南诏，擒获南诏悉编掣逋(spyan chen po)等大小官员(21)，此处南诏的悉编掣逋显指南诏镇守边境的官员。职是之故，“悉编掣逋(spyan chen po)”似不宜译作“都护”，因唐制“都护”是主官，而“悉编掣逋”并非主官，应译作“监军使”或“观察史”，而且绝非吐蕃中央官属。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;其四有内大相，曰曩论掣逋，亦曰论莽热。按曩论掣逋还原藏文为nang blon ched po(22)，汉文意义为“大内臣”，《新唐书·吐蕃传》译之曰“内大相”，事实上与藏文字义有些许出入，原因在于nang blon为一官称，ched po则为其名词补语，是以ched po（大）修饰nang blon（内臣），是为“大内臣”。若以《新唐书·吐蕃传》的译法，则是将“blon ched po”为一单位，作“大相”解，再加上“nang”（内），形成“内大相”，如是译，极易造成读者以为此官职属吐蕃宰相之一的误解。因“相”字在汉文作宰相、丞相、相国之简称，故有位登宰相时，称之为“拜相”。其他官称也鲜少使用“相”字。另一不妥处，在于藏文“blon”字原义并非“宰相”，张说所撰《拨川郡王碑文》中云“戎言谓宰曰论”(23)，即是错误的说法(24)，笔者疑《新唐书·吐蕃传》将“blon”（论）译为“相”，可能是受曾任李唐边吏大臣与宰相的张说所谓的权威说法的影响。按“blon”字，本义为“商劝”、“忠告”、“商量”(25)，引申为“大臣”、“官吏”(26)，与“宰相”无涉。另“亦曰论莽热”之记载，则反映出《新唐书·吐蕃传》编纂者可能并未具备唐代吐蕃相关的基本常识，而且《新唐书·吐蕃传》也可能出自集体编纂的结果。原因在于“论莽热”还原藏文为“blon mang bzher”，是为人名，并非官名，其人事迹在新旧唐书《吐蕃传》均有记载：由于维州被围，吐蕃“遣莽热以内大相兼东境五道节度兵马使、都统群牧大使”，率众解围遭擒(27)，并云“莽热，吐蕃内大相也”(28)。亦即莽热遭唐俘虏后，详报己身所任吐蕃官职，本职为“内大相”，李唐予以记录。至后代编纂《吐蕃传》时，编纂者竟将担任“内大相”的人名——“论莽热”，误认为是“内大相”一职的另称。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;其五、其六为副相曰曩论觅零逋、小相曰曩论充。按曩论觅零逋的藏文为“nang blon vbring po”(29)，译为汉文应为“中内臣”；曩论充的藏文为“nang blon chung”(30)，译为汉文应为“小内臣”。比对二官职藏文原义与《新唐书·吐蕃传》的翻译，就可以了解错误的所在。第一：内臣非宰相，岂能译之为“相”。第二：“中内臣”译作“副相”不妥，因“副相”易与“副大相”混淆；而“小内臣”译作“小相”，亦与“小论”混淆。《新唐书·吐蕃传》编纂者可能是受了将“blon”误译为“相”的影响，误以nang blon（内臣）为宰相群之一。实际上，nang blon（内臣）的职能，类似中原地区的内朝官，原属处理赞普内廷相关事务的官员(31)。后随着疆域的扩大，政务日增且渐趋庞杂，遂将nang blon与内朝官划分开来，内朝官准其职掌，以具体官名呈现，例如掌管赞普饮食起居及守卫宫廷安全者，官号为“悉南纰波”(snam phyi pa)(32)；又如“噶钦论”(bkav phrin blon)，唐人译之为“给事中”(33)，是为诏令承旨之官，职掌核对、改定、发布赞普诏命等(34)。nang blon则为上承宰相之命，负责中央行政业务的官员，例如《唐蕃会盟碑》右面碑铭所载吐蕃官员的位序，曩论(nang blon)位列于吐蕃寮寀级官员的名单之中(35)。又如吐蕃边区官员的书函，多呈给曩论掣逋，此说明吐蕃地方行政事务，多向内臣呈报(36)，再由内臣呈报宰相。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;其七为整事大相，曰喻寒波掣逋。“喻寒波掣逋”还原藏文为“yo gal pa ched po”(37)，此官称《新唐书·吐蕃传》的记载可能有所节略。在《恩兰达札路恭纪功碑》左面碑铭中记载了恩兰达札路恭(ngan lam stag sgra klu khong)的官衔为“nang blon chen po dang yo gal vchos pa chenpo”(38)。另P.T.1217第9-10行亦记载此官的衔称为：“yo gal vcos pa”(39)。上引碑铭及敦煌文献的记载，一为“yo gal vchos pa”，一为“yo gal vcos pa”，比较上引二官衔，有vchos与vcos的差异，此乃因古藏文正字法仍未确立，某些字母会有通用的现象，ca与cha即为一例。因此，既然原始文献的记载呈现为“yo gal vchos pa”，显然，《新唐书·吐蕃传》的记载阙漏了“vchos”字，且此字居关键地位，原因在“yo”的字义为“弯曲、歪斜”(40)，“gal”为“压迫、强制”(41)，“vchos pa”为“修改、改造”之意(42)。合而观之，就是“强制修正”。倘若阙漏了“vchos pa”，则字义呈现完全相反的意义，而为“强制歪斜”了。当然“yo gal vchos pa”之前仍应有一“bkav”字，就是赞普的诏命，是以此官的完整职衔应为vbka yo gal vchos pa，汉语音译为“噶喻寒确波”，吐蕃一般将“bkav”字省略，而为“yo gal vchos pa”（喻寒确波）。《新唐书·吐蕃传》译之为“整事大相”，“整事”有“整饰”、“整顿”的意思，与“yo galv chos pa”的字意“强制修正”，意义完全吻合。问题出在“整事大相”的“大相”一词，原本“大相”为吐蕃宰相之称呼，而且原文中并不存有“相”字，应译为“整事大臣”，职司风宪与司法，类似中原朝廷的御史大夫、谏议大夫、监察御史等一类的官职。(43)</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;排序第八的官员，《新唐书·吐蕃传》译为副整事，但依藏文之原文“yo gal vchos pa vbring po”，汉文意义应为“中喻寒确波”，是为“中整事”，是否作为辅佐大整事的副手，仍有疑义。因吐蕃职官中，若其为某官之副手，其官称会直接显示，例如副大论之官称为“blon chevi vog pon”（论茞扈奔），又如吐蕃沙州节儿(rtse rje)的副手，其衔称为“rtse rje vog pon”(44)（副节儿）；沙州庄园长(gzhis pon)之副官为“gzhis pon vog pon”（副庄园长）(45)。上举之例显示，在某官衔下加“vog pon”二字，即为其副手。至于吐蕃职官中，分成大(che，chen po)、中(vbring po)、小(chung)三级，例如内臣、整事、节儿、守备长(dgra blon)等等，此che、chen po，vbring po，chung三者属位阶高低的划分，因此应译作大、中、初级。其间“中级”未必就是“大级”的副手，若是不按藏字原义直译，则以一等、二等、三等义译，则更为贴切。即yo gal vchos pa chen po译作“一等整事大臣”，yo gal vchos pa vbring po译为“二等整事”，yo gal vchos pa chung译成“三等整事”，是为一目了然，不致徒增枝节。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;三、“大尚论”(Zhang lon Ched po)衔称何时产生</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;上文论及9位官员的衔称，确定有一位悉编掣逋非属中央官员。其余的8位官员，是否可称作“大尚论”(zhang lon ched po)？笔者不无疑义。因为担任二等内臣、三等内臣及属于整事类的官员，其告身位阶都不高，《贤者喜宴》记载二等内臣(hang blon vbring po)、一等整事大臣(bkav yo gal vchos pa chen po)的告身为大金字告身(gser yig chen po)(46)，属第三等级的告身，其上仍有大玉字告身及小玉字告身，亦即至少三等内臣及二等、三等整事，都仅列入中等位阶的小金字告身(gser chung)以下(47)，似无资格跻身位高权重的“大尚论”行列之中。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“大尚论”(zhang lon ched po)的称呼，是否有如官场应酬般，只要是中央官员，彼此均可互称“大尚论”，或是地方官员对中央官员的敬称？对此，P.T.1071“狩猎伤人赔偿律”的条文，提供了明确的答案。在P.T.1071“狩猎伤人赔偿律”所记载的条文中，将吐蕃社会阶层的等级，按赔偿命价的高低，分成了9等(48)。其中位列第一等者，有大论(blon chen po)、大内臣(nang blon chen po)、赞普舅氏任平章政事之职者(btsan povi zhang drung chabs srid la dbang ba gcig)、副大论(blon chen povi vog pon)等4种，称之为“大尚论”(zhang blon chen po)(49)。在条文中亦有将此4位大尚论载为“zhang lon chen po”(50)者。由此可见zhang blon chen po与zhang lon chen po可以互用，意义相同(51)。“狩猎伤人赔偿律”对第二等级的相关规定记载如下：</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;zhang long·yuvi yi ge khong ha ngo bo dang/g·yuvi yi ge pavi myes pho dang phav/dang zhang lon chen pp/bzhivi phu bo spad phan cad/pha spun spad tshan cad/yi ge ma mchis pavi rnams/dang ma yar mo dang/bnav ma dang/khyo mo dang/bu sring khyo mo mchis pa dang／（第二等为玉字告身尚论本人与玉字告身者之祖、父，四种大尚论之子侄、叔伯昆仲无告身者诸人，及母、继母、儿媳、妾媵、未婚之妹等。）(52)</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;由上引文得知，吐蕃的“大尚论”(zhang lon chen po)衔称仅4位方有资格使用，即大论、大内臣、赞普舅氏任平章政事者与副大论。其他官员就算拥有最高位阶的玉字告身，亦不可称为“大尚论”。如上引文就将拥有玉字告身的尚论(zhang long·yuvi yi ge)与四大尚论(zhang lon chen po bzhi)区分开来，明确揭示位居吐蕃社会第一等级者，方能使用“大尚论”的衔称，而且仅此4位。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;从P.T.1071“狩猎伤人赔偿律”对吐蕃社会等级划分的规定中，吾人可以分析此律法订定的大概时间。按吐蕃的大论，掌政治实权，列百官之首，理居吐蕃社会阶级的第一等级。副大论辅佐大论，地位仅次于大论，其与大论同列吐蕃社会阶级的第一等级，亦属合理。赞普舅氏任平章政事者(btsan povi zhang drung chab srid la dbang ba gcig)则需进一步细究。就其官称之藏文原文分析，btsan povi zhang drung意为赞普身边的舅氏。按吐蕃冠有“zhang”（尚）的氏族，仅有4支，分别为没卢氏(vbro)、琛氏(mchims)、蔡邦氏(mtshe pong)及那曩氏(sna nams)。在zhang字后加一drung字，drung为身旁、近前的敬语(53)，二字合观，意味着系现任赞普母后的亲兄弟，并非上一任赞普母舅。chab srid la dbang ba gcig意为一位掌管政治者。二者合观，则为“一位现任赞普母舅参与政务者”。事实上，吐蕃王室外戚至王廷参与政治，掌管高层事务的确切时间，吾人可从敦煌古藏文卷子“吐蕃大事纪年”及“吐蕃赞普传记”中找出端倪。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;按吐蕃实施独相制，由吐蕃有宰相官职之时起，至赞普都松芒保杰(vdus srong mang po rje，676-704)止，都是“一个人继一个人作大相”(54)，即是由一人单独担任宰相。而且在都松芒保杰以前，大论的出身均非王室外戚(55)。由于吐蕃大论位居吐蕃政府的总枢纽，大小事务由其一人总责，又掌握军权。在赞普幼小，无力掌控政权的情况下，吐蕃大论极易形成“一人专擅”的局面，赞普反成了“摆饰花瓶”。赞普都松芒保杰在母后没卢墀玛蕾(vbro khri ma lad，？-712)的襄助下，于698年自独揽大权的噶尔氏家族手中，夺回实权以后，自699年至704年间并未任命大论，由母后墀玛蕾坐镇蕃廷，代掌朝政。都松芒保杰则亲掌兵权，领军在外(56)。I.O.750“吐蕃大事纪年”于牛年(701)记载：</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;vdun ma glagu chung du zhang btsan(btsan?) to re lhas byin dang senggo snang to re skyi zung gyis/bsduspar…(57)于“腊古穷”地方由尚赞咄热拉金与森哥囊咄热畿二人集会议盟。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;据上引文，“吐蕃大事纪年”记载了吐蕃前所未有具“zhang”（尚）头衔的官员主持集会议盟。其代表的含意为701年开始，王室外戚首次进入蕃廷参与重要政务。上引文所载之“尚赞咄热拉金”(zhang btsan to re lhas byin)，就是出自没卢氏族(vbro)，是为赞普都松芒保杰母后的兄弟(58)。准此，尚赞咄热拉金的身份就是P.T.1071"狩猎伤人赔偿律”所指称之“btsan povi zhang drung chab srid la dbang ba gcig”（赞普舅氏任平章政事者）。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I.O.750“吐蕃大事纪年”于705年记载蕃廷任命曲莽布杰拉松(khu mang po rje lha zung)为大论，旋即获罪下台，改任命韦乞力徐尚年(dbavs khri gzigs zhang nyen)为大论(59)。此时吐蕃即形成了P.T.1071“狩猎伤人赔偿律”所记载的四大尚论的情形，大论由韦氏出任，副大论失载，赞普舅氏任平章政事者由尚赞咄热拉金担任。由于当时吐蕃的众相制仍未成形，处于由独相制转换为众相制的过渡期，因此内大臣被置于大尚论的行列中。如是，所谓“大尚论”(zhang lon chen po)一词，在吐蕃使用的确实时间，应于701年以后。而且所谓“四大尚论”在吐蕃实施的时间甚短。原因在于蕃廷一旦任命了“众相”，“众相”之职衔全称为chab srid kyi blon po chen po bkav la gtogs pa(60)，简称chab srid kyi blon po chen po(61)。吾人观众相之衔称即知，众相具备了宰相的名衔与职能，其官位早已超越内大臣。是以当蕃廷任命众相，组成宰相会议，内大臣即遭排挤成为宰相会议的下属，不再属于“大尚论”的行列，“大尚论”则成为宰相会议成员的代称。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;基于上述，701年赞普之母舅没卢氏于蕃廷执掌重要政务，王室外戚开始任职蕃廷枢机以后，吐蕃方有“大尚论”之衔称。在701年以前，位居吐蕃官僚最高阶层者，均属王室外戚（尚）以外的吐蕃贵族（论），外戚既不在“大尚论”的行列之中，自然不可能有“大尚论”称谓的存在。因此P.T.1071“狩猎伤人赔偿律”，很有可能在701年稍后所订定。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;四、“尚论掣逋突瞿”究为何官？</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;如前文所述，“大尚论”的称谓系为吐蕃701年以后的产物，加诸悉编掣逋、内臣与喻寒确波又非属“尚论掣逋突瞿”的行列，由此可断定“尚论掣逋突瞿”的产生，应晚于“大尚论”衔称的使用。然而究竟“尚论掣逋突瞿”指的是何种官员？何时产生？欲解答上述问题，笔者以为答案就在唐代吐蕃所遗存至今的文献之中。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;众所周知，吐蕃宰相的重要政务之一，就是分赴各地主持一年冬夏二季的集会议盟(vdun sa)(62)，包括边疆地区的多麦(mdo smad)以及8世纪中叶以后，陆续征服得来的地区，由5位德论(bde blon)所管辖的“bde blon khams chen po”（德论所辖广大地区），简称“bde khams”（德康），涵括青海、新疆塔里木盆地、李唐河西陇右及剑南道北部西侧等地。例如P.T.113记载：“zhang lon ched po long cu nas/bkyevi phyagste/bde blon rnams las spring ngo//”(63)（大尚论从陇州发出告牒，寄诸德论……）又如P.T.1217记载：“大尚论的将军衙的会议，收到从宗喀（tsong kha青海湟水地区）发来的告示……请求颁一封文副本……大尚论及大尚论喻寒确波议决……”(64)上引两文显示，宰相会议的成员，即所谓的大尚论，前往吐蕃的军事占领区召开会议，并议决事务的情形。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;吾人由敦煌古藏文卷子“吐蕃大事纪年”及其他文献、碑铭的记载，搜寻历年赴吐蕃各地召开盟会者，应可大致推求出吐蕃历朝所任命的众相。下表系依据I.O.750“吐蕃大事纪年”所载的历年主持集会议盟的吐蕃官员名单（大论及重复者不计在内）。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img onerror="this.src='/images/err.png'" src="http://img.ipub.exuezhe.com/jpg/K22/2009/K22T113.jpg" /></p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img onerror="this.src='/images/err.png'" src="http://img.ipub.exuezhe.com/jpg/K22/2009/K22T114.jpg" /></p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;如上表所示，自701年至712年间，吐蕃正处于没卢墀玛蕾先后以赞普母后、赞普祖母身份主政的时期，此期间正好有9位官员曾主持集会议盟（重复者不计在内），分别为701年的尚赞咄热拉金(zhang btsan tore lhas byin)、森哥囊咄热畿(seng go snang to re skyi)；702年的曲芒保杰拉松(khu mang po rje lha zung)、论芒赞东息(blon mang btsan ldong zhi)；704年的尚墀桑达则(zhang khri bzang stag tsab)；705年蕃廷任命曲芒保杰拉松为悬位已久的大论，旋即获罪下野，由韦乞力徐尚年(dbavs khri gzigs zhang nyen)继任大论；706年的坌达延赞松(vbon da rgyal btsan zung)、尚甲咄(zhang rgya sto)；710年的尚甲咄与达古日则(stag gu ri tsab)；711年的属卢墀徐囊恭(cog ro khri gzi gnang kong)。以上共计10位官员，属于王室外戚身份的有：尚赞咄热拉金、尚墀桑达则及尚甲咄3人，属于王室外戚以外的贵族有森哥囊咄热畿、大论曲芒保杰拉松(705)、论芒赞东息、大论韦乞力徐尚年(705-721)、达古日则、属卢墀徐囊恭等6人，以及属于吐谷浑贵族的坌达延赞松(65)。其中曲芒保杰拉松已于705年遭革职，因此总计有9位官员。此9位官员主持盟会等重要政务，彼等职衔应即为众相，是以所谓的“尚论掣逋突瞿”（九大尚论），可能在701年以后，至少在712年以前就已确立。蕃廷之所以设立“九大尚论”，目的就在惩前毖后，避免类似噶尔氏家族把持大论一职，所产生的恶局。另一方面当然也因为疆域日广，政务日繁，蕃廷势须另增众相，以分摊大论难以负荷的政务。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;712年，赞普祖母墀玛蕾去世，赞普墀德祖赞(khri lde gtsug btsan，704-755)时年9岁，由于赞普年幼，王室为严防大论独揽政权，更需厉行众相政策。当时仍由韦乞力徐尚年担任大论，众相仍维持9人，其中有关坌达延赞松的事迹，在“吐蕃大事纪年”于714年以后失载，此意味着坌达延可能已经失势下野。坌达延的遗缺，由714年主持冬盟的论乞力心儿藏热(blon khri sum rje rtsang bzher)取代。因此，吐蕃于712年至720年之间，仍有9位尚论担任众相职务。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;721年，大论韦乞力徐、尚赞咄热拉金及尚墀桑达则3人去世。蕃廷任命众相之一的论乞力心儿藏热继任大论(721-725)，至725年大论乞力心儿藏热去世止，吐蕃众相仅有6位。同年蕃廷任命埃芒相达则(rngegs mang zham stag tsab)为大论(725-727)。726年新增众相韦达札恭禄(dbavs stag sgra khong lod)。727年大论埃芒相达则去世，由坌吐谷浑王(vbon va zha rje)、尚本登匆(zhang dbon gdan tshom)及韦达札恭禄3人接任大论，此为吐蕃史所仅见。加上727年主持冬盟的尚锦赞绮觉(zhang vbring rtsan khyi byus)、727年主持多麦会盟的属卢墀徐囊恭（cog ro khri gzi gnang kong于711年即已出任众相）、728年没卢尚穷桑俄芒(vbro zhang cung bzang vor mang)取代获罪被诛的大论韦达札恭禄、734年主持多麦会盟的末论结桑东则(vbal blon skyes bzang ldong tsab)、742年征吐谷浑大料集的属卢芒保杰奇顿(Cog ro mang po rje khyi dung)、746年与大论穷桑、末论结桑东则共同主持冬盟的朗聂息(lang myes zigs)、747年由大论穷桑、末论结桑东则、属卢芒保杰奇顿、尚锦赞绮觉共同主持冬盟。如上述，725年至747年间，共有8-9位众相。以上为赞普墀德祖赞主政时期所任命众相的情况。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“吐蕃大事纪年”于748年至754年之记载轶失，无法确知此段时期众相任命的情形。至755年以后，由赞普墀松德赞(khri srong lde btsan，742-797)主政，“吐蕃大事纪年”从755年至763年间，记载吐蕃大臣分赴各地主持盟会者（重复者不计在内）如下：755年主持多麦夏盟的论绮力思札达则(blon khri sgra stag tshab)、论芒赞彭冈(blon mang rtsan vphan gang)、论多热(blon mdo bzher)、主持冬盟的琛尚野息舒丁(mchims zhang rgyal zigs shu ting)；756年主持夏盟的副大论结桑甲贡(blon skyes bzang rgyal kong)、主持冬盟的论结桑甲贡及野达墀恭(rgyal ta khri gong)、主持多麦夏盟的论墀桑雅卜拉(blon khri bzang yab lag)以及主持姚地冬盟的论曩热苏赞(blon snang bzher zu brtsan)；757年夏盟由大论曩热苏赞及尚野息主持、副大论结桑甲贡去世、多麦夏盟由尚东赞(zhang stong rtsan)、论芒赞彭冈主持；759年主持冬盟的论结桑达囊(blon skyes bzang stag snang)；760年多麦夏盟由论绮力思札达则及论囊热赞恭(blon nang bzher rtsang khong)主持等。760年以后至763年间，未见任命新的众相。由755年至763年间，共计11位众相，去除757年去世的副大论结桑甲贡，则755年至763年间共有10位众相，763年以后众相的情况，无法再由“吐蕃大事纪年”中推知。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;另《贤者喜宴》Ja章著录779年墀松德赞兴佛证盟诏书，诏书中有共同起誓大小臣工名单(66)，该名单中众相的共同衔称为zhang blon chen po bkav la gtogs pa（尚论掣逋参议诏命）(67)，众相有：大论尚野息舒丁、论达札路恭(blon stag sgra klu gong)、尚结赞拉囊(zhang rgyal tshan lha snang)、论杰札勒色(blon rgyal sgra legs gzigs)、论赞热多雷(blon btsan bzher mdo lod)、尚杰年达恭(zhang rgyal nyen zla gong)、论赤岗嘉恭(blon khri gangs rgya gong)、坚错赞(gcen mtsho btsan)、尚结赞列恭(zhang rgyal tshan le gong)等9位(68)。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;墀德松赞（khri lde srong btsan，798-815在位）为重申其父崇佛政策，与朝中大臣共同盟誓，永不灭佛。《贤者喜宴》Ja章著录了此盟誓诏书，诏书中立誓臣工名单，有关众相的共同衔称为chab srid kyi blon po bkav chen po la gtogs pa（政事大臣参议大诏命）(69)，众相则有：大论尚没卢墀徐朗夏(blon Chen po zhang vbro khri gzu ram shags)、尚琛结赞热列斯(zhang mchims rgyal btsan bzher legs gzigs)、韦论莽支拉略(dbavs blon mang rje lha lod)、韦论绮心热多赞(dbavs blon khri sum bzher mdo btsan)、尚琛结拉热内夏(zhang mchims rgyal lha bzher ne shags)、朗论绮心儿贝拉(rlang blon khri sum rje speg lha)等6位(70)。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;另墀祖德赞（khri gtsug lde btsan，815-836? 837?在位）时期，唐蕃双方会盟，于823年树碑，碑铭记载了唐蕃双方参与盟誓官员的名单，其中吐蕃的部分，汉藏文记载吐蕃众相名衔为bod chen povi chab srid kyi blon po bkav chen po la gtogs pa（大蕃宰相同平章事）(71)，其载众相计有：尚绮心儿贝拉(zhang khri sum rje speg lha)、论土热(blon lho bzher……）、尚蔡邦腊藏嘘律钵(zhang tshe spong lha bzang klu dpal)(72)、论野墀多息(blon rgyal khri mdo gzigs)、琛尚结赞叵热(mchims zhang rgyal btsan bzher)、尚绮立赞窟宁悉当(zhang khri btsan khod ne stang)、尚绮立热贪通(zhang khri bzher lha mthong)、论颊藏弩悉恭(blon rgyal bzang vdus kong)等8位(73)。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;就以上所呈现吐蕃各朝的众相人数均不一致。701年至712年间墀玛蕾主政时期，吐蕃众相就已有9位，亦即吐蕃众相制度伊始，蕃廷所任命的众相就有9位。尔后在墀德祖赞时期，712年至720年之间，吐蕃众相仍为9人。721年至725年，众相减为6位。725年至747年则有8-9位众相。另墀松德赞早期，755至763年间众相达10位。779年众相则有9位。墀德松赞时期则有众相6位。墀祖德赞时期之823年，众相则有8位。准上，吾人应可得一认知，即唐代吐蕃的众相人数，一般是6-9位之间(74)。如是，《新唐书·吐蕃传》所载“尚论掣逋突瞿”的信息来源，就有两种可能性，其一为墀玛蕾主政时期及墀德祖赞主政早期（701-721年），此二时期众相皆为9位；其二为墀松德赞时期，779年吐蕃众相亦为9位。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;由墀松德赞父子兴佛证盟诏书的与誓臣工名单及《唐蕃会盟碑》碑铭所载吐蕃与誓官员名单看来，吐蕃职官的高低位序，确实由吐蕃大论领衔的宰相群，列名在前，其下属就是有具体职官衔称的寮窠级官员，诸如nang blon（内臣）、phyi blon（外臣）、snam phyi pa（悉南纰波）、mngan pon khab so chog gi bla（岸奔榼苏户属劫罗）、bkav phyin blon（给事中）、rtsis pa chen po（资悉波折逋）、zhal ce pa chen po zhal ce vo chog gi blon（刑部尚书）以及地方官属的dbang po、dmag dpon（总督、将军）(75)等等。而众相除会盟碑铭所载大论具“天下兵马都元帅”头衔，副大论具“天下兵马副元帅”头衔外，其余众相均为同一格式的官衔，是为“chab srid kyi blon po chen po”，唐人译之为“宰相同平章事”。后因“chab srid kyi blon po chen po”中，有王室外戚身份者（zhang尚），亦有一般贵族身份者（blon论），故将chab srid kyi blon po chen po泛称为“尚论掣逋”(zhang lon ched po)，汉文意义则为“大尚论”。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;五、结论</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;综上所述，吐蕃“尚论掣逋突瞿”（zhang lon ched po dgu九大尚论）系指吐蕃的9位众相。此9位众相的记载来源，可能源自701年至720年间吐蕃由赞普祖母墀玛蕾主政及墀德祖赞在位早期，也可能源自于779年前后墀松德赞主政时期的吐蕃众相。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;吐蕃原由大论(blon che，blon chen po)一人独掌相权，于667年以后增设副大论(blon chevi vog dpon)一职辅佐大论，后因继位赞普年幼，遭贵族噶尔氏父子兄弟包揽大论一职，致使赞普大权旁落。 698年，赞普王室族灭噶尔氏家族后，为避免重蹈覆辙，将相制转变为多人同时担任宰相，分散相权，以防一人一家族之专擅。蕃廷于701年，任命赞普母后墀玛蕾之兄弟尚赞咄热拉金主持盟会，如是展开了王室外戚出任宰相，参与重要政务的序幕，吐蕃政坛开始使用“尚论掣逋”（zhang blon chen po大尚论）一词。另一方面，712年，蕃廷陆陆续续任命了9位众相，笔者以为《新唐书·吐蕃传》所载之“尚论掣逋突瞿”之衔称，就是在此时期确立。因此佐藤长氏虽质疑《新唐书·吐蕃传》的记载，但其以为九大尚论是吐蕃初期状态的看法，无法成立。另山口瑞凤氏所主张九大尚论是松赞干布时期所立(76)，亦属无稽。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;一般对正史的记载，较少持质疑的立场，经常以第一手史料的地位加以引用，以为征信。但正史的四夷列传，则应属例外，必须小心求证。本文所讨论《新唐书·吐蕃传》所记载吐蕃的官制，就是鲜明的显例。原因无他，一则因语言、文化的隔阂，亦有认为因中原素来对异域文化欠缺认识的动机(77)；二则亦因使者前往与国做记录不明确，以及史书编纂过程中未加留意有关。依《新唐书·吐蕃传》内容分析，应是李唐历朝出使吐蕃的官员的见闻纪录及出使报告等编辑而成。在处理吐蕃社会文化部分的记载极易出错，例如《新唐书·吐蕃传》记载：“其吏治无文字，结绳齿木为约”(78)，此无文字情况的描述，应指吐蕃在未创字母以前者，时间应在7世纪以前(79)。至松赞干布时期吐蕃已通行文字，但《新唐书·吐蕃传》未加说明。又如《新唐书·吐蕃传》记载：“喜浮屠法，习咒诅，国之政事，必以桑门参决”(80)。按吐蕃奉佛教为国教后，任命佛僧为宰相，位居大论之上，参决政事，系为吐蕃赞普墀德松赞时期之情事，时当9世纪初叶(81)。在此时期以前，吐蕃根本没有佛僧参与朝政的现象。但《新唐书·吐蕃传》的记载，直类吐蕃有国以来，即以桑门（佛僧）参决政事。上述确证《新唐书·吐蕃传》编纂者，以吐蕃相关的材料，未辨明其时间性，亦未加适切说明，而径行编纂，将不同时期的材料汇集于一炉，结果造成读者在未熟谙吐蕃历史及吐蕃语文之际，为《新唐书·吐蕃传》所误导。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;职是之故，《新唐书·吐蕃传》有关“尚论掣逋突瞿”的记载，亦如同上述错误一般，将吐蕃中后期所设立众相的泛称“尚论掣逋突瞿”作了错误的记载与解释。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;注释：</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;①《新唐书》[Z]，台北：鼎文书局点校本，卷216上《吐蕃传》上。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;②林冠群：《唐代吐蕃政治制度之研究》[J]，《政治大学学报》第60期，台北，1989年，第65页；王尧、陈践译注：《敦煌吐蕃文献选》[M]，成都：四川民族出版社，1983年，第4-5页；陈楠：《藏史丛考》[M]，北京：民族出版社，1998年，第23-24页；陈庆英、高淑芬主编：《西藏通史》[M]，郑州：中州古籍出版社，2003年，第29-30页；王尧、陈庆英主编：《西藏历史文化辞典》[M]，杭州：浙江人民出版社，拉萨：西藏人民出版社，1998年，第259-260页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;③佐藤长：《古代チベット史研究》[M]，京都：同朋舍，昭和52年，第732-733页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;④《藏族简史》编写组：《藏族简史》[M]，拉萨：西藏人民出版社，1985年，第48页，注2。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⑤《新唐书》卷216上《吐蕃传》上。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⑥林冠群：《唐代吐蕃史论集》[M]，北京：中国藏学出版社，2006年，第170-171页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⑦林冠群：《唐代吐蕃史论集》，第93-94页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⑧Ariane Spanien & Yoshiro Imaeda,Fond Pelliot Tibetain in Choix de Documents Tibtains conserves a la Bibliotheque Nationale Paris,1978,1979,P.T.1287.P1.560.第103-107行。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⑨Ariane Spanien & Yoshiro Imaeda,op.cit,P.T.1288.P1.580.第47行。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⑩Ariane Spanien & Yoshiro Imaeda,op.cit,P.T.1287.P1.560.第106行。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(11)Ariane Spanien & Yoshiro Imaeda,op.cit,B.M.Or.8212(187) P1.593.第25-26行。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(12)佐藤长：《古代チベット史研究》，第721-722页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(13)王尧、陈践：《吐蕃职官考信录》[J]，《中国藏学》1989年第1期，第105页，P.T.1089原文第40-41行。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(14)《吐蕃职官考信录》，第105页，P.T.1089原文第48行。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(15)《吐蕃职官考信录》，第103页，P.T.1089原文第6-7行。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(16)（唐）白居易：《白氏长庆集》[Z]，台北：艺文印书馆，1981年，卷57《翰林制诏四、代王佖答吐蕃北道节度使论赞勃藏书》。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(17)白居易：《白氏长庆集》卷57，《翰林制诏四、代忠亮答吐蕃东道节度使论结都离等书》。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(18)王尧、陈践：《吐蕃职官考信录》第105页，P.T.1089原文第46-47行。译文参酌同文第110页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(19)王尧、陈践：《吐蕃简牍综录》[Z]，北京：文物出版社，1985年，第392片，II455-1，M.I.Vii.46，第69页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(20)王尧、陈践：《吐蕃职官考信录》第106-107页，P.T.1089原文第54及77行。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(21)Ariane Spanien & Yoshiro Imaeda,op.cit,P.T.1287.P1.571.第391-395行。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(22)佐藤长：《古代チベット史研究》，第722页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(23)（唐）张说：《张说之文集》[C]，上海：商务印书馆，四部丛书刊本，卷17。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(24)“论”(blon)为blon po之简写，指未与吐蕃王室联姻，且于蕃廷任职之官员。是“论”者，皆为官员，但未必就是宰相。详见林冠群：《敦煌本吐蕃历史文书与唐代吐蕃史研究》[A]，《敦煌学论集》[C]，成都：巴蜀书社，2003年，第363页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(25)杨质夫编纂：《汉藏小辞典》[Z]，台北：蒙藏委员会，1976年，第417页；另见H.A.Jaschke,A Tibetan English Dictionary,Delhi:Motilal Banarsidass,1987，P.385.</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(26)《汉藏小辞典》第417页；H.A.Jaschke,op.cit.P.385.</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(27)《旧唐书》[Z]，台北：鼎文书局点校本，卷196下，《吐蕃传》下。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(28)《旧唐书》卷196下，《吐蕃传》下。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(29)佐藤长：《古代チベット史研究》，第723页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(30)同上。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(31)《贤者喜宴》记载曩论（nang blon内臣）之职掌为：“赞普御前承侍及执掌全部内部事务”。详见dpav bo gtsug lag vphreng ba,Chos vbyung mkhas pavi dga ston《贤者喜宴》(New Delhi International Academy of Indian Culture，1962)叶18上，第2行。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(32)林冠群：《唐代吐蕃史论集》，第86页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(33)《唐蕃会盟碑》右面碑铭第34、35行及对照汉文，详见王尧：《吐蕃金石录》[Z]，北京：文物出版社，1982年，第19页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(34)林冠群：《唐代吐蕃史论集》，第86页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(35)王尧：《吐蕃金石录》第18页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(36)请参见P.T.1185《军需调拨文书》收入王尧、陈践编著：《敦煌吐蕃文书论文集》[M]，成都：四川民族出版社，1988年，第187页。P.T.1205《玉莽赞向内臣杰波赞桑呈递的禀帖》收入王尧、陈践译注：《敦煌吐蕃文献选》第58页。另见陈庆英：《试论赞普王权和吐蕃官制》[J]，《西藏民族学院学报》1989年第4期，第63页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(37)佐藤长原按美国劳佛(B.Laufer)之推定，以喻寒波为“yul rgan pa”之译音。然而yul rgan pa的原意为“国之老人”，与“整事”意义不同，且译音亦不符。山口瑞凤据此引《贤者喜宴》Ja章，叶21上，第3-4行之记载，比定喻寒波为bkav yo gal pa vchos pa之译音。详见山口瑞凤：《吐蕃王国成立史研究》，东京：岩波书局，1983年，第477页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(38)王尧：《吐蕃金石录》第71页，第2-4行。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(39)Ariane Spanien & Yoshiro Imaeda,op.cit,P.T.1217.P1.493.第9-10行。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(40)格西曲吉札巴：《格西曲札藏文辞典》[Z]，北京：民族出版社，1990年，第802页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(41)《格西曲札藏文辞典》第115页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(42)张怡荪主编：《藏汉大辞典》[Z]，北京：民族出版社，1996年，第868页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(43)林冠群：《唐代吐蕃史论集》，第86-87页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(44)王尧、陈践：《吐蕃职官考信录》第108页，P.T.1089，原文第81行。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(45)《吐蕃职官考信录》第105页，P.T.1089，原文第42行。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(46)dpav bo gtsug lag vphreng ba,op.cit.叶21上，第6行。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(47)同上。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(48)Ariane Spanicn & Yoshiro Imaeda,op.cit,P.T.1071.P1.375-402.第1-466行。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(49)Ariane Spanicn & Yoshiro Imaeda,op.cit,P.T.1071.P1.378.第4-5行。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(50)Ariane Spanien & Yoshiro Imaeda,op.cit,P.T.1071.P1.380.第38行、42行。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(51)山口瑞凤氏以为“尚论掣逋突瞿”中的“尚论”，并非“zhang po”（尚）与“blon po”（论）二者之合称，而是“zhang lon”为一集合名词，表示一种资格的含意。但笔者所举的P.T.1071“狩猎伤人赔偿律”条文为例，zhang blon与zhang lon二者在条文中都曾使用，代表二者都是zhang po与blon po的集合体，何况原本吐蕃的官僚群，就是由zhang po与blon po所组合而成。山口瑞凤氏的见解显然有误。详见山口瑞凤：《吐蕃王国成立史研究》，第473、495页，注46。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(52)Ariane Spanien & Yoshiro Imaeda,op.cit,P.T.1071.P1.380.第38-40行。译文参酌王尧、陈践译注：《敦煌吐蕃文献选》第10页，并作部分修正。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(53)张怡荪主编：《藏汉大辞典》，第1333页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(54)李方桂：《吐蕃大相禄东赞考》[A]收入《国际汉学会议论文集》[C]，台北：“中央研究院”，1981年，第370页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(55)请参见P.T.1287“吐蕃赞普传记第二”所载，吐蕃历朝大论世系名讳。Ariane Spanien & Yoshiro Imacda，op.cit，P.T.1287.P1.560.第84-107行。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(56)请参见I.O.750“吐蕃大事纪年”狗年(698)至龙年(704)的记载。Ariane Spanien & Yoshiro Imaeda,op.cit,I.O.750.P1.583-584.第76-98行。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(57)Ariane Spanien & Yoshiro Imaeda,op.cit,I.O.750.P1.584.第86-87行。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(58)H.E.Richardson,Ministers of the Tibetan Kingdom.Tibet Journal,No.1,1977,P.15.</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(59)Ariane Spanien & Yoshiro Imaeda,op.cit,I.O.750.P1.584.第103-104行。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(60)《唐蕃会盟碑》右面碑铭第4-5行，王尧：《吐蕃金石录》第13页。《贤者喜宴》Ja章，叶130上，第2行则载：chab srid kyi blon po bkav chen po la gtogs pa.</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(61)《唐蕃会盟碑》右面碑铭第14、16、18、20行等。王尧：《吐蕃金石录》第15页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(62)林冠群：《唐代吐蕃史论集》，第173-174页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(63)Ariane Spanien & Yoshiro Imaeda,op.cit,P.T.113.P1.98.II.第1行。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(64)王尧、陈践译注：《敦煌吐蕃文献选》第58-59页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(65)达延莽布杰(da rgyal mang po rje)、坌达延赞松(dbon da rgyal btsan zung)及坌达延墀松(dbon da rgyal khri zung)均属吐谷浑达(da)部族，与吐蕃王室有联姻关系。详见林冠群：《唐代吐蕃史论集》，第30-32页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(66)dpav bo gtsug lag vphreng ba,op.cit.叶109下，第4-7行，叶110上，第1-2行。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(67)dpav bo gtsug lag vphreng ba,op.cit.叶109下，第4行。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(68)dpav bo gtsug lag vphreng ba,op.cit.叶109下，第4-5行。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(69)dpav bo gtsug lag vphreng ba,op.cit.叶130上，第2行。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(70)dpav bo gtsug lag vphreng ba,op.cit.叶130上，第2-3行。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(71)《唐蕃会盟碑》右面碑铭第4-5行，王尧：《吐蕃金石录》第14-17页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(72)《唐蕃会盟碑》碑铭第12-13行处漫漶，仅余一个bzang字。但由敦煌汉文吐蕃史料编号P.2974《为宰相病患开场道文》中得知，尚腊藏嘘律钵(zhang lha bzang klu dpal)为墀德祖赞时期众相之一，与当时大论尚绮心儿为同僚。另于墀德松赞兴佛证盟诏书与誓臣工名单中，在内臣的行列中有尚蔡邦腊藏嘘律钵(zhang tshe spong lha bzang klu dpal)的名讳，其于墀德祖赞时期已升任为众相，并担任副大论，比对上述二则史料得知，当时担任副大论兼天下兵马副元帅确为尚蔡邦腊藏嘘律钵。详见杨富学、李吉和辑校：《敦煌汉文吐蕃史料辑校》[Z]，兰州：甘肃人民出版社，1999年，第269-270页。dpav bo gtsug lag vphreng ba,op.cit.叶130上，第4行。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(73)《唐蕃会盟碑》右面碑铭第7-23行，王尧：《吐蕃金石录》第14-17页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(74)笔者曾于拙著：《唐代吐蕃政治制度之研究》一文，主张众相人数多寡不定，2-9人均有之。复于拙著：《唐代吐蕃的相制》一文中云，多相人数少则3人，多则6-9人。现经本文详考，显然吐蕃众相人数从未少于6位。上述二篇拙著所主张者有所误失，应予修正。详见拙著：《唐代吐蕃政治制度之研究》，第79页，注97。拙著：《唐代吐蕃的相制》[A]，《第二届中国边疆史学术研讨会论文集》[C]，台北：台湾师范大学历史系所，1996年，第115页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(75)请参阅《唐蕃会盟碑》右面碑铭第26-40行，王尧：《吐蕃金石录》第18-20页。dpav bo gtsug lag vphreng ba,op.cit.叶130上，第3-7行；叶130下，第1-5行。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(76)山口瑞凤著，许明银译：《西藏》[M]下，台北：全佛文化事业有限公司，2003年，第438页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(77)谢世忠：《芮氏民族史的性质及其方法理论建构法则：兼论中国地区族群的历史过程研究》[A]，《人类学研究》[C]，台北：南天书局有限公司，1990年，第412-413页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(78)《新唐书》卷216上《吐蕃传》上。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(79)P.T.1287“吐蕃赞普传记第八”记载：“bod la snga na yi ge myed pa yang//btsan po vdi vi tshe byung nas//……”（吐蕃往昔无文字，于此赞普之时出现……），上引“此赞普之时”，系指松赞干布在位时期。按松赞干布于649年去世，因此吐蕃文字的创制应于7世纪中叶以前之事。请参见Ariane Spanien & Yoshiro Imaeda,op.cit,P.T.1287.P1.574.第451-452行。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(80)《新唐书》卷216上《吐蕃传》上。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(81)请参见林冠群：《唐代吐蕃僧相体制》，《唐代吐蕃史论集》第205-208页。
+</div>
+<div class="page-list">
+    <div class="pageNav" id="pageList"></div>
+</div>
+</div><br class="cls"/>
+		</div>
+		</body></html>

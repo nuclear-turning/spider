@@ -1,0 +1,198 @@
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><style>.trR{ text-align:right;}
+#wraper{width:1190px; margin:0 auto; margin-bottom:10px;text-align:left;}
+#left{ float:left;width:250px; text-align:left;}
+#right{float:right;width:930px;text-align:left;border-top:2px solid #619bc0; padding-bottom:10px;}
+.border_w{ border:1px solid #d3d3d3;border-top:2px solid #619bc0;}
+.t01{height:30px;line-height:30px;border:1px solid #dddddd;padding-left:10px;background:url(../images/tbg01.jpg) repeat-x bottom; color:#1183c1; font-size:14px;}
+.con_01{ padding:10px;}
+.con_cbg{ background:url(../images/con_cbg.gif) repeat-y;}
+.con_bbg{ background:url(../images/con_bbg.gif) no-repeat left bottom; height:1px; line-height:1px; font-size:0;}
+
+.source{margin:15px;background:url(../images/linex.gif) repeat-x bottom; padding-bottom:30px; margin-bottom:30px;}
+.source .source-img{border:1px solid #d3d3d3; text-align:center; padding:5px;margin-bottom:10px; }
+.source p{color:#666666; font-weight:bold; font-size:12px;}
+.source .fblue{ color:#236bac; font-weight:normal;}
+
+.t_tj{ height:27px;padding-top:2px;margin:15px; background:url(../images/con_t_tj.gif) no-repeat left top; padding-left:10px; color:#FFFFFF; font-size:14px;}
+.c12_01{ margin-left:15px; margin-right:15px; margin-bottom:15px;}
+.c12_01 li{font-size:12px; line-height:24px; background: url(../images/dot.gif) no-repeat 2px 10px; padding-left:15px;}
+
+#artibodyTitle{color:#236bac;font-family:"宋体";font-size:20px;font-weight: normal;line-height:35px;text-align:center;margin-top:10px;	text-align:center;}
+#artisubTitle{font-family:"宋体";font-size:16px;font-weight: normal;line-height:28px;text-align:center;}
+.articl_info{margin-left:30px; margin-right:30px; position:relative;border-bottom:1px solid #e1e1e1;padding-bottom:20px; margin-bottom:20px;}
+.btn-img{
+	background-image:url(../images/allbg.png);
+	background-repeat:no-repeat;
+	font-size:12px;		
+	cursor:pointer;
+	border: 0px none;
+	display: inline-block;
+	vertical-align:middle;
+	text-align:center;}
+
+.artInfo{height:22px;border-top:1px solid #e1e1e1;border-bottom:1px solid #e1e1e1;padding:5px;margin:20px;}
+.artInfo li{float:left;width:33%;height:22px; line-height:22px; color:#666666;}
+
+.artInfo li .collectionPage_link{
+	background-position:-509px -80px;
+	padding-left:10px;
+	margin-top:-2px;
+	_margin-top:0px;
+	margin-left:10px;
+	width:51px;
+	height:22px; 
+	line-height:22px;		
+	color:#1183c1;	}
+.artInfo li .printPage_link{
+	background-position:-570px -80px;
+	padding-left:10px;
+	margin-top:-2px;
+	_margin-top:0px;
+	margin-left:10px;
+	width:51px;
+	height:22px; 
+	line-height:22px;	
+	color:#1183c1;}
+.artInfo li .downloadPage_link{
+	background-position:-631px -80px;
+	margin-top:-2px;
+	_margin-top:0px;
+	margin-left:10px;
+	width:51px;
+	padding-left:10px;
+	height:22px; 
+	line-height:22px;	
+	color:#1183c1;}
+
+
+.artBaseInfo{line-height:24px; margin-bottom:5px;}
+.artBaseInfo .info_left{float:left;width:80px;}
+.artBaseInfo .info_right{float:left;width:790px;}
+
+.artBaseInfo dt{float:left;width:80px; color:#666666;line-height:20px; display:inline-block;}
+.artBaseInfo dd{color:#666666;line-height:20px;display:inline-block;}
+.artBaseInfo .col li{ float:left;width:210px; height:20px; line-height:20px;color:#666666;}
+
+.artBaseInfo .item{ float:left;width:50%;}
+.artBaseInfo .notice{
+	margin-left:10px;
+	width:61px;
+	padding-left:10px;
+	height:22px; 
+	line-height:22px;
+	background-position:-448px -80px;	
+	color:#1183c1;}
+
+.artInfo{height:30px;border-top:1px solid #e1e1e1;border-bottom:1px solid #e1e1e1;margin:20px 10px;}
+.artInfo div{ float:left;width:30%;height:30px; line-height:30px; text-align:center;}
+.artInfo div a{ margin-left:20px; margin-right:20px;}
+.artInfo li{float:left;width:33%;height:22px; line-height:22px; color:#666666;}
+
+.articl_info{margin-left:30px;margin-right:30px; position:relative;border-bottom:1px solid #e1e1e1;padding-bottom:20px; margin-bottom:20px;}
+.artBaseInfo{margin-bottom:5px;}
+.articl_info_t{float:left;width:80px;margin-right: -100%;font-weight:bold;line-height:24px;}
+.articl_info_c{float: left;width: 100%;}
+.articl_info_c .info_c{margin-left:80px; line-height:24px;}
+.artBaseInfo .marL{ margin-left:20PX;}
+.artBaseInfo .col_info{ float:left;width:30%;line-height:20px;}
+
+.fontSize{position: relative;right:0px;top:0px;font-size:12px; height:30px; line-height:30px; text-align:right;}
+.fontSize a{border:1px solid #c2c2c2;margin-right:10px;padding:4px 1px;*padding:1px; cursor:pointer;font-size:12px;}
+.fontSize a span{background:url(../images/page_a_36.png) repeat-x;padding:3px;}
+
+.fontSize a.now{border: #f9ad75 1px solid;padding:4px 1px;*padding:1px;}
+.fontSize a.now span{color:#ff7d27;background:url(../images/current_34.png) repeat-x bottom;padding:3px;}
+.artibody{margin-left:20px;margin-right:20px;font: 18px/180% "Microsoft YaHei","微软雅黑"; color:#666666;}
+.artibody p{margin-bottom:20px;}
+
+.fontSize A:link{ color:#000000;text-decoration:none;}
+.fontSize A:visited{ color:#000000;text-decoration:none;}
+.fontSize A:hover{ color:#FF0000;text-decoration:none;}
+.fontSize a.now:link{color:#ff7d27;text-decoration:none;}
+#Zoom img {max-width:600px; max-height:600px; scale:expression((this.offsetWidth > this.offsetHeight)?(this.style.width = this.offsetWidth >= 600 ? "600px" : "auto"):(this.style.height = this.offsetHeight >= 600 ? "600px" : "auto")); display:inline !important;}
+
+.t_artiInfo{font-size:14px; padding-left:20px;background:url(../images/linex.gif) repeat-x top; line-height:30px; margin-top:10px;}
+.li_artiInfo{margin-left:30px; margin-right:30px;padding-bottom:10px; }
+.li_artiInfo ul li{float:left;width:100%;padding:3px 0;}
+.li_artiInfo ul li .title{ float:left;width:65%;}
+.li_artiInfo ul li .author{ float:left;width:15%;}
+.li_artiInfo ul li .come{ float:right;width:20%;color:#999999; text-align:right;}
+
+
+.index_artInfo{height:36px; line-height:36px; border-top:1px solid #e1e1e1;border-bottom:1px solid #e1e1e1; margin-top:20px; padding-left:20px;  padding-right:20px;padding-right:10px; margin-bottom:10px; margin-left:10px;text-align:center;}
+.index_artInfo a.collectionPage_link{ background:url(../images/icon.gif) no-repeat 0 1px; padding-left:15px;}
+.index_artInfo a.printPage_link{background:url(../images/icon.gif) no-repeat 0 -55px; padding-left:15px;}
+.index_artInfo a.downloadPage_link{background:url(../images/icon.gif) no-repeat 0 -108px; padding-left:13px;}
+
+.index_body .main{margin-left:100px; line-height:28px;color:#000000; padding-bottom:30px; padding-top:20px;}</style></head><body><div id="wraper">
+			<div id="artTitles">
+				<h1 id="artibodyTitle">张家山汉简《二年律令》有关汉代边防的法律</h1>
+				<h2 id="artisubTitle"/>
+			</div>
+			
+			<div class="articl_info">
+				<div class="artBaseInfo" id="autInfo">
+					<div class="articl_info_t">作 者：</div>
+					<div class="articl_info_c">
+						<div class="info_c">
+								<a target="_blank" href="/qw?s0=4&amp;s1=%e6%9d%8e%e6%96%b9">李方</a> 
+						</div>
+					</div>
+					<br class="cls"/>
+				</div>
+				<div class="artBaseInfo" id="autDescription">
+					<div class="articl_info_t">作者简介：</div>
+					<div class="articl_info_c">
+						<div class="info_c">李方，中国社会科学院中国边疆史地研究中心研究员。北京  100006</div>
+					</div>
+					<br class="cls"/>
+				</div>
+				<div class="artBaseInfo" id="tAutInfo"/>
+				<div class="artBaseInfo" id="orgInfo">
+					<div class="articl_info_t">原文出处：</div>
+					<div class="articl_info_c">
+						<div class="info_c">中国边疆史地研究</div>
+					</div>
+					<br class="cls"/>
+				</div>
+				<div class="artBaseInfo" id="astInfo">
+					<div class="articl_info_t">内容提要：</div>
+					<div class="articl_info_c">
+						<div class="info_c">
+							<p>我国古代唐以前法律文献亡佚，张家山汉简《二年律令》保存了西汉初期的一些法律条文，其中包括边防法律条文。本文认为，这些西汉边防法律至少包含八个方面的内容，即守边者叛国惩罚、边防出入境、戍边、烽燧、邮亭驿传、边疆紧急事变处置、边吏职责、禁止译诈伪，证明西汉有关边防的法律很丰富。这些法律上可溯源秦朝，下已影响唐代，在边防历史上具有重要的作用和地位。</p>
+						</div>
+					</div>
+					<br class="cls"/>
+				</div>
+				<div id="artPdcInfo" class="artBaseInfo">
+					<div class="col_info"><b>期刊代号：</b>K21 </div>
+					<div class="col_info"><b>分类名称：</b>先秦、秦汉史 </div>
+					<div class="col_info"><b>复印期号：</b>2009 年 05 期 </div>
+					<br class="cls"/>
+				</div>
+				<div class="artBaseInfo" id="artKeyword">
+					<div class="articl_info_t">关 键 词：</div>
+					<div class="articl_info_c">
+						<div class="info_c">
+								<a target="_blank" href="/qw?s0=7&amp;s1=%e5%bc%a0%e5%ae%b6%e5%b1%b1%e6%b1%89%e7%ae%80">张家山汉简</a> 
+								<a target="_blank" href="/qw?s0=7&amp;s1=%e8%a5%bf%e6%b1%89">西汉</a> 
+								<a target="_blank" href="/qw?s0=7&amp;s1=%e8%be%b9%e9%98%b2">边防</a> 
+								<a target="_blank" href="/qw?s0=7&amp;s1=%e6%b3%95%e5%be%8b%e6%9d%a1%e6%96%87">法律条文</a> 
+
+						</div>
+					</div>
+					<br class="cls"/>
+				</div>
+				<div class="artBaseInfo" id="artTitleNote"/>
+				<a id="readArea" name="readArea"/>
+				
+			</div>
+			<div id="artText"><div class="artibody" id="Zoom" style="font-size: 14px;">
+    </p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;我国作为一个文明古国，在中央王朝建立之后，对边疆防御（或国防）是有法律条文明确规定的，只是由于岁月久远，唐朝以前的法律文献亡佚，致使后人对唐朝以前的法律不甚了解而已。后人曾经搜集史籍中有关唐以前的法律记载，如清人沈家本曾作《历代刑法考》（其中有“汉律摭遗”）；杜贵墀曾作《汉律辑考》；民国年间程树德曾撰《九朝律考》，序曰：“汉晋士大夫，往往治律，马融、郑玄、羊祜、杜预皆律家也。六朝以后，祖尚玄虚，律令科条，委之胥吏，其治此者，非陋则俗，斯学浸微。今古律之存者，皆自唐以下。窃不自量，欲尽搜罗唐以前散佚诸律，考订而并存之。”①这些工作不可谓功劳不大，但是由于史籍所载乃只言片语，所以世之所知仍然有限。20世纪以来，我国出土了大批古代法律文献，②为我们了解唐以前各朝法律提供了重要材料。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;张家山汉简《二年律令》是这些出土法律文献中的一种。《二年律令》是有关西汉初期的法律文献，③学者们曾经对此进行过诸多研究，但是至今尚无人从西汉边防的角度，对此进行总体性分析，笔者不揣简陋，拟进行一些尝试。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;《二年律令》1983-1984年出土于张家山247号墓。该墓共出土汉简1236枚（不含残片），除《二年律令》之外，还有“历谱”、《奏谳书》、《盖庐》、《脉书》、《引书》、《算数书》、遣册等古代文献，内容涉及西汉早期律令、司法诉讼、医学、导引、数学、军事理论等诸多方面，十分丰富。整理组根据葬具和随葬品推断，墓主人身份不高，应是一名低级官吏，他通晓法律，能计算，好医术及导引。④《二年律令》的主体是刑法，但也包含诉讼制度、行政立法及民事关系等方面的内容，其中有28种律令，即《贼律》、《盗律》、《具律》、《告律》、《捕律》、《亡律》、《收律》、《集律》、《钱律》、《置吏律》、《均输律》、《传食律》、《田律》、《□市律》、《行书律》、《复律》、《赐律》、《户律》、《效律》、《传律》、《置后律》、《爵律》、《兴律》、《徭律》、《金布律》、《秩律》、《史律》、《津关令》。另外，简文内还提到“奴婢律”、“变（蛮）夷律”。这些律令多含有边防的内容。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;下面，本文将《二年律令》中涉及边防的法律规定按八个方面进行分类说明。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;一、有关守边塞者背叛国家的法律条文</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;清人沈家本指出：“谋反为贼事之最重大者，《唐律》谋反大逆居《贼盗律》之首，《汉律》当亦不殊。”⑤这个推测在《二年律令》中得到证实。《二年律令》的《贼律》首条就是有关“反叛”、“降诸侯”、“弃守”、“谋反”等罪行的处罚规定：</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;以城邑亭障反，降诸侯，及守乘城亭障，诸侯人来攻盗，不坚守而弃去之若降之，及谋反者，皆（一）要（腰）斩。其父母、妻子、同产，无少长皆弃市。其坐谋反者，能偏（遍）捕，若先告吏，皆除坐者罪。（二）⑥</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;这里背叛国家是指：一是以城邑亭障为据点造反或投降诸侯（或蛮夷）者；二是在诸侯（或蛮夷）来攻时弃守城邑亭障而逃亡者（相当于投降）；三是谋反者（不限于守卫城邑亭障的范围）。这三种反叛罪都要处腰斩之刑。其父母、妻子、同母兄弟姊妹亦连坐处死；如能遍捕谋反者，或事前能向官府告发者，免除连坐之罪。严格说，这条谋反大逆惩罚法律适用于汉朝统治的整个地区，而不仅仅限于边塞，但由于“城邑亭障”中的亭、障多在边疆，而且针对的重点对象是守卫“城邑亭障”者，所以可以视之为守边塞者背叛国家的法律惩罚条文。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;这条律文说明，中央集权国家建立以后，西汉统治者已深刻认识到国家安全的重要性，并从法律的角度，将保护国家安全和政权巩固放在首要位置，相对于战国时期魏国《法经》将《盗律》置于首位而言，这无疑是国家安全观念方面的进步。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 敦煌也出土了类似法律条文：</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;捕律：亡入匈奴、外蛮夷，守弃亭障逢（烽）燧者，不坚守降之，及从塞徼外来绛（降）而贼杀之，皆要（腰）斩，妻子耐为司寇，作如。(983)⑦</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;这条律文涵盖的三种罪行，更明确集中在边防方面，即逃亡到匈奴、外蛮夷者，或不坚守亭障烽燧而投降者，或杀害边外来降者，都要处以腰斩的刑罚，其妻子也要连坐受罚。朱红林指出，这条材料当源于张家山汉简《二年律令·盗律》。大致相同的内容，一在《盗律》，一在《捕律》，当是汉律不同时代修订的结果。⑧与这条律文相比较，上举《二年律令·贼律》中的“诸侯”含义比较含糊。学者们对“诸侯”有不同解释，有的学者认为指汉初分封的同姓、异姓诸侯；⑨有的学者认为应指汉初时期的匈奴、南越。⑩关于这个问题笔者不拟多论，仅指出，《二年律令》中有关“诸侯”的条文基本上都是处罚充当诸侯间谍或亡于诸侯的法律规定，(11)既然汉律将这些“诸侯”视为危害国家安全的人，那么无论这些“诸侯”究竟何指，我们将这些条律纳入边防的范围总无不可。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;这条律文影响了后世，唐律也有近似的法律。《唐律疏议·擅兴律》“主将守城弃去”条：“诸主将守城，为贼所攻，不固守而弃去及守备不设，为贼所掩覆者，斩。若连接寇贼，被遣斥候，不觉贼来者，徒三年，以故复有败者，亦斩。”(12)这里“守城弃去”罪同汉律。不过，唐律这条律文针对的是守城失职罪，而非叛国罪，与汉律所谓“不坚守而弃去之若降之”即弃守等同降敌，还有所区别。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;二、有关边防出入境的法律规定</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;张家山汉简《二年律令》有关出入境的法律规定，主要集中在《津关令》中，另外《兴律》和《盗律》中也有相关内容。《津关令》现存18条，大致可分为四个方面：一是人员越塞阑关出入的法令；二是禁物出入的法令；三是买马出入的法令；四是置关的法令。在这四类法令中，前二类与边防关系密切，买马出入令主要指出入关内外郡，置关令（仅一条）具体指河北夹溪河置关，(13)与边防关系不大。因此，以下主要讨论前二类法律。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.人员越塞阑关出入境律令</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;《二年律令》中有关人员越塞阑关的律令共有4条，其中2条出自《津关令》，2条分别出自《兴律》和《盗律》。引录如下：</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;《津关令》：</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;御史言，越塞阑关，论未有□，请阑出入塞之津关，黥为城旦舂；越塞，斩左止（趾）为城旦；吏卒主者弗得，赎耐；令（四八八）、丞、令史罚金四两。智（知）其请（情）而出入之，及假予人符传，令以阑出入者，与同罪。非其所口为口而擅为传出入津关，以（四八九）传令阑令论，及所为传者。县邑传塞，及备塞都尉、关吏、官属人、军吏卒乘塞者□其□□□□□日□□牧□□（四九○）塞邮、门亭行书者得以符出入。  ·制曰：可。（四九一）(14)</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;《津关令》：</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;相国、御史请缘关塞县道群盗、盗贼及亡人越关、垣离［篱］、格堑、封刊，出入塞界，吏卒追逐者得随出入服迹穷追捕。令（四九四）将吏为吏卒出入者名籍，伍人阅具，上籍副县廷。事已，得道出入所。出入盈五日不反（返），伍人弗言将吏，将吏弗劾，皆以越塞令论之。（四九五）(15)</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;《兴律》：</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;乘徼，亡人道其署出入，弗觉，罚金□<img onerror="this.src='/images/err.png'" src="http://img.ipub.exuezhe.com/jpg/K21/2009/K21T585.jpg" />。（四○四）(16)</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;《盗律》：</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;徼外人来为盗者，要斩。吏所兴能捕若斩一人，拜爵一级。不欲拜爵及非吏所兴，购如律。”（六一）(17)</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;这4条律令中，第1条《津关令》，是御史向朝廷奏报有关出入关津和违法处罚的法律规定，皇帝批复“可”，准其所奏。这条律文因有缺文，内容不完整，大意是：(1)出入边塞津关者必须持有出入边塞津关的凭证——符传，无符传出入边塞津关者，将处以“黥为城旦舂”的刑法。私自越塞者，斩左趾并罚为城旦。(2)守关津者失职，未能察觉或截获越塞阑关者，吏卒主者、丞、令史将分别处以“赎耐”和“罚金四两”的惩罚。知无符传而放行，或假予凭证使之出入境者，与越塞阑关者同罪处理。(3)擅自给予不应持传过津关者，根据传令阑令中的有关规定给予处罚。另外，这条律令还规定了给予符传的范围。这条律令是经过皇帝批准的正式法律，其覆盖面广泛，既包括出入关津者，又包括守卫关津者，还包括颁发符传者，同时还规定了可以持符传过关津的范围。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;第2条《津关令》，是相国、御史有关出入津关的奏报。这条律令规定，边疆地区吏卒追捕罪犯或逃亡者出入边境关塞，将吏要制作出入边境追捕者的名籍，由伍人核实，上报县廷保留副本，手续完备，才能出入关塞。追捕者出入关塞满五日不返回，伍人不报告将吏，将吏不追查，都要以越塞罪论处。这条律令主要针对的是追捕罪犯或逃亡者的出入境吏卒。从这条法律可见，西汉对于出入边境的管理是非常严格的，即使是吏卒追捕罪犯或逃亡者，也要先造出入境吏卒的名单，核实上报县廷；并严格规定这些吏卒出境的时间，以五天为限；如逾期不归，伍人和将吏不上报追查，将受到法律的制裁。这是西汉出入关塞的又一条重要法律条文。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;第3条《兴律》，是惩罚守边关者失察导致逃亡者出入边境的法律条文。具体内容是：逃亡者道过边界守卫处，而守卫者未察觉者，将罚其金钱（具体数字因字残不明）。所谓“逃亡人”，西汉侯应归纳有4类：一是属国中的匈奴降民，“诸属国降民，本故匈奴之人，恐其思归逃亡”；二是投降匈奴汉人的亲戚，“往者从军多没不还者，子孙贫困，一旦亡出，从其亲戚”；三是愁苦的奴婢，“又边人奴婢愁苦，欲亡者多……时有亡出塞者”；四是犯法的盗贼，“盗贼桀黠，群辈犯法，如其窘急，亡走北出”。(18)可见“逃亡人”与上述两种出境者有所不同，很大程度上带有叛逃的性质，所以西汉将这条法律条文列入《兴律》。《兴律》是关于军戎设防的法律规定，等同于后世的“擅兴律”。《唐律疏议·擅兴律》对此有明确说明：“《疏议》曰：‘《擅兴律》者，汉相萧何创为《兴律》，魏以擅事附之，名为《擅兴律》。晋复去擅为《兴》，又至高齐，名为《兴擅律》。隋开皇改为《擅兴律》。虽题目增损，随时沿革，原其旨趣，意义不殊。大事在于军戎，设法须为重防。厩库足讫，须备不虞，故此论兵次于《厩库》之下。’”(19)可知《兴律》虽然随时代不同而名称不断改变，但始终都是关于军戎军防的法律规定，在国防中占有重要地位。西汉将这条律文纳入《兴律》中，可见对防止逃亡者出入边塞的高度重视。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;第4条《盗律》，是针对徼外人入境为盗的处罚规定和擒获徼外入盗者的奖励规定。具体内容是：塞外人入境为盗，要处以腰斩。官吏征发追捕，如能斩获一人，拜爵一级；如不愿拜爵，或非官吏征发而捕斩盗贼，可按律令规定给予相应的奖赏。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;以上4条律令从不同侧面反映了西汉有关出入边境的法律规定。从这些法律规定来看，西汉的出入境法是针对出入境当事人及守边关者双方的，而重点是后者，即重点惩罚或奖赏的对象是守边关者、边境管理者。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;西汉出入境法律对后世影响很大，从现存文献看，唐朝承袭了这些法律规定。《唐律疏议·卫禁律》中的“越州镇戍等城垣”、“私度及越度关”、“不应度关而给过所”、“关津无故留难”、“私度有他罪”、“人兵度关妄随度”、“赉禁物私度关”、“越度缘边关塞”、“缘边城戍不觉奸人出入”等条文，都是有关出入境的法律，其基本内容或精神与汉律基本相同或相似。如“私度及越度关”条：“诸私度关者，徒一年；越度者，加一等（注：不由门为越）。”《疏议》曰：“水陆等关，两处皆有门禁，行人来往皆有公文，谓驿使验符券，传送据递牒、军防、丁夫有总历，自余各请过所而度。若无公文，私从门关过，合徒一年。‘越度者’，谓关不由门，津不由济而度者，徒，年半。”又如“不应度关而给过所”条：“诸不应度关而给过所（注：取而度者，亦同），若冒名请过所而度者，徒各一年，即以过所与人及受而度者，亦准此。”虽然与西汉相关惩罚规定有所不同（西汉是“黥为城旦舂”、“斩左止为城旦”、罚钱；唐朝是处以徒刑一年、二年，或半年），但是在持有凭证出入关塞，禁止私自出入关塞，以及在追究出入境当事人及边关管理者（依据具体情况）违法等方面，却与《二年律令》相关律令基本相同或相似。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;从以上有关人员出入境的法律规定来看，西汉法令不仅针对违法出入境的当事人，而且针对管理者，甚至可以说，重点惩罚、奖赏的对象是守边关者和边境管理者。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.有关禁物出入边境的法律规定</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;《二年律令》中有关禁物出入边境的法律共有4条，其中2条出自《津关令》，2条出自《盗律》。引录如下：</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;《津关令》：</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;制诏御史，其令抒（扞）关、郧关、武关、函谷［关］、临晋关，及诸其塞之河津，禁毋出黄金，诸奠黄金器及铜，有犯令（四九二）</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;《津关令》：</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;制诏御史，其令诸关，禁毋出私金□□。或以金器入者，关谨籍书，出复以阅，出之。籍器，饰及所服者不用此令。（四九三）(20)</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;《盗律》：</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;盗出黄金边关徼，吏、卒徒部主者智（知）而出及弗索，与同罪；弗智（知），索弗得，戍边二岁。（七六）(21)</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;《盗律》：</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;盗出财物于边关徼，及吏部主智（知）而出者，皆与盗同法；弗智（知），罚金四两，使者所以出，必有符致，无符致，吏智（知）而出之，亦与盗同法。（七五）(22)</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;这4条律令中，前3条都是禁止携带黄金、金器等物出入关津的律令。第1条《津关令》明确规定禁止携带黄金、镶嵌黄金的器物及铜出关，违者将予以处罚（“有犯令”后有缺文，不知具体惩罚内容）。这里“关”为“抒（扞）关、郧关、武关、函谷［关］、临晋关”。整理组注释曰：“扞关，即江关”，据《汉书·地理志》，“巴郡鱼复县有江关都尉，在今四川奉节东”；“汉中郡长利县有郧关，在今湖北郧县东北”；“弘农郡商县有武关。商县在今陕西商州东，关在其东南”；“弘农郡弘农县有‘故秦函谷关’，在今河南灵宝西南”；“临晋关属左冯翊临晋县，在今陕西大荔东朝邑镇东北”，(23)似乎这些关都在内地，“及诸其塞之河津”，似乎河津亦在内地（上举关塞范围内）。如果说这条律令适用范围不包括边疆，那么上举第2条《津关令》所谓“其令诸关，禁毋出私金器口”则表明，边境也在禁止携带金器出关之列，因为“诸关”包含边疆和内地所有地区之关。在这条法令中，西汉还规定，携带金器入关，要履行登记手续；出关时，以之与实物核对，相符才能放行。但饰品及所服者不用此令。这条法令较完整地反映了西汉出入境的法律规定。上举第3条《盗律》，则是专门针对边关禁运黄金出境的法律条文。这条律文规定，偷运黄金出边境，守卫边关者（官吏、士兵）知而放行不搜查，与偷运者同罪；不知或搜查不出黄金而放行者，罚戍边二年。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;与上举3条法律稍有不同，第4条《盗律》所禁止出关的不是金属类物品，而是盗窃的财物，而且法律适用的范围在边境。这条法律规定，偷运盗窃的财物出边关，如果守边者明知而放行，将与偷运者同罪处理；如果不知而放行，将罚金四两。(24)并规定，使者携带禁物出境，必须有官方颁发的文券证明，如果没有，守卫边防者明知而放行，亦将与偷运者同罪处理。由于这条律文没有明确界定“盗出财物”的内容，不知是否可以将此理解为泛指一切禁运出境的物品。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;史籍中也有汉律禁止禁物入境的记载。《汉书·功臣表第四》载：宋子惠侯之孙“孝文十年，侯九嗣，二十二年，孝景中二年，坐寄使匈奴买塞外禁物，免。”这是汉官托匈奴买塞外禁物，触犯法律而免官爵的记载。程树德《九朝律考》之《汉律考五律令杂考下》载有：《汉书·列女传》引汉法：内珠入关者死。(25)这是有关携带珠宝入关治死罪的法律。与张家山汉简《二年律令》主要禁止禁物出境有所不同，这两条法律主要禁止禁物入内。出土文献和传世文献互为补充，二者一进一出，较完整地展现了汉朝有关禁物出入境的法律规定。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;秦律也有禁止盗物出边关的法律规定。湖北云梦睡虎地11号墓所出《睡虎地秦墓竹简·法律答问》：“‘盗出朱（珠）玉邦关及买（卖）于客者，上朱（珠）玉内史内史才鼠（予）购。’可（何）以购之？其耐罪以上，购如捕它罪人，赀罪，不购。”(26)这就是秦律有关禁止盗物偷运出边徼的规定。可见，《二年律令》的律文应承自秦律。(27)唐律也承袭了秦汉律。不过唐律分得更细致，在《唐律疏议·卫禁律》中有“赍禁物私度关”条：“诸赍禁物私度关者，坐赃论；赃轻者，从私造、私有法。”疏议引《擅兴律》也有相关规定：“假令私将稍度关，平赃直绢三十足，即从坐赃，科徒。”又引《关市令》：“依《关市令》中又有‘锦、绫、罗、毂、蚰、绵、绢、丝、布、鼙牛尾、珍珠、金、银、铁，并不得私度西边、北边诸关及至缘边诸州兴易。’从锦、绫以下，并是私家应有。若将度西边、北边诸关，计赃减坐赃罪三等。其私家不应有，虽未度关，亦没官。私家应有之物，禁约不合度关，已下过所，官司捉获者，其物没官；若已度关及越度被人纠获，三分其物，二分赏捉人，一分入官。”(28)可见，唐代禁止出关的物品，既有兵器，又有金银、真珠等贵重物品，还有丝织品等日常用品。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;三、有关戍边的法律规定</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;戍边是秦汉边防的一项重要制度。西汉高帝二年（前205）六月“兴关中卒乘边塞”，(29)大约是西汉最早征调兵卒守边的记录。此后，兴兵守边成为西汉政权边塞防御的一项定制。据研究，两汉时期，守边戍卒来源很广，既有普通百姓、良家子、应募士、属国胡骑、专职“雇佣军”，还有罪犯、七科谪等等。(30)在已出土的汉简材料中，有大量戍卒戍边的信息，张家山汉简《二年律令》中也有数条涉及戍边的律令。曹旅宁先生曾检出六条：</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(1)《盗律》：盗出黄金边关徼，吏、卒徒部主者智（知）而出及弗索，与同罪；弗智（知），索弗得，戍边二岁。（七六）</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(2)《捕律》：盗贼以短兵杀伤其将及伍人，而弗能捕得，皆戍边二岁。……与盗贼遇而去北，及力足以追逮捕之而官□□□□□逗（一四二）留畏懦弗敢就，夺其将爵一络（级），免之，毋爵者戍边二岁；而罚所将吏徒以卒戍边各一岁。兴吏徒追盗贼，已受令而逋，以畏懦论之。（一四三）</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(3)《捕律》：盗贼发，士吏、求盗部者，及令、丞、尉弗觉智（知），士吏、求盗皆以卒戍边二岁。令、丞、尉罚金各四两。（一四四）</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(4)《置吏律》：有任人以为吏，其所任不廉、不胜任以免，亦免任者。其非吏及宦也，罚金四两，戍边二岁。（二一○）</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(5)《□市律》：诸诈（诈）绐人以有取，及有贩卖贸买而诉（诈）绐人，皆坐臧（赃）与盗同法，罪耐以下（二六一）有（又）<img onerror="this.src='/images/err.png'" src="http://img.ipub.exuezhe.com/jpg/K21/2009/K21T592.jpg" />（迁）之。有能捕若詗吏，吏捕得一人，为除戍二岁；欲除它人者，许之。（二六二）</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(6)《户律》：诸不为户，有田宅，附令人名，及为人名田宅者，皆令以卒戍边二岁，没入田宅县官。（三二三）</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;曹旅宁先生认为：这6条律文“显然是由秦律继承发展来”的，“我们发现以卒戍边、戍边二岁、以卒戍边二岁，主要针对在防守边关、捕盗等执行公务中犯有过失的官员以及在名田宅过程中弄虚作假者”。(31)曹先生此说基本正确，但还可以更准确一点。仔细分析以上6条律文，前4条及第6条是有关公务过失的惩罚规定（第1条是针对边关防守失误的惩罚规定；第2、3条是针对县道官吏士卒防捕盗贼不力的惩罚规定；第4条是针对举荐失误的惩罚规定；第6条是针对名田宅弄虚作假的惩罚规定），而第5条前半部分是针对欺诈者的惩罚规定，后半部分涉及戍边的内容，则是奖赏能捕获欺诈者的规定：官吏能捕得欺诈者一人，可免除戍边二岁的劳役；亦可以转授他人，免除他人戍边的劳役。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;除这六条律文之外，《二年律令》中还有其他法律含有戍边的内容，如《兴律》：</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;当戍，已受令而逋不行盈七日，若戍盗去署及亡盈一日到七日，赎耐；过七日，耐为隶臣；过三月，完为城旦。（三九八）(32)</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;这条律文规定，已接到戍边命令而逃跑满七日者，或戍边时私自离开岗位或逃跑满一至七日者，受“赎耐”惩罚，逃跑过七日则“耐为隶臣”，过三月则要受“完为城旦”的惩罚。史籍中有关戍卒戍边的记载不少，但多见于东汉，如《后汉书·明帝纪》：“永平八年，募郡国中都官死罪系囚，减死一等，诣度辽将军营，屯朔方五原之边县，妻子自随，便占著边县，父母同产欲相代者，恣听之。”程树德先生谓：“按永平十六年、章帝建初七年、和帝永元八年、安帝元初二人年及冲帝、桓帝时，俱有徙边之令。”(33)而张家山汉简《二年律令》中有西汉律令的记载，无疑丰富了我们对西汉戍边制度的认识，尤其是这些材料属于法律条文，更具有权威性。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;四、有关烽燧的法律规定</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;烽燧是我国古代边防的重要制度，从公元前781年周幽王施烽鼓，至1911年清朝灭亡，在中国行用了大约二千六百余年。春秋战国之交，墨翟在《墨子》一书中用6篇论述防御问题，其中《杂守篇》、《号令篇》等将烽燧作为一种最有效的报警手段给予详细介绍。至周秦时期，烽燧制度已初具雏形，而两汉时期，烽燧制度已臻于完善。敦煌、居延出土了汉代《塞上烽火品约册》等等，详细记载了汉朝的烽燧制度。《二年律令》中也有一条有关烽燧的记载。《兴律》：</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;守燧乏之，及见寇失不燔燧，燔燧而次燧弗私（和），皆罚金四两。（四○五）(34)</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;这条法律规定，守卫烽燧的人员缺乏或懈怠，发现敌情不举烽燔燧，或看到信号后守烽燧者不依次发出信号，都要罚金四两。烽燧的主要作用是侦伺观察敌情，利用烽火信号及时传递军事警报，有情况而不发布信息，是谓失职，所以要受处罚。《二年律令》中有关烽燧的法律虽然不多，但仍然丰富了我们对两汉烽燧制度法律规定的认识。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;五、有关邮亭驿传制度的法律</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;邮亭驿传也是我国古代重要的边防制度和设施。因为烽火虽然可以传递军事情报，但只能表达敌人进退、来者多少等简单信息，而不能传达较详细、复杂的情报。复杂详细的情报还需要邮亭驿传来完成。我国秦代已建立了比较完整的邮传通信系统，湖北云梦《睡虎地秦简》已发现《行书律》，知秦代已以法律条文的形式保证通信过程的安全和迅速。“秦代《行书律》是中国历史上第一部通信法。”(35)张家山《二年律令》中亦有《行书律》（6条），除此以外，还有《传食律》（4条），及《徭律》、《金布律》、《置吏律》、《均输律》等至少6个律种都有与邮亭驿传相关的内容。由于相关内容较多而篇幅有限，这里仅举其要。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;汉朝因汉律久佚，学者们曾推测考证“邮传法令可能收在《厩律》中”。(36)但张家山汉简《二年律令·行书律》的发现，证明西汉不仅有《行书律》，而且仍然是邮亭驿传通信的主要法律。仅举《行书律》第1条为例：</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;一邮十二室。长安广邮廿四室，敬（警）事邮十八室。有物故、去，辄代者有其田宅。有息，户毋减。令邮人行制书、急（二六五）书，复，勿令为它事。畏害及近边不可置邮者，令门亭卒、捕盗行之。北地、上、陇西，卅里一邮；地险陕不可邮者，（二六六）得进退就便处。邮各具席，设井磨。吏有县官事而无仆者，邮为炊；有仆者，叚（假）器，皆给水浆。（二六七）(37)</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;这条律文有三处与边防直接相关：一是“警事邮”，警事邮一般设在边疆地区和战略要地，用以“传递紧急的军情报告。此类文书因是甚严，传送者须以最快速度送出，又称‘奔命书’”。(38)其规模比一般邮大（下设十八家，一般一邮下设十二家），但比首都长安广邮规模小（广邮下设二十四家）。二是靠近边境及危险地区不能设置邮传者，由士卒执行传递文书情报的任务。(39)三是在北地、陇西等北部、西部边疆地区，设邮间隔可以灵活处理，正常情况下30里置一邮，地险狭窄之处可以多或少于30里“就便”设置。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;《传食律》是规定驿传邮亭提供饭食范围的法律，它规定对有的乘传者可以提供传食，有的不能提供传食，乘传者的等级身份和工作情况不同，所提供的传食内容和分量亦不同，违者将治罪。仅举两条为例：</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;发传□□□□，度其行不能至者□□□□□长官皆不得释新成。使非有事，及当释驾新成也，毋得以传食焉（二二九）而以平贾（价）责钱。非当发传所也，毋敢发传食焉。为传过员，及私使人而敢为食传者，皆坐食臧（赃）为盗。（二三○）(40)</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;丞相、御史及诸二千石官使人，若遣吏、新为官及属尉、佐以上征若迁徙者，及军吏、县道有尤急（二三二）言变事，皆得为传食。车大夫粺米半斗，参食，从者<img onerror="this.src='/images/err.png'" src="http://img.ipub.exuezhe.com/jpg/K21/2009/K21T593.jpg" />米，皆给草具。车大夫酱四分升一，盐及从者人各廿二分升一。（二三三）食马如律，禾之比乘传者马……（二三四）</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;上引第1条主要是限制传食的法律规定。这条律文有缺，大意是，某些长官（前缺，不详具体所指）不能乘用新调教好的马匹，无公务及乘用新调教好的马匹者，不能享用传食，应以平价收其食钱。非发自驿站者，不得提供传食。提供传食超过份额，或为私人提供传食者，都将以食赃为盗罪论处。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;第2条主要是提供传食的法律规定。这条律文规定，丞相、御史、诸二千石官使者，新上任官及其属员、归休的官吏，以及传递紧急军事情报的官吏等可以享受传食，根据这些人的身份等级和工作情况，享用稗米、酱、盐及马料草具不等。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;秦代也有《传食律》，其内容亦与之相近：“御史卒人使者，食稗米半斗，酱驷（四）分升一，采（菜）羹，给之韭葱。其有爵者，自官士大夫以上，爵食之。使者之从者，食<img onerror="this.src='/images/err.png'" src="http://img.ipub.exuezhe.com/jpg/K21/2009/K21T594.jpg" />（粝）米半斗；仆，少半斗。”(41)可见西汉的这条传食律承自秦制。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;《徭律》、《金布律》、《置吏律》、《均输律》中的相关内容，由于篇幅关系，不一一引证。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;刘广生主编《中国古代邮驿史》，第四章专门论述了汉代的邮驿，其中吸收了居延汉简等地出土材料，但由于时代关系，后来出土的张家山汉简《二年律令》及其他相关材料，则未能吸收。这是一个遗憾，但也因此为我们继续研究相关问题提供了空间。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;六、有关边疆紧急事变的法律规定</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;西汉初期边疆形势不稳定，经常有紧急事件发生。为了应对突发事件，朝廷特别制定了“言边变事告急”、“言变事告急”的法律规定，以保证突发事件能够及早报告地方政府和中央政府。《二年律令》中有关边疆紧急事变的法律共有3条，分别出自《置吏律》、《传食律》、《兴律》。引录如下：</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;《置吏律》：</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;郡守二千石官，县道官言边变事告急，及吏迁徙、新为官、属尉、佐以上毋乘马者，皆得为（二一三）驾传……（二一四）(42)</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;《传食律》：</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;丞相、御史及诸二干石官使人，若遣吏、新为官及属尉、佐以上征若迁徙者，及军吏、县道有尤急（二三二）言变事，皆得为传食……（二三三）</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;《兴律》：</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;当奔命而逋不行，完为城旦。（三九九）(43)</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;上举第1条《置吏律》规定，当边疆发生紧急事变时，郡守二千石官、县道官向中央政府报告情况的信使，以及官吏迁徙、新上任官及其没有配备马匹的属尉、佐以上官员，由驿传负责交通。第2条《传食律》亦规定，地方政府向中央汇报紧急事件的信使，由驿传负责其交通传食。这两条法律内容基本相同，但也有四点不尽相同之处：一是律种不同。两条法律，一出自《置吏律》，一出自《传食律》。《置吏律》是规定各级官吏职责范围和权限的法律，说明西汉把“言边变事告急”作为边疆地区官吏的一项重要职责来强调。《传食律》是规定驿传机构提供传食标准的法律，说明西汉把“言边变事告急”作为驿传机构的重要职责来强调。二是报告紧急事件的范围不尽相同。《置吏律》“言边变事告急”，专指边境发生的紧急事件，《传食律》“急言变事”的范围较广泛，既包括边疆，也包括其他地方（道辖范围一般在边疆，县则多在内地）。三是有资格享受交通传食的人员不尽相同。《置吏律》规定的是“郡守二千石官，县道官”信使等人，《传食律》规定的是“军吏、县道（官）”信使等人。四是驿传提供的内容不尽相同。《置吏律》提供的是传车，《传食律》供给的是传食。西汉在《置吏律》、《传食律》中都规定了给“言边变事告急”、“言变事告急”提供交通工具和相应服务，说明西汉对边疆、地方变乱的重视程度。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;上举第3条《兴律》是有关受命赴急难而临阵脱逃要受“完为城旦”惩罚的规定。整理组注曰：“奔命，《汉书·昭帝纪》：‘及发犍为郡奔命’注引应劭曰：‘旧时郡国皆有材官骑士，以赴急难，今夷反，常兵不足以讨之，故权选取精勇，闻命奔走，故谓之奔命。’”说明“奔命”乃为处置边疆、内地紧急事件而设。这条律文与上两条律文规定不同，强调的是违命惩罚措施，二者从正反两个方面反映了西汉应对边疆紧急事变的措施。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;七、有关边防官吏职责的法律</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;秦朝在边疆少数民族地区设立“道”作为地方行政管理机构。西汉承袭秦朝体制，亦设道为边疆少数民族地区的管理机构。《汉书·百官公卿表》载：“列侯所食县曰国，皇太后、皇后、公主所食曰邑，有蛮夷曰道。”是县、国、邑、道虽然名称不同，但就行政区划而言，都属于县制。据不完全统计，西汉大约有32道。张家山汉简《二年律令》中大约有14种律令涉及“道”，占《二年律令》28种律令的一半。这14种律令是：《贼律》、《盗律》、《具律》、《捕律》、《置吏律》、《传食律》、《田律》、《行书律》、《效律》、《兴律》、《徭律》、《金布律》、《秩律》、《津关令》。毫无疑问，这些有关道的法律内容十分广泛，并且皆与边疆相关联，与边防也或多或少有关联。如官吏是边防的主体，边疆官吏的级别待遇和职务构成，与边防也有直接或间接的关系。由于篇幅的关系，此处只能从略，仅举与边防有关的若干律令。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;《贼律》：</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;军(?)吏缘边县道，得和为毒，毒矢谨臧（藏）。节追外蛮夷盗，以假之，事已辙收臧（藏）。匿及弗归，盈五日，以律论。（一九）(44)</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;这条律文讲的是缘边县道制作、使用、保管毒矢的规则。律文要求缘边县道严格保管毒矢，如追捕外蛮夷盗贼时需要使用，可以借用，事后则应立即收藏起来。藏匿毒矢满五日者，将以法律论处。毫无疑问，这条法律与边防制度有直接关系。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;《田律》：</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;县道已艮（垦）田，上其数二千石官，以户数婴之，毋出五月望。（二四三）(45)</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;这条律文规定，边疆地方每年新开垦的农田，连同户数，应一并上报二千石官，时间不得超过五月十五日。垦田是边疆边防的一项重要措施，这条律文与边防亦有直接关联。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;八、有关禁止译诈伪的法律</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;边疆地区主要居住少数民族，这些民族与政府交流往往有语言障碍，需要通过翻译进行沟通。西汉为了防止翻译者诈伪不实，专门制定了禁止译诈伪的法律，以保障政府的政令、法律通行无阻，保障边防制度的开展执行，并准确了解当地的民情民意。张家山汉简《二年律令》的《具律》有禁止译诈伪的法律条文：</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;译讯人为诈伪，以出入罪人，死罪，黥为城旦舂；它各以其所出入罪反罪之。（一一一）(46)</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;这条律文规定，审讯犯人时，翻译少数民族语言诈伪不实，以致判罪有出入（或加重或减轻罪），导致死罪者，译人将处以“黥为城旦舂”的惩罚；其他各以其所出入所致之罪，同罪处理译人。此汉律影响到后世，唐律也有《诈伪律》，其中“证不言情及译人作伪”条载：“诸证不言情，及译人诈伪，致罪有出入者，证人减二等，译人与同罪。（注：谓夷人有罪，译传其对者。）”(47)译诈伪法律虽然不是边防制度的组成部分，但是它对于保证边防来说，也具有重要的意义。因此，这里也将它纳入本文。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;以上，从八个方面论述了张家山汉简《二年律令》中有关西汉边防方面的法律规定。《淮南子》说：“秦皇帝得天下，恐不能守，发边戍、筑长城、修关梁、设障塞、具传车、置边吏。”(48)这是西汉人对秦朝边防的概括，也反映了西汉当时人对边防的总体认识。以此来衡量张家山汉简《二年律令》的有关记载，可以说《二年律令》已基本涵盖了西汉边防的方方面面。当然，本文的分析只是初步的，更深入的研究还有待将来。结合史籍全面论述西汉边防的法律规定是一个较大工程，也并非一篇文章所能完成。而这个课题，正是笔者今后努力的方向。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;注释：</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;①程树德：《九朝律考》，中华书局1963年版，第1页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;②就目前所知，已有16个地方如甘肃敦煌汉塞烽燧遗址、敦煌悬泉置遗址、居延破城子、居延汉代城障烽塞遗址、武威磨嘴子、武威旱滩坡，山东临沂银雀山，湖北云梦睡虎地、云梦龙岗、江陵张家山、江陵王家台、荆门包山，青海大通县上孙家寨，四川青川县郝家坪，江苏扬州胥浦，湖南长沙走马楼等地出土了战国、秦汉、三国时期的法律文献。详见沈颂金：《二十世纪简帛学研究》，学苑出版社2003年版，第478-488页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;③关于《二年律令》的时间，学术界有不同看法，但墓中所出“历谱”为汉高帝五年（前202）至高后二年（前186），说此为西汉初年之物，大体不误。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;④参见张家山二四七号汉墓竹简整理小组：《张家山汉墓竹简二四七号墓释文修订本》前言，文物出版社2006年版。该前言指出：“《二年律令》的发现使亡佚已久的汉律得以重现，不仅使秦、汉律的对比研究成为可能，而且是系统研究汉、唐律关系及其对中国古代法律影响的最直接的资料。”本文律令材料皆引自该书，不再注明。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⑤沈家本：《历代刑法考·汉律摭遗》，中华书局1985年版，第1414页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⑥引文中（一）、（二），乃指简一、简二。以下引文类此，不再出注。又，本条整理组注：“亭障，汉代要塞驻军处。《后汉书·光武纪下》：‘筑亭障，修烽燧’注：‘亭候，伺候望之所。’……城比障要大，《文选·北征赋》注引《苍颉》曰：‘障，小城也。反，即叛。’”“乘，《汉书·高帝纪》‘坚守乘城’注：‘乘，登也，谓上城而守也。’”</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⑦甘肃省文物考古研究所编：《敦煌汉简》（下），中华书局1991年版，第256-257页。朱红林先生指出：“这条材料当源于张家山汉简《二年律令·盗律》。大致相同的内容，一在《盗律》，一在《捕律》，当是汉律不同时代修订的结果。”见其著：《张家山汉简〈二年律令〉集释》，社会科学文献出版社2005年版，第8页。朱红林先生在其著第113页又谓，敦煌此简号当为156。按，朱红林先生收集诸家成果、材料颇多，对本文帮助很大，谨此致谢，不再说明。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⑧朱红林：《张家山汉简〈二年律令〉集释》，第8页。此著第113页谓，敦煌此简号当为156。按，朱红林先生收集诸家成果、材料颇多，对本文帮助很大，谨此致谢。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⑨如本条整理组注：“诸侯，此时指汉初分封的诸侯国。”《张家山汉墓竹简二四七号墓释文修订本》，第7页。许道胜说：“诸侯人，指诸侯国的人。”（许道胜：《张家山汉简〈二年律令·贼律〉补释》，《江汉考古》2004年第4期）朱红林亦说：“诸侯，汉初分封的诸王国。”（朱红林：《张家山汉简〈二年律令〉集释》，第4页）</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⑩如曹旅宁先生在《说张家山汉简〈贼律〉中的“诸侯”》中指出，他曾认为此汉律当承袭秦律，指战国时期的山东六国诸侯，后来重新研究，认为应指汉初时期的“匈奴”、“南越”。见其著《张家山汉律研究》，中华书局2005年版，第13-26页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(11)如《二年律令·捕律》一五○简“捕从诸侯来为间者”；《奏谳书》二二简“即从诸侯来诱也”，二四简“以亡之诸侯论”。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(12)《唐律疏议》卷16，中华书局1983年版。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(13)《津关令》廿三条，整理组注：“夹溪关在今陕县，位于黄河之南，其北为西汉河北县。”</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(14)整理组注：“阑，《汉书·汲黯传》注引臣瓒曰：‘无符传出入为阑。’”“符，出入津关的凭证。《说文》：‘信也。汉制以竹长六寸，分而相合。’传，《周礼·司关》注：‘如今移过所文书。’贾疏：‘执节者别有过所文书，若下文节传，当载人年几及物多少。至关至门，皆别写一通，入关家门家，乃案勘而过，其内出者，义亦然。’”</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(15)整理组注：“篱，以柴竹等做的藩篱。格堑，用作边界的深沟。封刊，作为边界标志的树木。服，《荀子·宥坐》注：‘行也。’阅具，《汉书·朱博传》音义引《字林》：‘数也’。越塞令，指《津关令》第一条。”</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(16)整理组注：“乘，《汉书·高帝纪》注引李奇曰：‘守也。’徼，边界。道其署，由其岗位”。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(17)整理组解释其中文字：“徼，边徼；兴，征发；购，奖赏。”</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(18)《汉书》卷94《匈奴传》。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(19)这些条文载《唐律疏议》卷16。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(20)整理组解释上引第一条文字：“奠，疑读为‘填’。填黄金器，镶嵌黄金的器物。‘有犯令’以下缺。”解释第二条文字：“‘私金□□’，下一缺字左从‘金’。籍，登记。”</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(21)整理组注释“索”为“搜查”。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(22)整理组注：“关，《周礼·地官·叙官》‘司关’注：‘关，界上之门。’徼，《史记·司马相如传》索隐引张揖曰：‘徼，塞也。以木栅、水为蛮夷界。’部主，该管其事；致，《礼记·曲礼》‘献田宅者操书致’，朱骏声《说文通训定声》云：‘犹券也。’”</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(23)张家山二四七号汉墓竹简整理小组：《张家山汉墓竹简二四七号墓释文修订本》，第83-84页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(24)《汉书》卷24《食货志》：“黄金一斤值万钱。”“罚金四两”相当于出铜钱二千五百。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(25)程树德：《九朝律考》，第122页。但《汉书》无《列女传》，疑为《后汉书·列女传》所载。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(26)睡虎地秦墓竹简整理组：《睡虎地秦墓竹简》，文物出版社1990年版，第126页。湖北云梦睡虎地11号墓所出秦简共1155枚，另有80枚残片。内有《秦律十八种》，摘录了近30种律名，还有《效律》、《秦律杂抄》、《法律答问》、《封诊式》、《为吏之道》等等。这些秦律大约是秦统一中国以前制定的律文。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(27)朱红林认为：“《二年律令》此条当承自秦律。”（《张家山汉简〈二年律令〉集释》，第69-70页）。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(28)《唐律疏议》卷8。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(29)《汉书》卷1《高帝纪上》。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(30)参见王万盈：《两汉守边戍卒管理初探》，《简牍学研究》第三辑，甘肃人民出版社2002年版，第210页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(31)曹旅宁：《张家山汉律研究》，第238-239页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(32)整理组注：“逋，逃。盗，私自。去署，离开岗位，见《睡虎地秦墓竹简·法律答问》之‘何谓窦署’条。”</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(33)程树德：《九朝律考》卷1《汉律考二刑名考》。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(34)整理组解释其中文字曰：“和，响应”。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(35)刘广生主编：《中国古代邮驿史》，人民邮电出版社1986年版，第41页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(36)刘广生主编：《中国古代邮驿史》，第79页称：“汉律久佚，叙述有关邮传的法律较为困难。据考证，邮传法令可能收在《厩律》中。”</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(37)整理组注：“室，家。息，《汉书·五行志》注：‘谓蕃滋也。’此处指人口增多。制书，《汉书·高后纪》注：‘天子之言，一日制书，二日诏书。制书者，谓为制度之命也。’门亭卒、捕盗，即亭之两卒亭父、求盗。”</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(38)彭浩：《读张家山〈行书律〉》，《文物》2002年第9期。文中引《汉书·丙吉传》：“此驭吏边郡人，习知边塞发辑（奔）命警备事，尝出，适见驿骑持赤白囊，边郡发辑（奔）命书来至。驭吏因随驿骑至公车刺取，知虏人云中、代郡。遽归府见吉白状。”可见警事邮设在边疆等地。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(39)李均明说：“今居延及敦煌汉简所见沿长城障燧之邮路，皆由戍卒代行邮人职责，简文称之为‘邮卒’、‘驿卒’，大多则单称‘卒’。”（《张家山汉简〈行书律〉考》，《中国古代法律文献研究》第2辑，中国政法大学出版社2004年版，第33页）</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(40)整理组注：“释，《说文》：‘解也。’新成，刚调教好的马匹。传食，驿站供给人食和马匹草料。过员，超过应有名额。”</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(41)秦简整理组注：“传食律，关于驿传供给饭食的法律规定。”（《睡虎地秦墓竹简》，第60页）</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(42)整理组解释其中文字：“变事，紧急事件。《汉书·梅福传》‘数因县道上言变事’注：‘变谓非常之事。’驾，《广雅·释诂》：‘驾，乘也。’传，由驿站供给的马车。”</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(43)整理组注：“奔命，《汉书·昭帝纪》：‘及发犍为郡奔命’注引应劭曰：‘旧时郡国皆有材官骑士，以赴急难，今夷反，常兵不足以讨之，故权选取精勇，闻命奔走，故谓之奔命。’”</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(44)整理组注：“谨，《荀子·王制》‘谨畜藏’注：‘谨，严也。’节，读作‘即’，如果。”</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(45)整理组注：“婴，系，指表明垦田的户数。”</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(46)整理组注：“译，翻译。《方言》十三：‘译，传四夷之语也。’此指翻译少数民族语言。讯，《汉书·张汤传》‘讯鞫论报’注：‘讯，考问也。’”</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(47)《唐律疏议》卷25，第475页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(48)《淮南子》卷12《道应训》。
+</div>
+<div class="page-list">
+    <div class="pageNav" id="pageList"></div>
+</div>
+</div><br class="cls"/>
+		</div>
+		</body></html>

@@ -1,0 +1,200 @@
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><style>.trR{ text-align:right;}
+#wraper{width:1190px; margin:0 auto; margin-bottom:10px;text-align:left;}
+#left{ float:left;width:250px; text-align:left;}
+#right{float:right;width:930px;text-align:left;border-top:2px solid #619bc0; padding-bottom:10px;}
+.border_w{ border:1px solid #d3d3d3;border-top:2px solid #619bc0;}
+.t01{height:30px;line-height:30px;border:1px solid #dddddd;padding-left:10px;background:url(../images/tbg01.jpg) repeat-x bottom; color:#1183c1; font-size:14px;}
+.con_01{ padding:10px;}
+.con_cbg{ background:url(../images/con_cbg.gif) repeat-y;}
+.con_bbg{ background:url(../images/con_bbg.gif) no-repeat left bottom; height:1px; line-height:1px; font-size:0;}
+
+.source{margin:15px;background:url(../images/linex.gif) repeat-x bottom; padding-bottom:30px; margin-bottom:30px;}
+.source .source-img{border:1px solid #d3d3d3; text-align:center; padding:5px;margin-bottom:10px; }
+.source p{color:#666666; font-weight:bold; font-size:12px;}
+.source .fblue{ color:#236bac; font-weight:normal;}
+
+.t_tj{ height:27px;padding-top:2px;margin:15px; background:url(../images/con_t_tj.gif) no-repeat left top; padding-left:10px; color:#FFFFFF; font-size:14px;}
+.c12_01{ margin-left:15px; margin-right:15px; margin-bottom:15px;}
+.c12_01 li{font-size:12px; line-height:24px; background: url(../images/dot.gif) no-repeat 2px 10px; padding-left:15px;}
+
+#artibodyTitle{color:#236bac;font-family:"宋体";font-size:20px;font-weight: normal;line-height:35px;text-align:center;margin-top:10px;	text-align:center;}
+#artisubTitle{font-family:"宋体";font-size:16px;font-weight: normal;line-height:28px;text-align:center;}
+.articl_info{margin-left:30px; margin-right:30px; position:relative;border-bottom:1px solid #e1e1e1;padding-bottom:20px; margin-bottom:20px;}
+.btn-img{
+	background-image:url(../images/allbg.png);
+	background-repeat:no-repeat;
+	font-size:12px;		
+	cursor:pointer;
+	border: 0px none;
+	display: inline-block;
+	vertical-align:middle;
+	text-align:center;}
+
+.artInfo{height:22px;border-top:1px solid #e1e1e1;border-bottom:1px solid #e1e1e1;padding:5px;margin:20px;}
+.artInfo li{float:left;width:33%;height:22px; line-height:22px; color:#666666;}
+
+.artInfo li .collectionPage_link{
+	background-position:-509px -80px;
+	padding-left:10px;
+	margin-top:-2px;
+	_margin-top:0px;
+	margin-left:10px;
+	width:51px;
+	height:22px; 
+	line-height:22px;		
+	color:#1183c1;	}
+.artInfo li .printPage_link{
+	background-position:-570px -80px;
+	padding-left:10px;
+	margin-top:-2px;
+	_margin-top:0px;
+	margin-left:10px;
+	width:51px;
+	height:22px; 
+	line-height:22px;	
+	color:#1183c1;}
+.artInfo li .downloadPage_link{
+	background-position:-631px -80px;
+	margin-top:-2px;
+	_margin-top:0px;
+	margin-left:10px;
+	width:51px;
+	padding-left:10px;
+	height:22px; 
+	line-height:22px;	
+	color:#1183c1;}
+
+
+.artBaseInfo{line-height:24px; margin-bottom:5px;}
+.artBaseInfo .info_left{float:left;width:80px;}
+.artBaseInfo .info_right{float:left;width:790px;}
+
+.artBaseInfo dt{float:left;width:80px; color:#666666;line-height:20px; display:inline-block;}
+.artBaseInfo dd{color:#666666;line-height:20px;display:inline-block;}
+.artBaseInfo .col li{ float:left;width:210px; height:20px; line-height:20px;color:#666666;}
+
+.artBaseInfo .item{ float:left;width:50%;}
+.artBaseInfo .notice{
+	margin-left:10px;
+	width:61px;
+	padding-left:10px;
+	height:22px; 
+	line-height:22px;
+	background-position:-448px -80px;	
+	color:#1183c1;}
+
+.artInfo{height:30px;border-top:1px solid #e1e1e1;border-bottom:1px solid #e1e1e1;margin:20px 10px;}
+.artInfo div{ float:left;width:30%;height:30px; line-height:30px; text-align:center;}
+.artInfo div a{ margin-left:20px; margin-right:20px;}
+.artInfo li{float:left;width:33%;height:22px; line-height:22px; color:#666666;}
+
+.articl_info{margin-left:30px;margin-right:30px; position:relative;border-bottom:1px solid #e1e1e1;padding-bottom:20px; margin-bottom:20px;}
+.artBaseInfo{margin-bottom:5px;}
+.articl_info_t{float:left;width:80px;margin-right: -100%;font-weight:bold;line-height:24px;}
+.articl_info_c{float: left;width: 100%;}
+.articl_info_c .info_c{margin-left:80px; line-height:24px;}
+.artBaseInfo .marL{ margin-left:20PX;}
+.artBaseInfo .col_info{ float:left;width:30%;line-height:20px;}
+
+.fontSize{position: relative;right:0px;top:0px;font-size:12px; height:30px; line-height:30px; text-align:right;}
+.fontSize a{border:1px solid #c2c2c2;margin-right:10px;padding:4px 1px;*padding:1px; cursor:pointer;font-size:12px;}
+.fontSize a span{background:url(../images/page_a_36.png) repeat-x;padding:3px;}
+
+.fontSize a.now{border: #f9ad75 1px solid;padding:4px 1px;*padding:1px;}
+.fontSize a.now span{color:#ff7d27;background:url(../images/current_34.png) repeat-x bottom;padding:3px;}
+.artibody{margin-left:20px;margin-right:20px;font: 18px/180% "Microsoft YaHei","微软雅黑"; color:#666666;}
+.artibody p{margin-bottom:20px;}
+
+.fontSize A:link{ color:#000000;text-decoration:none;}
+.fontSize A:visited{ color:#000000;text-decoration:none;}
+.fontSize A:hover{ color:#FF0000;text-decoration:none;}
+.fontSize a.now:link{color:#ff7d27;text-decoration:none;}
+#Zoom img {max-width:600px; max-height:600px; scale:expression((this.offsetWidth > this.offsetHeight)?(this.style.width = this.offsetWidth >= 600 ? "600px" : "auto"):(this.style.height = this.offsetHeight >= 600 ? "600px" : "auto")); display:inline !important;}
+
+.t_artiInfo{font-size:14px; padding-left:20px;background:url(../images/linex.gif) repeat-x top; line-height:30px; margin-top:10px;}
+.li_artiInfo{margin-left:30px; margin-right:30px;padding-bottom:10px; }
+.li_artiInfo ul li{float:left;width:100%;padding:3px 0;}
+.li_artiInfo ul li .title{ float:left;width:65%;}
+.li_artiInfo ul li .author{ float:left;width:15%;}
+.li_artiInfo ul li .come{ float:right;width:20%;color:#999999; text-align:right;}
+
+
+.index_artInfo{height:36px; line-height:36px; border-top:1px solid #e1e1e1;border-bottom:1px solid #e1e1e1; margin-top:20px; padding-left:20px;  padding-right:20px;padding-right:10px; margin-bottom:10px; margin-left:10px;text-align:center;}
+.index_artInfo a.collectionPage_link{ background:url(../images/icon.gif) no-repeat 0 1px; padding-left:15px;}
+.index_artInfo a.printPage_link{background:url(../images/icon.gif) no-repeat 0 -55px; padding-left:15px;}
+.index_artInfo a.downloadPage_link{background:url(../images/icon.gif) no-repeat 0 -108px; padding-left:13px;}
+
+.index_body .main{margin-left:100px; line-height:28px;color:#000000; padding-bottom:30px; padding-top:20px;}</style></head><body><div id="wraper">
+			<div id="artTitles">
+				<h1 id="artibodyTitle">匈奴“瓯脱”考辩</h1>
+				<h2 id="artisubTitle"/>
+			</div>
+			
+			<div class="articl_info">
+				<div class="artBaseInfo" id="autInfo">
+					<div class="articl_info_t">作 者：</div>
+					<div class="articl_info_c">
+						<div class="info_c">
+								<a target="_blank" href="/qw?s0=4&amp;s1=%e6%9d%8e%e7%84%95%e9%9d%92%2f%e7%8e%8b%e5%bd%a6%e8%be%89">李焕青/王彦辉</a> 
+						</div>
+					</div>
+					<br class="cls"/>
+				</div>
+				<div class="artBaseInfo" id="autDescription">
+					<div class="articl_info_t">作者简介：</div>
+					<div class="articl_info_c">
+						<div class="info_c">李焕青，内蒙古赤峰学院副教授，东北师范大学博士生；王彦辉，东北师范大学历史文化学院教授。长春  130024</div>
+					</div>
+					<br class="cls"/>
+				</div>
+				<div class="artBaseInfo" id="tAutInfo"/>
+				<div class="artBaseInfo" id="orgInfo">
+					<div class="articl_info_t">原文出处：</div>
+					<div class="articl_info_c">
+						<div class="info_c">史学理论研究</div>
+					</div>
+					<br class="cls"/>
+				</div>
+				<div class="artBaseInfo" id="astInfo">
+					<div class="articl_info_t">内容提要：</div>
+					<div class="articl_info_c">
+						<div class="info_c">
+							<p>《史记》、《汉书》所见“瓯脱”一词的语意，从蒙古高原特有的生存环境和社会经济条件的角度思考，最初是指匈奴族对本民族的祖居地、发祥地和自己母性部落的称谓和记忆，后来又指称分地、宫帐（龙庭）、军营或营地。匈奴族的习俗和制度被生活在共同环境下的后起民族所继承，魏晋时期的鲜卑人直接继承了匈奴的分地制和楼居传统，唐代突厥族的“otar”，辽代契丹人的“斡鲁朵”，蒙古语的“奥特”、“额秃根”、“兀鲁思”、“鄂托克”、“敖特尔”、“浩特”等，从汉译民族语言学来说，都和“瓯脱”大同小异，其所指称的事物亦不应有太大的分别，说明“瓯脱”的含义在蒙古草原各民族的语言中基本相同。</p>
+						</div>
+					</div>
+					<br class="cls"/>
+				</div>
+				<div id="artPdcInfo" class="artBaseInfo">
+					<div class="col_info"><b>期刊代号：</b>K21 </div>
+					<div class="col_info"><b>分类名称：</b>先秦、秦汉史 </div>
+					<div class="col_info"><b>复印期号：</b>2009 年 06 期 </div>
+					<br class="cls"/>
+				</div>
+				<div class="artBaseInfo" id="artKeyword">
+					<div class="articl_info_t">关 键 词：</div>
+					<div class="articl_info_c">
+						<div class="info_c">
+								<a target="_blank" href="/qw?s0=7&amp;s1=%e5%8c%88%e5%a5%b4">匈奴</a> 
+								<a target="_blank" href="/qw?s0=7&amp;s1=%e2%80%9c%e7%93%af%e8%84%b1%e2%80%9d">“瓯脱”</a> 
+								<a target="_blank" href="/qw?s0=7&amp;s1=%e5%88%86%e5%9c%b0">分地</a> 
+								<a target="_blank" href="/qw?s0=7&amp;s1=%e8%90%a5%e5%9c%b0">营地</a> 
+								<a target="_blank" href="/qw?s0=7&amp;s1=%e2%80%9c%e6%96%a1%e9%b2%81%e6%9c%b5%e2%80%9d">“斡鲁朵”</a> 
+								<a target="_blank" href="/qw?s0=7&amp;s1=%e2%80%9c%e9%84%82%e6%89%98%e5%85%8b%e2%80%9d">“鄂托克”</a> 
+
+						</div>
+					</div>
+					<br class="cls"/>
+				</div>
+				<div class="artBaseInfo" id="artTitleNote"/>
+				<a id="readArea" name="readArea"/>
+				
+			</div>
+			<div id="artText"><div class="artibody" id="Zoom" style="font-size: 14px;">
+    </p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;一、关于“瓯脱”问题的争议</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;自《史记》、《汉书》在记载匈奴史事时提到“瓯脱”问题后，历代史家对“瓯脱”一语的语意作了许多解释，但都不能令人信服。为讨论起见，现将有关记载兹列于后：</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.《史记·匈奴列传》：东胡王愈益骄，西侵。与匈奴间，中有弃地，莫居，千余里，各居其边为瓯脱。东胡使使谓冒顿曰：“匈奴与我界瓯脱外弃地，吾欲有之。”冒顿问群臣，群臣或曰：“此弃地，予之亦可，勿予亦可”。①</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.《汉书·匈奴传上》：明年（汉昭帝始元五年，前82年），匈奴发左右部二万骑，为四队，并入边为寇。汉兵追之，斩首获虏九千人，生得瓯脱王，汉无所失亡。匈奴见瓯脱王在汉，恐以为道击之，即西北远去，不敢南逐水草，发人民屯瓯脱。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.《汉书·匈奴传上》：其秋（汉宣帝地节二年，前68年），匈奴前所得西嗕居左地者，其君长以下数千人皆驱畜产行，与瓯脱战，所战杀伤甚众，遂南降汉。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4.《汉书·匈奴传下》：郅支单于自以道远，又怨汉拥护呼韩邪，遣使上书求侍子。汉遣谷吉送之，郅支杀吉。汉不知吉音问，而匈奴降者言闻瓯脱皆杀之。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5.《汉书·李广苏建传》：后（李）陵复至北海上，语（苏）武：“区脱（即瓯脱—引者）捕得云中生口，言太守以下吏民皆白服，曰上崩。”</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;汉籍中“瓯脱”一词应为匈奴语的汉语译音，那么其语意究竟何指？对此，古今史家展开了广泛讨论，概括起来不外有四种说法。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;第一，“瓯脱”为边界上的防卫设施。《索隐》引汉人服虔曰：“‘作土室以伺汉人。’又《纂文》曰：‘瓯脱’，土穴也。”《集解》引三国时人韦昭曰：“界上屯守处也。”唐人张守节《正义》按：“境上斥候之室为瓯脱也。”颜师古注云：“境上候望之处，若今之伏宿（舍）也。”日人白鸟库吉以“瓯脱”为“室”。②</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;第二，“瓯脱”为双方的中立地带。明代茅元仪《武备志·女直考》：“以其地正直开原，间于隙，彼不得与西虏通，欲吞北关以为窥辽之基，时有瓯脱本我界出，为奴所侵。”白鸟库吉谓：“其言瓯脱，盖境上边地之谓也。”③ 方壮猷曰：“此所谓瓯脱，与匈奴传之所谓瓯脱意义相近。”④ 清末学者丁谦说：“传既言‘弃地莫居’，又言‘各居其边为瓯脱’，则瓯脱指弃地而言，原文极明晰。且细读本文，并无防守意义。抑知地亘千里，何能偏守？既无人居，守之何为？要之，瓯脱二字为当时方言，今难确解然大意不过为不毛之地，不足于居人。何所见‘作土室以伺’，又何所见而曰‘境上候望处’耶？”⑤</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;第三，“瓯脱”为官号。《汉书·李广苏建传》注引李奇曰：“匈奴边境罗落守卫官也。”晋灼曰：“《匈奴传》东胡与匈奴间有弃地千余里，各居其边为区脱。又云汉得区脱王，发人民屯区脱以备汉，此为因边境以为官。李说是也。”</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;第四，“瓯脱”为地名。《史记·匈奴列传》注引《纂文》曰：“又云是地名，故下云‘生得瓯脱王’。”</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;以上诸说，由来已久，孰是孰非莫衷一是。近年来，中外学者围绕史籍中“瓯脱”的语义进行了深入探讨，使之成为匈奴史和匈奴学研究中的一大亮点。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;对古书古注中有关“瓯脱”的解说，学界已经基本摈弃了后两说，即“官号说””和“地名说”，主要围绕前两说展开讨论，即“防卫设施说”和“中立地带说”。学者在论证各自观点时，都征引了恩格斯的如下一段论述：“每一部落除自己实际居住的地方以外，还占有广大的地区供打猎和捕鱼之用。在这个地区之外，还有一块广阔的中立地带，一直伸延到邻近部落的地区边上；在语言接近的各部落中间，这种中立地带比较狭小，在语言不接近的各部落中间，中立地带比较大。……由这种不确定的疆界隔开的地区，乃是部落的公有土地，而为相邻部落所承认，并由部落自己来防卫，以免他人侵占。”⑥ 毫无疑问，恩格斯的论断有助于我们正确理解有关“瓯脱”的语义，但是，由于学者对有关“瓯脱”原文的理解不同，却得出了两种截然不同的看法。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;一种观点认为“瓯脱”就是匈奴语边界的意思。此说以林干先生为代表，是对“防卫设施说”的修正，他在对有关的“瓯脱”史料详加考证后指出：“瓯脱就是匈奴语边界的意思，匈奴与东胡之间有瓯脱，与汉朝之间也有瓯脱。汉匈之间的瓯脱有文献可考的，除云中一带外，在朔方一带也有。瓯脱驻有边防部队担任巡逻和守卫，由瓯脱王负责统帅。”⑦ 何星亮先生最初也支持这一说法，后来又修正了自己的观点，认为“瓯脱类似今之边防站，驻有一定数量的军队，由瓯脱王统帅”。并总结了“瓯脱”的五种职能，即瞭望、侦探；保卫边疆；阻止外逃；驿站、兵站性质；稽查来往人员。⑧</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;另一种观点则赞同“中立地带说”。刘文性先生认为恩格斯所说的“中立地带”恰恰就是司马迁《史记》所说的“弃地”，这种弃地在匈奴语中称为“瓯脱”，译成汉语就是“中间”、“当中”的意思。这种“中立地带”或匈奴称为“瓯脱”的现象，是原始部落社会的产物，它不适用于其他社会。⑨ 张云先生在基本肯定“中立地带说”的前提下，对该说作了进一步修正，并归纳出“瓯脱”的含义是：一、瓯脱在汉、匈或匈奴与东胡各自边界的一方。二、在双方瓯脱之外为“弃地”，即中间地带，双方共同占有。三、瓯脱既在边界上，双方均有一些军事设施或以瓯脱代称之。四、瓯脱有驻军，匈奴甚至有“瓯脱王”管辖。五、瓯脱有人民屯守，军事和生产相结合，以加强抵御力量。⑩ 李桂芝先生也大体认可此说，认为史书中所说“中有弃地”，“各居其边为瓯脱”，即东胡和匈奴之间有弃地，双方在弃地的各自一方均建有瓯脱。为论证己说，作者还把“瓯脱”与契丹人的斡鲁朵（斡耳朵）在组织、建制、职能等方面进行了比较研究。认为匈奴单于子弟多封王，且各有分地，“瓯脱王”当是地位较高、权力较大、势力较强的贵族。他们既称为“王”，也应是单于的兄弟、子侄，很可能是左右贤王、左右谷蠡王或其他有王号的匈奴贵族，因其建有“瓯脱”，故被笼统地称为“瓯脱王”，实即“瓯脱”的主人。所以，匈奴人的“瓯脱”当是匈奴单于挛鞮氏家族诸王所建管理各自分地、属民、军政事务和家族事务的社区组织及其机构。进一步说，如果把匈奴人的“瓯脱”比作汉朝的王府，从广义上讲，它包括官属、封地、属民；从狭义上讲，只指王公府地。(11)</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;陈宗振既不同意刘文性的“中间地带”说，也不同意何星亮的“边界、驿站、设防的城堡—宫殿、王庭”说。他在《古突厥语的otar与“瓯脱”》一文中对“ortu”与“ordu”的词义进行了比勘，认为“瓯脱”一词更接近古突厥语的“otar”，11世纪喀喇汗王朝成书的《福乐智慧》和《突厥语词典》中都有“otar”一词，其词意应是“帐篷、住所、驻地”，他又考察了同“otor”这一词相近的现代突厥语族中的一些词汇，如维吾尔语、裕固语、哈萨克语、土耳其语、吉尔吉斯语和阿塞拜疆语等，发现这个词的读音在各种语言中大同小异，而且语意十分接近，即“毡房、帐篷、窝棚、住所”。同时，在许多语言中还有“临时性、暂时性”的含义。古代的匈奴人有生产、生活的中心地区，这就是恩格斯所说的“实际居住的地方”；在这个地区之外，还有虽不常住，但有时去放牧或狩猎的地方，这种地方的最边远处就是他们实际控制的边界，当他们到那里去时，就要建“临时住所”，这种住所的形式可以是多种多样的，不论是“帐篷”、“毡房”、“窝棚”、“窝铺”、“土室”还是“土穴”、“窑洞”或“地窝子”等设施，统统都是“otar”，古代汉人可能根据与此类似的匈奴语词音译为“瓯脱”。(12)</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;此外，胡和温都尔在《瓯脱义辨》(13) 一文中提出：瓯脱一词从匈奴以来直到现代本义是领地的意思，也就是《史记·匈奴列传》中“分地”的意思，从清代到现代，又音译为鄂托克或努图克了。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;以上诸位先生的研究无疑是通向最终解决“瓯脱”语意的一个个阶梯，为我们继续思考这一问题奠定了必要的基础。但我们还是认为，要从语言学上完全还原“瓯脱”的内涵或许是不可能的，因为匈奴语没有直接流传下来；从汉籍的有关描述中去准确地概括“瓯脱”的含义也存在种种障碍，因为散见于汉籍中的叙述语都是以中原汉人的思维习惯解读草原民族文化与制度的产物。尽管如此，并不妨碍我们作进一步的探讨，其实，“瓯脱”的内涵有一个不断丰富的过程，要解决这个千古难题，必须把对“瓯脱”的考察同北方草原民族的生存环境、生产和生活方式联系起来，甚而要和与之存在继承关系的后起民族的文化习俗联系起来进行综合思考，或许才能得出一个大体接近事实的结论。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;二、“瓯脱”语意考辨</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;学者从民族语言学的角度，指出“瓯脱”不过是“ordu”、“otar”、“ota”的同音异译，并由“ordu”、“otar”、“ota”的词义推测“瓯脱”的含义，这是非常有益的尝试。我们认为“瓯脱”的词义还可以进一步从匈奴、东胡、突厥的生产方式、生活习俗上去寻根探源，因为突厥语中的“瓯脱”（ordu）一词最早可能是和部落的历史联系在一起的，而突厥和匈奴的渊源极为密切，所以从突厥传说中的早期历史中也可以窥见匈奴的历史片段。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;对突厥族的早期历史，《北史·突厥传》有如下一段记载：“突厥者，其先居西海之右，独为部落，盖匈奴之别种也。……移徙无常，而各有地分。可汗恒处於都斤山，牙帐东开，盖敬日之所出也。每岁率诸贵人，祭其先窟。又以五月中旬，集他人水拜祭天神。於都斤西五百里有高山迥出，上无草树，谓为勃登宁梨，夏言地神也。”(14) 而《史记·匈奴列传》描写匈奴风俗也是“岁正月，诸长小会单于庭，祠。五月，大会龙城，祭其先、天地、鬼神。秋，马肥，大会<img onerror="this.src='/images/err.png'" src="http://img.ipub.exuezhe.com/jpg/K21/2009/K21T616.jpg" />林”。“而单于朝出营，拜日之始生，夕拜月。其坐，长左而北鄕。日上戊己”。这说明匈奴与突厥的习俗相同，每年都对自己的祖先，神灵和天地进行祭祀，而且祭祀地点在山与水之间，多为祖兴之地，和自己的部落形成有关。这是突厥习俗与匈奴相同的证明，其中饱含着草原游牧民族对血缘部落起源和祖居地的怀恋之情。进一步说，突厥人崇拜的神山、神地和天神应该都是从匈奴人那里继承而来，突厥人崇拜的神山，史书称为“于都斤山”、“乌德鞬山”，蒙语称为“额秃根”或“乌德哥”，一般译为“母地”和“后土”。其实，“乌德哥”或“额秃根”都是突厥人（和匈奴人）对于祖居地、发祥地和自己母性部落的称谓和记忆，如《北史》和《魏书》中的一些部落名称“乌洛侯”、“兀的哥”、“多滥葛”等，在语音上就和“额秃根”或“乌德哥”大体相同，和汉译匈奴族“瓯脱”一词的发音也基本一致，据此判断，“瓯脱”应是匈奴人对母系部落或母系部落组织的一种称谓。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;我们之所以如是说，绝非空穴来风。《徐霞客游记·滇游日记十二》对云南蒙城地理位置作过如下描述：在从蒙化经迷渡去洱海的路上，“更蹑坡直上，五里，登坡头，平行冈脊而南度之。此脊由南峰北度而下者，其东与大山夹为坑，北下西转而入大川；其西则平坠川南，从其上俯瞰蒙城，如一瓯脱也”。(15) 他之所以把蒙城的地形比喻为“瓯脱”，在于从山上俯瞰蒙城，蒙城正处在“南峰”与东面“大山”对夹的“坑”里，好比一个大口袋里或桶里，说明徐霞客生活的时代“瓯脱”有“坑”状的意思。现代蒙语中把游牧点称之为“otat。”（瓯脱），口袋也称之为奥特（ota），有布日森奥特（布口袋）和阿日森奥特（皮口袋）之别，有时也把奶桶等物称之为奥特。正是因为匈奴语及其习俗直接影响了突厥，突厥又影响了蒙古，因此，蒙语中的“otar”（瓯脱）便保留了匈奴语“瓯脱”原义的信息，明代把蒙语“otar”音译为“瓯脱”，说明从匈奴语直到蒙语对“口袋”或“桶”的发音并没有发生多大变化。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;值得我们进一步深思的是，蒙语中也有把长得像母亲的孩子比喻成“奥特”，这不禁使我们想到，在远古时代阿尔泰语系的北方民族中，或许把女性的妊娠比喻为“口袋”或“桶”，这和甲骨文、金文中“孕”的写法为大腹中怀有一子有异曲同工之妙。如果这样推测可以成立的话，“瓯脱”的原意就应该是指女性的妊娠或与之形状类似的“口袋”和“桶”。蒙语中还有“嫩秃黑”一词，是“努图克”的古语，汉译为营盘或营地，傅乐焕先生指出：蒙古语把游牧人的野营或住所称为“nutuk”（鄂托克或努图克），即《元朝秘史》原文之“嫩秃黑”，意译作营盘，而且托尔斯克语把村落也称为“nutuk”。(16) 此外，蒙语还把“兀鲁黑”译为“同族”、“国”或“地面”、“地区”或“人民”等，其实，这些词汇都源于“嫩秃黑”或“嫩图根”，也就是“瓯脱”。据此，“瓯脱”在内涵上又指称有着同一母系血缘的族群（同族）和这一族群活动的营地，即匈奴早期的部落称谓或部落营地称谓。比如西北裕固族是丁零的后裔，他们的音乐和民歌，经专家研究与匈牙利民歌同出一源，(17) 他们的语言被认为属于突厥语族，在裕固族语言中“部落”就叫“鄂托克”，而“氏族”就叫“骨”（gu）。(18) 我们认为，这很可能就是沉淀的古匈奴语。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;当然，目前我们还不能对匈奴人的语言及人类学特征作出最后的定论，但匈奴人毕竟在蒙古地区留下了长久不灭的痕迹，匈奴的某些制度和习俗在蒙古高原各民族中世代流传，比如左右翼和十进制的军事行政划分一直延续到明清时期，今天的内蒙古自治区还使用着左、中、右旗的名称。“月盛壮则攻战”是匈奴人的军事迷信，它在成吉思汗出征乃蛮部落时还在产生影响。当然，继承匈奴制度习俗的不只是蒙古人，突厥人的军事行政单位也分左右翼，也是“侯月将满，辄为寇钞”。而且祖源东胡的柔然可汗在征服突厥语族高车之后，也建立起“千人为军”、“百人为幢”的十进制“军法”。由此可见，匈奴族的制度与习俗的延续和流传，是由蒙古高原特有的环境和社会经济条件决定的，各游牧民族对它都有所适应和继承。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;匈奴人很早就组成了氏族部落和部落联盟，其氏族部落的主要特征是：它既是一个生产组织，也是一个军事组织，是生产组织与军事组织的结合体。故《史记·匈奴列传》说：“士力能弯弓，尽为甲骑；其俗，宽则随畜因射猎禽兽为生业，急则人习战攻以侵伐。”随着母系氏族公社的衰落，匈奴人组成了地域公社—毗邻牧人公社，其实就是我们所说的“瓯脱”，即蒙语中的“otar”，裕固族语的“鄂托克”。在匈奴族的“瓯脱”中也相伴产生了世袭制、分地制（左右翼制）和千户制（十进制军事行政划分），并且在匈奴的部落或氏族中，即“瓯脱”中还出现了外族人口，其中既有主动投靠的，比如处于乌孙和康居间的乌禅幕部等，也有战俘，其中有汉人，也有其他族人如东胡、乌桓、鲜卑、西嗕等。由此可见，匈奴的部落和氏族并不是纯正的血缘亲族的聚落，地缘关系已逐渐占据优势。来自不同民族的部民住在一起组成“瓯脱”，“瓯脱”里的人口不必同族同姓，这与其说是血缘组织，毋宁说是血缘组织的对立物。正是因为通过征服、灭族、离散、投奔等途径切断了各族原有的血缘脐带，才出现了在同一氏族内部由一个父权贵族家族控制的，来自于不同氏族的社会地位互不相同的个体家庭群，维系这些个体家庭群在一起放牧、狩猎的纽带已不再是血缘关系，而是由氏族组织转化而来的“毗邻牧人公社”。在氏族外壳下、即在一个贵族所属的氏族的名义下存在的毗邻牧人公社，常常以“瓯脱”为经济活动形式。在迁徙、作战和围猎的时候，牧人采取大规模营居的形式，组成几百户到一千户以上的环营—“瓯脱”。这种环营的“瓯脱”，在《通典·边防》中叙述结骨部时有生动的描写：“其俗大率与突厥同，婚姻无财聘，性多淫佚，与外人通者不忌。男女杂处，每一姓或千口、五百口，共一屋、一床、一被。”(19) 这是多大的屋、床、被？其实就是一个结营的大“瓯脱”。畜牧业生产的具体条件不可能使大批人口经常集聚在一起，于是由一个或几个血亲相近的个体家庭在一起自行放牧，这就是所谓小“瓯脱”。这种草原民族的小“瓯脱”的生活场景，在元朝诗人的笔下被描绘为：“山前孤戍水边营，落日无人已断行。瓯脱数家门早闭，轒辒千帐火宵明。”(20) 在这种环境中由大大小小的“瓯脱”组成了匈奴帝国，所以“瓯脱”既是部落的称谓，也是社区组织的称谓，在单于庭中“瓯脱”又是其国家政权的称谓。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;匈奴人早在氏族部落时期，牧场的疆界已经有了明确的划分，即“分地”，各部落（瓯脱）的放牧场所和地域是相互毗邻的。牧场和耕地不同，当时并不存在载畜量上的困难，茫茫草原并无畜满之患。如果说农业地区的地租收益直接取决于土地的多少，牧业地区领主的收益则取决于劳力的多少和牲畜的多少，唯其如此，“瓯脱”内人口的多少就成为中心环节。所以“瓯脱”这一分地的职能，就成为保持“宗种”对依附于它的族类进行统治的必要条件。只有保证了分地的利益，“瓯脱”才能牛马布野，势力强大。对此，《史记·匈奴列传》才说：“诸左方王将居东方，直上谷以往者，东接秽貉、朝鲜；右方王将居西方，直上郡以西，接月氏、氐、羌；而单于之庭直代、云中，各有分地，逐水草移徙。”此中所说的“各有分地”指的就是“单于庭”和“左右贤王”、“左右谷蠡王”、“左右骨都侯”，以及“诸二十四长”所置裨小王、相封、都尉、当户、且渠之属，从而在“左右翼制”和“十翼制”之下，形成了匈奴帝国的“瓯脱”制度，即“分地制”。即将国家划分为左、中、右三大政区，这种在行政系统上采取的划分方式，实际上就是依据“各有分地”的原则制定的。所以，对于《史记》中“瓯脱”的含义，就不应从边界的斥候、边防的防御来考虑，而应从匈奴、东胡“各有分地”的风俗习惯上予以考察。因此，“瓯脱”的含义，又可以进一步引申出和“分地”有关的社区、行政和军事组织建置等义项。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;既然“瓯脱”就是营帐和私人分地，则单于的私人“分地”就是“单于庭”，也就是单于私人的“瓯脱”。据《史记》、《汉书》的相关记载，匈奴单于为了躲避汉朝的进攻，曾让几千名汉人在匈奴的腹地凿井、筑城、掘窖、起楼，成为匈奴单于私人“瓯脱”中的宫帐，被简称为楼。其形制下有窖藏，上有高台，最上面是大帐，周围有城环之，这就是北方少数民族“楼居”的最早形式。北魏时期鲜卑人的宫廷，就延续了匈奴的楼居形式，称为“何头殿”或“阿计头殿”。鲜卑人也继承了匈奴的分地制，《武经总要后集》卷五“多方以误”条称曹魏大将田豫率兵进击鲜卑柯比能，就有“将锐卒深入‘瓯脱’”(21) 的记载，“深入瓯脱”即深入柯比能分地之意。说明曹魏时东胡族属鲜卑据有的辽东和辽西地区，也都遍布着大小的“瓯脱”。到了辽代，耶律阿保机建有“四楼”，形成辽代的“斡鲁朵”制度。(22) 斡鲁朵（即“瓯脱”）乃契丹语，汉译为“宫”、“宫卫”，是辽代契丹民族特有的一种制度。西辽耶律大石在阿姆河流域也建立过虎思斡鲁朵，王国维先生在《西辽都城虎思斡耳朵考》一文中曾指出：“西辽事迹见于中土，记载都至为简略。其建都之地，《辽史》作虎思斡耳朵；《金史》作骨斯讹鲁朵；《元史》作谷则斡耳朵，或作古徐鬼国讹耳朵；刘有撰《常德西使记》作亦堵；亦堵盖讹耳朵之略。”(23) 看来这几种称谓都可简称为“亦堵”，即“奥特”亦即“瓯脱”。蒙古大汗铁木真、窝阔台、贵由、蒙哥和元世祖忽必烈以下诸帝，也各有斡鲁朵，其中铁木真、忽必烈各建有四个斡鲁朵。大汗或皇帝在世时，斡鲁朵以居后妃，死后复有继承守宫之法。由此可见，辽、元时期契丹和蒙古人的斡鲁朵没有实质性的差别，所以，辽代的斡鲁朵在化家为国的领主占有制下，也就是宫廷和国家的代称。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;明代蒙古各部的最基层社会组织是“鄂托克”（otog），前人对“鄂托克”的属性作出了四种解说，即千户、分地、属民、行政单位。(24) 其实，“鄂托克”是蒙古社会最基本的行政机构，它代替了元代的千户，其“分地”之间没有发生实质改变，而且还有很多更深层次的意义。“鄂托克”作为蒙古贵族的遗产分给其子孙时，它包含了“分地”、“属民”、“财产”（主要指畜群）等内容；作为行政单位，“鄂托克”又有大小的不同，有时一个大“鄂托克”内包含很多小“鄂托克”。明代汉籍对这些“鄂托克”的记载也有区别，一般大“鄂托克”写作“大营”或“部”，小“鄂托克”写作“小营”或“营”。如察哈尔八大营、内喀尔喀五部等。“鄂托克”之下的寨桑也有大小之分，如天聪八年八月归顺金国的察哈尔部有四大寨桑、二十八个小寨桑。“鄂托克”的大小和数量，最能证明蒙古贵族的政治、经济实力，所以满族统治者就是根据蒙古贵族的这种实力的大小和对大清的忠顺态度，在蒙古地区设置了旗佐。“鄂托克”的大小和数量的多寡，直接成为建立旗佐的依据。至于“鄂托克”之上的“兀鲁思”和“万户”的范围更大，它往往指的是一方地方割据势力或一个贵族集团、部落集团。在蒙文史籍中有时“万户”（Tumen）和“国”（ulus）相同，如察哈尔兀鲁思、科尔沁兀鲁思等。满文则直接记录为gurun，汉译为“国”或“地面”。因此，明清时期在蒙古草原上的万户（相当于匈奴的王），就变成了“兀鲁思”（ulus），也就是“瓯脱”，而千户就成为“鄂托克”（小瓯脱），在“鄂托克”之下的“小鄂托克”（更小的瓯脱），就成了蒙古人的村庄之称，具体到家庭就成了分地（oron）。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;总之，要了解匈奴的“瓯脱”制度，就要从北方游牧民族的语言及其制度与习俗上去体会和理解。目前大多数学者都认为，匈奴东胡语是阿尔泰语系三大语族——突厥语族、蒙古语族和满—通古斯语族的母语。从母语和现代语言中就不难找出“瓯脱”的痕迹，如《史记·赵世家》中的“瓯代”，《史记·匈奴列传》中的“瓯脱”，《汉书·苏武列传》中的“区脱”以及曹魏、唐、宋、辽、元、明史籍中的“瓯脱”、“斡鲁朵”、“斡尔朵”、“兀鲁思”、“鄂托克”等，其实都是指称同样的事物。而现代突厥语和蒙古语中的“斡塔克”、“鄂托克”、“斡尔朵”、“兀鲁思”、“敖特尔”、“浩特”等又都和住所、村庄、居民点、家庭、家乡；游牧地区、游牧点、份地；人群、部落、游牧集团、社区组织；甚至国家、地域和疆域相联系，虽不专一指称一个事物，但必须把其语意放在北方少数民族的游牧经济环境以及生存环境之中去思考。一般来说，纯粹的游牧经济有四大要素，即草场（分地）、人群（社会组织）、畜群（财产）、游牧（转移、迁徙），在非定居的游牧中形成了特有的行国体制，正如《史记·匈奴列传》所载中行说的话：“匈奴之俗，人食畜肉，饮其汁，衣其皮；畜食草饮水，随时转移。故其急则人习骑射，宽则人乐无事，其约束轻，易行也。君臣简易，一国之政犹一身也。”所以，我们不能以现代人的观念和非游牧环境下的理念，去认识古代游牧文化下的事物，汉武帝元光六年（前129）春，卫青自上谷至龙城时，匈奴已是“人去楼空”，于是有人怀疑龙城并不具备聚会和祭祀的职能。其实象龙城、<img onerror="this.src='/images/err.png'" src="http://img.ipub.exuezhe.com/jpg/K21/2009/K21T616.jpg" />林和单于庭，大多无固定的地点，晋、唐时期的注家对“瓯脱”的解释：土穴、土室、地名、界上屯守处等，无一不是以中原的观念去理解游牧民族的习俗与制度，而近人争论之弃地、边地、边界、防卫设施、领地等也都和先贤一样误入了歧途。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;因此，我们应把“瓯脱”一词历史地放在游牧民族的行国体制和游牧经济的环境中去分析，结论是：《史记》和《汉书》中记载的“瓯脱”，并非只有一个词意，而是多种语境下的一词多义，从阿尔泰语系的母语发展而来的三个语族，有许多词汇的发音同“瓯脱”发生了必然的联系，其语意同样不是指称一个事物，但所指称的事物却或多或少地和匈奴语“瓯脱”存在着历史的渊源关系。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;三、“瓯脱”即部落（或氏族）、分地、宫帐（龙庭）、军营或营地</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;通过以上分析，我们对匈奴人的“瓯脱”问题可以作出如下解释。《史记·匈奴列传》记载匈奴人的生活习俗是：“逐水草迁徙，毋城郭常处耕田之业，然各有分地。毋文书，以言语为约束，儿能骑羊，引弓射鸟鼠；少长则射狐兔，用为食。士力能贯弓，尽为甲骑，其俗，宽则随蓄，因涉猎禽兽为生业，急则人习攻占以侵伐，其天性也。”这就是说，匈奴人平时在“瓯脱”内生产与生活，战时在“瓯脱”内结营备战。就像12世纪的蒙古人一样，平时几个血亲相近的家庭在一起自行放牧，这就是“阿寅勒”，而在迁徙围猎和作战时就采取营居的形式组成“古列延”，即散居的“小瓯脱”变为营居的“大瓯脱”。所以匈奴的“瓯脱”带有强烈的军事色彩，战时就是军营的代称。进一步说，匈奴的“瓯脱”就像其政权一样是三结合的社会组织：既是生产组织，又是行政组织，还是军事组织，这是北方蒙古草原少数民族所具有的最大特点。匈奴的“瓯脱”有大小之分，散布于左、中、右地。而且划分得非常详细和严格，据林干先生统计出的诸王和驻牧地（左右翼的辖区）就有十四个之多，(25) 而且不可逾越和私自变更。如《汉书·匈奴传上》所载，被置于匈奴左地的西嗕部，想转往祖居之右地，在半途就遭到屯营于左地的“瓯脱”的拦击，而且杀伤甚重，遂南降于汉。在单于庭“瓯脱”则为“宫帐”，战时“瓯脱”就是“军营”，平时“瓯脱”就是部落，就是“村庄”，就是“分地”，也就是家庭。“瓯脱”一词，起源于远古时期北方游牧部落的血缘亲族称谓。其后在蒙古高原游牧环境下的匈奴时代，其语意已和住所、分地、部落、宫帐、军营、社区组织相联系。其语意之所以外延较为宽泛且没有专指，是由于匈奴的生存环境、生产方式、生活方式、社区组织、军事组织的高度统一所致，并被其后迭兴的北方各游牧民族所继承和发展。这才有了其后的“农土”、“斡鲁朵”、“斡尔朵”、“鄂托克”、“兀鲁思”、“敖特尔”、“浩特”等等的诸多词语。后人之所以对“瓯脱”看法不一，主要是没有从“瓯脱”一词的起源和内涵的演变上进行思考，而是对古人的注疏各执一端，所以长期争论不休。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;综合上述，我们可以对《史记》、《汉书》中的相关记载作出如下解释。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.（东胡）“与匈奴间，中有弃地，莫居，千余里，各居其边为瓯脱”。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;依据前述，“瓯脱”是匈奴人的宫帐（龙庭）、军营、营地、分地、部落或氏族，是匈奴人生产、生活和部落管理单位，是社区、行政、军事的三位一体的组织，则“各居其边为瓯脱”就涵盖了国家、边界之意，这个“边”乃“中有弃地”之边。对游牧民族来说，“中有弃地”就如同汉族农田中有“阡陌”一样，是分地的疆界。语言不同的部落之间的“弃地”要大一些，相同的部落之间就要小一些。但这个疆界必须要有，因为这是由游牧民族的生产方式所决定的。在匈奴的内外“瓯脱”与“瓯脱”之间布满了这样大小不一的“弃地”（中间地带），“瓯脱”之间的弃地越宽（千余里），说明两者之间是两个不同的势力集团。东胡要求弃地权利，无疑等于把疆界向西扩展，而匈奴就需要把左、中、右之地的大小“瓯脱”整体西移。当时，不仅在匈奴和东胡之间有“弃地”（中间地带），汉匈之间也存在弃地。汉文帝时期，匈奴单于多次致书汉王朝，要保有汉匈之间的“弃地”，“（汉）皇帝既不欲匈奴近塞，则且诏吏民远舍”，(26) 由此看出匈奴对“弃地”（中间地带）的高度重视。后来汉文帝的答复是：“匈奴大单于遗朕书，言和亲已定，亡人不足以益众广地，匈奴无入塞，汉无出塞，犯今约者杀之。”(27) 至于“弃地”的主权问题，《史记》、《汉书》没有明确记载。恩格斯在论述北美易洛魁人氏族时曾经谈到，由这种不确定的疆界隔开的地区，乃是部落的公有土地，而为相邻的部落所承认，“疆界的不确定多半在人口大量增加的时候才会在实际上感到不方便”。(28) 事实证明匈奴与东胡之间、汉匈之间，都先后对“弃地”提出了主权要求，这是由历史的发展和生存空间的矛盾所导致的结果。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.“生得瓯脱王”。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;这里的“瓯脱王”很可能是匈奴单于私人分地上的管理者，类似辽代的诸行宫都部署之职，而“发人民屯瓯脱”就是下令分散畜牧的小部落（小“瓯脱”）到大部落（“大瓯脱”、单于庭）的营地去结营备战，是在单于私人部落和份地之中结营的意思。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.“与瓯脱战”。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;就是西嗕部落在匈奴结营部落的分地上和结营的部落进行的分地争夺战。这里的“瓯脱”既是匈奴左地的某一区域，又是匈奴的一种社区组织。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4.“闻瓯脱皆杀之”。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;是指在匈奴单于庭及单于自己分地的营帐里全被杀掉之意。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5.“瓯脱捕得云中生口”。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;指的是在匈奴（左地或右地）某个营地捕得了云中的汉人。这里的“瓯脱”即是营地，又是社区组织，还是结营的军队之代称。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;要言之，我们认为理解“瓯脱”含义的关键点，首先必须理解游牧民族的生存环境，生产方式与生活习惯，只要把这个问题解决了，所有关于“瓯脱”的记载也就迎刃而解了。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;注释：</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;① 《汉书·匈奴传上》的记载与此略同：（东胡）与匈奴中间有弃地莫居千余里，各居其边为瓯脱。东胡使使谓顿曰：“匈奴所与我界瓯脱外弃地，匈奴不能至，吾欲有之。”</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;② 白鸟库吉：《匈奴民族考》，何建民译，中华书局1939年《历史丛书》本。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;③ 白鸟库吉：《匈奴民族考》，中华书局1939年《历史丛书》本。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;④ 方壮猷：《匈奴语言考》，《国学季刊》1930年第2卷第4号。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⑤ 丁谦：《〈汉书·匈奴传〉地理考证》，《浙江图书馆丛书·汉书各外国传地理考证》，民国四年（1915年）刻本。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⑥ 恩格斯：《家庭、私有制和国家的起源》，《马克思恩格斯选集》第4卷，人民出版社1986年版，第87页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⑦ 林干：《匈奴通史》，人民出版社1986年版，第163页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⑧ 何星亮：《匈奴语“瓯脱”再释》，《民族研究》1988年第1期。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⑨ 刘文性：《“瓯脱”释》，《民族研究》1985年第2期。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⑩ 张云：《“瓯脱”考述》，《民族研究》1987年第3期。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(11) 李桂芝：《契丹大贺氏遥辇氏联盟的部落组织》，《庆祝王钟翰先生八十寿辰学术论文集》，辽宁大学出版社1993年版，第393—397页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(12) 陈宗振：《古突厥语的otar与“瓯脱”》，《民族研究》1989年2期。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(13) 胡和温都尔：《瓯脱义辨》，《内蒙古社会科学》1991年第6期。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(14) 《北史·突厥传》，中华书局1974年版，第3288页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(15) 《徐霞客游记·滇游日记十二》卷十上，上海古籍出版社1980年版，第1098页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(16) 傅乐焕：《四时捺钵总论》，《辽史丛考》，中华书局1984年版，第87页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(17) 张梅：《略谈匈奴的发展、壮大及西迁》，《西北成人教育学报》1999年2期。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(18) 朱学渊：《鲜卑民族及其语言》（上），《满语研究》2000年1期。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(19) 杜佑：《通典·边防》，“结骨条”，中华书局1984年版，第1084页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(20) 张翥：《上京秋日·元诗选》卷38，文渊阁本《四库全书》。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(21) 《四库全书·文渊阁本·子部》卷23，台湾商务印书馆1984年影印版，第663页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(22) 详见任爱军：《契丹史实揭要》第五章《契丹宫卫制度研究》，哈尔滨出版社2001年版，第185—263页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(23) 引自《观堂集林》第三册，中华书局1989年版，第628页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(24) 参见田山茂：《清代蒙古社会制度》，潘世宪译，商务印书馆1987年版，第36页；呼和温都尔：《解释汉音译“瓯脱”一词的含义》，《内蒙古社会科学》蒙文版1995年1期；策不勒编：《简明蒙古词典》，内蒙古人民出版社2002年版，第130页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(25) 林干：《匈奴史》，内蒙人民出版社1977年版，第35—47页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(26) 《史记·匈奴列传》，中华书局1982年版，第2896页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(27) 《史记·匈奴列传》，第2903页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(28) 恩格斯：《家庭、私有制和国家的起源》，《马克思恩格斯选集》第4卷，第87页。
+</div>
+<div class="page-list">
+    <div class="pageNav" id="pageList"></div>
+</div>
+</div><br class="cls"/>
+		</div>
+		</body></html>

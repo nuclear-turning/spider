@@ -1,0 +1,193 @@
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><style>.trR{ text-align:right;}
+#wraper{width:1190px; margin:0 auto; margin-bottom:10px;text-align:left;}
+#left{ float:left;width:250px; text-align:left;}
+#right{float:right;width:930px;text-align:left;border-top:2px solid #619bc0; padding-bottom:10px;}
+.border_w{ border:1px solid #d3d3d3;border-top:2px solid #619bc0;}
+.t01{height:30px;line-height:30px;border:1px solid #dddddd;padding-left:10px;background:url(../images/tbg01.jpg) repeat-x bottom; color:#1183c1; font-size:14px;}
+.con_01{ padding:10px;}
+.con_cbg{ background:url(../images/con_cbg.gif) repeat-y;}
+.con_bbg{ background:url(../images/con_bbg.gif) no-repeat left bottom; height:1px; line-height:1px; font-size:0;}
+
+.source{margin:15px;background:url(../images/linex.gif) repeat-x bottom; padding-bottom:30px; margin-bottom:30px;}
+.source .source-img{border:1px solid #d3d3d3; text-align:center; padding:5px;margin-bottom:10px; }
+.source p{color:#666666; font-weight:bold; font-size:12px;}
+.source .fblue{ color:#236bac; font-weight:normal;}
+
+.t_tj{ height:27px;padding-top:2px;margin:15px; background:url(../images/con_t_tj.gif) no-repeat left top; padding-left:10px; color:#FFFFFF; font-size:14px;}
+.c12_01{ margin-left:15px; margin-right:15px; margin-bottom:15px;}
+.c12_01 li{font-size:12px; line-height:24px; background: url(../images/dot.gif) no-repeat 2px 10px; padding-left:15px;}
+
+#artibodyTitle{color:#236bac;font-family:"宋体";font-size:20px;font-weight: normal;line-height:35px;text-align:center;margin-top:10px;	text-align:center;}
+#artisubTitle{font-family:"宋体";font-size:16px;font-weight: normal;line-height:28px;text-align:center;}
+.articl_info{margin-left:30px; margin-right:30px; position:relative;border-bottom:1px solid #e1e1e1;padding-bottom:20px; margin-bottom:20px;}
+.btn-img{
+	background-image:url(../images/allbg.png);
+	background-repeat:no-repeat;
+	font-size:12px;		
+	cursor:pointer;
+	border: 0px none;
+	display: inline-block;
+	vertical-align:middle;
+	text-align:center;}
+
+.artInfo{height:22px;border-top:1px solid #e1e1e1;border-bottom:1px solid #e1e1e1;padding:5px;margin:20px;}
+.artInfo li{float:left;width:33%;height:22px; line-height:22px; color:#666666;}
+
+.artInfo li .collectionPage_link{
+	background-position:-509px -80px;
+	padding-left:10px;
+	margin-top:-2px;
+	_margin-top:0px;
+	margin-left:10px;
+	width:51px;
+	height:22px; 
+	line-height:22px;		
+	color:#1183c1;	}
+.artInfo li .printPage_link{
+	background-position:-570px -80px;
+	padding-left:10px;
+	margin-top:-2px;
+	_margin-top:0px;
+	margin-left:10px;
+	width:51px;
+	height:22px; 
+	line-height:22px;	
+	color:#1183c1;}
+.artInfo li .downloadPage_link{
+	background-position:-631px -80px;
+	margin-top:-2px;
+	_margin-top:0px;
+	margin-left:10px;
+	width:51px;
+	padding-left:10px;
+	height:22px; 
+	line-height:22px;	
+	color:#1183c1;}
+
+
+.artBaseInfo{line-height:24px; margin-bottom:5px;}
+.artBaseInfo .info_left{float:left;width:80px;}
+.artBaseInfo .info_right{float:left;width:790px;}
+
+.artBaseInfo dt{float:left;width:80px; color:#666666;line-height:20px; display:inline-block;}
+.artBaseInfo dd{color:#666666;line-height:20px;display:inline-block;}
+.artBaseInfo .col li{ float:left;width:210px; height:20px; line-height:20px;color:#666666;}
+
+.artBaseInfo .item{ float:left;width:50%;}
+.artBaseInfo .notice{
+	margin-left:10px;
+	width:61px;
+	padding-left:10px;
+	height:22px; 
+	line-height:22px;
+	background-position:-448px -80px;	
+	color:#1183c1;}
+
+.artInfo{height:30px;border-top:1px solid #e1e1e1;border-bottom:1px solid #e1e1e1;margin:20px 10px;}
+.artInfo div{ float:left;width:30%;height:30px; line-height:30px; text-align:center;}
+.artInfo div a{ margin-left:20px; margin-right:20px;}
+.artInfo li{float:left;width:33%;height:22px; line-height:22px; color:#666666;}
+
+.articl_info{margin-left:30px;margin-right:30px; position:relative;border-bottom:1px solid #e1e1e1;padding-bottom:20px; margin-bottom:20px;}
+.artBaseInfo{margin-bottom:5px;}
+.articl_info_t{float:left;width:80px;margin-right: -100%;font-weight:bold;line-height:24px;}
+.articl_info_c{float: left;width: 100%;}
+.articl_info_c .info_c{margin-left:80px; line-height:24px;}
+.artBaseInfo .marL{ margin-left:20PX;}
+.artBaseInfo .col_info{ float:left;width:30%;line-height:20px;}
+
+.fontSize{position: relative;right:0px;top:0px;font-size:12px; height:30px; line-height:30px; text-align:right;}
+.fontSize a{border:1px solid #c2c2c2;margin-right:10px;padding:4px 1px;*padding:1px; cursor:pointer;font-size:12px;}
+.fontSize a span{background:url(../images/page_a_36.png) repeat-x;padding:3px;}
+
+.fontSize a.now{border: #f9ad75 1px solid;padding:4px 1px;*padding:1px;}
+.fontSize a.now span{color:#ff7d27;background:url(../images/current_34.png) repeat-x bottom;padding:3px;}
+.artibody{margin-left:20px;margin-right:20px;font: 18px/180% "Microsoft YaHei","微软雅黑"; color:#666666;}
+.artibody p{margin-bottom:20px;}
+
+.fontSize A:link{ color:#000000;text-decoration:none;}
+.fontSize A:visited{ color:#000000;text-decoration:none;}
+.fontSize A:hover{ color:#FF0000;text-decoration:none;}
+.fontSize a.now:link{color:#ff7d27;text-decoration:none;}
+#Zoom img {max-width:600px; max-height:600px; scale:expression((this.offsetWidth > this.offsetHeight)?(this.style.width = this.offsetWidth >= 600 ? "600px" : "auto"):(this.style.height = this.offsetHeight >= 600 ? "600px" : "auto")); display:inline !important;}
+
+.t_artiInfo{font-size:14px; padding-left:20px;background:url(../images/linex.gif) repeat-x top; line-height:30px; margin-top:10px;}
+.li_artiInfo{margin-left:30px; margin-right:30px;padding-bottom:10px; }
+.li_artiInfo ul li{float:left;width:100%;padding:3px 0;}
+.li_artiInfo ul li .title{ float:left;width:65%;}
+.li_artiInfo ul li .author{ float:left;width:15%;}
+.li_artiInfo ul li .come{ float:right;width:20%;color:#999999; text-align:right;}
+
+
+.index_artInfo{height:36px; line-height:36px; border-top:1px solid #e1e1e1;border-bottom:1px solid #e1e1e1; margin-top:20px; padding-left:20px;  padding-right:20px;padding-right:10px; margin-bottom:10px; margin-left:10px;text-align:center;}
+.index_artInfo a.collectionPage_link{ background:url(../images/icon.gif) no-repeat 0 1px; padding-left:15px;}
+.index_artInfo a.printPage_link{background:url(../images/icon.gif) no-repeat 0 -55px; padding-left:15px;}
+.index_artInfo a.downloadPage_link{background:url(../images/icon.gif) no-repeat 0 -108px; padding-left:13px;}
+
+.index_body .main{margin-left:100px; line-height:28px;color:#000000; padding-bottom:30px; padding-top:20px;}</style></head><body><div id="wraper">
+			<div id="artTitles">
+				<h1 id="artibodyTitle">论点摘编</h1>
+				<h2 id="artisubTitle"/>
+			</div>
+			
+			<div class="articl_info">
+				<div class="artBaseInfo" id="autInfo">
+					<div class="articl_info_t">作 者：</div>
+					<div class="articl_info_c">
+						<div class="info_c">
+						</div>
+					</div>
+					<br class="cls"/>
+				</div>
+				<div class="artBaseInfo" id="autDescription">
+					<div class="articl_info_t">作者简介：</div>
+					<div class="articl_info_c">
+						<div class="info_c"/>
+					</div>
+					<br class="cls"/>
+				</div>
+				<div class="artBaseInfo" id="tAutInfo"/>
+				<div class="artBaseInfo" id="orgInfo">
+					<div class="articl_info_t">原文出处：</div>
+					<div class="articl_info_c">
+						<div class="info_c"/>
+					</div>
+					<br class="cls"/>
+				</div>
+				<div class="artBaseInfo" id="astInfo">
+					<div class="articl_info_t">内容提要：</div>
+					<div class="articl_info_c">
+						<div class="info_c">
+							<p/>
+						</div>
+					</div>
+					<br class="cls"/>
+				</div>
+				<div id="artPdcInfo" class="artBaseInfo">
+					<div class="col_info"><b>期刊代号：</b>K4 </div>
+					<div class="col_info"><b>分类名称：</b>中国现代史 </div>
+					<div class="col_info"><b>复印期号：</b>2007 年 02 期 </div>
+					<br class="cls"/>
+				</div>
+				<div class="artBaseInfo" id="artKeyword">
+					<div class="articl_info_t">关 键 词：</div>
+					<div class="articl_info_c">
+						<div class="info_c">
+
+						</div>
+					</div>
+					<br class="cls"/>
+				</div>
+				<div class="artBaseInfo" id="artTitleNote"/>
+				<a id="readArea" name="readArea"/>
+				
+			</div>
+			<div id="artText"><div class="artibody" id="Zoom" style="font-size: 14px;">
+    </p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;蒋廷黻现代化思想述论</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;蔡乐苏／尹媛萍</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（清华大学人文社会科学学院，北京  100084）</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;著名历史学家、外交家和政论家蒋廷黻在20世纪三四十年代率先大力倡导现代化。他的现代化思想是一个包含了政治、经济和文化建设各个方面的一个完整体系。他认为，国家统一、政权集中是近代中国实现现代化的基本前提；在重视科学技术和军事工业的基础上发展现代经济是世界各国现代化的共同经验；他希望中国知识分子要适应现代化的要求，努力使自己成为合格的新型人才，在现代化建设中发挥领导作用。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;摘自《清华大学学报》（京）2006.6.14~21</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;民主革命时期中共党内监督的历史沿革及其特点</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（中共中央党史研究室第一研究部，北京  100080）</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;以党内监督权的归属为线索，作者论述了民主革命时期中共党内监督历史沿革的四个阶段，即：党内监督权由各级执行委员会直接行使阶段；党内专门监督机构较为独立完整地行使党内监督权阶段；党内监督权逐渐复归各级党委会的过渡阶段；各级党委会通过专门监督机构行使党内监督权机制的正式确定和延展阶段。同时，作者还对这一时期中共党内监督具备的五个主要特点及其对新时期党内监督工作的深刻启示进行了探讨。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;摘自《中共党史研究》（京）2006.6.65~72</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;抗日根据地的乡村基层民主政治建设</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（北京工业大学人文社科学院，北京  100022）</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;中国共产党在领导抗日根据地民主政治建设的过程中，特别重视以乡级基层建设为核心的乡村基层民主政治建设，通过开展各种民主活动把抗日和民主紧密地结合起来，将民主政治植根于根据地抗日民主政权的最基层——乡村，使民众在基层政权中获得了前所未有的权力。卓有成效的乡村基层民主政治建设，为抗日战争的胜利准备了条件，为最终战胜国民党奠定了基础，为最终战胜国民党奠定了基础，同时，也为今天进一步推进农村基层民主政治建设留下了宝贵的历史经验。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;摘自《北京工业大学学报》（京）2006.3.86~90</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;究竟什么是无条件投降</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;邱维骥／李春文</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（思茅市第二中学，云南  思茅  665000）</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;长期以来，日本国内一直存在第二次世界大战“日本是有条件投降”的论调，中国少数学者也持相同的观点。“日本是有条件投降”论者都认为：无条件投降是战胜和战败双方都不允许对投降先提出条件，因此，既然在日本投降之前，就有了《波茨坦公告》的“条件”，日本投降就属于“有条件投降”。但从史实、概念、逻辑、法律等方面来看，受降与投降是两个概念，无条件投降是投降者无附加条件地接受胜利者提出的受降条件的投降，德国和日本是国家无条件投降的典型。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;摘自《云南师范大学学报》（昆明）2006.6.61~68　</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“主要矛盾”与“中心任务”何以相悖</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;赵科天</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(淮阴师范学院政治与公共管理系，淮安  223001)</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;党的八大后，党在主要矛盾和中心任务的问题上发生了错位、相悖，在党史上留下了一个哑谜。这一哑谜的谜底仍在主要矛盾本身。当时虽然已经有了关于社会主义社会主要矛盾的正确认识，但由于这种矛盾运动的历史进程还处在“原生形态”，所以人们认识上很容易发生反复。半个世纪以来，中国社会主要矛盾的基本形态虽然没有发生质变，但具体运动形态已经超越了“原生形态”，走向了“次生形态”，并在向“再生形态”跨越。社会主要矛盾运动新的历史进程，终于使我们能彻底破解这一哑谜。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;摘自《毛泽东思想研究》（成都）2006.6.136~140
+</div>
+<div class="page-list">
+    <div class="pageNav" id="pageList"></div>
+</div>
+</div><br class="cls"/>
+		</div>
+		</body></html>

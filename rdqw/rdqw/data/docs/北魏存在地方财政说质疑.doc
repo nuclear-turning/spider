@@ -1,0 +1,198 @@
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><style>.trR{ text-align:right;}
+#wraper{width:1190px; margin:0 auto; margin-bottom:10px;text-align:left;}
+#left{ float:left;width:250px; text-align:left;}
+#right{float:right;width:930px;text-align:left;border-top:2px solid #619bc0; padding-bottom:10px;}
+.border_w{ border:1px solid #d3d3d3;border-top:2px solid #619bc0;}
+.t01{height:30px;line-height:30px;border:1px solid #dddddd;padding-left:10px;background:url(../images/tbg01.jpg) repeat-x bottom; color:#1183c1; font-size:14px;}
+.con_01{ padding:10px;}
+.con_cbg{ background:url(../images/con_cbg.gif) repeat-y;}
+.con_bbg{ background:url(../images/con_bbg.gif) no-repeat left bottom; height:1px; line-height:1px; font-size:0;}
+
+.source{margin:15px;background:url(../images/linex.gif) repeat-x bottom; padding-bottom:30px; margin-bottom:30px;}
+.source .source-img{border:1px solid #d3d3d3; text-align:center; padding:5px;margin-bottom:10px; }
+.source p{color:#666666; font-weight:bold; font-size:12px;}
+.source .fblue{ color:#236bac; font-weight:normal;}
+
+.t_tj{ height:27px;padding-top:2px;margin:15px; background:url(../images/con_t_tj.gif) no-repeat left top; padding-left:10px; color:#FFFFFF; font-size:14px;}
+.c12_01{ margin-left:15px; margin-right:15px; margin-bottom:15px;}
+.c12_01 li{font-size:12px; line-height:24px; background: url(../images/dot.gif) no-repeat 2px 10px; padding-left:15px;}
+
+#artibodyTitle{color:#236bac;font-family:"宋体";font-size:20px;font-weight: normal;line-height:35px;text-align:center;margin-top:10px;	text-align:center;}
+#artisubTitle{font-family:"宋体";font-size:16px;font-weight: normal;line-height:28px;text-align:center;}
+.articl_info{margin-left:30px; margin-right:30px; position:relative;border-bottom:1px solid #e1e1e1;padding-bottom:20px; margin-bottom:20px;}
+.btn-img{
+	background-image:url(../images/allbg.png);
+	background-repeat:no-repeat;
+	font-size:12px;		
+	cursor:pointer;
+	border: 0px none;
+	display: inline-block;
+	vertical-align:middle;
+	text-align:center;}
+
+.artInfo{height:22px;border-top:1px solid #e1e1e1;border-bottom:1px solid #e1e1e1;padding:5px;margin:20px;}
+.artInfo li{float:left;width:33%;height:22px; line-height:22px; color:#666666;}
+
+.artInfo li .collectionPage_link{
+	background-position:-509px -80px;
+	padding-left:10px;
+	margin-top:-2px;
+	_margin-top:0px;
+	margin-left:10px;
+	width:51px;
+	height:22px; 
+	line-height:22px;		
+	color:#1183c1;	}
+.artInfo li .printPage_link{
+	background-position:-570px -80px;
+	padding-left:10px;
+	margin-top:-2px;
+	_margin-top:0px;
+	margin-left:10px;
+	width:51px;
+	height:22px; 
+	line-height:22px;	
+	color:#1183c1;}
+.artInfo li .downloadPage_link{
+	background-position:-631px -80px;
+	margin-top:-2px;
+	_margin-top:0px;
+	margin-left:10px;
+	width:51px;
+	padding-left:10px;
+	height:22px; 
+	line-height:22px;	
+	color:#1183c1;}
+
+
+.artBaseInfo{line-height:24px; margin-bottom:5px;}
+.artBaseInfo .info_left{float:left;width:80px;}
+.artBaseInfo .info_right{float:left;width:790px;}
+
+.artBaseInfo dt{float:left;width:80px; color:#666666;line-height:20px; display:inline-block;}
+.artBaseInfo dd{color:#666666;line-height:20px;display:inline-block;}
+.artBaseInfo .col li{ float:left;width:210px; height:20px; line-height:20px;color:#666666;}
+
+.artBaseInfo .item{ float:left;width:50%;}
+.artBaseInfo .notice{
+	margin-left:10px;
+	width:61px;
+	padding-left:10px;
+	height:22px; 
+	line-height:22px;
+	background-position:-448px -80px;	
+	color:#1183c1;}
+
+.artInfo{height:30px;border-top:1px solid #e1e1e1;border-bottom:1px solid #e1e1e1;margin:20px 10px;}
+.artInfo div{ float:left;width:30%;height:30px; line-height:30px; text-align:center;}
+.artInfo div a{ margin-left:20px; margin-right:20px;}
+.artInfo li{float:left;width:33%;height:22px; line-height:22px; color:#666666;}
+
+.articl_info{margin-left:30px;margin-right:30px; position:relative;border-bottom:1px solid #e1e1e1;padding-bottom:20px; margin-bottom:20px;}
+.artBaseInfo{margin-bottom:5px;}
+.articl_info_t{float:left;width:80px;margin-right: -100%;font-weight:bold;line-height:24px;}
+.articl_info_c{float: left;width: 100%;}
+.articl_info_c .info_c{margin-left:80px; line-height:24px;}
+.artBaseInfo .marL{ margin-left:20PX;}
+.artBaseInfo .col_info{ float:left;width:30%;line-height:20px;}
+
+.fontSize{position: relative;right:0px;top:0px;font-size:12px; height:30px; line-height:30px; text-align:right;}
+.fontSize a{border:1px solid #c2c2c2;margin-right:10px;padding:4px 1px;*padding:1px; cursor:pointer;font-size:12px;}
+.fontSize a span{background:url(../images/page_a_36.png) repeat-x;padding:3px;}
+
+.fontSize a.now{border: #f9ad75 1px solid;padding:4px 1px;*padding:1px;}
+.fontSize a.now span{color:#ff7d27;background:url(../images/current_34.png) repeat-x bottom;padding:3px;}
+.artibody{margin-left:20px;margin-right:20px;font: 18px/180% "Microsoft YaHei","微软雅黑"; color:#666666;}
+.artibody p{margin-bottom:20px;}
+
+.fontSize A:link{ color:#000000;text-decoration:none;}
+.fontSize A:visited{ color:#000000;text-decoration:none;}
+.fontSize A:hover{ color:#FF0000;text-decoration:none;}
+.fontSize a.now:link{color:#ff7d27;text-decoration:none;}
+#Zoom img {max-width:600px; max-height:600px; scale:expression((this.offsetWidth > this.offsetHeight)?(this.style.width = this.offsetWidth >= 600 ? "600px" : "auto"):(this.style.height = this.offsetHeight >= 600 ? "600px" : "auto")); display:inline !important;}
+
+.t_artiInfo{font-size:14px; padding-left:20px;background:url(../images/linex.gif) repeat-x top; line-height:30px; margin-top:10px;}
+.li_artiInfo{margin-left:30px; margin-right:30px;padding-bottom:10px; }
+.li_artiInfo ul li{float:left;width:100%;padding:3px 0;}
+.li_artiInfo ul li .title{ float:left;width:65%;}
+.li_artiInfo ul li .author{ float:left;width:15%;}
+.li_artiInfo ul li .come{ float:right;width:20%;color:#999999; text-align:right;}
+
+
+.index_artInfo{height:36px; line-height:36px; border-top:1px solid #e1e1e1;border-bottom:1px solid #e1e1e1; margin-top:20px; padding-left:20px;  padding-right:20px;padding-right:10px; margin-bottom:10px; margin-left:10px;text-align:center;}
+.index_artInfo a.collectionPage_link{ background:url(../images/icon.gif) no-repeat 0 1px; padding-left:15px;}
+.index_artInfo a.printPage_link{background:url(../images/icon.gif) no-repeat 0 -55px; padding-left:15px;}
+.index_artInfo a.downloadPage_link{background:url(../images/icon.gif) no-repeat 0 -108px; padding-left:13px;}
+
+.index_body .main{margin-left:100px; line-height:28px;color:#000000; padding-bottom:30px; padding-top:20px;}</style></head><body><div id="wraper">
+			<div id="artTitles">
+				<h1 id="artibodyTitle">北魏存在地方财政说质疑</h1>
+				<h2 id="artisubTitle">——兼与渡边信一郎先生商榷</h2>
+			</div>
+			
+			<div class="articl_info">
+				<div class="artBaseInfo" id="autInfo">
+					<div class="articl_info_t">作 者：</div>
+					<div class="articl_info_c">
+						<div class="info_c">
+								<a target="_blank" href="/qw?s0=4&amp;s1=%e7%8e%8b%e4%b8%87%e7%9b%88">王万盈</a> 
+						</div>
+					</div>
+					<br class="cls"/>
+				</div>
+				<div class="artBaseInfo" id="autDescription">
+					<div class="articl_info_t">作者简介：</div>
+					<div class="articl_info_c">
+						<div class="info_c">王万盈，宁波大学历史系。（宁波 315211）</div>
+					</div>
+					<br class="cls"/>
+				</div>
+				<div class="artBaseInfo" id="tAutInfo"/>
+				<div class="artBaseInfo" id="orgInfo">
+					<div class="articl_info_t">原文出处：</div>
+					<div class="articl_info_c">
+						<div class="info_c">中国社会经济史研究</div>
+					</div>
+					<br class="cls"/>
+				</div>
+				<div class="artBaseInfo" id="astInfo">
+					<div class="articl_info_t">内容提要：</div>
+					<div class="articl_info_c">
+						<div class="info_c">
+							<p>北魏时期并无真正意义上的地方财权，地方政府制度外的收入不属于地方财政的法定收入范畴，“统收统支”是北魏财政的重要特点。日本学者渡边信一郎认为“调外帛”属于地方财政经费的观点缺乏根据。文章通过对地方财政涵义的分析，对相关文献资料的进一步理解，认为“调外帛”依然属于中央财政统管，北魏地方政府无权支配。北魏中央在剥夺地方州郡财政权力的同时，以“使职差遣”方式强化对地方的财权控制。</p>
+						</div>
+					</div>
+					<br class="cls"/>
+				</div>
+				<div id="artPdcInfo" class="artBaseInfo">
+					<div class="col_info"><b>期刊代号：</b>K22 </div>
+					<div class="col_info"><b>分类名称：</b>魏晋南北朝隋唐史 </div>
+					<div class="col_info"><b>复印期号：</b>2009 年 01 期 </div>
+					<br class="cls"/>
+				</div>
+				<div class="artBaseInfo" id="artKeyword">
+					<div class="articl_info_t">关 键 词：</div>
+					<div class="articl_info_c">
+						<div class="info_c">
+								<a target="_blank" href="/qw?s0=7&amp;s1=%e5%8c%97%e9%ad%8f">北魏</a> 
+								<a target="_blank" href="/qw?s0=7&amp;s1=%e5%9c%b0%e6%96%b9%e8%b4%a2%e6%94%bf">地方财政</a> 
+								<a target="_blank" href="/qw?s0=7&amp;s1=%e8%b0%83%e5%a4%96%e5%b8%9b">调外帛</a> 
+								<a target="_blank" href="/qw?s0=7&amp;s1=%e4%b8%ad%e5%a4%ae%e9%9b%86%e6%9d%83">中央集权</a> 
+
+						</div>
+					</div>
+					<br class="cls"/>
+				</div>
+				<div class="artBaseInfo" id="artTitleNote"/>
+				<a id="readArea" name="readArea"/>
+				
+			</div>
+			<div id="artText"><div class="artibody" id="Zoom" style="font-size: 14px;">
+    </p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;［中图分类号］K235  ［文献标识码］A  ［文章编号］1000-422x(2008)03-0001-07</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;北魏地方财权问题直接关乎相关财政史问题的深入研究。对此问题，目前仅见日本学者渡边信一郎的论述，国内学界鲜有深入研究。渡边信一郎对北魏太和八年前后的财政支出已有研究，并列有北魏时期的经费结构与分配比率表。按照渡边信一郎的理解，《魏书·食货志》所载的“太和八年，始准古班百官之禄，以品第各有差。先是，天下户以九品混通，户调帛二匹、絮二斤、丝一斤、粟二十石，又入帛一匹二丈，委之州库，以供调外之费。至是，户增帛三匹、粟二石九斗，以为官司之禄。后增调外帛满二匹，所调各随其土所出”这一段资料，就是北魏中央和地方财政分野的确证，“是中国财政史上第一次对地方经费有明确规定，具有划时代的意义”①。渡边信一郎仅据“又入帛一匹二丈，委之州库，以供调外之费”一语，再无其他资料佐证情况下就遽然断定北魏的“调外之费”属于中央让渡给地方财权的结论很难令人信服。因此本文略作考论，希冀该问题的研究能有所深入。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;一</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;自国家形成以来，财政始终为政府职能的实现提供所需的财力，而财权的集中与分散，在一定意义上说，是国家财政能力大小的同义语，也是国家与地方利益博弈的结果。中央与地方的财政关系在单一制国家中，“主要表现为中央与地方政府的财权和财力划分及其相互关系”②。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;如何判断地方财政是否独立存在，财政理论学界已有一定共识。这就是看地方政府是否拥有相对独立的财权，地方财政收支划分要法制化，在税收上是否拥有自己相对独立的税收收入。与此相适应，地方政府在财政支出上，“应拥有相对较大的权力，地方财政不仅运用自身的财政收入，还运用上级政府的各种补助金安排支出”③。就地方政府获得财政税收的途径而言，英国财政学者肯耐斯·戴维认为，所谓地方财政可以以三种方式从税收中取得收入，“一是地方对中央税收的分享；二是征收中央附加税；三是地方直接课税”④。这一点与目前通行的国际财政学界的理论一致，如美国财政学者罗纳德·C·费雪(Ronald C Fisher)在考察了美国不同州的地方政府财政后，认为每个地方政府“都有独立的职责和收入来源”，“并有各自的税收和劳务”⑤。因此，划分中央财政与地方财政的标准就是分级财政、分税制以及政府间转移支付制度的形成⑥。质言之，作为地方政府是否有法律允许的征税权，是否具有增加或蠲免税收的权力以及自主征发劳务的权力，这是判断地方财政是否存在的关键。只有明白这点，方能讨论北魏地方财政权力问题。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;首先考察北魏调外帛是否属于地方政府独立的税收来源。为清楚起见，先将相关资料舻列如下：</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“太和八年，始准古班百官之禄，以品第各有差。先是，天下户以九品混通，户调帛二匹、絮二斤、丝一斤、粟二十石，又入帛一匹二丈，委之州库，以供调外之费。至是，户增帛三匹、粟二石九斗，以为官司之禄。后增调外帛满二匹，所调各随其土所出。”（太和）十年，给事中李冲上言：“宜准古，五家立一邻长，五邻立一里长，五里立一党长，长取乡人强谨者。邻长复一夫，里长二，党长三。所复复征戍，余若民。三载亡愆则陟用，陟之一等。其民调，一夫一妇帛一匹，粟二石。民年十五以上未娶者，四人出一夫一妇之调。奴任耕，婢任绩者，八口当未娶者四，耕牛二十头，当奴婢八。其麻布之乡，一夫一妇，布一匹，下至牛，以此为降。大率十匹（中五匹）为公调，二匹为调外费，三匹为内外百官俸，此外杂调”。太和十二年，（孝文帝）诏群臣求安民之术。有司上言：“请析州郡常调九分之二，京都度支岁用之余，各立官司，丰年籴贮于仓，时俭则加私之一，粜之于民。如此，民必力田以买绢，积财以取粟。官，年登则常积，岁凶则直给。又别立农官，取州郡户十分之一，以为屯民。相水陆之宜，断顷亩之数，以赃赎杂物市牛科给，令其肆力。一夫之田，岁责六十斛，甄其正课并征戍杂役。行此二事，数年之中则谷积而民足矣”⑦。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;在此值得注意的是北魏太和八年前后财政收入结构的变化。《魏书·食货志》记载，太和八年前北魏财政收入主要由公调和调外帛组成，财政支出几乎被中央垄断；太和八年财政来源并未发生实质变化，但财政支出结构变化较大，增加了官吏俸禄；太和十年财政收入演进为公调、调外费、杂调，财政支出结构却未发生明显变化。尤为注意的是“杂调”在太和十年从法理上被规定为国家财政收入的一源，虽然太和八年前“杂调”作为军费开支不仅存在，而且颇为沉重，但一直未见列入法令规定中，这次孝文帝将其作为法令规定出来实质上是将杂调进一步制度化。从太和十二年开始，财政收支继续发生变化，屯田收入被列入财政收入计划，同时增加了常平仓性质的支出⑧。在这一系列变化过程中，“公调”和“调外费”到底是何种关系，《魏书·食货志》没有记载。但此却直接关乎北魏地方是否拥有独立财税来源的问题。所谓公调就是在太和八年所规定的“户调帛二匹、絮二斤、丝一斤、粟二十石”，调外费就是委之州库的“帛一匹二丈”，“后增调外帛满二匹，所调各随其土所出”。当然这个数字并非每个家庭所纳调外帛的绝对数，仅是一个平均数。到太和十年三长制推行后，公调的附加数额未变，而公调则变为“一夫一妇帛一匹，粟二石”，数量较太和八年有较大减少。对于调外费和公调的关系，杨际平先生认为调外之费属于户调（公调）的附加⑨，这种看法是科学的。但是这种“附加”的公调用来做什么？杨先生未加深论，尚值得进一步研究。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;那么，作为“委之州库”的调外之费到底做何用处？虽然《魏书·食货志》没有记载，但我们在《魏书·高祖纪》中却找到相关记述。太和八年六月，孝文帝在规定给百官“班禄”时讲到：“置官班禄，行之尚矣。《周礼》有食禄之典，二汉著受俸之秩。逮于魏晋，莫不聿稽往宪，以经纶治道。自中原丧乱，兹制中绝，先朝因循，未遑厘改。朕永鉴四方，求民之瘼，夙兴昧旦，至于忧勤。故宪章旧典，始班俸禄。罢诸商人，以简民事。户增调三匹、谷二斛九斗，以为官司之禄。均预调为二匹之赋，即兼商用。虽有一时之烦，终克永逸之益”。在这里要注意的是“户增调三匹、谷二斛九斗，以为官司之禄。均预调为二匹之赋，即兼商用”一语。其中的“均预调为二匹之赋，即兼商用”与《魏书·食货志》所载“后增调外帛满二匹”有较大差异。如果二者互相参照，就清楚看出所谓的“调外之费”在太和八年前是作为“商用”的，太和八年后则是“兼”商用的。虽然仅一字之差，内涵却已完全改变。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;质言之，北魏太和八年以前所规定的“委之州库”的“调外之费”并非是中央划分给地方的办公经费或者行政费用，更非北魏中央对地方经费的明确划定，而是中央用于系官商人经商盈利的资本，而这些系官商人并不属于地方官府控制，而是属于中央直接控制，管理经商事务和这些系官商人的机构可能就是“商贾部”⑩，这一点也与鲜卑族长期的经商传统有关。而且在相关史料中我们还未发现北魏地方政府有管理系官商人经营事务的专职机构，太和以前如此，太和以后同样如此。所以“调外之帛”的盈利收入自然就归中央财政收入的一部分。从这一点讲，渡边信一郎认为调外帛属于地方财政经费的论点就站不住脚。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;既然太和八年以前“委之州库”的“调外之费”是中央用于系官商人经商盈利的资本，太和八年孝文帝又“罢诸商人，以简民事”，为什么还要“均预调为二匹之赋，即兼商用”？这岂非与“罢诸商人，以简民事”初衷相抵牾？其实问题就出在这个“兼”字上面。如果仔细分析孝文帝所说前后文之意，就能看出孝文帝的“即兼商用”之“兼”真正意思就是“并”、“合并”。这样一来我们就能从孝文帝的文字迷宫中走出来，所得到的答案就是将太和八年前的“一匹二丈”帛经过经商盈利的成本核算后增值为二匹。既然罢黜商人，那么原来由商人为国家财政增值的本利部分转嫁到民户身上，这样既不使这部分财政收入减少，又减少了官商扰民问题，一举两得。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;接下来的问题就是，既然“调外之费”并非地方行政经费，那么在太和八年孝文帝给百官班俸前地方政府依靠什么运转？太和八年班俸前，北魏地方政府官员的生活来源主要靠皇帝赏赐，这点众所周知。但皇帝的赏赐具有不稳定性和不定期性特征，并不能时时保证所有官员衣食无忧。因此，清廉者时常饥寒交迫，如文成帝时期的中书令高允“家贫布衣，妻子不立”，“惟草屋数间，布被缊袍，厨中盐菜而已”(11)。毕竟像高允这样的官员在北魏时期属于少数，绝大多数则是通过疯狂侵渔百姓，官商勾结，或“断截官物以入于己”中饱私囊(12)。从这点观察，即使是地方行政首长，也不需要地方政府出资维持生计。就各级地方政府属吏而言，有时可能因皇恩浩荡得到一些赏赐，但因地位卑微，可能相当部分还得不到皇恩沐浴。如何对他们的工作进行报酬？我想也不外乎两种方式，要么以权谋私，要么同时享受蠲免赋役的待遇，而后一种情况在南北朝时期则相当普遍，因为北魏各级官员的属吏僚佐都是通过辟除而来(13)，中央甚至地方财政没有必要给他们支付报酬。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;明乎此，才能理解为什么太和八年前北魏诸帝三令五申严禁地方官员贪污，要求提高行政效率的原因。正是因为太和八年前北魏地方政府没有独立的税收来源以及官吏无俸禄，才导致地方政府运转效率的低下和贪污现象的扩大化(14)。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;据此，我们认为，北魏太和八年前后所规定的无论是公调还是调外费都是属于中央政府预先所做的收入计划，属于中央直接管理的财政，而渡边信一郎则曲解了太和八年后北魏将“调外费”“委之州库”的涵义，以为“委之州库”就是中央划归地方支配的经费，这不正确。按照“委”字的意义，最合理的解释就是“托付、委托”或者“聚积”，所谓北魏中央将调外之费“委之州库”就是寄聚于州治所在之仓库，各州军政长官仅有保管的责任而无随意支配的权力(15)，这一点也与北魏仓廪系统的设置相关。因此，渡边信一郎认为太和八年后调外费就是地方经费的观点站不住脚。那么，北魏为什么要把“调外帛”存放于州库？显然这不是无目的的行为，而是为了供需的方便，其中用途之一在太和八年前就是用作系官商人经商的资本，除此之外的另一用途估计就是用作“和籴”的经费(16)。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;如果我们把北魏时期的“调外之费”与唐代实行两税三分制后所推行的“天下之财，限为三品，一曰上供，二曰留使，三曰留州。皆量出以为人，定额以给支”(17)的方法比较，也许更能清楚看出其性质来。唐代实行两税三分制后从法理上明确规定了把两税中的一部分作为地方财政支出，地方官有权根据实际情况和实际需要支配使用这些财赋，与之相较，北魏太和八年后地方长官的这种权力在法理上并未见到，因此遽然断言北魏时期将调外费作为地方财政的结论就难令人信服。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;二</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;渡边信一郎在论述北魏地方财权存在的另一依据就是认为“北魏地方财政的特征表现为以州仓为主实行财政运营”(18)。但我们认为，北魏在州郡一级设有地方“州仓”同样不能说明地方财政的存在。太和八年孝文帝始班百官俸禄前，北魏就有将调外之费“委之州库”之制(19)，太和八年后北魏仓廪体系愈加完善。关于这点，笔者在《北朝仓廪系统探研》一文中有详细考证(20)。需要指出的是，作为监管地方仓储的州郡长官，并没有动用库存物资的权力，相反，仅仅在替中央监管仓储。就连渡边信一郎自己也承认，“以州为首的地方官的财政运营在受律的费散条文约束的同时，在其具体运用时还有上奏申请的必要，经过尚书省的审议和提出方案得到皇帝的许可后才成为可能。另外，在支用时还要受到御史的审查”(21)。这说明北魏时期中央并未授予地方政府独立处置州仓物资的相应权力。既然不存在这种权力，地方长官何以能“实行财政运营”？</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;渡边信一郎也同意北魏时期所形成的较为严密的仓贮系统，使得各地州库的粟帛等物受到中央严密控制，地方官长并无权力随意支配，地方官对这些仓储只有监管权而无支配权这个观点。如果地方长官擅自开仓就要受到律令中有关“费散之条”的惩罚。如北魏宣武帝元恪时，“武川镇民饥，镇将任款请贷未许，擅开仓赈恤，有司绳以费散之条，免其官爵”(22)。再如魏孝明帝元诩时，城阳王元徽出任并州刺史，由于“州界夏霜，禾稼不熟，民庶逃散，安业者少。徽辄开仓赈之，文武咸共谏止。徽曰：‘昔汲长孺，郡守耳，尚辄开仓，救民灾弊，况我皇家亲近，受委大藩，岂可拘法而不救民困也。’先给后表。肃宗嘉之”(23)。从这段材料中可以清楚看出并州仓是受中央直接管辖的，元徽开仓赈灾“先给后表”显然违法，因而属下文武“拘法”、“咸共谏止”属于必然。这种规定从下面一条材料同样反映出来。《魏书·杨播传附杨逸传》载，孝庄帝时，杨逸为光州刺史，“时灾俭连岁，人多饿死，逸欲以仓粟赈给，而所司惧罪不敢。逸曰：‘国以人为本，人以食为命。百姓不足，君孰与足？假令以此获戾，吾所甘心。’遂出粟，然后申表。右仆射元罗以下谓公储难阙，并执不许。尚书令、临淮王彧以为宜货二万。诏听二万。逸既出粟之后，其老小残疾不能自存活者，又于州门煮粥饭之，将死而得济者以万数。帝闻而善之”。杨逸欲以光州仓粟赈济灾民，由于未得尚书省同意，“所司惧罪不敢”，最后即使尚书令同意以后还需要皇帝批准。从而说明北魏仓廪制度管理之严密。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;由此可见北魏地方官对州郡仓库的物资是无支配权的，既然没有支配权（这一点渡边信一郎也直言不讳地承认），如果以此还言北魏有地方财政就有些强词夺理了。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;三</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;那么，太和八年后北魏地方财政是否就已经产生？由于史无明文记载，加之学界研究甚少，致使该问题长期悬而未决。在此我们做一简单剖析。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;北魏地方官有无征调力役的自主权也就是现代财政学意义上的自主安排“劳务”的问题，是考察地方财政是否存在的重要标志之一。北魏太和以前，地方官尚无随意征调力役的权利，如果未得中央同意征发力役，就要以“擅兴事役罪”加以处置。如安同在拓跋嗣时，“东出井陉，至巨鹿，发众四户一人，欲治大岭山，通天门关，又筑坞于宋子，以镇静郡县”。拓跋嗣“以同擅征发于外，槛车征还”。朝廷众官也认为安同“擅兴事役，劳扰百姓，宜应穷治，以肃来犯”(24)。太和八年后，情况仍无所变化。宣武帝元恪时期，定州刺史杨椿“因治黑山道余功，伐木私造佛寺，役使兵力，为御史所劾，除名为庶人”(25)。再如北魏末期，朝廷任命王罴为西河内史，王罴坚辞不受，时人谓之曰：“西河大邦，俸禄殷厚，何为致辞？”王罴则回答：“京洛材木，尽出西河，朝贵管第宅者，皆有求假。如其私办，即力所不堪，若科发民间，又违法宪。以此辞耳”(26)。这段材料颇为典型，王罴既不想得罪朝中权贵，也不想“科发”民力伐木触犯“法宪”，因此只好以“不受”西河内史求取保全自身。该材料清楚揭示出直到北魏末期地方行政长官并无随意征调民力的权力。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;也许有学者对孝文帝太和元年间的一条材料有疑问。先分析材料，然后再作说明。太和元年，孝文帝下诏：“今牧民者，与朕共治天下也。宜简以徭役，先之劝奖，相其水陆，务尽地利，使农夫外布，桑妇内勤。若轻有征发，致夺民时，以侵擅论。民有不从长教，堕于农桑者，加以罪刑”(27)。这段资料显然是孝文帝要求各级地方官员在春月农事开始时不要征发力役，以不违农时。那么，孝文帝向地方官要求“简以徭役”，不能“轻有征发，致夺民时”，该徭役是国家法宪规定的范围之内还是之外？孝文帝没有讲。如果是在法令规定的范围之内，显然不能说明地方政府有独立的财权，如果是在法律规定范围之外，则另当别论。但就目前材料而言，还看不出所谓“轻有征发”之“轻”就一定轻易超出法律范围之外。众所周知，即使是在统收统支的财政管理体制下，中央力役征发仍然要通过地方政府进行，只是必须在法律规定范围内进行而已。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;判断地方财政是否存在的另一重要依据就是地方政府必须有法理上允许的征税权利（直接课税权）以及根据地方需要支配这些税收的权利。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;北魏一代，始终未见中央允许地方政府自主征税的记录，这并非史书阙载而是事实上就不存在。首先，我们必须明确地方官员在其治域内擅自征税亦即制度外征税并不属于地方财政范畴，因为这不合中央法律规定也不为中央允许。如早在太武帝拓跋焘时，横调就成为百姓沉重的负担，史言公孙轨为虎牢镇将时，“初，世祖将北征，发民驴以运粮，使轨部诣雍州。轨令驴主皆加绢一匹，乃与受之。百姓为之语曰：‘驴无强弱，辅脊自壮’。众共嗤之。坐征还”(28)。又如北魏任城王元澄历高祖、世宗、肃宗三朝，属于北魏重臣之一，宣武帝时，元澄出任定州刺史，“初，民中每有横调，百姓烦苦，前后牧守，未能蠲除，澄多所省减，民以忻赖。又明黜陟赏罚之法，表减公园之地，以给无业贫口，禁造布绢不任衣者”(29)。再如杨津在延昌末为华州刺史时，“先是，受调绢匹，度尺特长，在事因缘，共相进退，百姓苦之。津乃令依公尺度其输物，尤好者赐以杯酒而出，所输少劣，亦为受之，但无酒，以示其耻。于是人竞相劝，官调更胜旧日”(30)。从这些事件可以看出北魏时期地方官时或征调杂税与蠲免杂税，但这种征收杂调杂赋的做法并未有法律上的授权，因而是非法的。史书将其称为“横调”之意也在此，不能算是真正的地方财政，这一点必须明确。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;那么，北魏时期地方政府官员的俸禄发放是否就属于地方财政的范畴呢？过去研究北朝史的学者既没注意到地方长官与中央的权力分配，也很少注意地方长官的俸禄支出来源。实质上太和八年后北魏地方官的俸禄是从地方上缴中央的租赋中支出的，并在这些租调中直接扣除，其余则上缴中央。如孝文帝太和十一年，齐州刺史韩麒麟上书表陈时务，主张中央在租调征收中应当减绢布，增谷租，认为其“所统齐州，租粟才可给俸，略无入仓。虽于民为利，而不可长久。脱有戎役，或遭天灾，恐供给之方，无所取济。可减绢布，增益谷租，年丰多积，岁俭出赈。所谓私民之谷，寄积于官；官有宿积，则民无荒年矣”(31)。韩麒麟的话语中透露出这样的信息，就是齐州一年的租粟收入只够官员俸禄之用，而这个官俸就是针对齐州大小官员而言的，显然不可能指全国官员。这说明地方官员的俸禄是通过把中央财政一部分划拨出来交由地方政府发放给官员。但这也属于严格意义上的中央财政，属于中央财政的“统支”。同时需要说明的是，北魏时期地方州郡首长都由中央官员兼任，其俸禄也是由中央财政支付，这一点史书上记载甚多，无须赘言，从这一层面看，就首先排除了地方行政长官占用地方财政以为薪俸的可能。其次，地方政府运转所需经费在太和九年后由公田解决：“诸宰民之官，各随地给公田，刺史十五顷，太守十顷，治中别驾各八顷，县令、郡丞六顷。更代相付。卖者坐如律”(32)。这种以公田收入作为地方长官办公经费的做法在南北朝时期极为普遍。其他吏员由通过免役的方式就地解决他们的在职报酬，这一点也排除了占用地方经费的可能。那么所剩的就是太和八年之后“委之州库”的绢帛用来做什么的问题了。我想不外乎用来作为对中央再使用时的调拨与和籴。因为北魏中央将如此大量的粟米绢帛征纳上来之后，既不可能，也无必要全部运往京师，就像献文帝拓跋弘时所规定的“遂因民贫富，为租输三等九品之制。千里内纳粟，千里外纳米；上三品户入京师，中三品入他州要仓，下三品入本州”(33)一样，中央往往把质量最好的租赋输往京师仓，以方便支付，其余的则贮藏于地方州郡要仓。地方长官仅仅在起一种国家财税守夜人的作用，只有守护责任而无支配权利。这说明所谓“委之州库”的调外之帛与“入”州郡“要仓”的租粟一样，只是让州郡长官在保管，而不是作为地方行政经费并根据需要支用。因此，从这一点上认为北魏太和八年后有地方财政显然站不住脚。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;就北魏地方行政机构设置而言，是否也能从中看出北魏州郡一级的地方政府就有一定的财政主导权？这也需要打个问号。如户曹、租曹等的设立就是典型表现。北魏时期在北边六镇每一镇下都设有“户曹”这样掌管户籍的属吏，如高欢发迹之初，“乃有澄清天下之志。与怀朔省事云中司马子如及秀容人刘贵、中山人贾显智为奔走之友，怀朔户曹史孙腾、外兵史侯景亦相友结”(34)。高隆之在北魏汝南王元悦为司州牧之时，“以为户曹从事”(35)。这说明北魏在地方行政机构中设有与财赋有关的一些官职，但其它相关地方财政职官如租曹、金曹是否也有设置？《魏书》没有记载。史载，“后齐制官，多循后魏”(36)，北齐在州郡县等地方行政机构中设有户曹、田曹、金曹、租曹、仓曹等具有财政职能的属官(37)。这是北齐地方长官及其相关财政属吏的设置情况。北魏是否如此？虽然北齐职官多承北魏，但逻辑上讲从北齐职官的设置推测北魏职官并不科学。更何况在《魏书》中也无州郡长官属吏有租曹这样的财政官。值得庆幸的是我们从碑铭资料上找到了依据。在清人王昶所辑的《金石萃编·魏鲁郡太守张府君清颂之碑》中，有张猛龙在孝明帝正光年间死后其属下为其所立之颂功碑文，其中的属吏与财政有关的有户曹、金曹、租曹、集曹等(38)，弥补了《魏书》记载的不足，弥足珍贵。除此之外还有功曹、兵曹、法曹等属官。但这同样不能说明北魏时期的州郡长官一定就拥有财政自主权。不可否认这些所谓的户曹、金曹、租曹、集曹等都是郡守之下的地方财政官吏，他们与地方基层的三长等一样，都属于掌管户籍、督缴赋税、维持治安等的基层官员。但这些都是在依照中央下达的财政指令完成财税征收计划的官吏，并不能说明地方政府就有在中央赋税之外征收其它赋税的权力。因为即使在统收统支体制下，地方政府也要设立一定的财政职官，以便及时完成中央下达的财政指令。因此从财政职官的设置上同样不能说明北魏太和八年后就存在地方财政的事实。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;不仅北魏地方政府无随意征调赋税的权力，同样也没有自主蠲免所辖地区赋税的权力。地方官如果要蠲免本地租赋，必须经中央同意。如裴宣在宣武帝时为司州都督，上书宣武帝要求“出兵之乡，其家有死于戎役者，使皆招魂复魄，袝祭先灵，复其年租调，身被伤痍者，免其兵役”，“朝廷从之”(39)。从“朝廷从之”一语可见必须经过中央同意地方长官才能蠲免本地应纳租调。辛穆的事例也表明此点。如辛穆任汝阳太守之时，“值水涝民饥，上表请轻租赋。帝从之，遂敕汝阳一郡，听以小绢为调”(40)。由此可见中央牢牢控制着地方财权。而上文所举元澄、杨津在任期间蠲免定州、华州民户“横调”的举措也印证了他们前任所征“横调”的不合法性，并未得到中央允许。既然征收“横调”为非法，中央也就不会干预其蠲免之举了，元澄等也就用不着请示中央。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;以上我们从力役征调、赋税征收、赋税蠲免、财政职官、地方仓储几个方面论证了北魏时期地方财政并不存在，典型的财政统收统支体系贯穿于北魏财政运转的始终。而中央对地方财政权力的剥夺使地方政府在财力调配上无所事事，正是这个典型特点，使得北魏财政运营效率低下，愈到后期，其弊端就愈明显。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;总之，北魏时期并无真正意义上的地方财政。“委之州库”的调外帛与其他租调一样受到中央的严密控制，北魏除了制度上的约束如“费散之条”律令的制定、御史的监督审查之外，最主要的就是通过所谓的使职差遣制度来达到控制地方财权的目的。在北魏，使职差遣虽目的多样，但重要目的之一就是对地方官吏财权的干预和剥夺。“大使”或“使者”始终是贯穿于北魏政权始终，并具有政治和财税两种职能的中央直派官员。北魏政权正是以此来加强对州郡财政的监督与管理，加强中央与地方的财政联系。北魏的“大使”或“使者”与两汉南北朝各个时期的职能一样，都是中央直接派出的具有行政、军事、经济、司法等大权的官员，是中央为了集权需要而设置的特派员性质的官员，他们代表中央处理地方突发性事件或者督促地方执行中央政令，弥补中央与地方之间信息不畅、沟通不灵的缺陷，成为唐宋时期使职差遣制的渊源。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;［收稿日期］2008-05-02</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;注释：</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;①渡边信一郎《北魏的财政结构——以孝文帝、宣武帝时期的经济结构为中心》，刊殷宪主编《北朝史研究》，商务印书馆，2004年版。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;②寇铁军著《中央与地方财政关系研究》，第2页，东北财经大学出版社，1996年版。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;③前揭寇著第140页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;④［英］肯耐斯·戴维著《地方财政》的内容提要部分，湖北人民出版社，1989年版。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⑤［美］Ronald·C·Fisher（费雪）著《州和地方财政学》，第4页，中国人民大学出版社，2000年版。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⑥前揭寇著，第140～142页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⑦《魏书》卷110《食货志》。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⑧关于北魏常平仓的设置，《魏书·高祖纪》认为出现于太和二十年十二月，因为该年孝文帝“置常平仓”。但事实上北魏常平仓在太和中期就已经出现，太和十一年，京都大饥，齐州刺史韩麒麟表陈时务时建议“可减绢布，增益谷租，年丰多积，岁俭出赈。所谓私民之谷，寄积于官；官有宿积，则民无荒年矣”（《魏书》卷60《韩麒麟传》）。韩麒麟之议要早于太和十二年李彪所建议的“宜析州郡常调九分之二，京都度支岁用之余，各立官司，年丰籴积于仓，时俭则加私之二，粜之于人。如此，民必力田以买官绢，又务贮财以取官粟；年登则常积，岁凶则直给”的常平仓性质的建议（《魏书》卷62《李彪传》）。从李彪的建议“帝览而善之，寻施行焉”（《魏书》卷110《食货志》）看出至迟在此时常平仓已经存在。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⑨参见郑学檬先生主编《中国赋役制度史》，第93页，上海人民出版社，2000年版。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⑩《魏书》卷44《费于传》记载，费于在太武帝拓跋焘时，“迁商贾部二曹令”。“商贾部”是拓跋焘时期甚至是太和八年前北魏较为独特的财政机构之一。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(11)《魏书》卷48《高允传》。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(12)《魏书》卷5《高宗纪》。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(13)《魏书》卷6《显祖纪》载，北魏献文帝拓跋弘在和平六年诏令中言曰：“先朝以州牧亲民，宜置良佐，故敕有司，班九条之制，使前政选吏，以待俊刈，必谓铨衡允衷，朝纲应叙。然牧司宽堕，不祗宪旨，举非其人，愆于典度”。《通典》卷23“州郡门上”记曰：“后魏旧以州牧亲人，班九条之制，使前政选吏，以待后人。献文帝革制，刺史守宰到官之日，仰自举择，以为选官，若简任失所，以罔上论”。再如《魏书》卷45《韦阆传附韦朏传》载，韦朏，“少有志业。年十八，辟州主簿”。《周书》卷22《柳庆传》载，宣武帝元恪景明年间，柳僧习为颍川郡守，颍川“地接都畿，民多豪右。将选乡官，皆依倚贵势，竟来请托。选用未定”。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(14)《魏书》卷7《高祖纪（上）》载孝文帝在延兴二年的诏令云：“牧守无恤民之心，竞为聚敛，送故迎新，相属于路”；太和二年下诏，其中提及地方官吏行政效率的低下，“诸州刺史，牧民之官，自顷以来，遂各怠慢，纵奸纳赂，背公缘私，致令盗并兴，侵劫兹甚，奸宄之声屡闻朕听”。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(15)这一点连渡边信一郎也承认，可参见氏作后半部分。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(16)《魏书》卷45《韦阆传附韦朏传》载，韦朏在宣武帝时为“荆郢和籴大使”；《魏书》卷七九《鹿悆传》载，鹿悆在元子直出镇梁州时，“悆随之州。州有兵粮和籴，和籴者靡不润屋，悆独不取，子直强之，终不从命”。由此推测存储于州库的“调外帛”可能也用来和籴。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(17)《元稹集》卷34《钱货议状》。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(18)见氏作，前揭文。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(19)《魏书》卷110《食货志》。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(20)《中国社会经济史研究》2005年1期。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(21)见氏作，前揭文。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(22)《魏书》卷65《李平传》。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(23)《魏书》卷19下《城阳王传》。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(24)《魏书》卷30《安同传》。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(25)《魏书》卷58《杨播传附杨椿传》。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(26)《周书》卷18《王罴传》。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(27)《魏书》卷7《高祖纪（上）》。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(28)《魏书》卷33《公孙表传附公孙轨传》。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(29)《魏书》卷19中《任城王传》。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(30)《魏书》卷58《杨播传附杨津传》。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(31)《魏书》卷60《韩麒麟传》。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(32)《魏书》卷110《食货志》。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(33)《魏书》卷110《食货志》。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(34)《北齐书》卷1《神武纪（上）》。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(35)《北齐书》卷18《高隆之传》。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(36)《隋书》卷27《百官志（中）》。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(37)《隋书》卷27《百官志（中）》。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(38)［清］王昶辑《金石萃编》卷29，《魏鲁郡太守张府君清颂之碑》。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(39)《魏书》卷45《裴骏传附裴宣传》。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(40)《魏书》卷45《辛绍先传附辛穆传》。
+</div>
+<div class="page-list">
+    <div class="pageNav" id="pageList"></div>
+</div>
+</div><br class="cls"/>
+		</div>
+		</body></html>

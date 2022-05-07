@@ -1,0 +1,206 @@
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><style>.trR{ text-align:right;}
+#wraper{width:1190px; margin:0 auto; margin-bottom:10px;text-align:left;}
+#left{ float:left;width:250px; text-align:left;}
+#right{float:right;width:930px;text-align:left;border-top:2px solid #619bc0; padding-bottom:10px;}
+.border_w{ border:1px solid #d3d3d3;border-top:2px solid #619bc0;}
+.t01{height:30px;line-height:30px;border:1px solid #dddddd;padding-left:10px;background:url(../images/tbg01.jpg) repeat-x bottom; color:#1183c1; font-size:14px;}
+.con_01{ padding:10px;}
+.con_cbg{ background:url(../images/con_cbg.gif) repeat-y;}
+.con_bbg{ background:url(../images/con_bbg.gif) no-repeat left bottom; height:1px; line-height:1px; font-size:0;}
+
+.source{margin:15px;background:url(../images/linex.gif) repeat-x bottom; padding-bottom:30px; margin-bottom:30px;}
+.source .source-img{border:1px solid #d3d3d3; text-align:center; padding:5px;margin-bottom:10px; }
+.source p{color:#666666; font-weight:bold; font-size:12px;}
+.source .fblue{ color:#236bac; font-weight:normal;}
+
+.t_tj{ height:27px;padding-top:2px;margin:15px; background:url(../images/con_t_tj.gif) no-repeat left top; padding-left:10px; color:#FFFFFF; font-size:14px;}
+.c12_01{ margin-left:15px; margin-right:15px; margin-bottom:15px;}
+.c12_01 li{font-size:12px; line-height:24px; background: url(../images/dot.gif) no-repeat 2px 10px; padding-left:15px;}
+
+#artibodyTitle{color:#236bac;font-family:"宋体";font-size:20px;font-weight: normal;line-height:35px;text-align:center;margin-top:10px;	text-align:center;}
+#artisubTitle{font-family:"宋体";font-size:16px;font-weight: normal;line-height:28px;text-align:center;}
+.articl_info{margin-left:30px; margin-right:30px; position:relative;border-bottom:1px solid #e1e1e1;padding-bottom:20px; margin-bottom:20px;}
+.btn-img{
+	background-image:url(../images/allbg.png);
+	background-repeat:no-repeat;
+	font-size:12px;		
+	cursor:pointer;
+	border: 0px none;
+	display: inline-block;
+	vertical-align:middle;
+	text-align:center;}
+
+.artInfo{height:22px;border-top:1px solid #e1e1e1;border-bottom:1px solid #e1e1e1;padding:5px;margin:20px;}
+.artInfo li{float:left;width:33%;height:22px; line-height:22px; color:#666666;}
+
+.artInfo li .collectionPage_link{
+	background-position:-509px -80px;
+	padding-left:10px;
+	margin-top:-2px;
+	_margin-top:0px;
+	margin-left:10px;
+	width:51px;
+	height:22px; 
+	line-height:22px;		
+	color:#1183c1;	}
+.artInfo li .printPage_link{
+	background-position:-570px -80px;
+	padding-left:10px;
+	margin-top:-2px;
+	_margin-top:0px;
+	margin-left:10px;
+	width:51px;
+	height:22px; 
+	line-height:22px;	
+	color:#1183c1;}
+.artInfo li .downloadPage_link{
+	background-position:-631px -80px;
+	margin-top:-2px;
+	_margin-top:0px;
+	margin-left:10px;
+	width:51px;
+	padding-left:10px;
+	height:22px; 
+	line-height:22px;	
+	color:#1183c1;}
+
+
+.artBaseInfo{line-height:24px; margin-bottom:5px;}
+.artBaseInfo .info_left{float:left;width:80px;}
+.artBaseInfo .info_right{float:left;width:790px;}
+
+.artBaseInfo dt{float:left;width:80px; color:#666666;line-height:20px; display:inline-block;}
+.artBaseInfo dd{color:#666666;line-height:20px;display:inline-block;}
+.artBaseInfo .col li{ float:left;width:210px; height:20px; line-height:20px;color:#666666;}
+
+.artBaseInfo .item{ float:left;width:50%;}
+.artBaseInfo .notice{
+	margin-left:10px;
+	width:61px;
+	padding-left:10px;
+	height:22px; 
+	line-height:22px;
+	background-position:-448px -80px;	
+	color:#1183c1;}
+
+.artInfo{height:30px;border-top:1px solid #e1e1e1;border-bottom:1px solid #e1e1e1;margin:20px 10px;}
+.artInfo div{ float:left;width:30%;height:30px; line-height:30px; text-align:center;}
+.artInfo div a{ margin-left:20px; margin-right:20px;}
+.artInfo li{float:left;width:33%;height:22px; line-height:22px; color:#666666;}
+
+.articl_info{margin-left:30px;margin-right:30px; position:relative;border-bottom:1px solid #e1e1e1;padding-bottom:20px; margin-bottom:20px;}
+.artBaseInfo{margin-bottom:5px;}
+.articl_info_t{float:left;width:80px;margin-right: -100%;font-weight:bold;line-height:24px;}
+.articl_info_c{float: left;width: 100%;}
+.articl_info_c .info_c{margin-left:80px; line-height:24px;}
+.artBaseInfo .marL{ margin-left:20PX;}
+.artBaseInfo .col_info{ float:left;width:30%;line-height:20px;}
+
+.fontSize{position: relative;right:0px;top:0px;font-size:12px; height:30px; line-height:30px; text-align:right;}
+.fontSize a{border:1px solid #c2c2c2;margin-right:10px;padding:4px 1px;*padding:1px; cursor:pointer;font-size:12px;}
+.fontSize a span{background:url(../images/page_a_36.png) repeat-x;padding:3px;}
+
+.fontSize a.now{border: #f9ad75 1px solid;padding:4px 1px;*padding:1px;}
+.fontSize a.now span{color:#ff7d27;background:url(../images/current_34.png) repeat-x bottom;padding:3px;}
+.artibody{margin-left:20px;margin-right:20px;font: 18px/180% "Microsoft YaHei","微软雅黑"; color:#666666;}
+.artibody p{margin-bottom:20px;}
+
+.fontSize A:link{ color:#000000;text-decoration:none;}
+.fontSize A:visited{ color:#000000;text-decoration:none;}
+.fontSize A:hover{ color:#FF0000;text-decoration:none;}
+.fontSize a.now:link{color:#ff7d27;text-decoration:none;}
+#Zoom img {max-width:600px; max-height:600px; scale:expression((this.offsetWidth > this.offsetHeight)?(this.style.width = this.offsetWidth >= 600 ? "600px" : "auto"):(this.style.height = this.offsetHeight >= 600 ? "600px" : "auto")); display:inline !important;}
+
+.t_artiInfo{font-size:14px; padding-left:20px;background:url(../images/linex.gif) repeat-x top; line-height:30px; margin-top:10px;}
+.li_artiInfo{margin-left:30px; margin-right:30px;padding-bottom:10px; }
+.li_artiInfo ul li{float:left;width:100%;padding:3px 0;}
+.li_artiInfo ul li .title{ float:left;width:65%;}
+.li_artiInfo ul li .author{ float:left;width:15%;}
+.li_artiInfo ul li .come{ float:right;width:20%;color:#999999; text-align:right;}
+
+
+.index_artInfo{height:36px; line-height:36px; border-top:1px solid #e1e1e1;border-bottom:1px solid #e1e1e1; margin-top:20px; padding-left:20px;  padding-right:20px;padding-right:10px; margin-bottom:10px; margin-left:10px;text-align:center;}
+.index_artInfo a.collectionPage_link{ background:url(../images/icon.gif) no-repeat 0 1px; padding-left:15px;}
+.index_artInfo a.printPage_link{background:url(../images/icon.gif) no-repeat 0 -55px; padding-left:15px;}
+.index_artInfo a.downloadPage_link{background:url(../images/icon.gif) no-repeat 0 -108px; padding-left:13px;}
+
+.index_body .main{margin-left:100px; line-height:28px;color:#000000; padding-bottom:30px; padding-top:20px;}</style></head><body><div id="wraper">
+			<div id="artTitles">
+				<h1 id="artibodyTitle">蜀汉行政建制研究</h1>
+				<h2 id="artisubTitle"/>
+			</div>
+			
+			<div class="articl_info">
+				<div class="artBaseInfo" id="autInfo">
+					<div class="articl_info_t">作 者：</div>
+					<div class="articl_info_c">
+						<div class="info_c">
+								<a target="_blank" href="/qw?s0=4&amp;s1=%e7%bd%97%e5%bc%80%e7%8e%89">罗开玉</a> 
+						</div>
+					</div>
+					<br class="cls"/>
+				</div>
+				<div class="artBaseInfo" id="autDescription">
+					<div class="articl_info_t">作者简介：</div>
+					<div class="articl_info_c">
+						<div class="info_c">罗开玉，成都武侯祠博物馆研究员，考古学博士。（成都 610041）</div>
+					</div>
+					<br class="cls"/>
+				</div>
+				<div class="artBaseInfo" id="tAutInfo"/>
+				<div class="artBaseInfo" id="orgInfo">
+					<div class="articl_info_t">原文出处：</div>
+					<div class="articl_info_c">
+						<div class="info_c">成都大学学报：社科版</div>
+					</div>
+					<br class="cls"/>
+				</div>
+				<div class="artBaseInfo" id="astInfo">
+					<div class="articl_info_t">内容提要：</div>
+					<div class="articl_info_c">
+						<div class="info_c">
+							<p>本文系统地探讨了三国时期蜀汉的行政建制的构成及其特点。蜀汉行政建制主要有三大特点：1、继承汉制；2、战时军事管制已经深入到行政建制上，占有突出地位；3、大量新置郡，以凑足一个国家的框架。</p>
+						</div>
+					</div>
+					<br class="cls"/>
+				</div>
+				<div id="artPdcInfo" class="artBaseInfo">
+					<div class="col_info"><b>期刊代号：</b>K22 </div>
+					<div class="col_info"><b>分类名称：</b>魏晋南北朝隋唐史 </div>
+					<div class="col_info"><b>复印期号：</b>2009 年 02 期 </div>
+					<br class="cls"/>
+				</div>
+				<div class="artBaseInfo" id="artKeyword">
+					<div class="articl_info_t">关 键 词：</div>
+					<div class="articl_info_c">
+						<div class="info_c">
+								<a target="_blank" href="/qw?s0=7&amp;s1=%e8%a1%8c%e6%94%bf%e5%bb%ba%e5%88%b6">行政建制</a> 
+								<a target="_blank" href="/qw?s0=7&amp;s1=%e5%b7%9e">州</a> 
+								<a target="_blank" href="/qw?s0=7&amp;s1=%e9%83%bd%e7%9d%a3">都督</a> 
+								<a target="_blank" href="/qw?s0=7&amp;s1=%e9%83%a1">郡</a> 
+								<a target="_blank" href="/qw?s0=7&amp;s1=%e9%83%bd%e5%b0%89">都尉</a> 
+								<a target="_blank" href="/qw?s0=7&amp;s1=%e5%8e%bf%0a%e3%80%80%e3%80%80administrative+institution">县
+　　administrative institution</a> 
+								<a target="_blank" href="/qw?s0=7&amp;s1=prefecture">prefecture</a> 
+								<a target="_blank" href="/qw?s0=7&amp;s1=governor">governor</a> 
+								<a target="_blank" href="/qw?s0=7&amp;s1=sub-prefecture">sub-prefecture</a> 
+								<a target="_blank" href="/qw?s0=7&amp;s1=local+military+chief">local military chief</a> 
+								<a target="_blank" href="/qw?s0=7&amp;s1=county">county</a> 
+
+						</div>
+					</div>
+					<br class="cls"/>
+				</div>
+				<div class="artBaseInfo" id="artTitleNote"/>
+				<a id="readArea" name="readArea"/>
+				
+			</div>
+			<div id="artText"><div class="artibody" id="Zoom" style="font-size: 14px;">
+    </p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;中图分类号：K207  文献标识码：A  文章编号：1004-342(2008)06-07-09</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;蜀汉政权作为我国历史上一个有较大影响的王朝，有一整套严密的典章制度。蜀汉典章制度与魏、吴相比，有其特色，这便是较普遍地继承了汉制。这也反映在行政建制上。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;一  行政建置概说</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;蜀汉的政权组织基本上是承袭汉制。西汉武帝以后，州刺史遂成定制，并逐步由巡察监督官吏演变为一级政府机构，至东汉晚期又采纳刘焉建议，行州牧之制，州一级政权略似割据一方的诸侯。蜀汉政府和当时的魏、吴政权一样，照搬了这种制度，其政府组织结构是：</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;朝廷—州—郡—县—乡</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;都尉—县—乡</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;朝廷—都督—郡—县—乡</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;蜀汉在三国中最小，限于土地，政区不广，州一级实际区域，只有益州和四个都督。另外，蜀汉于建兴七年与吴国盟约，“交分天下”，分得兖、冀、并、凉四州，皆设置州刺史，遥领其地(实无其地)；一度还曾设交州刺史，负责对两广等地区的事务；荆州、雍州二地与蜀土毗连，不少事务需专官处理，有时也设置了刺史。综上所述，蜀汉朝廷辖州、郡情况如下表。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;蜀汉朝廷下的州一级实体政权有五个：</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;益州：辖蜀郡、广汉、梓潼、阴平、南广、汶山、东广汉、江阳、汉嘉、宕渠、巴西、犍为郡。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;永安都督(巴东都督)：辖巴东、建平、固陵郡。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;江州都督：辖巴郡、黔安、涪陵郡。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;汉中都督：连汉中、武都二郡。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;庲降都督：辖南中地区朱提、越嶲、建宁、兴古、永昌、云南、牂牁七郡。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;二  郡县简况</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;据不够准确的统计，在蜀汉政权刚建立的章武元年(221)，全国仅有民户二十万、人口九十万。当然，这个户口数目只指在政府登记注册者，当时大量的奴婢、部曲、私属未在此数目内，广大边地的少数民族未在此数内。据本人统计，蜀汉共置有二十七郡、一百六十九县。如下表：</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img onerror="this.src='/images/err.png'" src="http://img.ipub.exuezhe.com/jpg/K22/2009/K22T220.jpg" /></p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img onerror="this.src='/images/err.png'" src="http://img.ipub.exuezhe.com/jpg/K22/2009/K22T221.jpg" /></p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img onerror="this.src='/images/err.png'" src="http://img.ipub.exuezhe.com/jpg/K22/2009/K22T222.jpg" /></p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img onerror="this.src='/images/err.png'" src="http://img.ipub.exuezhe.com/jpg/K22/2009/K22T223.jpg" /></p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img onerror="this.src='/images/err.png'" src="http://img.ipub.exuezhe.com/jpg/K22/2009/K22T224.jpg" /></p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img onerror="this.src='/images/err.png'" src="http://img.ipub.exuezhe.com/jpg/K22/2009/K22T225.jpg" /></p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img onerror="this.src='/images/err.png'" src="http://img.ipub.exuezhe.com/jpg/K22/2009/K22T226.jpg" /></p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;除上表所列外，蜀汉还一度统治过西城郡(辖西城、锡、安阳、平阳、洵阳县)、上庸郡(辖上庸、北巫、安富、微阳等五县)、房陵郡(辖房陵、沶乡、绥阳等县)，但统治时间不长。这些地区在三国时期主要隶属于曹魏。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;三  蜀汉行政建制的主要特色</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;蜀汉行政建制主要有三大特点：继承汉制；军事管制融入行政建制中；大量新置郡，以凑足一个国家的框架。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.继承汉制。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;蜀汉的制度大体上都继承了汉制。在行政建制上，虽然蜀汉领土在三国中最小，虽然全部国土仅为原两汉的益州之地，仍保留了朝廷、州、郡、县的行政建制格局。蜀汉的州，只有益州一州。在许多具体事务上，益州的行政事务与朝廷行政事务，在办理人员上并没严格区分。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;蜀汉的封侯制度仍承袭汉制。蜀汉一代，与魏、吴相比，严格控制了封侯的规模。刘备称帝前，封张飞列侯，为都亭侯，称帝后章武元年又封马超为斄乡侯，张飞为西乡侯。马超在投奔刘备前已为亭侯，这实际上是新政权对马超原有侯爵重新承认罢了。诸葛亮治蜀期间：建兴元年，第一次出现规模较大的封侯。《华阳国志》卷七《刘后主志》载：“封丞相亮武乡侯；中都护李严假节，加光禄勋，封都乡侯，督永安事；中军师，卫尉鲁国刘琰亦都乡侯；中护军赵云，江州都督费观，屯骑校尉、丞相长史王连，中部督襄阳向宠，及魏延、吴懿皆封都亭侯，杨洪、王谋等关内侯。”同《三国志·蜀志》相比，王连为平阳亭侯，赵云为永安亭侯，与此稍异，但从此以后一直到诸葛亮死前，所封列侯极少，仅陈震，马忠、王平、姜维几人，且除魏延于建兴八年被封为南郑侯，其它均为亭侯。这说明诸葛亮治蜀期间仍封赏极严。又《三国志·蜀志·向朗传》载，向朗在“亮卒后，徙左将军，追论旧功，封显明亭侯，位特进”。这“旧功”，在诸葛亮生前却未能封侯。到延熙年间又封了一批乡侯，如马忠、张瑛、费祎等，这在诸葛亮生前是不多见的。蜀汉严格控制分封县侯。据《三国志·蜀志》，蜀汉政权只封过五位县侯，有事迹可考者三人：魏延：因功封南郑侯。王平被封安汉侯。此二人皆因曾督镇汉中。姜维，诸葛亮死后，因统诸军，进封平襄侯。蜀汉政权存在的40余年间所封列侯的数量与级别，较之吴魏两国要逊色得多。这主要与蜀汉政权一开始便欲“威之以法”，“限之以爵”的大政方针有关，另外，分封列侯要建立侯国，这意味着要分割出一部分国家财政的收入给予列侯，而蜀国实际能够控制的区域十分有限，人户数也很少。若分封诸侯，特别是县侯过多，很难维持对外战争中的人力与物力的损耗。蜀汉封侯较苛，实是由客观形势决定的。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.蜀汉军事管制融入行政建制中，是蜀汉行政建制的最大特色。这主要表现在都督之制和都尉制上。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;都督之制，始于东汉末年战乱之时，其实质是军人政治，即军人兼理地方行政。《后汉书·袁绍传》：“绍乃分授所统为三都督，使授及郭图、淳于琼各典一军，未及行。”《后汉书·百官志五·州郡条》：“故焉牧益土，造帝服于岷、峨。袁绍取冀，下制书于燕、朔。刘表荆南，郊天祀地。魏祖据兖，遂构皇业：汉之殄灭，祸源乎此。及臻后代，任寄弥广，委之邦宰之命，授之斧钺之重，假之都督之威，开之征讨之略。”三国的时代特色便是战乱。蜀、魏、吴三国皆承都督之制，皆在边疆重镇设置都督，集军政大权于一身。可以说都督之制是三国时期在行政建制上的最大特征。从领土面积上看，蜀汉除益州直接管辖的中部地区外，四边皆为都督管辖的地区。可以说，当时蜀汉的五分之四以上的领土为都督管理。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;蜀汉都督皆领兵屯守，又多下兼郡守诸职，驻镇一方，独当一面。都督的品级与州刺史相当，全面负责边疆之军政。蜀汉先后设置庲降都督、汉中都督、江州都督、永安(巴东)都督等。都督府直属朝廷。各都督府辖郡的军事、行政、刑罚、经济等，郡的各种事物皆通过都督府与朝廷发生联系。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;汉中都督：建安二十四年(219)秋，刘备称汉中王后，还治成都。拔魏延为都督，镇汉中。当时魏延的头衔是“督汉中镇远将军”和“汉中太守”。本来，都督比郡太守高一级，是郡太守的垂直领导，但当时设都督之地，皆为军事前方，都督多同时兼任治所所在地的郡守。其后，李严、吴壹、王平、胡济先后担任此职。吴懿是刘备吴皇后的哥哥，以“车骑将军”的身份“督汉中”。其助手是“安汉将军”王平。王平后来也做了汉中太守，代替吴懿担任“督汉中”的重大任务。诸葛亮在建兴九年调魏廷以“前军师”的名义做先锋，让李严“督汉中”。李严因罪被废以后，继承他在汉中职务的，便是吴懿。蒋琬驻汉中时，命王平继续“督汉中”、兼“前护军”、兼汉中太守，最后还让王平“署大将军府事”，把自己大将军府的一切事务交给了王平。有趣的是还把王平的官衔，由“督汉中”改为“统汉中”。实际上这是一回事，只是一个文字游戏。王平也不负蒋琬知遇。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;江州都督：费观，李严、李丰，李福、邓芝。《李严传》：亮表严子丰为江州都督督军，典严后事。《华阳国志》卷一《巴志》说：“刘先主初以江夏费瓘为太守，领江州都督。后都□李严更城大城，周回十六里。欲穿城后山，自汶江通水入巴江，使城为州。求以五都置巴州。丞相诸葛亮不许。亮将北征，召严汉中。故穿山不逮。然造苍龙、白虎门。别郡县仓皆有城。严子丰代为都督。丰解后，梓潼李福为都督。”</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;永安都督(巴东都督)：李严、陈到、宗预、罗献、阎宇。《华阳国志》卷七《刘后主志》：“建兴元年夏五月，后主即位，……中护军李严假节、加光禄勲、封都郷侯、督永安事。”又建兴四年，“永安都□李严还督江州，城巴郡大城，以征西将军汝南陈到督永安，封亭侯。”又景耀元年，“征北大将军宗预自永安征拜镇南将军，领兖州刺史，以襄阳罗宪为镇军督永安事。”《晋书》卷五十七《罗宪传》说：罗宪因得罪黄皓，“左迁巴东太守，时大将军阎宇都督巴东，拜宪领军为宇副贰。”《三国志·蜀志》卷十五《宗预传》说宗预：“还迁后将军，督永安，就拜征西大将军，赐爵闗内侯。”</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;庲降都督(南中都督)：蜀汉邓方、李恢、张翼、马忠、张表、阎宇皆曾任庲降都督；又由于此职较重，又设副贰都督(霍弋、杨戏)、参军等职。清冯苏撰《滇考》说：“汉灵帝复置州牧，以刘焉为益州，而南中诸郡别立庲降都督以统之。刘先主定成都，邓方以朱提太守领庲降都督。”他认为庲降都督始设于灵帝之时。《李恢传》说“遂以恢为庲降都督，使持节领交州刺史史，住平夷县。”裴松之注说：“讯之蜀人，云庲降地名，去蜀二千余里，时未有宁州，号为南中，立此职以总摄之。晋泰始中，始分为宁州。”庲降若是地名，却不见于其它记载，可能其为地名时间甚短，其地或与平夷县有一定关系。《李恢传》：“章武元年，庲降都督邓方卒，先主问恢谁可代者，恢对曰人之才能各有长短，……先主笑曰：‘孤之本意，亦已在卿矣。’遂以恢为庲降都督，使持节，领交州刺史，住平夷县。”《霍峻传附子弋传》说弋为参军、庲降屯副贰都督，领永昌、建宁太守，《汉晋春秋》说：晋灭蜀后，晋文王善之，即拜他为南中都督，委以本任。在这里，庲降都督与南中都督即一回事。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;综观蜀汉都督，其共性是：(1)他们都首先是军事长官，其次才是地方行政长官，如同地方军区司令兼任地方行政职务。(2)担任都督者多同时兼任治所所在地的郡的太守，军政事务都一竿子插到底。(3)蜀汉制度，对一般郡太守皆不封侯赐爵，但都督多封侯赐爵，主要是亭侯和关内侯。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;都尉之制，西汉已有之。汉宣帝时，武都白马羌人造反，朝廷派骆武率军将其镇压后，骆武入汶山郡察访，当地官吏百姓反映“更赋至重，边人贫苦，无以供给，求省郡。”朝廷于是撤销了汶山郡，将其辖地省并为蜀郡北部都尉，原驻在汶山地区的大量郡、县官吏、军队大多撤出；都尉统治远比郡县松散，近似于民族自治。蜀汉在一些郡的边疆地区(主要是兄弟民族杂居地区)和重要关津之地设置都尉，负责兵事，又兼管当地政务。蜀汉先后设置过蜀郡北部都尉、广汉都尉、巴郡江关都尉、阴平郡关尉等。都尉可辖一至数县，其军事事务可直接受朝廷或都督、州领导，行政事务一般受所在郡领导。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.多建郡县，以凑足一个国家的框架。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;据不够准确的统计，在蜀汉政权刚建立的章武元年(221)，全国仅有民户二十万、人口九十万。当然，这个户口数目只指在政府登记注册者，当时大量的奴婢、部曲、私属未在此数目内，广大边地的少数民族未在此数内。蜀汉版图，大体限于广义的“蜀”(“西南夷”地区)、或汉代的益州地区。在这块土地上，秦置三郡约五十县，西汉置八郡一百零三县(一些暂时置郡如沈黎不计)，东汉置十二郡一百一十八县。蜀汉至少置有二十七郡、一百六十九县。蜀汉在东汉基础上又新增十五郡、五十一县，增郡数的比例超过一倍，增县约30％，增郡的比例远大于增县。新增如此多郡县，主要有以下因素：一是为了凑够一个国家的框架，虽明知自己比魏、吴地小民寡，仍试图以多搭空架子来提高声威，这从增郡的比例远大于增县这一统计中更能清楚地看出；二是边地日益得到开发，需要增置郡县以加强管理；三是为了增加空缺，以满足庞大的官僚集团之需。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;汉制，县有大小之分。蒋琬早年担任的是广都县长，以后又担任什邡令。小县的长官为“长”，大县的长官为“令”。可见蜀汉仍继承了汉代县分大小、不同品级的制度。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;汉制，在边疆少数民族地区设置的县一级政权机构为道，蜀汉取消了道这种制度，但在少数民族聚居地区，仍借助该民族原有的部落、氏族、聚邑等形式实行管理，而不再设置乡、里等基层组织。
+</div>
+<div class="page-list">
+    <div class="pageNav" id="pageList"></div>
+</div>
+</div><br class="cls"/>
+		</div>
+		</body></html>

@@ -1,0 +1,205 @@
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><style>.trR{ text-align:right;}
+#wraper{width:1190px; margin:0 auto; margin-bottom:10px;text-align:left;}
+#left{ float:left;width:250px; text-align:left;}
+#right{float:right;width:930px;text-align:left;border-top:2px solid #619bc0; padding-bottom:10px;}
+.border_w{ border:1px solid #d3d3d3;border-top:2px solid #619bc0;}
+.t01{height:30px;line-height:30px;border:1px solid #dddddd;padding-left:10px;background:url(../images/tbg01.jpg) repeat-x bottom; color:#1183c1; font-size:14px;}
+.con_01{ padding:10px;}
+.con_cbg{ background:url(../images/con_cbg.gif) repeat-y;}
+.con_bbg{ background:url(../images/con_bbg.gif) no-repeat left bottom; height:1px; line-height:1px; font-size:0;}
+
+.source{margin:15px;background:url(../images/linex.gif) repeat-x bottom; padding-bottom:30px; margin-bottom:30px;}
+.source .source-img{border:1px solid #d3d3d3; text-align:center; padding:5px;margin-bottom:10px; }
+.source p{color:#666666; font-weight:bold; font-size:12px;}
+.source .fblue{ color:#236bac; font-weight:normal;}
+
+.t_tj{ height:27px;padding-top:2px;margin:15px; background:url(../images/con_t_tj.gif) no-repeat left top; padding-left:10px; color:#FFFFFF; font-size:14px;}
+.c12_01{ margin-left:15px; margin-right:15px; margin-bottom:15px;}
+.c12_01 li{font-size:12px; line-height:24px; background: url(../images/dot.gif) no-repeat 2px 10px; padding-left:15px;}
+
+#artibodyTitle{color:#236bac;font-family:"宋体";font-size:20px;font-weight: normal;line-height:35px;text-align:center;margin-top:10px;	text-align:center;}
+#artisubTitle{font-family:"宋体";font-size:16px;font-weight: normal;line-height:28px;text-align:center;}
+.articl_info{margin-left:30px; margin-right:30px; position:relative;border-bottom:1px solid #e1e1e1;padding-bottom:20px; margin-bottom:20px;}
+.btn-img{
+	background-image:url(../images/allbg.png);
+	background-repeat:no-repeat;
+	font-size:12px;		
+	cursor:pointer;
+	border: 0px none;
+	display: inline-block;
+	vertical-align:middle;
+	text-align:center;}
+
+.artInfo{height:22px;border-top:1px solid #e1e1e1;border-bottom:1px solid #e1e1e1;padding:5px;margin:20px;}
+.artInfo li{float:left;width:33%;height:22px; line-height:22px; color:#666666;}
+
+.artInfo li .collectionPage_link{
+	background-position:-509px -80px;
+	padding-left:10px;
+	margin-top:-2px;
+	_margin-top:0px;
+	margin-left:10px;
+	width:51px;
+	height:22px; 
+	line-height:22px;		
+	color:#1183c1;	}
+.artInfo li .printPage_link{
+	background-position:-570px -80px;
+	padding-left:10px;
+	margin-top:-2px;
+	_margin-top:0px;
+	margin-left:10px;
+	width:51px;
+	height:22px; 
+	line-height:22px;	
+	color:#1183c1;}
+.artInfo li .downloadPage_link{
+	background-position:-631px -80px;
+	margin-top:-2px;
+	_margin-top:0px;
+	margin-left:10px;
+	width:51px;
+	padding-left:10px;
+	height:22px; 
+	line-height:22px;	
+	color:#1183c1;}
+
+
+.artBaseInfo{line-height:24px; margin-bottom:5px;}
+.artBaseInfo .info_left{float:left;width:80px;}
+.artBaseInfo .info_right{float:left;width:790px;}
+
+.artBaseInfo dt{float:left;width:80px; color:#666666;line-height:20px; display:inline-block;}
+.artBaseInfo dd{color:#666666;line-height:20px;display:inline-block;}
+.artBaseInfo .col li{ float:left;width:210px; height:20px; line-height:20px;color:#666666;}
+
+.artBaseInfo .item{ float:left;width:50%;}
+.artBaseInfo .notice{
+	margin-left:10px;
+	width:61px;
+	padding-left:10px;
+	height:22px; 
+	line-height:22px;
+	background-position:-448px -80px;	
+	color:#1183c1;}
+
+.artInfo{height:30px;border-top:1px solid #e1e1e1;border-bottom:1px solid #e1e1e1;margin:20px 10px;}
+.artInfo div{ float:left;width:30%;height:30px; line-height:30px; text-align:center;}
+.artInfo div a{ margin-left:20px; margin-right:20px;}
+.artInfo li{float:left;width:33%;height:22px; line-height:22px; color:#666666;}
+
+.articl_info{margin-left:30px;margin-right:30px; position:relative;border-bottom:1px solid #e1e1e1;padding-bottom:20px; margin-bottom:20px;}
+.artBaseInfo{margin-bottom:5px;}
+.articl_info_t{float:left;width:80px;margin-right: -100%;font-weight:bold;line-height:24px;}
+.articl_info_c{float: left;width: 100%;}
+.articl_info_c .info_c{margin-left:80px; line-height:24px;}
+.artBaseInfo .marL{ margin-left:20PX;}
+.artBaseInfo .col_info{ float:left;width:30%;line-height:20px;}
+
+.fontSize{position: relative;right:0px;top:0px;font-size:12px; height:30px; line-height:30px; text-align:right;}
+.fontSize a{border:1px solid #c2c2c2;margin-right:10px;padding:4px 1px;*padding:1px; cursor:pointer;font-size:12px;}
+.fontSize a span{background:url(../images/page_a_36.png) repeat-x;padding:3px;}
+
+.fontSize a.now{border: #f9ad75 1px solid;padding:4px 1px;*padding:1px;}
+.fontSize a.now span{color:#ff7d27;background:url(../images/current_34.png) repeat-x bottom;padding:3px;}
+.artibody{margin-left:20px;margin-right:20px;font: 18px/180% "Microsoft YaHei","微软雅黑"; color:#666666;}
+.artibody p{margin-bottom:20px;}
+
+.fontSize A:link{ color:#000000;text-decoration:none;}
+.fontSize A:visited{ color:#000000;text-decoration:none;}
+.fontSize A:hover{ color:#FF0000;text-decoration:none;}
+.fontSize a.now:link{color:#ff7d27;text-decoration:none;}
+#Zoom img {max-width:600px; max-height:600px; scale:expression((this.offsetWidth > this.offsetHeight)?(this.style.width = this.offsetWidth >= 600 ? "600px" : "auto"):(this.style.height = this.offsetHeight >= 600 ? "600px" : "auto")); display:inline !important;}
+
+.t_artiInfo{font-size:14px; padding-left:20px;background:url(../images/linex.gif) repeat-x top; line-height:30px; margin-top:10px;}
+.li_artiInfo{margin-left:30px; margin-right:30px;padding-bottom:10px; }
+.li_artiInfo ul li{float:left;width:100%;padding:3px 0;}
+.li_artiInfo ul li .title{ float:left;width:65%;}
+.li_artiInfo ul li .author{ float:left;width:15%;}
+.li_artiInfo ul li .come{ float:right;width:20%;color:#999999; text-align:right;}
+
+
+.index_artInfo{height:36px; line-height:36px; border-top:1px solid #e1e1e1;border-bottom:1px solid #e1e1e1; margin-top:20px; padding-left:20px;  padding-right:20px;padding-right:10px; margin-bottom:10px; margin-left:10px;text-align:center;}
+.index_artInfo a.collectionPage_link{ background:url(../images/icon.gif) no-repeat 0 1px; padding-left:15px;}
+.index_artInfo a.printPage_link{background:url(../images/icon.gif) no-repeat 0 -55px; padding-left:15px;}
+.index_artInfo a.downloadPage_link{background:url(../images/icon.gif) no-repeat 0 -108px; padding-left:13px;}
+
+.index_body .main{margin-left:100px; line-height:28px;color:#000000; padding-bottom:30px; padding-top:20px;}</style></head><body><div id="wraper">
+			<div id="artTitles">
+				<h1 id="artibodyTitle">汉代匿名文书犯罪诸问题再探讨</h1>
+				<h2 id="artisubTitle"/>
+			</div>
+			
+			<div class="articl_info">
+				<div class="artBaseInfo" id="autInfo">
+					<div class="articl_info_t">作 者：</div>
+					<div class="articl_info_c">
+						<div class="info_c">
+								<a target="_blank" href="/qw?s0=4&amp;s1=%e8%b5%b5%e5%87%af">赵凯</a> 
+						</div>
+					</div>
+					<br class="cls"/>
+				</div>
+				<div class="artBaseInfo" id="autDescription">
+					<div class="articl_info_t">作者简介：</div>
+					<div class="articl_info_c">
+						<div class="info_c">赵凯(1970-)，男，内蒙古自治区和林格尔县人，中国社会科学院历史研究所助理研究员，主要从事秦汉史研究。中国社会科学院历史研究所，北京  100732</div>
+					</div>
+					<br class="cls"/>
+				</div>
+				<div class="artBaseInfo" id="tAutInfo"/>
+				<div class="artBaseInfo" id="orgInfo">
+					<div class="articl_info_t">原文出处：</div>
+					<div class="articl_info_c">
+						<div class="info_c">河北学刊</div>
+					</div>
+					<br class="cls"/>
+				</div>
+				<div class="artBaseInfo" id="astInfo">
+					<div class="articl_info_t">内容提要：</div>
+					<div class="articl_info_c">
+						<div class="info_c">
+							<p>结合简牍材料与传世文献，可以对汉代的匿名文书犯罪问题作深入探讨。汉律否定匿名书信的法律效力，对“投书人”科以重刑，对依据匿名书信立案司法的官员严加惩治，其所体现出来的立法精神对后世有重要影响。传世文献中的“投书”、“飞书”、“飞条”、“飞章”等不可一概视作“匿名书信”。案例表明，事涉君主、朝廷、权贵的匿名信案件，在具体处理过程中并不严格遵守正常的司法制度。这一变通做法为后世所沿袭，甚至以立法的形式固定下来。</p>
+						</div>
+					</div>
+					<br class="cls"/>
+				</div>
+				<div id="artPdcInfo" class="artBaseInfo">
+					<div class="col_info"><b>期刊代号：</b>K21 </div>
+					<div class="col_info"><b>分类名称：</b>先秦、秦汉史 </div>
+					<div class="col_info"><b>复印期号：</b>2009 年 05 期 </div>
+					<br class="cls"/>
+				</div>
+				<div class="artBaseInfo" id="artKeyword">
+					<div class="articl_info_t">关 键 词：</div>
+					<div class="articl_info_c">
+						<div class="info_c">
+								<a target="_blank" href="/qw?s0=7&amp;s1=%e6%b1%89%e4%bb%a3">汉代</a> 
+								<a target="_blank" href="/qw?s0=7&amp;s1=%e5%8c%bf%e5%90%8d%e6%96%87%e4%b9%a6">匿名文书</a> 
+								<a target="_blank" href="/qw?s0=7&amp;s1=%e6%8a%95%e4%b9%a6">投书</a> 
+								<a target="_blank" href="/qw?s0=7&amp;s1=%e9%a3%9e%e4%b9%a6">飞书</a> 
+								<a target="_blank" href="/qw?s0=7&amp;s1=%e9%a3%9e%e7%ab%a0">飞章</a> 
+								<a target="_blank" href="/qw?s0=7&amp;s1=%e9%a3%9e%e6%9d%a1">飞条</a> 
+								<a target="_blank" href="/qw?s0=7&amp;s1=the+Han+dynasty">the Han dynasty</a> 
+								<a target="_blank" href="/qw?s0=7&amp;s1=anonymous+amanuensis">anonymous amanuensis</a> 
+								<a target="_blank" href="/qw?s0=7&amp;s1=sending+a+letter">sending a letter</a> 
+								<a target="_blank" href="/qw?s0=7&amp;s1=anonymous+letter">anonymous letter</a> 
+								<a target="_blank" href="/qw?s0=7&amp;s1=urgent+letter">urgent letter</a> 
+
+						</div>
+					</div>
+					<br class="cls"/>
+				</div>
+				<div class="artBaseInfo" id="artTitleNote"/>
+				<a id="readArea" name="readArea"/>
+				
+			</div>
+			<div id="artText"><div class="artibody" id="Zoom" style="font-size: 14px;">
+    </p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;［中图分类号］K234  ［文献标识码］A  ［文章编号］1003-7071(2009)03-0083-06</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;匿名文书，是指隐匿己名或假冒他人姓名的公私文书，往往以攻讦或恐吓他人为目的。翻检史书，匿名文书犯罪的案例举不胜举，中国古代历朝历代的法典都视之为厉禁。从现有文献来看，投匿名文书犯罪的法律在唐代趋于完善，《唐律疏议》的相关规定基本为后世所遵循。20世纪出土的秦汉简牍材料表明，秦汉时期“投书罪”的立法精神和相关规定，对唐律产生了深远影响。而汉代传世文献中的相关案例，也使我们看到专制皇权凌驾于国家法律之上的事实。已有学者对相关问题作过研究①，总体而言尚不够深入，也存在一些值得商榷之处。本文将在他人研究成果的基础上作进一步探讨。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;一、汉代匿名文书犯罪的主要内容和立法精神</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;关于汉代匿名文书犯罪的立法规定，目前仅见于张家山汉简和《晋书·刑法志》。张家山汉简《二年律令·具律》：</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;毋敢以投书者言系治人。不从律者，以鞫狱故不直论[1](P150)。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;这里所谓“投书”，即后世之匿名文书。律文规定，官府不能根据匿名文书的内容来捕系、审理被告发的人，即匿名文书指向的“被告”；否则，以“鞫狱故不直”之罪来处罚相关官员。《晋书·刑法志》追述曹魏时期针对汉律的刑法改革，“改投书弃市之科，所以轻刑”[2](P925)，这里的“投书”也是指投匿名文书犯罪。显然，终两汉四百年，投匿名信告人罪即“投书罪”一直是汉代律令体系的重要内容，且属“重辟”之列。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;汉代的典章制度多系承袭秦制，即所谓“汉承秦制”。汉律中的“投书罪”，同样承自秦律。《睡虎地秦墓竹简·法律答问》：</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;有投书，勿发，见辄燔之；能捕者购臣妾二人，系投书者鞫审谳之。所谓者，见书而投者不得，燔书，勿发；投者〔得〕，书不燔，鞫审谳之之谓也[3](P174)。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;这里的“投书”，整理者注为匿名书信。据此，官府收到匿名书信后，应立即焚毁，不得拆看；如果捉拿到了投书人，则书信不需焚毁，据之审讯投书人。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;《二年律令·具律》所存条文虽然简约，但是结合秦律的相关规定，我们仍可对汉代投匿名文书犯罪的立法精神和主要内容作出如下归纳：</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;其一，否定匿名书信的法律效力。早在秦汉之前，“两造具备”即原、被告双方到庭对诘已经成为基本的审讯制度要求。投匿名书信告人，有被告而无原告，既不能保证原告人和被告人平等的诉讼权利，也无法课之以相应的义务，是对正常诉讼制度和法律秩序的破坏，其法律效力自然应当被否定。在这一点上，《二年律令·具律》所代表的汉律与《法律答问》所代表的秦律是一致的。这样的立法精神，从赵广汉治颍川的事</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;迹中可窥得一斑。《汉书》记载：</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;先是，颍川豪杰大姓相与为婚姻，吏俗朋党。广汉患之，厉使其中可用者受记，出有案问，既得罪名，行法罚之，广汉故漏泄其语，令相怨咎。又教吏为缿筒，及得投书，削其主名，而托以为豪桀大姓子弟所言。其后强宗大族家家结为仇雠，奸党散落，风俗大改。吏民相告讦，广汉得以为耳目，盗贼以故不发，发又辄得[4]（《赵广汉传》）。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;赵广汉以非常手段治理颍川，其方法之一，便是纵容甚至鼓励“吏民相告讦”。为此，他别出心裁地安置“缿筒”（相当于今“举报箱”），便于吏民举报。按照常理，这种情形为投递匿名书信提供了便利，但是从“及得投书，削其主名”一语看，所谓“主者”，系指举报人，即举报信上明确署有举报人的姓名。显然，在地方长官鼓励告讦、法律政策变通执行的特殊情况下，举报信尚有“主名”，这正可以反衬出，在通常情况下，没有“主名”的匿名文书的法律效力是受到否定的，而且投匿名书信告人罪的禁令为吏民所周知并被严格遵行。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;其二，对“投书人”科以重刑。投匿名书信告人罪之危害，一是破坏正常的诉讼制度，已如前述；二是容易助长滥告滥讼，扰乱社会秩序，败坏风气。因此，从秦到清，历朝律典都规定要追究投书者的法律责任，并予以严惩。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;追究投书人法律责任的前提，是将投书人捉拿归案。如《睡虎地秦墓竹简》规定，如果将投书人当场拿获，结合匿名书信的内容进行审讯；如果没有当场拿获，则要悬赏缉捕。投书人归案，审讯之后科以何刑，睡虎地秦简中未见相关规定，但是根据“购臣妾二人”这样的赏格，可以判断一定是重辟。此类犯罪在汉代的量刑，即是《晋书·刑法志》所言“投书弃市”。汉景帝中元二年（前148年）“改磔曰弃市”[4]（《景帝纪》），那么在张家山汉简时代，汉律对投书者的量刑可能就是磔，与汉魏之际的“投书弃市”一致，足见两汉时期投匿名书信告人始终属于重典严惩的犯罪行为。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;其三，对违法责任官员的处置。睡虎地秦简与张家山汉简反映了秦汉律否定匿名文书的法律效力，已如前述。责任官员依据匿名文书所提供的信息立案追究被告人的做法，悖于立法精神，属违法行为，故亦受到相应惩治。对于依据匿名文书立案司法的官员，《二年律令·具律》明确规定“以鞫狱故不直论”②，相应的惩罚也很严厉，即如果匿名文书指向的“被告”被定为死罪，那么责任官员就要被“斩左趾为城旦”；如果是死罪以下的其他罪名，相应的处罚是“各以其罪罪之”。这样的惩罚措施，就是为了防止匿名文书犯罪进入司法程序。焚毁匿名文书，是法律保护的行为；依据匿名文书立案，是法律打击的行为。这种情形，确实会促使官员们权衡利弊之后作出正确的选择。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;与此相关的另一个问题是对匿名文书所涉被告的处理。如果匿名信检举、反映内容属实，官府是否会追究被告的责任？《二年律令·具律》中虽然未见与此有关的直接规定，但从其将责任官员的违法行为定性为“故不直”来考虑，实际上隐含了免予追究被告的信息。《唐律疏议》曰：“被告者，假令事实，亦不合坐。”这样看似“僵化”的规定，实际上是从保护被告的角度，严格贯彻法律否定匿名文书法律效力的立法精神。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;二、“投书”、“飞书”、“飞章”、“飞条”：匿名文书相关术语的界定</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;投递匿名书信告人这样的行为，其出现时间不晚于秦代。但是“匿名书”、“匿名书信”等专门术语，大概在北朝之后的隋唐时期才普遍使用的③。汉代也有匿名文书，但是尚未使用“匿名”一词④。汉代传世文献中的“投书”、“飞书”、“飞章”、“飞条”等术语，有的被史家释为匿名书信，有的被研究者径直拿来作为匿名文书的案例或论据。反复研读相关史料，疑窦重重。兹将以上术语试作分析如下：</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（一）投书</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“投”的本意是投掷。《说文解字》：“投，擿也。从手殳声。”《庄子·胠箧》：“擿玉毁珠，小盗不起。”陆德明《释文》：“擿，持赤反，义与掷同。”据此，“投书”直解，就是把书信扔到某个地方。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;汉代文书送达，有严格的登记、交接、备案制度，诉讼文书尤为严格。与普通送达行为相比，置放匿名文书最大的不同，在于刻意回避交接、登记的程序，是一种不符合正常文书检校制度的做法。通过匿名书信来表达自己的意见并达到个人目的，对于那些有法律诉求而因种种原因不愿意对簿公堂的人来说，也是一种不得已的选择。但法律明确规定，以匿名书信告人是非法行为，违者重治。所以，匿名信的责任人需小心谨慎才能规避风险，特别是在投送文书时要小心翼翼，防止被抓获而暴露身份。“扔下就溜”的行为过程，正可用“投书”来形容。可能正是基于此，秦汉律中往往用“投书”来指代投递匿名书信的行为。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;《睡虎地秦墓竹简·法律答问》所谓“有投书，勿发，见辄燔之”；《二年律令·具律》所谓“毋敢以投书者言系治人”；《盗律》所谓“及投书、悬人书，恐吓人以求钱财”；《晋书·刑法志》所载“投书弃市之科”，无一例外地使用了“投书”一词。因此，似乎可以认定，汉代法典中的“投书”有固定的含义，即“匿名信”。在法典以外的文献中，但凡出现在与举报、诉讼有关的语境，“投书”一词也基本上是指匿名书信。《后汉书·马援传附子廖》记载马廖之子马豫“投书怨诽”；《三国志·魏志·国渊传》记载：“时有投书诽谤者，太祖疾之，欲必知其主”。这两处所说的“投书”，基本上可以认定是投送匿名书信。但也有例外，如《汉书·赵广汉传》所载广汉“又教吏为缿筒，及得投书，削其主名，而托以为豪桀大姓子弟所言”，其中之“投书”显然不是匿名书信⑤。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（二）飞书</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;汉代传世文献中，“飞书”有三种含义：</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;其一，用箭传送书信。这种情况往往出现在战争语境下，两军交锋，壁垒阻隔，把书信绑缚在箭上发射，从而起到传递信息的作用。如战国时鲁仲连“为书，约之矢以射城中，遗燕将”，王充《论衡·超奇》以“鲁连飞书，燕将自杀”之语述其事。又，《三国志·魏志·赵俨传》：“诸将皆喜，便作地道，箭飞书与仁，消息数通。”</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;其二，匿名书信。这种含义的“飞书”，都出现在《后汉书》中。如《梁统传附子松》所载梁松“悬飞书诽谤”案，《皇后纪·章德窦皇后》所载窦皇后“作飞书”陷害梁竦案。其中之“飞书”，章怀注皆认为是匿名书信，并云：“飞书者，无根而至，若飞来也，即今匿名书也”。所谓“无根而至”，当指书信没有明确的主者，也不知道投送人是谁，这是匿名书信的基本特征。值得注意的是，《后汉书·光武十二王·广陵思王荆传》记载的一起“飞书”案，情形较为复杂。为便于讨论，引文如下：</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;荆性刻急隐害，有才能而喜文法。光武崩，大行在前殿，荆哭不哀，而作飞书，封以方底，令苍头诈称东海王强舅大鸿胪郭况书与强曰：</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;君王无罪，猥被斥废，而兄弟至有束缚入牢狱者。太后失职，别守北宫，及至年老，远斥居边，海内深痛，观者鼻酸……若归并二国之众，可聚百万，君王为之主，鼓行无前，功易于太山破鸡子，轻于四马载鸿毛，此汤、武兵也。……夫受命之君，天之所立，不可谋也。今新帝人之所置，强者为右。愿君王为高祖、陛下所志，无为扶苏、将闾叫呼天地。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;强得书惶怖，即执其使，封书上之。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;此处之“飞书”，章怀未予注解。刘荆所为，是典型的谋逆，一旦事败，罪莫大焉。这样的后果，“有才能而喜文法”的刘荆不会不知晓。他让送信人诈称书信主者是东海王刘强舅父大鸿胪郭况，那么在书信中便不会出现刘荆本人的名字，也就是说，这是一封没有明确署名的书信。只要送书人送达后迅速脱身，即便刘强向朝廷报告，刘荆也不会受到重治。遗憾的是，送信苍头被拘执，真正的幕后主者不可避免地随之暴露，刘荆借助匿名书信起事的谋划也落空了。这样看来，这应当是一封匿名书信。一些辞书比如《汉语大辞典》引用此例，将其中的“飞书”释为“紧急的文书”，值得商榷。也有学者援引此例，以证明“飞书和一般文书相比有很大的不同。在当时飞书所传播的内容一般事关重大或非常紧急、机要，需要迅急上奏报告。因此飞书的传播速度远比一般的文书传播要快”[5]的说法，同样值得商榷。在汉代，那样的文书是“飞变”或“急变”，而非“飞书”。“飞书”被用来描述远距离迅速传递文书的情形，多见于汉代之后的历史文献。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（三）飞章</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“飞章”一词，不见于《史记》、《汉书》，而在《后汉书》里多次出现。研究新闻传播史的学者或视之为匿名书信[5]，笔者也曾一度认为它是匿名书性质的文书，但是反复研读史料，更倾向于认为“飞章”是正常的署名文书。为便于阐述，兹将《后汉书》中有关“飞章”的案例罗列如下：</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.邓荣为权宠“飞章”陷害案。《邓禹传附曾孙荣》记载，汉桓帝时邓荣为侍中，“性矜洁自贵，于人少所与，以此见害于权宠。而从兄子尚帝妹益阳长公主，帝又聘其从孙女于后宫，左右益恶之。延熹中，遂陷以罪辟，与宗族免归故郡。”邓荣为吏所迫，在亡命途中上书，诉说其冤屈之状，云“臣兄弟独以无辜为专权之臣所见批抵，青蝇之人所共构会。以臣婚姻王室，谓臣将抚其背，夺其位，退其身，受其执。于是遂作飞章以被于臣，欲使坠万仞之坑，践必死之地，令陛下忽慈母之仁，发投杼之怒”。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.李固为阿母宦者“飞章”陷害案。《李固传》记载，汉顺帝阳嘉二年（133年），李固因灾异对策，直刺时弊，“顺帝览其对，多所纳用，即时出阿母还弟舍，诸常侍悉叩头谢罪，朝廷肃然。以固为议郎。而阿母宦者疾固言直，因诈飞章以陷其罪，事从中下。大司农黄尚等请之于大将军梁商，又仆射黄琼救明固事，久乃得拜议郎”。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.李固为梁冀等“飞章”陷害案。《李固传》记载，汉质帝时，太尉李固因天子继立等事为权臣梁冀所忌恨，那些曾被李固奏免的官员们在梁冀的授意下，“遂共作飞章虚诬固罪”，称李固“因公假私，依正行邪，离间近戚，自隆支党。至于表举荐达，例皆门徒，及所辟召，靡非先旧。或富室财赂，或子婿婚属，其列在官牒者凡四十九人。又广选贾竖，以补令史；募求好马，临窗呈试。出入逾侈，辎<img onerror="this.src='/images/err.png'" src="http://img.ipub.exuezhe.com/jpg/K21/2009/K21T595.jpg" />曜日。大行在殡，路人掩涕，固独胡粉饰貌，搔头弄姿，盘旋偃仰，从容冶步，曾无惨怛伤悴之心”云云。此案的结果是“书奏，冀以白太后，使下其事。太后不听，得免”。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4.史弼为侯览“飞章”陷害案。汉桓帝时，河东太守史弼拒绝宦官侯览的索贿要求，并考杀侯览派来请托的诸生，“侯览大怨，遂诈作飞章下司隶，诬弼诽谤……及下廷尉诏狱……弼遂受诬，事当弃市”，最终“得减死罪一等，论输左校”。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5.蔡邕为程璜等“飞章”陷害案。汉灵帝时，议郎蔡邕在“特诏”对策中，借灾异之名，将当朝污浊之官、含垢之宦逐一罗列。不料章奏内容被宦官泄漏，“其为邕所裁黜者，皆侧目思报”，中常侍程璜“遂使人飞章”，称蔡邕及其叔父蔡质因请托被拒而欲报复大臣。蔡邕诘对无效，被“劾以仇怨奉公，议害大臣，大不敬，弃市”。后“减死一等，与家属髡钳徙朔方，不得以赦令除”。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;以上五个“飞章”案例，都属于东汉朝廷内部的政治斗争。例1是不得势的外戚被陷害，其余四例都是忠于职守的朝臣被外戚、宦者及与之合污的官员陷害，性质基本雷同。在这些血腥的政治斗争中扮演着利器角色的“飞章”，到底是不是匿名书信？</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;从文献记载来看，这些“飞章”背后都有权重势炎的主使者，由于地位或利害关系使然，他们也许会把自己的大名署在“飞章”上，而更可能是指使其他人出面“作飞章”。这些“其他人”，可能是门客或趋炎附势者，也可能是因为共同利益而纽合在一起的“我”。以梁冀等陷害李固案为例，《李固传》明确记载“飞章”系梁冀及早年被李固奏免而怀恨在心的人“共作”，那么他们都应该是署名的责任人。“飞章”的起草人则是大名鼎鼎的学者马融。同书《马融传》说马融曾“为梁冀草奏李固”，《吴祐传》则有更详细的记载：</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（吴）祐在胶东九年，迁齐相，大将军梁冀表为长史。及冀诬奏太尉李固，祐闻而请见，与冀争之，不听。时扶风马融在座，为冀章草，祐因谓融曰：“李公之罪，成于卿手。李公即诛，卿何面目见天下之人乎？”冀怒而起入室，祐亦径去。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;梁冀准备“诬奏”李固，吴祐“闻而请见”，说明此事在上报朝廷之前已经在一定范围内有所传播；马融起草“飞章”的过程，吴祐目击，又因与梁冀意见不合而不欢而散，这样的“飞章”已经没有必要也不可能保密，自然不大可能是匿名文书了。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;值得注意的是，《吴祐传》所用“诬奏”一词，也能说明一些问题。“诬奏”系指捏造罪名向朝廷奏告，在诉讼要件上“两造具备”也是其基本要求，即无论证据是真是假，必须有真实的署名责任人。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;汉顺帝时名臣王龚的事迹；更为直接地揭示了“飞章”与“诬奏”之间隐含着的特殊关系。《后汉书·王龚传》记载：</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;永和元年，拜太尉。在位恭慎，自非公事，不通州郡书记。其所辟命，皆海内长者。龚深疾宦官专权，志在匡正，乃上书极言其状，请加放斥。诸黄门恐惧，各使宾客诬奏龚罪，顺帝命亟自实。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;其事又见《后汉纪》卷十九：</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;九月，太尉王龚以疾罢。初龚患宦官之乱。上疏言其罪。宜罢遣逐之。宦官乃使客作飞章，欲陷龚以罪，诏太尉龚亟自实。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;同样一件事，《后汉书》记为“诸黄门恐惧，各使宾客诬奏龚罪”，《后汉纪》记为“宦官乃使客作飞章，欲陷龚以罪”。两相比较，可以清楚地看到，“飞章”并不是匿名文书，它似乎总是与“诬奏”或“诈作”联系在一起。因此，笔者更倾向于认为，东汉时期的“飞章”，要么形同西汉时期的“急变”、“飞变”，即告发急变的奏章，要么就是没有事实根据的诬告文书，而不是匿名文书。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;（四）飞条</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;汉代传世文献中又有“飞条”一词，前贤多解为匿名书信。《后汉书·宦者列传·吕强》记载汉灵帝时正直的中常侍吕强上疏灵帝，就蔡邕为“飞章”所陷一事坦陈己见：</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;又闻前召议郎蔡邕对问于金商门，而令中常侍曹节、王甫等以诏书喻旨。邕不敢怀道迷国，而切言极对，毁刺贵臣，讥呵竖宦。陛下不密其言，至令宣露，群邪项领，膏唇拭舌，竞欲咀嚼，造作飞条。陛下回受诽谤，致邕刑罪，室家徙放，老幼流离，岂不负忠臣哉！</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;其中之“飞条”，章怀注：“飞条，飞书也。”显然，注文是将“飞条”等同于匿名信了。参照前引《蔡邕传》的史料，吕传中的“飞条”与蔡传中的“飞章”正相对应，在共同的语境中，“飞条”即“飞章”。如果以上对“飞章”的判断大致不误，那么此处之“飞条”并非匿名书信，章怀注值得商榷。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;又，《论衡·自纪篇》载：“所友位虽微卑，年虽幼稚，行苟离俗，必与之友。好杰友雅徒，不汜结俗材。俗材因其微过，蜚条陷之”。刘盼遂案：《后汉书·宦者传》：“競欲咀嚼，造作飞条。”章怀太子注：“飞条，飞书也。”按：殆如今世之匿名信，明季之没名揭帖矣。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;按照上面的分析，这里的“蜚条”（即“飞条”），也不应该是匿名信或没名揭贴，而更类似于现实生活中的“小报告”。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;三、司法实践中的变通</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;以上对传世文献中事关匿名文书的一些术语作了厘定，这是我们讨论匿名文书犯罪案例的前提。汉代法律否定匿名书信的法律效力，严禁官府依据匿名文书立案深究，这是《二年律令·具律》提供给我们的信息。但是，传世文献所载案例又表明，在司法实践中，这些规定似乎并未得到严格执行。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;《后汉书·梁统传附子松》载：</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;松数为私书请托郡县，二年，发觉免官，遂怀怨望。四年冬，乃悬飞书诽谤，下狱死，国除。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;章怀注：飞书者，无根而至，若飞来也，即今匿名书也。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“梁松悬飞书诽谤”案是汉平帝初的一件大案，其事亦见《后汉书》中的《明帝纪》、《皇后纪》以及《续汉书·天文志》等处。梁松本是汉光武帝宠臣，尚舞阴长公主，光武崩，又受遗诏辅政，成为汉平帝永平初的权臣。但他恃权骄纵，生性严刻的汉平帝非常不满，翌年即以“数为私书请托郡县”为由，将梁松免官。梁松丢官失势后，颇不甘心，作出了“悬飞书诽谤”这样颇不寻常的举动。这里的“飞书”，按照章怀注，是指匿名书信。投递匿名书信乃法律所禁，身为汉官的梁松不可能不知道；公然诽谤朝廷的后果，他也应该非常清楚。他之所以采取这种方式，大概是正常的进谏渠道已经不起作用，在万不得已的情况下，草成匿名书为自己辩白正名，并公开张挂，希冀借助舆论的力量，得到朝廷的谅解。但朝廷迅速侦破了此案件，梁松被认定为匿名书的主者，匿名书中为自己澄清的内容，也成了诽谤朝廷的罪证，梁松下狱死，国除，妻子家属皆被流放九真。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;汉平帝重治本案，固在于梁松“诽谤”朝廷，更在于他“悬飞书”。投送到官府的匿名文书，或被付之一炬，或在衙门小范围内传播，基本上不存在“危害公共安全”的问题；公然张挂的匿名书则不同，在官府介入之前，其内容有可能已经传播出去，如事涉“诽谤”朝廷，其影响之大，绝非普通匿名书所能比拟。汉代治理言论犯罪，向来关注言论的传播范围，往往以传播范围或“惑众”程度作为定罪量刑的依据。梁松被重治，原因即在于此。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;东汉献帝时，魏郡太守国渊侦破“投书诽谤”案，也是治史者熟知的投匿名书事件。《三国志·魏志·国渊传》记载：</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;时有投书诽谤者，太祖疾之，欲必知其主。渊请留其本书，而不宣露。其书多引二京赋，渊敕功曹曰：“此郡既大，今在都辇，而少学问者。其简开解年少，欲遣就师。”功曹差三人，临遣引见，训以“所学未及，二京赋，博物之书也，世人忽略，少有其师，可求能读者从受之。”又密喻旨。旬日得能读者，遂往受业。吏因请使作笺，比方其书，与投书人同手。收摄案问，具得情理。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;从“欲必知其主”一句来看，此案中的“投书”未署主者之名，是典型的匿名书信。这封匿名书信内容所指，是批评或“诽谤”当时的权臣曹操。按照汉律的规定，既是匿名书信，自当立即焚毁。但是官府并没有焚毁此书，而是保留书信，同时全力侦缉匿名书信的制造者即“投书人”，抓获“投书人”之后，审讯治罪。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;以上两例中，投匿名书信者都受到了追究，这与秦汉律的立法精神基本一致。但是司法实践中也有与其相反的例子。《后汉书·皇后纪·章德窦皇后》记载，梁竦的两个女儿同时被汉章帝纳为贵人，小贵人生子（即后来的汉和帝），却被一直无子的窦皇后“养为己子。欲专名外家而忌梁氏。八年，乃作飞书以陷竦，竦坐诛，贵人姊妹以忧卒”。文中“飞书”，章怀注云：“若今匿名信也。”在这场宫廷斗争中，更为强势的窦氏利用“飞书”这件利器陷害梁竦，使之背上恶逆之罪名，遭受灭顶之灾。如果此处的“飞书”确如章怀注所言为匿名书，那么这个案例展示给我们的司法过程，与《睡虎地秦墓竹简·法律答问》、《二年律令·具律》的律条规定大相径庭：匿名书非但未被焚毁，相反却被带入司法程序；投书人逍遥法外，被告者则受到严惩。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;从以上三个案例的处理过程，大体能窥见两汉时期投匿名书信犯罪的司法实践情形。但需要指出的是，三案所涉皆为朝廷、宫禁或权臣，在传统专制国家中，这样的案件都需要“特事特办”，因此，它们尚不能称得上是典型的匿名书信案例，因而也不具有令人满意的代表性。可以想象，真正大量的匿名书信案例，应发生在普通吏民之间，它们才是汉律相关规定的针对对象。遗憾的是，汉代传世文献中找不到这样的案例，究其原因，或许是这些寻常案件难以进入正史视野，或许是那些承载着普通人聚讼纷纭的匿名书信在进入司法程序之前就被“合法”地焚毁了。不过，通过后世的一些历史记载，亦可反观汉代的情形。《旧唐书·王锷传》记载：</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;锷明习簿领，善小数以持下，吏或有奸，锷毕究之。尝听理，有遗匿名书于前者，左右取以授锷，锷内之靴中，靴中先有他书以杂之。及吏退，锷探取他书焚之，人信其以所匿名者焚也。既归省所告者，异日乃以他微事连其所告者，固穷按验之以谲众，下吏以为神明。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;《唐律疏议》明载：“匿名之书，不合检校，得者即须焚之，以绝欺诡之路。得书不焚，以送官府者，合徒一年。官司既不合理，受而为理者，加二等，处徒二年。被告者，假令事实，亦不合坐。若是书不原事，以后别有人论告，还合得罪。”比照律条，王锷的做法显然是违法的。但是他当众烧毁假匿名信，维护了“法律”的尊严；依据真匿名信的信息验事，实现了“事理”的要求。这个发生在唐代的案例，或许有助于我们窥测汉代司法实践中此类案件的真实处理情况。这种零星的“变通”也许不是传统社会处理“投书”案件的主流方式，其合理内核却为现代法制国家所借鉴。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;以上对汉代匿名文书犯罪的立法情况和司法实践作了一些分析，仍然有一个问题值得思考。依据所载信息的虚实，匿名信大致可以分为两类：一类是内容纯属虚造或部分失实；一类是内容全部属实。从情理上说，前一类是法律所应禁止、打击的行为；后一类则不应是法律禁止、打击的行为——投书人之所以不敢出具姓名或不敢出具真实姓名，往往是由于担心遭到报复。当法律被权势垄断时，法律途径便不再安全，在这种情况下通过匿名书信达到诉求，便有其内在的合理性。从秦汉到明清，君主专制国家采取“见辄焚之”的方式来处理匿名书信，表面上公平，事实上形成了对后一类人的不公平。更为不公平的是，君主专制国家的统治者们对普通人“一刀切”，对自己则是“留后门”：对于与己有关的匿名书信不但不烧，还要深究到底。孟德斯鸠《论法的精神》论及君主国家对匿名信的态度问题时说：“如果有人为着公共的利益而控告他人，如果控告人不愿意使法律施行于他和被告人之间，那就证明他有原因惧怕法律。我们所可能给他的最低限度的处罚，就是完全不相信他。除了案情急迫，无法忍受普通裁判程序的延宕并且与君主福利攸关的场合之外，人们是不应理睬这种控告的。在理睬的场合，我们可以认为控告者是极不得已才不保持沉默而说了话的。但是在其他场合，我们就应该和君士坦丁帝一样地说：‘一个人有仇敌，而没有人出面控告他，这个人是不应该受到我们怀疑的。’”[6]（《第十二章》）在君主专制体制的笼罩下，古代中国与古代欧洲在匿名书信的立法精神上竟然如此惊人一致。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;［收稿日期］2009-02-21</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;注释：</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;①参见王应暄《从国渊、王安礼验字破案看古代的匿名书告人罪、诬告罪、诽谤罪、投书诽谤罪》（《法学评论》1987年第3期）、黄春平《试论汉代匿名信：飞书》（《国际新闻界》2007年第11期）、赵凯《秦汉律中的“投书罪”》（《中国社会科学院院报》2006年11月2日）等。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;②所谓“故”，《晋书·刑法志》云：“其知而犯之谓之故。”所谓“不直”，《汉书·景武昭宣元功臣表》注：“入罪为故不直”；《睡虎地秦墓竹简·法律答问》：“罪当重而端轻之，当轻而端重之，是谓‘不直’”。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;③检索正史，这样的术语最早见于《北史·尔朱荣传附世隆》及《周书·柳庆传》，这二史皆为唐人编撰。新、旧《唐书》中这样的术语频出，而《唐律疏议》中的“投匿名书告人罪”，明确以“匿名书”这样的术语表述犯罪要件，也为后世历代法典所循袭。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;④汉代传世文献中的“匿名”，往往是指讲求名节的士人弃绝权势、“隐匿名行”的行为。如张安世“欲匿名远权势”（《汉书·张汤传附子安世》）；李业“遂隐藏出谷，绝匿名迹，终莽之世”（《后汉书·独行列传·李业》）。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⑤此处用“投书”一词，一是由于“缿筒”这种器具腹大口小，用“投”字描述把书信放入其中的行为更为妥切；二是由于这是一种特殊的书信投递方式，不用登记备案，有助于消除举报者的忧虑，有利于告讦，与匿名文书的投递方式有相类之处。
+</div>
+<div class="page-list">
+    <div class="pageNav" id="pageList"></div>
+</div>
+</div><br class="cls"/>
+		</div>
+		</body></html>

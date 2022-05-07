@@ -1,0 +1,198 @@
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><style>.trR{ text-align:right;}
+#wraper{width:1190px; margin:0 auto; margin-bottom:10px;text-align:left;}
+#left{ float:left;width:250px; text-align:left;}
+#right{float:right;width:930px;text-align:left;border-top:2px solid #619bc0; padding-bottom:10px;}
+.border_w{ border:1px solid #d3d3d3;border-top:2px solid #619bc0;}
+.t01{height:30px;line-height:30px;border:1px solid #dddddd;padding-left:10px;background:url(../images/tbg01.jpg) repeat-x bottom; color:#1183c1; font-size:14px;}
+.con_01{ padding:10px;}
+.con_cbg{ background:url(../images/con_cbg.gif) repeat-y;}
+.con_bbg{ background:url(../images/con_bbg.gif) no-repeat left bottom; height:1px; line-height:1px; font-size:0;}
+
+.source{margin:15px;background:url(../images/linex.gif) repeat-x bottom; padding-bottom:30px; margin-bottom:30px;}
+.source .source-img{border:1px solid #d3d3d3; text-align:center; padding:5px;margin-bottom:10px; }
+.source p{color:#666666; font-weight:bold; font-size:12px;}
+.source .fblue{ color:#236bac; font-weight:normal;}
+
+.t_tj{ height:27px;padding-top:2px;margin:15px; background:url(../images/con_t_tj.gif) no-repeat left top; padding-left:10px; color:#FFFFFF; font-size:14px;}
+.c12_01{ margin-left:15px; margin-right:15px; margin-bottom:15px;}
+.c12_01 li{font-size:12px; line-height:24px; background: url(../images/dot.gif) no-repeat 2px 10px; padding-left:15px;}
+
+#artibodyTitle{color:#236bac;font-family:"宋体";font-size:20px;font-weight: normal;line-height:35px;text-align:center;margin-top:10px;	text-align:center;}
+#artisubTitle{font-family:"宋体";font-size:16px;font-weight: normal;line-height:28px;text-align:center;}
+.articl_info{margin-left:30px; margin-right:30px; position:relative;border-bottom:1px solid #e1e1e1;padding-bottom:20px; margin-bottom:20px;}
+.btn-img{
+	background-image:url(../images/allbg.png);
+	background-repeat:no-repeat;
+	font-size:12px;		
+	cursor:pointer;
+	border: 0px none;
+	display: inline-block;
+	vertical-align:middle;
+	text-align:center;}
+
+.artInfo{height:22px;border-top:1px solid #e1e1e1;border-bottom:1px solid #e1e1e1;padding:5px;margin:20px;}
+.artInfo li{float:left;width:33%;height:22px; line-height:22px; color:#666666;}
+
+.artInfo li .collectionPage_link{
+	background-position:-509px -80px;
+	padding-left:10px;
+	margin-top:-2px;
+	_margin-top:0px;
+	margin-left:10px;
+	width:51px;
+	height:22px; 
+	line-height:22px;		
+	color:#1183c1;	}
+.artInfo li .printPage_link{
+	background-position:-570px -80px;
+	padding-left:10px;
+	margin-top:-2px;
+	_margin-top:0px;
+	margin-left:10px;
+	width:51px;
+	height:22px; 
+	line-height:22px;	
+	color:#1183c1;}
+.artInfo li .downloadPage_link{
+	background-position:-631px -80px;
+	margin-top:-2px;
+	_margin-top:0px;
+	margin-left:10px;
+	width:51px;
+	padding-left:10px;
+	height:22px; 
+	line-height:22px;	
+	color:#1183c1;}
+
+
+.artBaseInfo{line-height:24px; margin-bottom:5px;}
+.artBaseInfo .info_left{float:left;width:80px;}
+.artBaseInfo .info_right{float:left;width:790px;}
+
+.artBaseInfo dt{float:left;width:80px; color:#666666;line-height:20px; display:inline-block;}
+.artBaseInfo dd{color:#666666;line-height:20px;display:inline-block;}
+.artBaseInfo .col li{ float:left;width:210px; height:20px; line-height:20px;color:#666666;}
+
+.artBaseInfo .item{ float:left;width:50%;}
+.artBaseInfo .notice{
+	margin-left:10px;
+	width:61px;
+	padding-left:10px;
+	height:22px; 
+	line-height:22px;
+	background-position:-448px -80px;	
+	color:#1183c1;}
+
+.artInfo{height:30px;border-top:1px solid #e1e1e1;border-bottom:1px solid #e1e1e1;margin:20px 10px;}
+.artInfo div{ float:left;width:30%;height:30px; line-height:30px; text-align:center;}
+.artInfo div a{ margin-left:20px; margin-right:20px;}
+.artInfo li{float:left;width:33%;height:22px; line-height:22px; color:#666666;}
+
+.articl_info{margin-left:30px;margin-right:30px; position:relative;border-bottom:1px solid #e1e1e1;padding-bottom:20px; margin-bottom:20px;}
+.artBaseInfo{margin-bottom:5px;}
+.articl_info_t{float:left;width:80px;margin-right: -100%;font-weight:bold;line-height:24px;}
+.articl_info_c{float: left;width: 100%;}
+.articl_info_c .info_c{margin-left:80px; line-height:24px;}
+.artBaseInfo .marL{ margin-left:20PX;}
+.artBaseInfo .col_info{ float:left;width:30%;line-height:20px;}
+
+.fontSize{position: relative;right:0px;top:0px;font-size:12px; height:30px; line-height:30px; text-align:right;}
+.fontSize a{border:1px solid #c2c2c2;margin-right:10px;padding:4px 1px;*padding:1px; cursor:pointer;font-size:12px;}
+.fontSize a span{background:url(../images/page_a_36.png) repeat-x;padding:3px;}
+
+.fontSize a.now{border: #f9ad75 1px solid;padding:4px 1px;*padding:1px;}
+.fontSize a.now span{color:#ff7d27;background:url(../images/current_34.png) repeat-x bottom;padding:3px;}
+.artibody{margin-left:20px;margin-right:20px;font: 18px/180% "Microsoft YaHei","微软雅黑"; color:#666666;}
+.artibody p{margin-bottom:20px;}
+
+.fontSize A:link{ color:#000000;text-decoration:none;}
+.fontSize A:visited{ color:#000000;text-decoration:none;}
+.fontSize A:hover{ color:#FF0000;text-decoration:none;}
+.fontSize a.now:link{color:#ff7d27;text-decoration:none;}
+#Zoom img {max-width:600px; max-height:600px; scale:expression((this.offsetWidth > this.offsetHeight)?(this.style.width = this.offsetWidth >= 600 ? "600px" : "auto"):(this.style.height = this.offsetHeight >= 600 ? "600px" : "auto")); display:inline !important;}
+
+.t_artiInfo{font-size:14px; padding-left:20px;background:url(../images/linex.gif) repeat-x top; line-height:30px; margin-top:10px;}
+.li_artiInfo{margin-left:30px; margin-right:30px;padding-bottom:10px; }
+.li_artiInfo ul li{float:left;width:100%;padding:3px 0;}
+.li_artiInfo ul li .title{ float:left;width:65%;}
+.li_artiInfo ul li .author{ float:left;width:15%;}
+.li_artiInfo ul li .come{ float:right;width:20%;color:#999999; text-align:right;}
+
+
+.index_artInfo{height:36px; line-height:36px; border-top:1px solid #e1e1e1;border-bottom:1px solid #e1e1e1; margin-top:20px; padding-left:20px;  padding-right:20px;padding-right:10px; margin-bottom:10px; margin-left:10px;text-align:center;}
+.index_artInfo a.collectionPage_link{ background:url(../images/icon.gif) no-repeat 0 1px; padding-left:15px;}
+.index_artInfo a.printPage_link{background:url(../images/icon.gif) no-repeat 0 -55px; padding-left:15px;}
+.index_artInfo a.downloadPage_link{background:url(../images/icon.gif) no-repeat 0 -108px; padding-left:13px;}
+
+.index_body .main{margin-left:100px; line-height:28px;color:#000000; padding-bottom:30px; padding-top:20px;}</style></head><body><div id="wraper">
+			<div id="artTitles">
+				<h1 id="artibodyTitle">论“编户齐民”的形成及其内涵演化</h1>
+				<h2 id="artisubTitle">——兼论秦汉时期“编户齐民”与“吏民”关系</h2>
+			</div>
+			
+			<div class="articl_info">
+				<div class="artBaseInfo" id="autInfo">
+					<div class="articl_info_t">作 者：</div>
+					<div class="articl_info_c">
+						<div class="info_c">
+								<a target="_blank" href="/qw?s0=4&amp;s1=%e5%88%98%e6%95%8f">刘敏</a> 
+						</div>
+					</div>
+					<br class="cls"/>
+				</div>
+				<div class="artBaseInfo" id="autDescription">
+					<div class="articl_info_t">作者简介：</div>
+					<div class="articl_info_c">
+						<div class="info_c">刘敏  南开大学历史学院教授、博士生导师</div>
+					</div>
+					<br class="cls"/>
+				</div>
+				<div class="artBaseInfo" id="tAutInfo"/>
+				<div class="artBaseInfo" id="orgInfo">
+					<div class="articl_info_t">原文出处：</div>
+					<div class="articl_info_c">
+						<div class="info_c">天津社会科学</div>
+					</div>
+					<br class="cls"/>
+				</div>
+				<div class="artBaseInfo" id="astInfo">
+					<div class="articl_info_t">内容提要：</div>
+					<div class="articl_info_c">
+						<div class="info_c">
+							<p>编户齐民是先秦特定历史条件下产生的具有特殊针对性的人群，即消除分封采邑制下国人与野人之异、公民与私人之别，国家通过编户统一管理的居民。离开这个前提，编户齐民并不具备平等无贵贱的特点。编户制在先秦出现，但将“编户”作为居民称谓是汉代的事情，此时编户齐民的初始针对性内涵已不重要，仅作为人民大众的泛称被延续使用，不具有严格的等级身份性。“编户”与“齐民”均经历了由动宾词组到名词的形态演变，名词化的“编户”和“齐民”是社会变革的产物，而动宾词组化的“编户”和“齐民”则反映了变革过程。“吏民”是编户齐民的主体，但二者不能简单画等号，因为非吏民的贫贱民也属于编户齐民。</p>
+						</div>
+					</div>
+					<br class="cls"/>
+				</div>
+				<div id="artPdcInfo" class="artBaseInfo">
+					<div class="col_info"><b>期刊代号：</b>K21 </div>
+					<div class="col_info"><b>分类名称：</b>先秦、秦汉史 </div>
+					<div class="col_info"><b>复印期号：</b>2009 年 05 期 </div>
+					<br class="cls"/>
+				</div>
+				<div class="artBaseInfo" id="artKeyword">
+					<div class="articl_info_t">关 键 词：</div>
+					<div class="articl_info_c">
+						<div class="info_c">
+								<a target="_blank" href="/qw?s0=7&amp;s1=%e7%a7%a6%e6%b1%89">秦汉</a> 
+								<a target="_blank" href="/qw?s0=7&amp;s1=%e7%bc%96%e6%88%b7%e9%bd%90%e6%b0%91">编户齐民</a> 
+								<a target="_blank" href="/qw?s0=7&amp;s1=%e5%90%8f%e6%b0%91">吏民</a> 
+								<a target="_blank" href="/qw?s0=7&amp;s1=%e8%b4%ab%e8%b4%b1%e6%b0%91">贫贱民</a> 
+
+						</div>
+					</div>
+					<br class="cls"/>
+				</div>
+				<div class="artBaseInfo" id="artTitleNote"/>
+				<a id="readArea" name="readArea"/>
+				
+			</div>
+			<div id="artText"><div class="artibody" id="Zoom" style="font-size: 14px;">
+    </p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;一、编户齐民研究的几家代表之说</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;学术界以专门论著研究编户齐民者虽然不多，但在各类研究中涉及该问题的却不少，有些研究颇值得关注，包括日本（如木村正雄在有关中国古代帝国形成的研究中提出“齐民制”理论①）和韩国（如李成珪在中国古代帝国形成问题的研究中提出“齐民支配体制”观点②）学者的研究，最值得关注的是中国台湾学者杜正胜《编户齐民——传统政治社会结构之形成》一书③。考察这些代表性研究，我们会发现他们之间存在明显的分歧，主要表现为：一是编户齐民形成和存在时间，二是编户齐民性质，即这一人群的身份特点。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;如木村正雄“齐民制”理论主张：“中国古代的基本生产关系，是一种可称为‘齐民制’的奴隶制的特殊形态。它不是像希腊和罗马那样的、以自由市民与他们所占有并役使的私人奴隶的生产关系为基础，构成多数的自律生产体，而是所有的人民基本被纳入所谓国家生产体之中，作为国家的劳动力而隶属于国家的这种生产关系。人民在国家生产体之中，虽然每一个家族可以分得标准为一百亩的耕地，但最终不能形成独立的生产体。从而在经济上、政治上、社会上都不能完成自由和独立，基本上作为国家的劳动力，为出生地的户籍所束缚（编户齐民），没有迁徙自由（本籍主义），税役等按人头缴纳（直接的、个别的、人头的支配），处于国家的支配、隶属之下（人身支配）”④。他认为，编户齐民的身份虽然有别于希腊、罗马的私人奴隶，但他们却是有中国古代特色的隶属于国家的奴隶；这种奴隶性质的“齐民制”时代，从先秦一直持续到隋唐均田制瓦解以前。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;李成珪“齐民支配体制”理论则完全不同，首先在编户齐民性质和身份特点方面主张，“齐民的等级在有爵者与谪民或奴婢之间，他们可以升为有爵者，根据情况还有做官的资格，是国家的正户，是有受田资格的公民。所以他们决不是国家的农奴或奴隶”⑤。他否认编户齐民是国家奴隶和国家农奴，而是把他们看作社会人群中的一个等级，尤其是与爵位没有关系，即介于有爵位者与贱民之间的一个社会等级。其次就编户齐民存在时间而言，论者主张是在有秦一代，认为汉代不过是“由自身完成的战国时期齐民统治体制形骸化阶段”⑥，这种看法颇为独到。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;与以上二人的观点完全不同，杜正胜认为：“战国以后，中国政治社会结构的基本骨架在于编户齐民，春秋以前则是城邦氏族……前一阶段是‘古典’时期，后一阶段是‘传统’时期。”“大约从公元前600年至前100年，这五百年可以说是‘古典’到‘传统’的转型期，它的基本性质，可以概括为‘编户齐民’，构成秦汉以下两千年传统政治社会结构的骨干。”⑦对编户齐民的性质，杜正胜主张：“‘编户齐民’就是列入国家户籍而身份平等的人民”，而所谓的“‘齐等’是政府相对于被统治人民而言，只具备政治性和法律性的统治意义，与个人的社会地位和经济财富没有关系”⑧。他认为，战国秦汉时期作为“国家主体的编户齐民，在政治社会结构中，至少具有五种特性：(1)构成国家武力骨干；(2)是严密组织下的国家公民；(3)拥有田地私有权；(4)是国家法律主要的保护对象；以及(5)居住在‘共同体性’的聚落内，但个人的发展并未被抹杀”⑨。杜正胜十分强调编户齐民的“齐等”仅仅具有政治性和法律性意义，与社会地位和经济财富没有关系；虽然他原则上肯定秦汉时期存在贱民，但认为包括七科谪在内的国家籍录人口均属于编户齐民。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;另外，晁福林在氏族问题的研究中也谈到对编户齐民的看法。他关于编户齐民时代的说法与杜正胜一致，但关于编户齐民人群的界定又有差异，认为，“编户齐民主要指努力于本业——农业的编入国家户籍的民众。这应当是很长历史时期里的‘编户齐民’的定义”⑩。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;与以上学者的观点相比，笔者对编户齐民的基本看法，既有某些相近点，也有差距较大之处。概括来说，笔者认为，编户齐民是在先秦特定历史条件下产生的具有特殊针对性的人群。所谓特定历史条件，是指春秋晚期以后，特别是战国以及秦朝这几百年间的社会变革，古代中国实现了由贵族分权的分封制（传统称为“封建”）向君主集权的郡县制的转变，正是在这一重大转变中，产生了国家以户为单位统一籍录居民的制度。所谓特殊针对性人群，是指消除了原分封采邑制下国人与野人之异、公民（臣属于国君）与私人（臣属于卿大夫）之别，使民统一成为接受国家授田、授爵，为国家提供赋税、徭役和兵役的“编户齐民”。离开这个针对性前提条件，齐民并不具备完全平等没有贵贱的特点。编户制虽然在先秦时期出现，但将“编户”作为居民的称谓，却是汉代的事情，其名称滞后于这个群体的形成。但恰恰是秦统一后，古代中国基本上完成了由贵族分权的分封制向君主集权的郡县制的转变，编户齐民初始具有的针对性内涵已不再重要，其名称仅作为人民大众的一种泛泛称谓被延续使用。秦汉以后，其含义类似于后来的居民百姓，以区别于贵族官僚及奴婢，虽然如此，但其不具有政治和法律上严格的等级身份性。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;二、“编户齐民”的称谓与史料分析</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;颜师古《汉书·高帝纪》注曰：“编户者，言列次名籍也。”(11)《汉书·梅福传》注曰：“列为庶人也。”(12)故“编户齐民”一词所指称的，应该是中国古代君主专制社会中，被国家统一编入户籍进行管理，并按照规定同样担负赋役的居民，是一个主要区别于社会中因享受特权而不入什伍编户的官僚贵族和没有独立户籍的奴婢的人群。该人群的形成和其称谓的产生异步，按照事物发展的一般逻辑，前者早于后者，这也符合中国上古时期“编户齐民”发展的实际。完整的“编户齐民”一词约出现在汉代，如《淮南子》曰：</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;故其为编户齐民无以异，然贫富之相去也，犹人君与仆虏，不足以论之。(13)</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;杜正胜前揭书开篇曾言：“‘编户齐民’一词习见于汉人的著作”(14)。这一说法应该有它的合理之处，但同时又与事实稍有距离。就前者而言，虽然他界定的时间是春秋到秦朝这五六百年，但产生于这个时期的文献史料难以觅见“编户齐民”的称谓，要到汉代人著作中才有，仅就这一点而言，杜正胜之言具有合理性。但与先秦文献史料中基本不见“编户齐民”一词的情况相似，秦汉文献史料中“编户齐民”一词也并非“习见”不鲜，相反是屈指可数，包括上引《淮南子》中的史料，总共也只有6条。其中王莽曾在诏令中使用过“编户齐民”一词：</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;夫盐，食肴之将；酒，百药之长，嘉会之好；铁，（曰）［田］农之本；名山大泽，饶衍之臧；五均赊贷，百姓所取平，卬以给澹；铁布铜冶，通行有无，备民用也。此六者，非编户齐民所能家作，必卬于市，虽贵数倍，不得不买。豪民富贾，即要贫弱，先圣知其然也，故斡之。每一斡为设科条防禁，犯者辠至死。(15)</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;其他几条只存在于当时及后世思想家、政论家、历史学家及大臣们的议论中，均不在当时国家的法律文书和皇帝的诏令中，所以这一称谓的性质，更接近世间俗称，其政治性和法律性特点十分逊色。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;当然，“编户齐民”也异称或简称为“编户之民”、“编列之民”、“编户民”，或更简称为“编户”或者“齐民”，但即便是这些或简略或变通的称谓，除“齐民”相对多见外，其他称谓出现几率也同“编户齐民”一样低，而包括秦朝在内的秦以前时期更是少见，似乎只在《吴越春秋》中出现过1次：</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;禹以下六世而得帝少康。少康恐禹祭之绝祀，乃封其庶子于越，号曰无余。余始受封，人民山居，虽有鸟田之利，租贡才给宗庙祭祀之费。乃复随陵陆而耕种，或逐禽鹿而给食。无余质朴，不设宫室之饰，从民所居，春秋祠禹墓于会稽。无余传世十余，末君微劣，不能自立，转从众庶为编户之民，禹祀断绝。(16)</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;需要指出，这段文字虽然描述的是春秋时期的历史，是越国祖先世系传衍的情况，但就《吴越春秋》一书而言，首先其作者非先秦时人，一般认为是东汉人赵晔(17)。另外就其内容而言，虽然采择了《国语》、《左传》、《史记》、《越绝书》的有关内容，但同时也融入了民间传说，故难以将其完全作为信史，仅根据这条孤证而认定早在春秋时代就已经有了“编户之民”的称谓，而这条史料的最大可能性是赵晔把汉代对居民百姓的俗称用在了越王勾践传说中一度没落的祖先身上。故就目前所见史料看，用“编户”一类名词称谓居民，应该是从汉代开始。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;与先秦相比，两汉文献史料中“编户之民”、“编列之民”、“编户民”、“编户”出现的频率稍高，但仍然称不上“习见不鲜”。大约“编户之民”3见，“编户民”1见，“编户”4见，“编列之民”1见，“编户之列”1见，再加上“编户齐民”6见，总共只有16见，出现频率仍很低。这种现象不能认为是偶然，也不能看作无关紧要，其意义笔者将在下文分析。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;与“编户齐民”、“编户之民”、“编列之民”、“编户之列”、“编户民”、“编户”相比，单独的“齐民”称谓出现的几率稍高些，先秦文献6见，秦汉文献出现20次左右。值得注意的是，先秦文献中“齐民”一词主要出现在诸子书中，特别是战国中后期的《管子》、《庄子》、《韩非子》、《吕氏春秋》中。如：</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;齐民食于力，作本，作本者众，农以听命。(18)</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;子贡对曰：“孔氏者，性服忠信，身行仁义，饰礼乐，选人伦，上以忠于世主，下以化于齐民，将以利天下。此孔氏之所治也。”(19)</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;故能禁贲育之所不能犯，守盗跖之所不能取，则暴者守愿，邪者反正。大勇愿，巨盗贞，则天下公平，而齐民之情正矣。(20)</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;诸众齐民，不待知而使，不待礼而令；若夫有道之士，必礼必知，然后其智能可尽也。(21)</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;可见在先秦，特别是战国中期以后，已用“齐民”来称谓社会下层的居民百姓，该称谓出现要早于“编户”类称谓，不待汉代已有矣。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;还需指出，不论先秦还是两汉的史料，都存在“齐民”二字并非指称居民百姓，并不是对社会上一种人群的称谓的情况。如：</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;故明君不道也，必将修礼以齐朝，正法以齐官，平政以齐民，然后节奏齐于朝，百事齐于官，众庶齐于下。(22)</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;今欲张太平之纪纲，立至化之基趾，齐民财之丰寡，正风俗之奢俭，非井田实莫由也。此变有所败，而宜复者也。(23)</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;第一条的“齐民”，与“齐朝”、“齐官”对仗而言，是说明君要通过“修礼”以整顿朝堂，通过“正法”以整顿官府，通过“平政”以治理万民，“齐民”是指治民。第二条“齐民财之丰寡”，是“今欲”实现的四个治政目标之一，在语句结构上和其他三句一一对仗：其中“齐”与“张”、“立”、“正”对应；“民财”与“太平”、“至化”、“风俗”对应，“丰寡”与“纪纲”、“基趾”、“奢俭”对应。“齐民财之丰寡”就是整齐民财的多少，即使民均贫富，缩小贫富差距。古人在把“齐”作动词使用时，为区别于名词称谓的“齐民”，还常在“齐”与“民”之间加修饰字，较常见者如：“齐常民”、“齐庶民”、“齐黎民”、“齐万民”等：</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;圣人利身之谓服，便事之谓教，进退之谓节，衣服之制，所以齐常民，非所以论贤者也。(24)</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;行赏罚而齐万民者，治国也；君立法而下不行者，乱国也；臣作政而君不制者，亡国也。(25)</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;然而夫子当于道，二三子近于义，自布衣之士，上□天子，下齐庶民，而累其身而匡上也。(26)</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;大夫君运筹策，建国用，笼天下盐、铁诸利，以排富商大贾，买官赎罪，损有余，补不足，以齐黎民。(27)</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;综上所述，具有居民百姓涵义的“编户齐民”这种人群，不管开始出现在春秋还是战国，但作为成熟化固定化的名词称谓，出现在汉代，包括完整的“编户齐民”和带有“编户”字眼的省称、别称，只有“齐民”这一称谓出现在先秦。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;三、“编户齐民”的形成及其内涵演化</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;据前文，“齐民”在文献中存在两种用法：名词和动宾词组，指明二者的关系，对于认识“编户齐民”形成是很有意义的。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;把“编户齐民”最初形成的时代大致确定在战国时期，应该不会有问题。春秋战国是中国历史上社会变革空前剧烈的时代，整个社会全方位革新，从国家形态到社会结构，从土地到赋税、徭役、兵役、军事等各项制度，从礼法规矩到思想观念习俗，几乎没有哪一个方面是不革新而依旧的。按照传统，人们总是把春秋和战国放在一起，看作一个大的历史发展时期，但如果把春秋前期和战国中期以后进行对比，会明显看出两个时期的截然不同。顾炎武对春秋战国两个时期社会的变化，有一段经典描述：</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;《春秋》终于敬王三十九年庚申之岁，西狩获麟。又十四年，为贞定王元年癸酉之岁，鲁哀公出奔，二年，卒于有山氏，《左传》以是终焉。又六十五年，威烈王二十三年戊寅之岁，初命晋大夫魏斯、赵籍、韩虔为诸侯。又一十七年，安王十六年乙未之岁，初命齐大夫田和为诸侯。又五十二年，显王三十五年丁亥之岁，六国以次称王，苏秦为从长，自此之后，事乃可得而纪。自《左传》之终以至此，凡一百三十三年，史文阙佚，考古者为之茫昧。如春秋时犹尊礼重信，而七国则绝不言礼与信矣。春秋时犹宗周王，而七国则绝不言王矣。春秋时犹严祭祀，重聘享，而七国则无其事矣。春秋时犹论宗姓氏族，而七国则无一言及之矣。春秋时犹宴会赋诗，而七国则不闻矣。春秋时犹有赴告策书，而七国则无有矣。邦无定交，士无定主，此皆变于一百三十三年之间。史之阙文，而后人可以意推者也，不待始皇之并天下，而文、武之道尽矣。(28)</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;顾炎武评说无疑精彩，故反复被后代学者引用。但需指出，顾炎武论及的主要是封国的兴亡和礼俗的嬗变，但当时的变革却远不止于此，甚至最重要的变革也不在于此，顾炎武所论可以看作继发的变化，而原发的、根基性的、引发全方位变化的改革，则在于国家统治形式，或者说国家政权形态及社会人群结构的变革。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;就国家统治形式或政权形态而言，主要包含两个方面，一是春秋以前的西周王朝是一个宗法贵族层层分封、分级统治的天下，封国与王室的关系，虽然不完全同于封国之间的关系，但也不像后世那种中央领导地方的关系。诸侯只是臣服王室，双方存在一定的权利和义务，但随着天子式微和诸侯坐大，不论天子还是诸侯均难守故制，彼此虽有君臣之名，实质上都是独立性、自主性极强的国家，诸侯对外臣服于天子，对内则君临其国，臣其国民。而天子与诸侯的这种关系，逐渐也表现在诸侯国内诸侯与卿大夫之间。本来采邑和封国是有本质差别的，它是爵位、职官和俸禄的综合体现，不同于诸侯的“授民授疆土”，卿大夫对采邑内的土地和人民不具有法定的臣属权，但同样由于卿大夫势力的强盛，采邑的独立性增强，与诸侯的封国已没有太实质性的差别。由于诸侯称为“公室”、“公门”，卿大夫称为“私家”、“私门”，故诸侯掌握的民称作“公民”，卿大夫控制的民称作“私人”。韩非说“公民少而私人众”(29)，说的就是这两种民。在诸侯国内，公室与私家之间对于权力、人民和土地的争夺十分激烈。正如孔子所言：“禄之去公室五世矣，政逮于大夫四世矣。”(30)尤其到春秋后期，一些势力特别强大的卿大夫，甚至采邑自主、专国擅政还嫌不够，陆续发生了“三桓分鲁”、“六家分晋”、“田氏代齐”等重大事变，分封制对君主的不利影响充分显现，于是纷纷用郡县替代采邑，国家形态发生重大变革。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;二是不论周天子直辖的王畿还是诸侯的封国，都实行国野制，即《周礼》所谓“惟王建国，辨方正位，体国经野，设官分职，以为民极”(31)。《周礼》一书对于国野制大量且过于精细的描述，使学术界质疑其史料的可信度，但考之《左传》、《国语》等书，周朝存在国野制，分别国野进行统治，还是可信的。“国”“野”二字内涵都比较广泛，但当二者作为国家统治区域而对言时，国应该是指都城及其近郊，野则是指城郊以外的地区。国野制源于上古部族之间的征服，胜利的征服者居于设有城防的国中及其近郊，被征服者居于城郊以外的四野，但这又不是绝对的，因为在国中居住者也有被征服的奴隶，特别是手工工匠。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;国野之间存在政治上的对立关系，是由国人野人源自部族、等级和阶级的对立引发的。关于国人的身份和内涵，学术界长期争论未果，或曰居于国中者均为国人，或曰专指国中的平民，即自由民，或曰指居于国中的士农，包括低级贵族和官吏，或曰国中的士、农、工、商俱在其内。而学术界对野人问题的分歧，主要在于野人身份的界定：奴隶乎？农奴乎？自由民乎？由于这个时期和这个问题仅仅是编户齐民研究的前提和背景，故这里只言观点，不述考证。国人和野人主要是政治身份名词，其内涵主要是依据身份及权力特点来认定的。笔者倾向国人即指居于国中的士农的看法，包括低级贵族和官吏在内的士人与从事农耕的小人，他们都属于征服者部族。野人更多是被称为“庶人”或“庶民”，其身份可以算作半自由民，作为被征服部族，他们是被剥削被压迫者，是非自由的。他们与国人最大的差别是政治上的，如《左传》记载：</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;十月，晋阴饴甥会秦伯，盟于王城。秦伯曰：“晋国和乎？”对曰：“不和。小人耻失其君而悼丧其亲，不惮征缮以立圉也，曰：‘必报仇，宁事戎狄。’君子爱其君而知其罪，不惮征缮以待秦命，曰：‘必报德，有死无二。’以此不和。”秦伯曰：“国谓君何？”对曰：“小人戚，谓之不免；君子恕，以为必归。小人曰：‘我毒秦，秦岂归君？’君子曰：‘我知罪矣，秦必归君……’”(32)</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;这里的“小人”就是指国人，“君子”是指贵族。可见小人也就是国人，对国家事务具有发言权，而野人则没有。又据《管子》记载：</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;桓公曰：“参国奈何？”管子对曰：“制国以为二十一乡，商工之乡六，士农之乡十五，公帅十一乡，高于帅五乡，国子帅五乡，参国故为三军。公立三官之臣，市立三乡，工立三族，泽立三虞，山立三衡。制五家为轨，轨有长。十轨为里，里有司。四里为连，连有长。十连为乡，乡有良人。三乡一帅。”桓公曰：“五鄙奈何？”管子对曰：“制五家为轨，轨有长。  六轨为邑，邑有司。十邑为率，率有长。十率为乡，乡有良人。三乡为属，属有帅。五属一大夫，武政听属，文政听乡，各保而听，毋有淫佚者。”(33)</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;可见国和野各自实行不同的管理模式，国人有为国家当兵打仗的权利和荣耀，而野人则没有。又据《周礼》记载：</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;保氏掌谏王恶，而养国子以道：乃教之六艺，一曰五礼，二曰六乐，三曰五射，四曰五驭，五曰六书，六曰九数；乃教之六仪，一曰祭祀之容，二曰宾客之容，三曰朝廷之容，四曰丧纪之容，五曰军旅之容，六曰车马之容。凡祭祀、宾客、会同、丧纪、军旅，王举则从。听治亦如之。使其属守王闱。(34)</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;以乡三物教万民而宾兴之。一曰六德，知、仁、圣、义、忠、和；二曰六行，孝、友、睦、姻、任、恤；三曰六艺，礼、乐、射、御、书、数。(35)</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;这里的“万民”也是指国人，而“国子”则应是国人中的低级贵族“士”。上面两段史料说明国人还具有受教育的权利，而野人同样没有这样的权利。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;《国语》载：“地有高下，天有晦明，民有君臣，国有都鄙。”(36)《左传·昭公七年》载：“天有十日，人有十等。下所以事上，上所以共神也。故王臣公，公臣大夫，大夫臣士，士臣皂，皂臣舆，舆臣隶，隶臣僚，僚臣仆，仆臣台。”(37)周朝是一个等级繁杂的社会，不仅存在因部族不同而造成的等级差异，而且同一宗族内部也存在等级和阶级的差别。从上文看，不论是天子的王畿或是诸侯的封国都存在公民与私人、国人与野人的差别和对立，但进入战国以后，这种状况发生了彻底的变化。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;由于生产力的进步、私有制的发展，春秋战国时期土地的价值空前提升，对于土地人口的争夺愈益激烈。为了在争夺中获胜，诸侯和卿大夫纷纷实行改革，对社会结构变革发生重大影响的新制度包括：体现君主集权的官僚制，消除公民与私人差别的郡县制，弥合国野差异、国人与野人不齐等的编户制，以及按户籍实行的国家授田制和普遍征兵制。在这一变化过程中，基层社会组织的血缘特点被弱化，而国家的地缘性特点被凸显。分封制的逐渐瓦解，贵族采邑制被官僚郡县制取代，臣属于卿大夫的私人绝大部分都变成了国家的公民，而且不管其居于国中还是野中，都成为政治上齐等的公民。到战国中期以后，诸侯国的基本民众陆续变为统一的编户民，即接受国家授田，负担国家赋税、徭役和兵役的所谓“齐民”。孟子曾经针对当时的社会变化状况说：“在国曰市井之臣，在野曰草莽之臣，皆谓庶人。”(38)国、野作为居民生活的不同区域虽然依旧存在，但其政治上的等级性和对立性已不复存在，“皆谓庶人”，这些庶人就是编户齐民。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;编户齐民是在先秦特定历史条件下产生的具有特殊针对性的社会人群，其名称滞后于这一群体本身的出现，而且“编户齐民”四字开始出现时应该首先将其看作两个动宾词组，即“编户”与“齐民”的组合。与前面对“齐民”的分析一样，“编户”也存在两种不同形态：一种是名词化，一种是动宾词组，前引颜师古注：“编户者，言列次名籍也”，就是以动宾词组来解释，即按户编录居民的簿籍。这是一项影响至今的重要制度。在先秦“编户齐民”这一人群开始形成时，“齐民”的名称先于“编户”而存在，是因为当时社会结构变革的关键点在于“齐民”，齐民是目的和实质，途径和手段是通过编户，使民不再分公、私，人不再别国、野，使“民”达到“齐”。“编户齐民”既是社会变革的产物，更是变革本身；名词化的“编户”和“齐民”是社会变革的产物，而动宾词组化的“编户”和“齐民”，则反映变革的过程。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;对“齐民”二字的解释，学术界一般据如淳的训诂：“齐等无有贵贱”(39)，但这种解释过于字面化，望文生义，缺乏对其内涵演变的动态注疏。通过以上对“齐民”产生历史背景的分析，笔者以为“齐”，主要不在于民与民相互之间政治、经济、文化地位“齐等无有贵贱”的比较，而主要是针对他们与国家、君主关系的齐一，是指消除了原来在分封采邑制下国人与野人之异、公民与私人之别，使民齐一地成为接受国家授田，并为国家提供赋税、徭役和兵役的臣民，也就是国家公民。离开这种有特殊针对性的前提，齐民并不具备完全平等没有贵贱的特点。另外，如果我们从字源上就不取“齐民”的“齐等无有贵贱”的含义，而是取其“整齐管理民众”的含义，那么，编户齐民就更不具备彼此平等无贵贱的特点，特别是进入战国中期以及秦汉时期，所谓“凡编户之民，富相什则卑下之，伯则畏惮之，千则役，万则仆，物之理也”(40)，经济上的不“齐等”自不待言，即便是政治上和法律上也并不“齐等”。例如，当时针对一般编户民实行的二十等爵制，本身就是一种重视差别的等级制，各级爵位之间经济利益有别，政治和法律地位也不相等：</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;男子赐爵一级以上，有罪以减，年五十六免。无爵为士伍，年六十乃免老，有罪，各尽其刑。(41)</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;实际上秦朝统一天下后，古代中国完成了由贵族分权的分封制向君主集权的郡县制的转变，上面所说的编户齐民所具有的针对性内涵已不重要，甚至当时的人们很少使用这一称谓，“齐”字在较多的时候已从“编户齐民”四字中淡出，这在一定意义上透露出当时社会从上到下越来越重视的是用编户制度统治管理居民，并不强调甚至不认为编户民之间是齐等无贵贱的，如同上引司马迁《货殖列传》所认识的那样，“编户齐民”在秦汉以后只是作为人民大众的一种泛泛称谓而被延续使用。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;四、编户齐民与吏民、贱民</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;秦汉时期，编户齐民不具有严格的等级身份性，基本不见于国家的法律文书和皇帝的诏令中，因此，杜正胜强调编户齐民的政治性和法律性，李成硅把“编户齐民”看成一种等级，都是值得讨论的。那么，相对来说属于编户齐民的范围，且大量存在秦汉史料中，特别法律条文、皇帝诏令及官府档案中的代表等级身份的名词是什么呢？笔者以为应该是“吏民”。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;与“编户齐民”仅十数次见于文献史料不同，“吏民”却数百上千次出现在古籍和考古史料中，但长期以来少有学者对其关注，主要是理所当然地将其理解为“吏”与“民”的合称，没有深入研究。笔者不否认秦汉史料中有些“吏民”确实是“吏”和“民”的合并称谓，但数百上千次地合称，恐怕就不仅仅是单纯语言习惯问题，而是有深刻的政治内涵，许多“吏民”应被视为一体词，视为秦汉时期一个特定的社会等级，这种认识不但有文献史料的依据，还有以简牍为主体的考古史料的证明。笔者另有专文讨论吏民的一体化和身份特点，这里只概述吏民的等级特点，以显示其与编户齐民之间的关系。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;就等级特点而言，第一，吏民是有资格为吏的民户家中之人，资格就是政治标准和财产标准。政治标准指其从事的职业和身份不是国家抑制或打击的对象，比如像包括商贾及其后代在内的七科谪户，医、工、巫、卜之户就不具备做官为吏的政治条件；就财产标准而言，一般应具有中家以上的财产数额，汉初是十万，景帝时调整为四万。第二，吏民是编户民中的有爵者，一般可以占有二十等爵中第八级公乘以下爵位，享有一定的政治经济利益，但不能免除赋役。第三，吏民是一个生活相对富裕的阶层，不但有土地，许多吏民之家都有奴婢。第四，吏民是秦汉国家的基础，是国家授田、授爵、察举任官的主要对象，也是赋税、力役的主要承担者，具有政事参与意识，不但上书言事，且助官府赈赡济贫。第五，吏民是反抗封建统治的主要力量，不论是其中的地主还是自耕农都属于社会中的被统治阶级，他们在秦汉农民战争中的突出表现，是由其等级地位决定的。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;编户齐民与吏民关系如何？有学者说：“‘吏民’与‘编户齐民’是一而二，二而一的”，“编户亦即‘吏民’”(42)。笔者认为，吏民只是编户齐民的主体，二者并不能简单地画等号，区别主要有二：一是编户齐民是对国家籍录在册居民的一种泛称，不具有严格的政治性和法律性，史料中存在很少，尤其是在考古发现的有关当时情况的档案和法律文书中不见，而吏民则恰恰相反；二是编户齐民比吏民所指称的人群范围更广，不仅包括有资产、有爵位、有任官为吏资格的吏民，而且也包括家资贫穷、从事贱业、不能任官为吏的贫贱民。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;秦汉时期贫贱民等级包括家资不达为吏标准的贫户、赘婿、罪犯、从事商、工、医、巫、卜等贱业者及其后代，其中主要是被贬抑谪罚的七科谪户(43)。据《史记·淮阴侯列传》载：</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;淮阴侯韩信者，淮阴人也。始为布衣时，贫无行，不得推择为吏，又不能治生商贾，常从人寄食饮，人多厌之者。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;又据出土秦简记载：</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;自今以来，叚（假）门逆吕（旅），赘壻（婿）后父，勿令为户，勿鼠（予）田宅。三世之后，欲士（仕）士（仕）之，乃（仍）署其籍曰：故某虑赘壻（婿）某叟之乃（仍）孙。(44)</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“贫无行”“从人寄食饮”的韩信和“勿令为户，勿鼠（予）田宅”的“叚（假）门逆吕（旅），赘壻（婿）后父”，就属于贫贱民等级。贫贱民有自己独立的名籍，被地方政府控制管理，符合编户民的基本条件，所谓的“勿令为户”，并不是说没有户籍，只是不能拥有吏民的户籍，一般不能享受国家授田、赐爵、察举任官、推择为吏的待遇，至于户籍还是有的；而且官府对他们的控制和管理只能比吏民更严格，他们所承受的赋税和力役负担也只能更重，因为他们贫穷，而成为谪罚戍边的对象，由于他们从事贱业，封建国家往往“重租税以困辱之”(45)。贫贱民既不像贵族官僚具有不入编户、减免赋役的特权，也不像奴婢仅仅作为财产登记在主人的财产簿中，没有独立户籍的资格，而是与吏民一样，官府通过注籍编户对其管理，他们也是国家赋税力役的承担者，是戍边的首发人群，构成编户齐民的又一大组成部分。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;在把贫贱民归入编户齐民这一点上，笔者是认同杜正胜的，但杜正胜一方面强调编户齐民“齐等”的政治性和法律意义，一方面又认为包括七科谪在内的贱民均属于编户齐民，等于陷入了自相矛盾之中，其实不如退后一步，淡化编户齐民身份的政治性和法律意义，仅仅认定其被国家按户编入簿籍，统一控制管理的特性。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;注释：</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;①木村正雄：《中国古代帝国の形成——特にその成立の基础条件》，不昧堂书店，1965年；《中国古代专制主义的基础条件（节译）》，载刘文俊主编《日本学者研究中国史论著选译》（三），中华书局1993年版，第682～728页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;②李成珪：《中国古代帝国成立史研究》，一潮阁，1984年；《秦统治体制结构的特性》，载《中国史研究的成果与展望》，中国社会科学出版社1991年版，第5～53页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;③杜正胜：《编户齐民——传统政治社会结构之形成》，台北，联经出版事业公司，1990年。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;④木村正雄：《中国古代专制主义的基础条件（节译）》，载刘文俊主编《日本学者研究中国史论著选译》（三），第682页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⑤李成珪：《秦统治体制结构的特性》，载《中国史研究的成果与展望》，第30页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⑥李成珪：《秦统治体制结构的特性》，载《中国史研究的成果与展望》，第48页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⑦杜正胜：《“编户齐民论”的剖析》，载王健文主编《台湾学者中国史研究论丛：政治与权力》，中国大百科全书出版社2005年版，第14页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⑧杜正胜：《“编户齐民论”的剖析》，载王健文主编《台湾学者中国史研究论丛：政治与权力》，第16页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⑨杜正胜：《“编户齐民论”的剖析》，载王健文主编《台湾学者中国史研究论丛：政治与权力》，第36页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⑩晁福林：《论中国古史的氏族时代——应用长时段理论的一个考察》，《历史研究》2001年第1期。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(11)《汉书·高帝纪》。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(12)《汉书·梅福传》。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(13)《淮南鸿烈集解》卷十一《齐俗训》，中华书局1989年版，第375～376页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(14)杜正胜：《编户齐民——传统政治社会结构之形成》，第1页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(15)《汉书·食货志》。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(16)赵晔：《吴越春秋》卷六《越王无余外传》，张觉校注，岳麓书社2006年版，第172页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(17)也有人认为《吴越春秋》的文字不像出自汉代人之手，而是东晋人杨方或唐人皇甫遵撰著，之后又有人将之析卷并附会于汉人赵晔。参见上引张觉校注本前言。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(18)《管子校注》卷十一《君臣下第三十一》，中华书局2004年版，第584～585页。其中“故民赶则流之”的“赶”字，其他多数版本为“迂”字。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(19)《庄子集释》卷十上《渔父》，中华书局1961年版，第1024～1025页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(20)《韩非子集解》卷八《守道第二十六》，中华书局1998年版，第202页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(21)《吕氏春秋新校释》卷十六《观世》，上海古籍出版社2002年版，第968页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(22)《荀子集解》第六卷《富国篇第十》，诸子集成影印本，上海书店1986年版，第130页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(23)《后汉书·仲长统列传》。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(24)《战国策》卷十九《赵策》二“武灵王平昼闲居”，上海古籍出版社1985年版，第663页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(25)《潜夫论笺》卷五《衰制第二十》，中华书局1979年版，第238页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(26)《新语校注》卷下《本行第十》，中华书局1986年版，第142页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(27)《盐铁论校注》卷第三《轻重》第十四，中华书局1992年版，第179页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(28)《日知录集释》卷一三《周末风俗》，花山文艺出版社1990年版，第585页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(29)《韩非子集解》卷十九《五蠹第四十九》，第455页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(30)《论语集释》卷三三《季氏》，中华书局1990年版，第1145页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(31)孙诒让：《周礼正义》卷一《天官冢宰》第一《叙官》、卷十七《地官司徒》第二《叙官》、卷三十二《春官宗伯》第三《叙官》、卷五十四《夏官司马》第四《叙官》、卷六十五《秋官司寇》第五《叙官》。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(32)杨伯峻编著：《春秋左传注》僖公十五年，中华书局1990年版，第366页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(33)《管子校注》卷八《小匡第二十》，第400页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(34)孙诒让：《周礼正义》卷二十六《地官司徒》第二《保氏》。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(35)孙诒让：《周礼正义》卷十九《地官司徒》第二《大司徒》。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(36)《国语》卷十七《楚语（上）》，第499页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(37)杨伯峻编著：《春秋左传注》昭公七年。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(38)《孟子·万章下》。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(39)《史记·平准书》注引。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(40)《史记·货殖列传》。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(41)《汉官旧仪》卷下，载孙星衍等辑《汉官六种》，中华书局1990年版，第53页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(42)黎虎：《论“吏民”即编户齐民——原“吏民”之三》，《中华文史论丛》2007年第2期。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(43)古人对“七科谪”的解释并非一致，但学术界一般依从张晏的说法。据《汉书·武帝纪》注引张晏曰：“吏有罪一，亡（人）［命］二，赘婿三，贾人四，故有市籍五，父母有市籍六，大父母有市籍七，凡七科也。”</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(44)《睡虎地秦墓竹简·魏户律》，文物出版社1978年版，第292～293页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(45)《史记·平准书》。
+</div>
+<div class="page-list">
+    <div class="pageNav" id="pageList"></div>
+</div>
+</div><br class="cls"/>
+		</div>
+		</body></html>

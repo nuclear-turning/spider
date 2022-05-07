@@ -1,0 +1,194 @@
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><style>.trR{ text-align:right;}
+#wraper{width:1190px; margin:0 auto; margin-bottom:10px;text-align:left;}
+#left{ float:left;width:250px; text-align:left;}
+#right{float:right;width:930px;text-align:left;border-top:2px solid #619bc0; padding-bottom:10px;}
+.border_w{ border:1px solid #d3d3d3;border-top:2px solid #619bc0;}
+.t01{height:30px;line-height:30px;border:1px solid #dddddd;padding-left:10px;background:url(../images/tbg01.jpg) repeat-x bottom; color:#1183c1; font-size:14px;}
+.con_01{ padding:10px;}
+.con_cbg{ background:url(../images/con_cbg.gif) repeat-y;}
+.con_bbg{ background:url(../images/con_bbg.gif) no-repeat left bottom; height:1px; line-height:1px; font-size:0;}
+
+.source{margin:15px;background:url(../images/linex.gif) repeat-x bottom; padding-bottom:30px; margin-bottom:30px;}
+.source .source-img{border:1px solid #d3d3d3; text-align:center; padding:5px;margin-bottom:10px; }
+.source p{color:#666666; font-weight:bold; font-size:12px;}
+.source .fblue{ color:#236bac; font-weight:normal;}
+
+.t_tj{ height:27px;padding-top:2px;margin:15px; background:url(../images/con_t_tj.gif) no-repeat left top; padding-left:10px; color:#FFFFFF; font-size:14px;}
+.c12_01{ margin-left:15px; margin-right:15px; margin-bottom:15px;}
+.c12_01 li{font-size:12px; line-height:24px; background: url(../images/dot.gif) no-repeat 2px 10px; padding-left:15px;}
+
+#artibodyTitle{color:#236bac;font-family:"宋体";font-size:20px;font-weight: normal;line-height:35px;text-align:center;margin-top:10px;	text-align:center;}
+#artisubTitle{font-family:"宋体";font-size:16px;font-weight: normal;line-height:28px;text-align:center;}
+.articl_info{margin-left:30px; margin-right:30px; position:relative;border-bottom:1px solid #e1e1e1;padding-bottom:20px; margin-bottom:20px;}
+.btn-img{
+	background-image:url(../images/allbg.png);
+	background-repeat:no-repeat;
+	font-size:12px;		
+	cursor:pointer;
+	border: 0px none;
+	display: inline-block;
+	vertical-align:middle;
+	text-align:center;}
+
+.artInfo{height:22px;border-top:1px solid #e1e1e1;border-bottom:1px solid #e1e1e1;padding:5px;margin:20px;}
+.artInfo li{float:left;width:33%;height:22px; line-height:22px; color:#666666;}
+
+.artInfo li .collectionPage_link{
+	background-position:-509px -80px;
+	padding-left:10px;
+	margin-top:-2px;
+	_margin-top:0px;
+	margin-left:10px;
+	width:51px;
+	height:22px; 
+	line-height:22px;		
+	color:#1183c1;	}
+.artInfo li .printPage_link{
+	background-position:-570px -80px;
+	padding-left:10px;
+	margin-top:-2px;
+	_margin-top:0px;
+	margin-left:10px;
+	width:51px;
+	height:22px; 
+	line-height:22px;	
+	color:#1183c1;}
+.artInfo li .downloadPage_link{
+	background-position:-631px -80px;
+	margin-top:-2px;
+	_margin-top:0px;
+	margin-left:10px;
+	width:51px;
+	padding-left:10px;
+	height:22px; 
+	line-height:22px;	
+	color:#1183c1;}
+
+
+.artBaseInfo{line-height:24px; margin-bottom:5px;}
+.artBaseInfo .info_left{float:left;width:80px;}
+.artBaseInfo .info_right{float:left;width:790px;}
+
+.artBaseInfo dt{float:left;width:80px; color:#666666;line-height:20px; display:inline-block;}
+.artBaseInfo dd{color:#666666;line-height:20px;display:inline-block;}
+.artBaseInfo .col li{ float:left;width:210px; height:20px; line-height:20px;color:#666666;}
+
+.artBaseInfo .item{ float:left;width:50%;}
+.artBaseInfo .notice{
+	margin-left:10px;
+	width:61px;
+	padding-left:10px;
+	height:22px; 
+	line-height:22px;
+	background-position:-448px -80px;	
+	color:#1183c1;}
+
+.artInfo{height:30px;border-top:1px solid #e1e1e1;border-bottom:1px solid #e1e1e1;margin:20px 10px;}
+.artInfo div{ float:left;width:30%;height:30px; line-height:30px; text-align:center;}
+.artInfo div a{ margin-left:20px; margin-right:20px;}
+.artInfo li{float:left;width:33%;height:22px; line-height:22px; color:#666666;}
+
+.articl_info{margin-left:30px;margin-right:30px; position:relative;border-bottom:1px solid #e1e1e1;padding-bottom:20px; margin-bottom:20px;}
+.artBaseInfo{margin-bottom:5px;}
+.articl_info_t{float:left;width:80px;margin-right: -100%;font-weight:bold;line-height:24px;}
+.articl_info_c{float: left;width: 100%;}
+.articl_info_c .info_c{margin-left:80px; line-height:24px;}
+.artBaseInfo .marL{ margin-left:20PX;}
+.artBaseInfo .col_info{ float:left;width:30%;line-height:20px;}
+
+.fontSize{position: relative;right:0px;top:0px;font-size:12px; height:30px; line-height:30px; text-align:right;}
+.fontSize a{border:1px solid #c2c2c2;margin-right:10px;padding:4px 1px;*padding:1px; cursor:pointer;font-size:12px;}
+.fontSize a span{background:url(../images/page_a_36.png) repeat-x;padding:3px;}
+
+.fontSize a.now{border: #f9ad75 1px solid;padding:4px 1px;*padding:1px;}
+.fontSize a.now span{color:#ff7d27;background:url(../images/current_34.png) repeat-x bottom;padding:3px;}
+.artibody{margin-left:20px;margin-right:20px;font: 18px/180% "Microsoft YaHei","微软雅黑"; color:#666666;}
+.artibody p{margin-bottom:20px;}
+
+.fontSize A:link{ color:#000000;text-decoration:none;}
+.fontSize A:visited{ color:#000000;text-decoration:none;}
+.fontSize A:hover{ color:#FF0000;text-decoration:none;}
+.fontSize a.now:link{color:#ff7d27;text-decoration:none;}
+#Zoom img {max-width:600px; max-height:600px; scale:expression((this.offsetWidth > this.offsetHeight)?(this.style.width = this.offsetWidth >= 600 ? "600px" : "auto"):(this.style.height = this.offsetHeight >= 600 ? "600px" : "auto")); display:inline !important;}
+
+.t_artiInfo{font-size:14px; padding-left:20px;background:url(../images/linex.gif) repeat-x top; line-height:30px; margin-top:10px;}
+.li_artiInfo{margin-left:30px; margin-right:30px;padding-bottom:10px; }
+.li_artiInfo ul li{float:left;width:100%;padding:3px 0;}
+.li_artiInfo ul li .title{ float:left;width:65%;}
+.li_artiInfo ul li .author{ float:left;width:15%;}
+.li_artiInfo ul li .come{ float:right;width:20%;color:#999999; text-align:right;}
+
+
+.index_artInfo{height:36px; line-height:36px; border-top:1px solid #e1e1e1;border-bottom:1px solid #e1e1e1; margin-top:20px; padding-left:20px;  padding-right:20px;padding-right:10px; margin-bottom:10px; margin-left:10px;text-align:center;}
+.index_artInfo a.collectionPage_link{ background:url(../images/icon.gif) no-repeat 0 1px; padding-left:15px;}
+.index_artInfo a.printPage_link{background:url(../images/icon.gif) no-repeat 0 -55px; padding-left:15px;}
+.index_artInfo a.downloadPage_link{background:url(../images/icon.gif) no-repeat 0 -108px; padding-left:13px;}
+
+.index_body .main{margin-left:100px; line-height:28px;color:#000000; padding-bottom:30px; padding-top:20px;}</style></head><body><div id="wraper">
+			<div id="artTitles">
+				<h1 id="artibodyTitle">黄河流域史前文化变化过程的环境考古学观察</h1>
+				<h2 id="artisubTitle"/>
+			</div>
+			
+			<div class="articl_info">
+				<div class="artBaseInfo" id="autInfo">
+					<div class="articl_info_t">作 者：</div>
+					<div class="articl_info_c">
+						<div class="info_c">
+								<a target="_blank" href="/qw?s0=4&amp;s1=%e5%bc%a0%e5%ae%8f%e5%bd%a6">张宏彦</a> 
+						</div>
+					</div>
+					<br class="cls"/>
+				</div>
+				<div class="artBaseInfo" id="autDescription">
+					<div class="articl_info_t">作者简介：</div>
+					<div class="articl_info_c">
+						<div class="info_c">张宏彦，西北大学文化遗产与考古学研究中心，陕西  西安  710069</div>
+					</div>
+					<br class="cls"/>
+				</div>
+				<div class="artBaseInfo" id="tAutInfo"/>
+				<div class="artBaseInfo" id="orgInfo">
+					<div class="articl_info_t">原文出处：</div>
+					<div class="articl_info_c">
+						<div class="info_c">考古与文物</div>
+					</div>
+					<br class="cls"/>
+				</div>
+				<div class="artBaseInfo" id="astInfo">
+					<div class="articl_info_t">内容提要：</div>
+					<div class="articl_info_c">
+						<div class="info_c">
+							<p/>
+						</div>
+					</div>
+					<br class="cls"/>
+				</div>
+				<div id="artPdcInfo" class="artBaseInfo">
+					<div class="col_info"><b>期刊代号：</b>K21 </div>
+					<div class="col_info"><b>分类名称：</b>先秦、秦汉史 </div>
+					<div class="col_info"><b>复印期号：</b>2009 年 06 期 </div>
+					<br class="cls"/>
+				</div>
+				<div class="artBaseInfo" id="artKeyword">
+					<div class="articl_info_t">关 键 词：</div>
+					<div class="articl_info_c">
+						<div class="info_c">
+
+						</div>
+					</div>
+					<br class="cls"/>
+				</div>
+				<div class="artBaseInfo" id="artTitleNote"/>
+				<a id="readArea" name="readArea"/>
+				
+			</div>
+			<div id="artText"><div class="artibody" id="Zoom" style="font-size: 14px;">
+    </p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;自然环境是人类及其文化赖以生存和发展基础，当我们宏观地审视史前文化的发展过程时，离开了对相关人类文化生存环境的考察，就很难得出准确的认识。黄河流域是中国史前文化发生、发展、演化的最重要区域之一，向有中华文明的摇篮之称。环境考古学研究表明，距今1万年前后以来的新石器时代，黄河流域曾经有过多次气候暖湿和干凉变化，可概括为前仰韶升温期、仰韶最暖期和龙山降温期等几个主要阶段①。本文拟就黄河流域史前文化变化与自然环境的关系作一宏观的考察，以期促进相关研究的不断深入。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;一、末次冰期与农业起源</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;史前农业的产生，既是旧石器文化长期发展的结果，也与环境气候的变化密切相关。旧石器时代的人类生活资源，主要来自于所处环境的动植物界，而气候变化会导致动植物的盛衰，影响到人类生存的生活资源的变化，进而引起人类文化的变化。一般说来，当一个地区的自然环境向好的方向发展时，较好的水热条件会使生态系统内的生物种群迅速繁荣起来，并最终形成与当时当地环境相适应的动植物群落，生态系统处于稳定而平衡的状态。这种状态可给人类及其文化提供充分的食物来源或较好的食物生产条件，人类群体及其文化必然兴盛。一旦由于环境气候的变化打破了原有的文化生态系统的平衡状态，就会造成人口相对过剩的危机，人类就迫切需要谋求新的经济形式，以维持生存和发展。黄河流域农业起源就是适应环境气候变化的典型例子。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;研究表明，在旧石器时代晚期，发生了更新世以来影响最大、最为冷酷的一次冰期——末次冰期。最近二万年来中国古环境变迁的研究表明，距今18000～15000年间，处于末次冰期的极盛期。在冰期期间，华北各地普遍分布耐干凉的披毛犀、野马、野驴、河套大角鹿和原始牛等草原性动物群，特别是喜冷的披毛犀，广布于长江以北地区。由于气候寒冷，植被稀疏，难以为一些动物提供足够的食物，迫使它们向南迁徙。在距今18000±年前后，北方型哺乳动物南侵到江南杭州、溧水一带，正是这次更新世最严酷的降温事件的反映②。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;在植物群落方面，陕西渭南北庄村的孢粉分析表明，距今18000±年的孢粉组合中，草本灌木花粉几乎达100％，反映了极端干冷的无林的草原环境。估计距今2～3万年前较现在的降温值为8.7～12.8℃，极端干冷的时期甚至可达13℃以上，渭水流域的气温降到了更新世以来的最低点③。北京房山西坟村距今16500～15500年的孢粉组合中，草本花粉的比例较高，少量的针叶树中以冷杉、云杉及落叶树为主，反映了干冷的气候④。估计当时的降温值在12.6～13.6℃之间，年均温度最高为－1～－2℃，年降水量约在200毫升以下⑤。可知当时华北的植被已大面积草原化了。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;近年来发掘的山西省吉县柿子滩遗址，正是一处旧新石器时代过渡的代表性遗址。相关的环境考古学研究表明，在距今3.51～0.94万年期间，始终是草原环境，其中距今3.51～1.70万年期间属末次冰期，气候寒冷干燥，属荒漠草原环境；1.70～1.19万年期间属末次冰消期早中期，以温和干燥的草原植被与温和半干燥的、生长有少量落叶阔叶树的草原植被多次交替为特征，细石器主要分布在这一时期。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;环境气候的巨大变化，使各地居民原有的文化生态平衡状态遭到极大的破坏，人们或者被迫离开原居地迁往他乡，或者改变原有的经济模式、工具，以适应这种环境气候与植被变化。于是文化随之不断发生适应性变化，华北各地的石器普遍向小型化发展，并最终演化出典型细石器。在黑龙江呼玛十八站，河北阳原虎头梁，山西溯县峙峪、蒲县薛关、沁水下川，陕西大荔育红河，山东沂河和沭河流域等，均发现有典型细石器遗存，它们共同构成整个北方旧石器时代晚期文化的主流。上述细石器遗存绝大多数分布在草原或以草原为主的环境中，说明细石器主要是适应草原或稀树草原环境而产生和发展的，反映的应是草原地带的采集和渔猎经济。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;在这样一种自然环境和文化发展背景之下，传统的采集经济也随之发展到高级阶段——食物的收集阶段。适应这种变化，获取资源的工具也随之发生变化，人们可能用嵌有细石刃的镰刀定期收集某些野生谷类植物，用石磨盘、磨棒加工这些野生谷物。在距今约24000～16000年前的山西沁水下川一带，不仅出土有大量细石器和石镞等，还发现了3件残缺的石磨盘，其中一件原器约为圆盘状，“中间由于多次旋转式研磨而下凹成圆坑”。⑥ 这种石器的形态与使用痕迹与新石器时代同类器相似，其用途也应基本相同，应为加工野生谷物的器具。近年来，在陕西宜川龙王迪遗址也发现有细石器和石磨盘，还发现了1件磨制弧形刃石铲，其年代约距今2～1.5万年前后⑦。这些均应是种植农业出现之前的征兆。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;在距今约1万年前后，末次冰期结束，气候处于冰后期之初的升温期。华北地区大部分地方的植被是以松、蒿、菊为主的疏林草原。人们在长期的采集过程中，逐渐对某些适合于驯化的植物如野生粟的生长习性有了进一步的了解，甚至还可能已知道怎样保存这些谷物以备不时之需。一旦这种野生谷物成为人们生活主要的食物来源、至少是某些时候的主要食物时，就可能开始思考如何进一步开发和利用这种资源。当人们开始有意识地通过种植或养殖来生产食物，原始农业就发生了。在河北徐水南庄头⑧、北京怀柔县转年⑨ 等遗址，出现了以陶器和磨盘、磨棒等为特征的新石器文化，虽然目前还没有找到直接的农业证据，但这些发现，为探索中国陶器和粟作农业的起源等问题提供了重要线索。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;二、仰韶最暖期与文化的扩张</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;人类文化最基本的功能是满足人类生存的需要，而在诸多生存条件中，食物的获取或生产始终是居于首位的。然而，在一定的技术条件下，人类从某种自然环境中获取的食物有其最高的限度，而这一限度又决定了生活于这一环境中的人口最高容量⑩。如果人口的增长超出了最高容量，就会出现人口相对过剩而发生文化危机。在这种情况下，人类必须做出适应性的选择——扩张生存空间。即一些强势文化呈现出不断向外扩张其领地的势头，表现为文化空间分布范围的不断扩大和文化因素的扩散。就黄河流域的史前时期而言，人类文化的分布、扩张与环境气候的关系十分密切，在气候较湿热的时候，人们一般向较为凉爽的西、北方高海拔和高纬度地区移动；气候较干冷的时候，则向较暖湿的东、南方向迁徙。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;距今7000～8000年前的前仰韶时期，气温进一步上升，植被是以松、栎、蒿为主的针阔叶混交疏林草原，估计年均温接近于现代或稍低。这一时期老官台文化、裴李岗文化、磁山文化、后李文化等定居的农业文化已有了一定程度的发展。但基于当时的技术和环境条件，诸文化的空间分布聚落和人口规模均受到一定的限制。以老官台文化为例，主要分布在渭水流域、汉水及丹江上游，共发现遗址40余处(11)；遗址的面积一般较小，多在1～2万平方米之内；文化堆积较薄，厚度多在1米以下。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;距今7000～5000年间的仰韶文化时期是全新世以来的最暖期。研究表明，这一时期是我国全新世气候最适宜期，气候温暖湿润，植物生长空前繁茂；华北平原是湖沼大发展时期，当时中纬度地区陆地上的温度比现代高2～3℃以上，我国东部平均气温比现代高2.5℃(12)。温暖期的到来，使得各地史前文化均得到了快速的发展，并呈现出较强的文化向外扩张的趋势，扩张性迁徙也就成为这一时期文化发展的主要特征。这一时期，黄河流域主要分布于渭水流域及豫西和晋西南的仰韶文化、分布于豫中地区的大河村文化、分布于冀南和豫北的后岗文化、分布于黄河下游的北辛文化和大汶口文化等均有不同程度的扩张。其中黄河中游的仰韶文化的扩张表现的尤为明显。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;在仰韶文化早期（约距今7000～6000），气温进一步升高。依据临潼姜寨和西安半坡遗址的孢粉分析，关中地区植被是栎、松、蒿混交森林草原，总的气候特征状况是四季分明，温和半湿润，水热条件可能好于今天。在这样一种环境条件下，仰韶文化迅速发展起来，初步形成了以关中地区为中心，东达豫西和晋西南，西至天水，南到汉水上游的文化分布区域。到了仰韶文化中、晚期（距今约6000～5000年）气温上升到全新世以来的最高点，形成了以栎等阔叶树为主的森林草原景观。在陕西扶风案板遗址还发现有现在主要生存在长江流域的竹鼠、獐、豪猪等和喜水的龟、双壳类、腹足类等(13)。说明当时关中一带降水量较为丰沛，气候温暖湿润。气候的暖湿化，给原始农业的发展提供了有利的条件，仰韶文化快速发展起来，使史前人口增长和文化的发展进入一个繁盛时期。在考古遗存方面，表现为遗址的数量大大增加，仅陕西关中地区就发现仰韶时期的遗址1162处(14)。但文化的快速发展也可能带来了人口相对过剩的危机，扩张文化的生存空间成为人们必然的选择。这种扩张主要是从文化的中心区向周边地区迁徙多余的人口，迁徙的结果是对新领地的开发而导致文化分布区域的扩大。由于温暖期的到来，使得宜于农耕地域的扩大，仰韶文化向黄土高原开拓成为可能，文化的扩张性移民也达到了高潮。据考古调查，陕北的黄土高原共发现仰韶文化遗址667处(15)，主要分布在洛河中上游、延河流域，甚至在更北的无定河流域也有发现(16)。泾水上游也发现仰韶文化中期遗址100多处，晚期遗址200多处(17)。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;仰韶时期文化的大扩张，大大加快了不同区域史前文化的交流与融合。以仰韶文化为例，这次文化的大扩张，形成了以渭水流域为中心，包括豫西、晋西南，陕北和泾水上游的黄土高原、汉水上游的文化分布区域，而其影响更是东达黄河下游，西到甘青地区，北至内蒙古南部，南及江汉平原。可以说，这一次文化的大扩张，大大促进了不同文化间的交流与融合，奠定了中国新石器时代文化时空分布的基本格局。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;三、龙山降温期与文化的聚合</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;近年来，全新世环境气候变化的研究取得了许多引人注目的新成果。其中多项研究成果表明，在距今约五千年前后，全新世大暖期结束，气温开始下降；距今4000年前后，是我国异常洪水多发的时期。这一环境气候的重大变化，对史前人类文化的发展，又带来了一次深远的影响。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;我国的东北、华北、西北等地的孢粉记录、黄土发育和[14]C测年研究表明，距今五千年左右发生了环境恶化事件(18)，表现为古土壤停止发育，孢粉浓度降低或缺失，孢粉组合中松、蒿花粉大增，榆、椴花粉明显减少。在季风区的北方的内蒙地区、黄土区、黄河流域部分地区，表现为沙漠化、荒漠化的加剧。河北怀来太师庄泥炭剖面的[14]C测年、孢粉和氧同位素分析，获得了距今6000～3000年高分辨率环境演化记录，其中距今4800～4200年气候发生突变，出现了降温事件；孢粉记录表现为喜温的落叶阔叶树显著减少，枫杨、化香树和芸香科等亚热带树种突然消失，发育以松树为主要成分的明亮针叶林植被；氧同位素记录中温度显著下降(19)。内蒙古中部的环境考古研究也表明，距今4300年出现了寒冷事件，当时的温度较现在低3℃(20)。上述环境变化记录在中国北方乃至北半球同时期环境记录中有较好的对应性，因此可以大体确定，距今5000前后以来，发生了普遍而广域的降温事件，全新世以来的气候变化进入到龙山降温期。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;此外，环境考古学研究表明，距今4000前后是我国北方异常洪水多发的时期，黄河流域、淮河流域和海河流域在这一时期普遍出现不同形式的史前异常洪水事件。湖泊是记录气候变化的较好载体，当时河西走廊到内陆腹地的中国西部湖泊，普遍处于高湖面状态，反映的是较为湿润的环境。东部平原地区此时也处于一个湖泊发育期，仅在河北平原上就有大名湖、肥乡湖、宁晋湖和任丘湖等古湖泊。海平面的变化与沿海地区的洪水有着较好的对应关系，距今4000年前，中国的海平面处于上升时期，很多地区有海侵事件的记录(21)。而异常洪水事件的出现与当时的降温事件有密切的关系，气候变冷引发的相对湿度加大和降雨量增多可能是造成这次异常洪水事件的主要原因(22)。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;由于气候的变化导致黄河流域的环境与文化发生了重大的变化。气温的逐渐降低，使得在西、北高纬度地带的植被草原化，作物生长期变短也使得原始农业难以为继。这样，生活于这些区域的人类必须做出适应性的反应，或是改变传统的生活方式以适应新的生态环境，或是迁徙他乡寻找新的生活资源或适宜于生活之地。于是，一部分先民留在原地，逐渐向游牧经济转变。到了商周时期，这些地区已成为游牧民族——西戎、北狄的主要活动区域。还有一部分不愿放弃农业的氏族部落则开始向东、南适宜农业的低地移动，引发了又一次文化迁徙的浪潮。这次迁徙与仰韶最暖期的文化扩张不同，主要表现为西部的马家窑文化东渐，北方长城沿线的文化南移，东部的龙山文化西传，形成了西、北、东文化向黄河中游聚合的趋势。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;渭水上游的甘肃天水地区，原是仰韶文化的分布区。从仰韶晚期开始，主要分布在甘肃中部和青海东南部的马家窑文化，开始了第一波的东渐而到达了天水一带。在天水师赵村遗址，第一至第三期主要是老官台文化和仰韶文化遗存，从第四期开始出现了较多的马家窑文化因素，第五期（马家窑类型）和第六期（半山类型）则已是典型的马家窑文化遗存了(23)。大约在距今4000年前后，甘青地区的气候进一步向干凉方向发展，齐家文化中出现了较多的羊骨，显示出畜牧经济成分增多。与此同时史前文化开始了第二波的东渐，在天水地区出现了以师赵村第七期和秦安寺咀坪(24) 等遗址为代表的齐家文化遗存。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;陕西关中地区，是仰韶文化的中心区域所在，龙山时代先后出现以灰陶为特征的案板三期和客省庄二期文化。早在仰韶文化晚期，就有来自西方马家窑文化的影响。如关中西部的案板(25)、福临堡(26) 等仰韶文化晚期遗存中的尖底瓶上，出现了白彩回旋纹等马家窑文化常见的纹样。距今5000年以后，分布于泾水上游以红陶为突出特征的常山下层文化开始南移，在关中北部的长武、彬县、旬邑和西部的宝鸡一带，出现了以红陶为主要特征、器形特征与常山下层相同或相似的遗存，“这些情况表明，在关中西部的长武、千阳、宝鸡一带可能比较普遍地分布有常山下层类遗存”(27)。龙山时代晚期，西、北方的文化进一步侵入关中西部，在武功以西的岐山双庵、凤翔大辛村、宝鸡石嘴头、麟游蔡家河、陇县川口河等遗址，均发现以红陶为主的龙山时代晚期遗存。这类遗存的陶器，在器形上与客省庄二期文化有相同或相似之处，又有较多的齐家文化或泾水上游灵台桥村类遗存的因素，很可能是西、北方文化进入关中后受客省庄二期文化较多影响的遗存。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;在内蒙古中南部，仰韶时期主要是白泥窑子文化、庙子沟文化等农业文化。到了距今5000年以后的龙山时代，内蒙古南部和陕北北部龙山时期文化呈现出较多的一致性，如各地均发现了三足瓮、双鋬鬲等为代表的遗存。而且这些文化因素不断向南传播，甚至在关中的白水县下河龙山时代晚期遗址中也发现有三足瓮(28)，反映出北方长城沿线文化南移的迹象。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;黄河下游的龙山文化多城堡、夯土台基和堌堆遗址(29)，这些设施都应是对多水害环境的一种适应方式。徐旭生先生认为，“城和堤防本来是一个东西，从防寇盗说就叫城，从防御水患说就叫堤防(30)”。环境考古研究表明，大约在距今4000年前后，是一个洪水肆虐的时代，就黄河流域而言，下游地区遭受的危害更甚。在这种环境下，黄河下游一些饱受洪水之害的文化或是毁灭于洪灾，或是迁往他乡。在这一时期，黄河中游龙山时代晚期诸文化中普遍出现了陶鬶，甚至在陕西关中地区客省庄二期文化中也有发现。陶鬶是黄河下游大汶口文化和龙山文化的典型陶器之一，龙山时期黄河中游诸文化中这种陶器的出现，应是山东龙山文化向西传播的结果。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;由上可知，进入龙山降温期后，仰韶最暖期的文化格局被打破，各地文化向黄河中游的聚合，从而引起了文化大规模传播、融合与变化。由于文化的聚合，可能出现不同人类集团对黄河中游有限资源的争夺，从而引起本土文化与外来文化间的矛盾与冲突，龙山时期城堡的广泛出现，正是这种矛盾激化的产物。由于文化的聚合，还可能导致某些文化因素的大范围传播，如中原地区铜器的出现与东、西方文化的交流有一定的关系(31)；龙山时代斝、鬲、鬶等空三足器的广泛流行，也与这一文化大聚合背景有关。正是由于龙山时期各地文化的聚合，大大促进了黄河中游史前文化向文明迈进的步伐。此外，距今4000年前后的洪水事件与大禹治水的传说相吻合。黄河流域的史前先民们，正是在这一灾难性事件和治水活动中组织起来，战胜了洪灾，形成广泛的联盟，并最终迈进文明的门栏。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;四、结语</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;近年来，自然环境与古文化的关系已经成为许多学科学者们共同探索的课题，特别是环境考古学研究产生了许多新的研究成果，给我们宏观地考察黄河流域史前文化的发展变化乃至文明起源的环境背景提供了许多新的研究信息。可以看出，黄河流域农业的起源，仰韶时期文化的扩张，龙山时期文化的聚合乃至文明在中原地区的初现，均与环境气候的变化密切相关。当然，现有的资料仅能观察到这一变化过程的粗略线条和轮廓，我们期待着更多的新的资料的发现。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;注释：</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;① 张宏彦：《渭水流域全新世环境变化的初步研究》，载周昆叔等主编《环境考古研究》第二辑，科学出版社，2000年。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;② 徐钦琦：《东亚更新世哺乳动物南迁及其与气候演变的关系》，《中国古生物学会第13、14届年会论文选集》，安徽科学技术出版社，1986年。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;③ 安芷生等：《最近2万年来中国古环境变迁的初步研究》，《黄土·第四纪地质·全球变化》第二集，科学出版社，1991年。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;④ 孔昭宸等：《北京地区距今30000—10000年的植物发展和气候变迁》，《植物学报》1980年22卷。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⑤ 浦庆余：《中国东部地区的大理冰期和冰后期——三万年以来我国气候变迁的初步探讨》，《中国科学院地质力学所所刊》1982年第2号。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⑥ 王建等：《下川文化——山西下川遗址调查报告》，《考古学报》1978年3期。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⑦ 尹申平、王小庆：《陕西宜川龙王迪遗址考古发掘取得重大收获》，《中国文物报》2006年12月1日2版。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⑧ 北京大学考古系等：《河北徐水南庄头遗址试掘简报》，《考古》1992年11期。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⑨ 郁金城等：《北京转年新石器时代早期遗址的发现》，《北京文博》1998年3期。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⑩ ［美］马文·哈里斯：《文化人类学》56～58页，东方出版社，1988年。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(11) 张宏彦：《渭水流域老官台文化的分期与类型研究》，《考古学报》2007年2期。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(12) 施雅风、孔昭宸、王苏民等：《中国全新世大暖期气候与环境的基本特征》，载施雅风主编：《中国全新世大暖期气候与环境》，海洋出版社，1992年。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(13) 傅勇：《陕西扶风案板遗址动物遗存的研究》，《考古与文物》1988年5、6期。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(14)(15) 国家文物局编：《中国文物地图集·陕西分册·陕西省仰文化遗存图》（上册），第52页，西安地图出版社，1998年。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(16) 吕智荣：《无定河流域考古调查简报》，《史前研究辑刊》，1988年。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(17) 李红雄：《试论泾河上游地区新石器时代文化》，《考古与文物》1988年3期。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(18) 朱艳、陈发虎等：《距今五千年左右环境恶化事件对我国新石器文化的影响及其原因的初步探讨》，《地理科学进展》2001年（第20卷）2期。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(19) 靳桂云、刘东生：《华北北部中全新世降温气候事件与文化变迁》，《科学通报》2001年（第46卷）20期。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(20) 方修琦、孙宁：《降温事件：4.3akBP岱海老虎山文化中断的可能原因》，《人文地理》1998年（13卷）1期。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(21) 崔建新，周尚哲：《4000a前中国洪水与文化的探讨》，《兰州大学学报（自然科学版）》2003年（第39卷）3期。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(22) 夏正楷、杨晓燕：《我国北方4kaB.P.前后异常洪水事件的初步研究》，《第四纪研究》2003年（23卷）6期。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(23) 中国社会科学院考古研究所甘青队：《甘肃天水师赵村史前文化遗址发掘》，《考古》1990年7期。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(24) 任步云：《甘肃秦安县新石器时代居住遗址》，《考古通讯》1958年5期。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(25) 西北大学文博学院考古专业：《陕西扶风案板遗址发掘报告》，科学出版社，2000年。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(26) 陕西省考古研究所等：《宝鸡福临堡》，文物出版社，1993年。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(27) 王世和、钱耀鹏：《渭北三原、长武等地考古调查》，《考古与文物》1996年11期。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(28) 陕西省考古研究所：《白水下河遗址调查与发掘》，陕西省考古研究所《考古年报》（2005）。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(29) 郅田夫、张启元：《菏泽地区的堌堆遗存》，《考古》1987年11期。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(30) 徐旭生：《中国古史传说时代》，科学出版社，1960年，第145页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(31) 李水城：《西北与中原早期冶铜业的区域特征及交互作用》，《考古学报》2005年3期。
+</div>
+<div class="page-list">
+    <div class="pageNav" id="pageList"></div>
+</div>
+</div><br class="cls"/>
+		</div>
+		</body></html>

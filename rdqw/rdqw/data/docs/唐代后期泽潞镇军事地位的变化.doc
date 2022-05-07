@@ -1,0 +1,200 @@
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><style>.trR{ text-align:right;}
+#wraper{width:1190px; margin:0 auto; margin-bottom:10px;text-align:left;}
+#left{ float:left;width:250px; text-align:left;}
+#right{float:right;width:930px;text-align:left;border-top:2px solid #619bc0; padding-bottom:10px;}
+.border_w{ border:1px solid #d3d3d3;border-top:2px solid #619bc0;}
+.t01{height:30px;line-height:30px;border:1px solid #dddddd;padding-left:10px;background:url(../images/tbg01.jpg) repeat-x bottom; color:#1183c1; font-size:14px;}
+.con_01{ padding:10px;}
+.con_cbg{ background:url(../images/con_cbg.gif) repeat-y;}
+.con_bbg{ background:url(../images/con_bbg.gif) no-repeat left bottom; height:1px; line-height:1px; font-size:0;}
+
+.source{margin:15px;background:url(../images/linex.gif) repeat-x bottom; padding-bottom:30px; margin-bottom:30px;}
+.source .source-img{border:1px solid #d3d3d3; text-align:center; padding:5px;margin-bottom:10px; }
+.source p{color:#666666; font-weight:bold; font-size:12px;}
+.source .fblue{ color:#236bac; font-weight:normal;}
+
+.t_tj{ height:27px;padding-top:2px;margin:15px; background:url(../images/con_t_tj.gif) no-repeat left top; padding-left:10px; color:#FFFFFF; font-size:14px;}
+.c12_01{ margin-left:15px; margin-right:15px; margin-bottom:15px;}
+.c12_01 li{font-size:12px; line-height:24px; background: url(../images/dot.gif) no-repeat 2px 10px; padding-left:15px;}
+
+#artibodyTitle{color:#236bac;font-family:"宋体";font-size:20px;font-weight: normal;line-height:35px;text-align:center;margin-top:10px;	text-align:center;}
+#artisubTitle{font-family:"宋体";font-size:16px;font-weight: normal;line-height:28px;text-align:center;}
+.articl_info{margin-left:30px; margin-right:30px; position:relative;border-bottom:1px solid #e1e1e1;padding-bottom:20px; margin-bottom:20px;}
+.btn-img{
+	background-image:url(../images/allbg.png);
+	background-repeat:no-repeat;
+	font-size:12px;		
+	cursor:pointer;
+	border: 0px none;
+	display: inline-block;
+	vertical-align:middle;
+	text-align:center;}
+
+.artInfo{height:22px;border-top:1px solid #e1e1e1;border-bottom:1px solid #e1e1e1;padding:5px;margin:20px;}
+.artInfo li{float:left;width:33%;height:22px; line-height:22px; color:#666666;}
+
+.artInfo li .collectionPage_link{
+	background-position:-509px -80px;
+	padding-left:10px;
+	margin-top:-2px;
+	_margin-top:0px;
+	margin-left:10px;
+	width:51px;
+	height:22px; 
+	line-height:22px;		
+	color:#1183c1;	}
+.artInfo li .printPage_link{
+	background-position:-570px -80px;
+	padding-left:10px;
+	margin-top:-2px;
+	_margin-top:0px;
+	margin-left:10px;
+	width:51px;
+	height:22px; 
+	line-height:22px;	
+	color:#1183c1;}
+.artInfo li .downloadPage_link{
+	background-position:-631px -80px;
+	margin-top:-2px;
+	_margin-top:0px;
+	margin-left:10px;
+	width:51px;
+	padding-left:10px;
+	height:22px; 
+	line-height:22px;	
+	color:#1183c1;}
+
+
+.artBaseInfo{line-height:24px; margin-bottom:5px;}
+.artBaseInfo .info_left{float:left;width:80px;}
+.artBaseInfo .info_right{float:left;width:790px;}
+
+.artBaseInfo dt{float:left;width:80px; color:#666666;line-height:20px; display:inline-block;}
+.artBaseInfo dd{color:#666666;line-height:20px;display:inline-block;}
+.artBaseInfo .col li{ float:left;width:210px; height:20px; line-height:20px;color:#666666;}
+
+.artBaseInfo .item{ float:left;width:50%;}
+.artBaseInfo .notice{
+	margin-left:10px;
+	width:61px;
+	padding-left:10px;
+	height:22px; 
+	line-height:22px;
+	background-position:-448px -80px;	
+	color:#1183c1;}
+
+.artInfo{height:30px;border-top:1px solid #e1e1e1;border-bottom:1px solid #e1e1e1;margin:20px 10px;}
+.artInfo div{ float:left;width:30%;height:30px; line-height:30px; text-align:center;}
+.artInfo div a{ margin-left:20px; margin-right:20px;}
+.artInfo li{float:left;width:33%;height:22px; line-height:22px; color:#666666;}
+
+.articl_info{margin-left:30px;margin-right:30px; position:relative;border-bottom:1px solid #e1e1e1;padding-bottom:20px; margin-bottom:20px;}
+.artBaseInfo{margin-bottom:5px;}
+.articl_info_t{float:left;width:80px;margin-right: -100%;font-weight:bold;line-height:24px;}
+.articl_info_c{float: left;width: 100%;}
+.articl_info_c .info_c{margin-left:80px; line-height:24px;}
+.artBaseInfo .marL{ margin-left:20PX;}
+.artBaseInfo .col_info{ float:left;width:30%;line-height:20px;}
+
+.fontSize{position: relative;right:0px;top:0px;font-size:12px; height:30px; line-height:30px; text-align:right;}
+.fontSize a{border:1px solid #c2c2c2;margin-right:10px;padding:4px 1px;*padding:1px; cursor:pointer;font-size:12px;}
+.fontSize a span{background:url(../images/page_a_36.png) repeat-x;padding:3px;}
+
+.fontSize a.now{border: #f9ad75 1px solid;padding:4px 1px;*padding:1px;}
+.fontSize a.now span{color:#ff7d27;background:url(../images/current_34.png) repeat-x bottom;padding:3px;}
+.artibody{margin-left:20px;margin-right:20px;font: 18px/180% "Microsoft YaHei","微软雅黑"; color:#666666;}
+.artibody p{margin-bottom:20px;}
+
+.fontSize A:link{ color:#000000;text-decoration:none;}
+.fontSize A:visited{ color:#000000;text-decoration:none;}
+.fontSize A:hover{ color:#FF0000;text-decoration:none;}
+.fontSize a.now:link{color:#ff7d27;text-decoration:none;}
+#Zoom img {max-width:600px; max-height:600px; scale:expression((this.offsetWidth > this.offsetHeight)?(this.style.width = this.offsetWidth >= 600 ? "600px" : "auto"):(this.style.height = this.offsetHeight >= 600 ? "600px" : "auto")); display:inline !important;}
+
+.t_artiInfo{font-size:14px; padding-left:20px;background:url(../images/linex.gif) repeat-x top; line-height:30px; margin-top:10px;}
+.li_artiInfo{margin-left:30px; margin-right:30px;padding-bottom:10px; }
+.li_artiInfo ul li{float:left;width:100%;padding:3px 0;}
+.li_artiInfo ul li .title{ float:left;width:65%;}
+.li_artiInfo ul li .author{ float:left;width:15%;}
+.li_artiInfo ul li .come{ float:right;width:20%;color:#999999; text-align:right;}
+
+
+.index_artInfo{height:36px; line-height:36px; border-top:1px solid #e1e1e1;border-bottom:1px solid #e1e1e1; margin-top:20px; padding-left:20px;  padding-right:20px;padding-right:10px; margin-bottom:10px; margin-left:10px;text-align:center;}
+.index_artInfo a.collectionPage_link{ background:url(../images/icon.gif) no-repeat 0 1px; padding-left:15px;}
+.index_artInfo a.printPage_link{background:url(../images/icon.gif) no-repeat 0 -55px; padding-left:15px;}
+.index_artInfo a.downloadPage_link{background:url(../images/icon.gif) no-repeat 0 -108px; padding-left:13px;}
+
+.index_body .main{margin-left:100px; line-height:28px;color:#000000; padding-bottom:30px; padding-top:20px;}</style></head><body><div id="wraper">
+			<div id="artTitles">
+				<h1 id="artibodyTitle">唐代后期泽潞镇军事地位的变化</h1>
+				<h2 id="artisubTitle"/>
+			</div>
+			
+			<div class="articl_info">
+				<div class="artBaseInfo" id="autInfo">
+					<div class="articl_info_t">作 者：</div>
+					<div class="articl_info_c">
+						<div class="info_c">
+								<a target="_blank" href="/qw?s0=4&amp;s1=%e9%99%88%e7%bf%94">陈翔</a> 
+						</div>
+					</div>
+					<br class="cls"/>
+				</div>
+				<div class="artBaseInfo" id="autDescription">
+					<div class="articl_info_t">作者简介：</div>
+					<div class="articl_info_c">
+						<div class="info_c">陈翔，武汉大学中国三至九世纪研究所博士研究生。（武汉 430072）</div>
+					</div>
+					<br class="cls"/>
+				</div>
+				<div class="artBaseInfo" id="tAutInfo"/>
+				<div class="artBaseInfo" id="orgInfo">
+					<div class="articl_info_t">原文出处：</div>
+					<div class="articl_info_c">
+						<div class="info_c">中国历史地理论丛</div>
+					</div>
+					<br class="cls"/>
+				</div>
+				<div class="artBaseInfo" id="astInfo">
+					<div class="articl_info_t">内容提要：</div>
+					<div class="articl_info_c">
+						<div class="info_c">
+							<p>唐代后期，泽潞镇在唐王朝与河北藩镇的斗争中逐渐充当了重要角色。本文对泽潞镇辖区的变更进行重新梳理，并以此为基础探讨了泽潞镇自建置以来至元和年间军事地位的变迁，认为在这期间泽潞镇由朝廷防御河北的要地演变成攻略河北的一枚重要棋子。而该镇军事地位的这种变化是与这一时期军事形势的发展和朝廷藩镇政策的转变相一致的。</p>
+						</div>
+					</div>
+					<br class="cls"/>
+				</div>
+				<div id="artPdcInfo" class="artBaseInfo">
+					<div class="col_info"><b>期刊代号：</b>K22 </div>
+					<div class="col_info"><b>分类名称：</b>魏晋南北朝隋唐史 </div>
+					<div class="col_info"><b>复印期号：</b>2009 年 01 期 </div>
+					<br class="cls"/>
+				</div>
+				<div class="artBaseInfo" id="artKeyword">
+					<div class="articl_info_t">关 键 词：</div>
+					<div class="articl_info_c">
+						<div class="info_c">
+								<a target="_blank" href="/qw?s0=7&amp;s1=%e5%94%90%e4%bb%a3">唐代</a> 
+								<a target="_blank" href="/qw?s0=7&amp;s1=%e6%b3%bd%e6%bd%9e%e9%95%87">泽潞镇</a> 
+								<a target="_blank" href="/qw?s0=7&amp;s1=%e6%88%98%e7%95%a5%e5%9c%b0%e4%bd%8d">战略地位</a> 
+								<a target="_blank" href="/qw?s0=7&amp;s1=the+Tang+Dynasty">the Tang Dynasty</a> 
+								<a target="_blank" href="/qw?s0=7&amp;s1=Zelu">Zelu</a> 
+								<a target="_blank" href="/qw?s0=7&amp;s1=the+strategic+situation">the strategic situation</a> 
+
+						</div>
+					</div>
+					<br class="cls"/>
+				</div>
+				<div class="artBaseInfo" id="artTitleNote"/>
+				<a id="readArea" name="readArea"/>
+				
+			</div>
+			<div id="artText"><div class="artibody" id="Zoom" style="font-size: 14px;">
+    </p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;［中图分类号］K928  ［文献标识码］A  ［文章编号］1001-5205(2008)03-0086-06</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;唐代宗广德元年（763年），唐王朝平定了长达八年之久的安史之乱。但此后安史余孽几长期割据于河朔一带。他们“虽奉事朝廷而不用其法令，官爵、甲兵、租赋、刑杀皆自专之”①，“意在以土地传付子孙”②。因此，唐廷与河北的关系紧张，时常派遣其它方镇进行征讨。泽潞镇虽与河北藩镇隔着太行山脉，但是可由贯通潞州至磁州的壶关道通往河北地区③，因此该地区就成了朝廷防御、攻略河北的前沿基地。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;唐代宰相李绛曾说：“昭义五州据山东要害，魏博、恒、幽诸镇蟠结，朝廷惟恃此以制之。邢、磁、洺入其腹内，诚国之宝地，安危所系也。”④由此可见泽潞镇的军事地位之重要。有唐一代，泽潞镇的辖区曾发生过不小的变化。辖区的变化必然导致该镇战略形势的变更。对此，学术界已进行过探讨。如成一农依据泽州于会昌年间（841年—845年）割隶河阳节度使指出，此时的泽潞镇已经由朝廷遏制河北、屏蔽东都的藩镇转变成朝廷防御的对象⑤。森部丰则从另一个角度，以唐廷与河朔关系的变化来探讨昭义地位的变化，认为随着穆宗以来朝廷默许河朔半独立化，唐廷与河朔的关系逐渐变成相互利用的关系，从而使昭义抵御河北的任务发生了转变：元和年间（806年—820年）昭义是牵制河北最前线的基地，同时还承担着教化河北的任务；到了会昌年间，它仅仅是抑制河北的要地而已⑥。二者的着眼点均放在穆宗以后昭义镇的地位变化上，并没有关注穆宗以前昭义镇的地位变化。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;因此关于泽潞镇军事地位和战略形势变化的问题仍有探讨的余地。但是，要搞清楚该问题，首先需要梳理清楚泽潞镇辖区的变化，然后才能深入分析泽潞镇战略形势的变更。本文拟在前人研究的基础上继续探讨这个问题，希望加深对这个问题的认识。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;一  泽潞镇辖区的沿革</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;泽潞镇始置于至德元载（756年），在此后的150年间，辖区多所变更。《新唐书·方镇三》对此有比较全面的记载，但是仍存在着一定的缺憾，比如漏记某些州的隶属、某些州郡转隶其它方镇的时间未见记载等等。赖青寿曾撰文对唐后期诸方镇的沿革进行了研究，其中亦探讨了泽潞镇辖区的变化⑦。但是他的研究依然存在着诸多不实之处⑧。这或许是该镇的辖区变化多，且相关的文献记载极为零散的缘故吧。鉴于此，本文对泽潞镇的沿革进行重新的整理，制成《泽潞镇沿革表》（表1）。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img onerror="this.src='/images/err.png'" src="http://img.ipub.exuezhe.com/jpg/K22/2009/K22T111.jpg" /></p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;笔者所制的《泽潞镇沿革表》多从赖青寿的研究成果，但亦存与之异议者，或者赖君未言及者，具言之如下：</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;其一，沁州隶泽潞的时间。《新唐书·方镇三》记载；沁州在泽潞初创时归其管辖；上元二年（761年）朝廷增设河中节度时曾将沁州置于河中节度的管辖范围内，当年即复隶泽潞。《新唐书·方镇三》如是记载会给人予这样的感觉：上元后，沁州一直是隶属泽潞的。然而事实并非如此，沁州隶属泽潞的时间是很有限的。《资治通鉴》卷222载：“宝应元年，秋，七月，壬辰，以郭子仪都知朔方、河东、北庭、潞·仪·沁·泽·陈·郑等节度行营及兴平等军副元帅。”此条胡三省注：“时以潞、沁、泽、仪、陈、郑为一镇，以李抱玉为节度使……。”可知宝应时，泽潞仍管辖着沁州，但是是年末泽潞似乎就不再管辖沁州了⑨。《资治通鉴》卷222载“（宝应元年十一月丁丑）于是邺郡节度使薛嵩以相、卫、沼、邢四州降于陈郑、泽潞节度使李抱玉……”。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;其二，仪州的隶属问题。根据第一条所引资料可知宝应时泽潞还管辖着仪州，只不过领辖的时间很短。至于何时增领就不得而知了。《新唐书·方镇三》对此并未记载，兹可补其不足。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;其三，广德元年（763年）怀州、河阳三城的隶属问题。关于广德元年（763年）怀州、河阳三城的隶属问题，史书上的记载是有分歧的。《新唐书·方镇三》的“泽潞沁”栏载：“广德元年……相卫节度……增领河阳三城。泽潞节度增领怀、卫二州，寻以卫州还相卫节度。”《新唐书·方镇一》的“东畿”栏则称：“广德元年，怀州隶昭义。”而《资治通鉴》卷222称：“（广德元年夏五月）丁卯，制分河北诸州……相、贝、邢、洺为相州管……怀、卫、河阳为泽潞管。”那么，广德元年（763年）河阳究竟是属相卫还是隶属泽潞呢？而《新唐书·方镇一》的“东畿”栏所载的昭义是指泽潞还是相卫？换句话说，广德年间怀州是属相卫还是泽潞呢？在我们看来，两个问题是有一定联系的。解决了第二个问题，就能顺带解决第一个问题。因此可先着力解决第二个问题。仔细对照《新唐书·方镇三》的“泽潞沁”栏与《新唐书·方镇一》的“东畿”栏的记载，可提出如下的假设：如果《新唐书·方镇一》的“东畿”栏所载的昭义指的是相卫节度的话，为什么欧阳修在《新唐书·方镇三》的“泽潞沁”栏记载广德元年（763年）卫州改隶相卫之时不同时记下怀州也改隶相卫呢？在这样的假设下，欧阳修的记载就令人费解。因此，笔者以为《新唐书，方镇一》的“东畿”栏的昭义当指泽潞，而只有这样解释才能使之与《新唐书·方镇三》的“泽潞沁”栏的”泽潞节度增领怀（州）”相一致。如上所述，广德年间怀州当隶属泽潞。既然广德元年（763年）怀州隶属泽潞，河阳三城隶于相卫的可能性就几乎不存在⑩。因为相卫节度地处怀州的东北方，而河阳则在怀州的西南角，因此相卫节度绝不可能绕过怀州，统领河阳(11)。更何况，河阳地处洛阳近郊，地理位置相当重要，而相卫节度乃安史降将，朝廷岂有将此地授予他们的道理？</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;其四，泽潞的整合问题。《新唐书·方镇三》记载：“建中元年，昭义军节度兼领泽、潞二州，徙治潞州。”事实上，泽潞与邢磁两区的合并早在大历晚期就开始了。大历末，朝廷在夺取河北邢、沼、磁三州之后，对于怎样才能更好地控制该区域是有不同意见的。关于这一点，史书并没有明确的记载，但是我们仍然可以从史书上的记载找寻出一点迹象：朝廷在大历十一年（776年）二月平定进攻旧镇相卫的魏博之叛后，仍以邢、磁为一镇，仍以昭义为该地区的镇号，以李承昭为节度；直至大历十一年（776年）年底，朝廷才趁着李承昭乞疾的时机，让抱真以泽潞行军司马身份权知邢、磁留后。应当说，朝廷并不是一开始就有扩建泽潞，让泽潞兼领邢、磁等州的想法，而是在仔细斟酌了一段时间后才决定扩建泽潞的。而这时候两区的整合才刚刚起步，二者似还未以统一的名号出现，因此当时这一区域似乎存在着两个治所。关于这一点，我们从大历晚期李抱真担任的是泽潞与邢磁这两个最终实现制度整合的节镇的留后可以约略窥视出一点迹象。直至建中元年（780年）泽潞与邢磁完成制度上的整合时(12)，才将治所合二为一，固定在潞州。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;其五，卫州的隶属问题。《新唐书·方镇三》之“泽潞沁”栏记载：宝应元年（762年），泽潞镇增领郑、陈、邢、洺、赵五州；翌年即广德元年（763年），置相卫节度使。是年，相卫增领邢、洺、贝；卫州复隶泽潞，未几，复领，号相卫六州节度。据此，卫州似曾先隶属于泽潞，否则“复”字殊无法解释。宝应元年（762年），泽潞镇能增领邢、沼二州，盖因为史朝义的伪邺郡节度（该节度时辖有相、卫、邢、洺四州）薛嵩降于当时担任泽潞节帅的李抱玉，朝廷随即令李抱玉增领此二州。我们以为卫州若曾先隶属于泽潞，当是在这个时候。虽然卫州和泽潞镇的泽州相连，但是中间隔着太行山脉，其间并无可以来往于二州的通道。而且当时怀州尚未为泽潞所管辖。因此我们以为泽潞镇当时不可能领辖有与该镇无任何通道可联系的卫州。故我们认为《新唐书·方镇三》之“泽潞沁”栏的广德元年（763年）条所记载的“卫州复隶泽潞”之“复”字乃衍字也。《新唐书·方镇三》的“泽潞沁”栏载：“建中二年，昭义军节度……罢领怀、卫二州、河阳三城。”疑以为这条记载有误。因为大历十一年（776年）魏博节度增领卫州之后，卫州似再未脱离魏博的管辖。依此来看，大历十一年（776年）迄建中二年（782年）这一期间昭义节度似未尝再领辖卫州。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;二  泽潞镇军事地位的变化</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;据《泽潞镇沿革表》，唐代后期泽潞镇的辖区主要发生了5次重大的变化：第一次，宝应元年（762年），泽潞节度增领邢、洺、赵州等河北州郡几一年；第二次，广德元年（763年），泽潞节度罢领邢、洺等州，增领怀州与河阳三城；第三次，大历十二年（777年），泽潞节度增领邢、磁二州及建中三年（782年）增领洺州，至此邢、磁、洺三州全归泽潞管辖；第四次，建中二年（781年），泽潞节度罢领怀州与河阳三城；第五次，会昌四年（844年），泽州转隶河阳节度。显然，其辖区演变的基本态势是由以河东道、河北道为主向以河东道、都畿道为主转变，然后又由此转向以河东道、河北道为主。这种变更必然带动整个泽潞镇军事地位和战略形势的变化。有关整个泽潞镇军事地位的变化，可以从各辖区以及所辖各州的战略形势入手进行探讨。为了方便讨论，我们名泽潞镇所领辖的河东地区的州郡为泽潞区（含泽、潞、沁三州），都畿区为河阳区（含怀州、河阳三城），河北区即为邢沼区（含邢、磁、沼三州）。同时，依谭其骧的《中国历史地图集》以及张正田君硕士论文中所附录的《昭义节度使相邻各藩镇位置概图（宪宗元和时代）》(13)绘成图1《元和年间泽潞镇战略形势概图》，以期通过此图可以对泽潞所辖各州、各辖区的战略形势以及整个泽潞镇的战略形势变化有一大致的认识。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;邢洺区的战略形势：整个邢沼区正处于太行山东麓的大官道之上(14)，邢、磁、洺三州可以藉此道上下沟通河北藩镇诸州，唐中央政府亦惟藉此以遏制河北藩镇。是故顾祖禹云“唐以昭义一军控御河北，而邢州尤为山东要地，虽强梗如镇、魏，终始羁縻者，以邢州介其间，西面兵力足以展施也……从邢州而西南，路出邯郸可以席卷相卫；若道庆源（即赵州）而取深、冀，越清河而驰德、棣，如振裘者之挈其领也……”(15)，足见“昭义可上下控制两强藩”(16)。依此，我们可以引申为泽潞镇的邢沼区在战略上具有攻略河北意义。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img onerror="this.src='/images/err.png'" src="http://img.ipub.exuezhe.com/jpg/K22/2009/K22T103.jpg" /></p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;图1  元和年间泽潞镇战略形势概图</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;泽潞区的战略形势：天宝末，清河客李萼曾往平原郡劝说颜真卿，其曰：“今闻朝廷使程千里统众十万自太行东下，将出崞口，为贼所扼，兵不得前。今若先伐魏郡，斩袁知泰，太守司马垂使为西南主；分兵开崞口之路，出千里之兵使讨邺、幽陵；平原、清河合同志十万之众徇洛阳，分兵而制其冲。计王师亦不下十万，公当坚壁，无与挑战，不数十日，贼必溃而相图矣。”(17)建中年间，魏博田悦叛，当时身为贝州刺史的邢曹俊就劝说田悦曰：“兵法十倍则攻，尚书以逆犯顺，势且不侔。宜于崞口置兵万人以遏西师，则河北二十四州悉为尚书有矣……。”(18)观此可见，河北一有事，泽潞镇兵马欲自壶关崞口道东出者，往往会受到河北叛藩在此通道上的阻拦；虽自潞州东下壶关可抵相卫，但是邢洺区若未完全为朝廷所控制，设若有敌置于壶关崞口道东出之崞口，泽潞镇兵马似难以出崞口。我们从旧史上未见程千里所统十万之众出现于河北平原的记载，且田悦不从邢曹俊之言终败的史实来看，泽潞区的潞州在战略上似乎不是偏重于攻略，而是重于防守的。此外，泽州亦属防御性质，顾祖禹就说“州据太行之雄固，实东洛之籓垣”(19)。据此，我们可以说泽潞镇的泽潞区在战略上相对于邢洛区更偏重于防御，该区重在防御河北。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;河阳区的战略形势：河阳三城包括北中城、中潬城、南城，皆系北朝所建。关于河阳区的战略形势，严耕望曾如是说：唐代曾造浮桥连锁三城，为南北交通之枢纽。渡桥而南，临拊洛京，在咫尺之间；渡桥而北，直北上天井关趋上党、太原，东北出临清关达邺城、燕、赵……诚为中古时代南北交通之第一要津……安、史乱后，中原多事，更置河阳三城节度使，屏障洛京，兼制北道，故李吉甫称为“都城之巨防”也(20)。严老先生明确地指出河阳三城具有屏障洛京、兼制北道的作用，似乎暗示着河阳区在战略上兼具攻略与防御的战略价值，既可屏蔽东都，又能控御魏博等地。元和年间，魏博田弘正归附，李吉甫即以为“河阳宿重兵，本以制魏博，今弘正归顺，则河阳为内镇，不应屯重兵以示猜阻”，遂移之。田弘正闻之，大喜，云：“吾未若移河阳军之为喜也。”(21)是河阳三城置节度使后常宿重兵，方才具有“兼制北道”的作用。而在河阳三城未置节度使前，这里似未尝宿重兵，因此我们以为在河阳区隶属于泽潞镇之时，河阳区的战略形势亦似更重于防御，该区乃是洛阳的屏障之地。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;由此可知，泽潞镇的泽潞区、河阳区在战略形势上与邢洺区是有差异的。依照泽潞镇辖区的变更以及各区所具有的战略形势，我们可以探究整个泽潞镇军事地位的变化。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;天宝末，安禄山起兵幽州，为了抵御叛军的南下，朝廷置泽潞沁节度。由壶关崞口道东出之崞口可西出潞州，朝廷在此设置方镇似有防止叛军由此道西出的用意，因此当时泽潞镇所体现的即是它的防御职能。宝应元年（762年），泽潞节度增领邢、洺、赵州等河北州郡。时伪邺郡节度使薛嵩投降泽潞节度李抱玉以及李宝臣降于朝廷，所以泽潞节度才得以跨越太行山脉，增领邢、洺、赵诸州。当时已是安史之乱末、史朝义几乎穷途末路之际，而朝廷让泽潞节度增领邢、洺、赵等具有攻略河北地区性质的州郡(22)，似乎暗含着代宗朝廷有欲以出征讨叛之军队收复河北的打算。怎奈仆固怀恩私心作祟，遂使中央之计划流产(23)。不久，邢、洺、赵诸州旋复隶属于薛嵩、李宝臣。紧接着，广德元年（763年）泽潞节度又增领怀州、河阳三城，该镇的战略形势随即又趋于防御。大历十二年（777年），泽潞节度再次越过太行山脉领辖河北邢、磁等州，此时该镇可谓是攻守兼备。建中二年（781年），泽潞节度罢领怀州与河阳三城后，泽潞镇的战守形势则倾向于攻略。由此来看，该镇的战守形势曾出现如是变化：至德元载迄大历十二年（777年），该镇的地位主要偏重于防御；大历十二年（777年）至建中二年（781年）此时该镇的战略形势即是攻守均重；建中二年（781年）后则偏重于攻略。从这一战守形势的变化似可窥探出该镇战略地位的变化：泽潞镇正慢慢、逐渐地由朝廷防御河北的要地演变成攻略河北的一枚重要的棋子。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;泽潞镇军事地位的这一变化与朝廷对待藩镇的政策之变更是相一致的。至德元载迄大历十二年（777年）时，朝廷对待藩镇几于姑息政策，因此这一期间，泽潞镇在战略价值上一直偏重于防御。宝应年间泽潞节度曾跨越太行山脉增领邢、洺、赵诸州，虽然这仅仅是昙花一现而已，但是也说明了代宗皇帝即位之初似未姑息河北藩镇的，只是限于武将的私心才不得不如此罢了。随着代宗末年，朝廷结束了权臣与宦官的专权后，代宗朝的藩镇政策就愈发趋于强硬了(24)。是以我们也就看到了泽潞节度之再度越过太行山脉领辖河北邢、磁等州。泽潞镇的地位也因此逐渐由防御性趋于攻略性。德宗皇帝即位初就有扫平河北之意，故此时朝廷对待藩镇的政策仍沿袭代宗末期的强硬政策。即使后来出现了奉天之乱，德宗朝对待河北的政策有所变化，但是其仍不失时机地尽量削弱他们(25)，因此这一时期泽潞镇的战略价值仍然是倾向于攻略。元和时期中央致力于“恢复对搞自治的藩镇的控制”(26)，因此该镇的地位仍重于攻略。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;随着穆宗以来朝廷默许河朔半独立化，河北与朝廷反倒形成了相互利用的关系(27)。会昌年间平定泽潞镇刘稹的叛乱之后，朝廷为了避免泽潞再次出现不利于中央的事态，卒将泽州划归河阳节度使管辖。泽潞镇反倒成了朝廷防御的对象了(28)。平定刘稹叛乱之前，李德裕曾奏：“俟昭义平日，仍割泽州隶河阳节度，则太行之险不在昭义，而河阳遂为重镇，东都无复忧矣！”(29)</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;［收稿日期］2008-01-03</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;注释：</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;①《资治通鉴》卷225，代宗大历十二年十二月庚子。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;②《旧唐书》卷142《李宝臣传》。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;③严耕望：《唐代交通图考》第5卷《河东河北区》，（上海）上海古籍出版社，2007年，第1421页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;④《资治通鉴》卷238，宪宗元和五年三月丁亥。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⑤成一农：《唐代地缘政治结构》，李孝聪主编：《唐代地域结构与运作空间》，（上海）上海辞书出版社，2003年，第37-41页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⑥［日］森部丰：《唐泽潞昭义节度使考——中晚唐にぉけゐ唐朝と河北藩镇の关系をぁじって》，野口铁郎先生古稀纪念集刊行委员会编：《中华世界の历史的展开》，（东京）汲古书院，2002年，第97-131页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⑦赖青寿：《唐后期方镇建置沿革研究》，复旦大学博士论文，1999年，第68-69、99-102、107-108页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⑧另外，成一农、王韵也对泽潞镇的辖区变化进行过探讨，但是亦不尽完善。成一农：《唐代地缘政治结构》，李孝聪主编：《唐代地域结构与运作空间》，（上海）上海辞书出版社，2003年，第37-41页；王韵：《论唐、五代的昭义镇》，四川师范大学硕士论文，2003年，第5-11页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⑨赖青寿则认为贞元十年（794年）沁州才自泽潞节度转隶于河东节度使，赖氏对此所提出的论据似乎无法佐证他的观点。兹具见赖青寿：《唐后期方镇建置沿革研究》，复旦大学博士论文，1999年，第100-101页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⑩赖青寿依据东畿栏所记载的广德元年“怀州隶昭义”、泽潞沁栏记载的建中二年“昭义军节度罢领怀卫二州、河阳三城”、泽潞沁栏所载的广德元年（763年）相卫节度增领河阳三城以及河阳在怀州西南，推断出广德元年相卫节度是领有怀州的，此方可凑成所谓的相卫六州节度的6州之数。他忽视了永泰元年（765年）薛嵩曾于相卫节度境内增设磁州的事实。而这正是大历元年（766年）相卫节度使称为相卫六州节度的缘故。至于广德元年所记载的相卫六州节度实是欧阳修之误，清代学者钱大昕在《廿二史考异》卷48《唐书八》中即已有所考证。因此我们以为赖氏所论有误。赖氏所论具见其著《唐后期方镇建置沿革研究》，第68-69、99-100页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(11)关于河阳、怀州的地理位置，可参阅谭其骧主编：《中国历史地图集》第5册（隋唐五代十国时期），（北京）中国地图出版社，1982年，第44-45页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(12)成一农：《唐代地缘政治结构》，李孝聪主编：《唐代地域结构与运作空间》，（上海）上海辞书出版社，2003年，第39页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(13)张正田：《唐代昭义军研究》，国立中正大学历史研究所硕士论文，2002年，第15页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(14)严耕望：《唐代交通图考》第5卷《河东河北区》，第1513-1550页。严氏指出：惟沼州位置稍稍偏东，不在此通道之上。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(15)［清］顾祖禹：《读史方舆纪要》卷15《直隶六·顺德府》，（上海）上海书店出版社，1998年，第119页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(16)张正田：《唐代昭义军研究》，国立中正大学历史研究所硕士论文，2002年，第41页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(17)《旧唐书》卷128《颜真卿传》。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(18)《旧唐书》卷141《田承嗣附侄悦传》。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(19)《读史方舆纪要》卷43《山西五·泽州》，第296页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(20)严耕望：《唐代洛阳太原道驿程述》，《唐史研究丛稿》，（香港）新亚研究所，1969年，第607-608页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(21)《资治通鉴》卷239，宪宗元和九年六月闰丙辰。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(22)顾祖禹曾如是描述赵州的战略地位，“州据太行之襟带，横漳南，出则道邢、洺而收相、魏，东指则包深、冀而问幽、沧”。由此似见赵州在战略上亦具攻略性质。兹具见《读史方舆纪要》卷14《直隶五·赵州》，第117页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(23)关于安史余孽在叛乱结束后仍占据河北一带，或以为这是朝廷姑息以及仆固怀恩私心作祟的结果；或以为仆固怀恩确有树党自固之心，而且当时朝廷无力更换安史旧将，故而令安史旧将分帅河北；或以为“在安史之乱平定前后，唐王朝面临的政治矛盾的焦点和军事斗争的重心都已发生了新转移。唐廷与安史叛乱势力的矛盾已相对让位于它与反叛乱势力——新起军阀和宦官势力的矛盾；唐廷与叛乱势力的军事斗争中心地区也相对让位于唐王朝肘腋之地——京西京北地区与吐蕃势力的武装抗争。在这种情况下，唐廷迫切要求早日了结河北战事，处理日益激化的新矛盾。因此代宗即位之初即明确规定：‘逆贼史朝义已下，有能投降者，当超予封赏’……于是，张忠志（李宝臣）、李怀仙、薛嵩、田承嗣等在史朝义授首之前纷纷投降，正是唐廷所期望的……（因而朝廷）援往日安置安史降将如能元皓、令狐彰之例，各授以节度使，自是情理中事。”笔者以为安史余孽在叛乱结束后仍占据河北一带完全是仆固怀恩私心作祟的结果，与代宗无关，代宗皇帝完全是迫于仆固怀恩手握强大兵力的压力才不得不同意的。对此问题，笔者拟另文进行更为详细、全面的探讨。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(24)［英］崔瑞德主编：《剑桥中国隋唐史》，（北京）中国社会科学出版社，1990年，第507页；樊文礼：《安史之乱以后的藩镇形势与唐代宗朝的藩镇政策》，《烟台师范学院学报》，1995年第4期，第40-45页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(25)刘玉峰：《唐德宗评传》，（济南）齐鲁书社，2002年，第61页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(26)［英］崔瑞德：《剑桥中国隋唐史》，（北京）中国社会科学出版社，1990年，第534页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(27)［日］森部丰：《唐泽潞昭义节度使考——中晚唐にぉけゐ唐朝と河北藩镇の关系をぁじつて》，野口铁郎先生古稀纪念集刊行委员会编：《中国世界の历史的展开》，（东京）汲古书院，2002年，第115-122页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(28)成一农：《唐代地缘政治结构》，李孝聪主编：《唐代地域结构与运作空间》，（上海）上海辞书出版社，2003年，第40-41页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(29)《资治通鉴》卷247，武宗会昌三年九月丙午。
+</div>
+<div class="page-list">
+    <div class="pageNav" id="pageList"></div>
+</div>
+</div><br class="cls"/>
+		</div>
+		</body></html>

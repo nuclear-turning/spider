@@ -1,0 +1,198 @@
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><style>.trR{ text-align:right;}
+#wraper{width:1190px; margin:0 auto; margin-bottom:10px;text-align:left;}
+#left{ float:left;width:250px; text-align:left;}
+#right{float:right;width:930px;text-align:left;border-top:2px solid #619bc0; padding-bottom:10px;}
+.border_w{ border:1px solid #d3d3d3;border-top:2px solid #619bc0;}
+.t01{height:30px;line-height:30px;border:1px solid #dddddd;padding-left:10px;background:url(../images/tbg01.jpg) repeat-x bottom; color:#1183c1; font-size:14px;}
+.con_01{ padding:10px;}
+.con_cbg{ background:url(../images/con_cbg.gif) repeat-y;}
+.con_bbg{ background:url(../images/con_bbg.gif) no-repeat left bottom; height:1px; line-height:1px; font-size:0;}
+
+.source{margin:15px;background:url(../images/linex.gif) repeat-x bottom; padding-bottom:30px; margin-bottom:30px;}
+.source .source-img{border:1px solid #d3d3d3; text-align:center; padding:5px;margin-bottom:10px; }
+.source p{color:#666666; font-weight:bold; font-size:12px;}
+.source .fblue{ color:#236bac; font-weight:normal;}
+
+.t_tj{ height:27px;padding-top:2px;margin:15px; background:url(../images/con_t_tj.gif) no-repeat left top; padding-left:10px; color:#FFFFFF; font-size:14px;}
+.c12_01{ margin-left:15px; margin-right:15px; margin-bottom:15px;}
+.c12_01 li{font-size:12px; line-height:24px; background: url(../images/dot.gif) no-repeat 2px 10px; padding-left:15px;}
+
+#artibodyTitle{color:#236bac;font-family:"宋体";font-size:20px;font-weight: normal;line-height:35px;text-align:center;margin-top:10px;	text-align:center;}
+#artisubTitle{font-family:"宋体";font-size:16px;font-weight: normal;line-height:28px;text-align:center;}
+.articl_info{margin-left:30px; margin-right:30px; position:relative;border-bottom:1px solid #e1e1e1;padding-bottom:20px; margin-bottom:20px;}
+.btn-img{
+	background-image:url(../images/allbg.png);
+	background-repeat:no-repeat;
+	font-size:12px;		
+	cursor:pointer;
+	border: 0px none;
+	display: inline-block;
+	vertical-align:middle;
+	text-align:center;}
+
+.artInfo{height:22px;border-top:1px solid #e1e1e1;border-bottom:1px solid #e1e1e1;padding:5px;margin:20px;}
+.artInfo li{float:left;width:33%;height:22px; line-height:22px; color:#666666;}
+
+.artInfo li .collectionPage_link{
+	background-position:-509px -80px;
+	padding-left:10px;
+	margin-top:-2px;
+	_margin-top:0px;
+	margin-left:10px;
+	width:51px;
+	height:22px; 
+	line-height:22px;		
+	color:#1183c1;	}
+.artInfo li .printPage_link{
+	background-position:-570px -80px;
+	padding-left:10px;
+	margin-top:-2px;
+	_margin-top:0px;
+	margin-left:10px;
+	width:51px;
+	height:22px; 
+	line-height:22px;	
+	color:#1183c1;}
+.artInfo li .downloadPage_link{
+	background-position:-631px -80px;
+	margin-top:-2px;
+	_margin-top:0px;
+	margin-left:10px;
+	width:51px;
+	padding-left:10px;
+	height:22px; 
+	line-height:22px;	
+	color:#1183c1;}
+
+
+.artBaseInfo{line-height:24px; margin-bottom:5px;}
+.artBaseInfo .info_left{float:left;width:80px;}
+.artBaseInfo .info_right{float:left;width:790px;}
+
+.artBaseInfo dt{float:left;width:80px; color:#666666;line-height:20px; display:inline-block;}
+.artBaseInfo dd{color:#666666;line-height:20px;display:inline-block;}
+.artBaseInfo .col li{ float:left;width:210px; height:20px; line-height:20px;color:#666666;}
+
+.artBaseInfo .item{ float:left;width:50%;}
+.artBaseInfo .notice{
+	margin-left:10px;
+	width:61px;
+	padding-left:10px;
+	height:22px; 
+	line-height:22px;
+	background-position:-448px -80px;	
+	color:#1183c1;}
+
+.artInfo{height:30px;border-top:1px solid #e1e1e1;border-bottom:1px solid #e1e1e1;margin:20px 10px;}
+.artInfo div{ float:left;width:30%;height:30px; line-height:30px; text-align:center;}
+.artInfo div a{ margin-left:20px; margin-right:20px;}
+.artInfo li{float:left;width:33%;height:22px; line-height:22px; color:#666666;}
+
+.articl_info{margin-left:30px;margin-right:30px; position:relative;border-bottom:1px solid #e1e1e1;padding-bottom:20px; margin-bottom:20px;}
+.artBaseInfo{margin-bottom:5px;}
+.articl_info_t{float:left;width:80px;margin-right: -100%;font-weight:bold;line-height:24px;}
+.articl_info_c{float: left;width: 100%;}
+.articl_info_c .info_c{margin-left:80px; line-height:24px;}
+.artBaseInfo .marL{ margin-left:20PX;}
+.artBaseInfo .col_info{ float:left;width:30%;line-height:20px;}
+
+.fontSize{position: relative;right:0px;top:0px;font-size:12px; height:30px; line-height:30px; text-align:right;}
+.fontSize a{border:1px solid #c2c2c2;margin-right:10px;padding:4px 1px;*padding:1px; cursor:pointer;font-size:12px;}
+.fontSize a span{background:url(../images/page_a_36.png) repeat-x;padding:3px;}
+
+.fontSize a.now{border: #f9ad75 1px solid;padding:4px 1px;*padding:1px;}
+.fontSize a.now span{color:#ff7d27;background:url(../images/current_34.png) repeat-x bottom;padding:3px;}
+.artibody{margin-left:20px;margin-right:20px;font: 18px/180% "Microsoft YaHei","微软雅黑"; color:#666666;}
+.artibody p{margin-bottom:20px;}
+
+.fontSize A:link{ color:#000000;text-decoration:none;}
+.fontSize A:visited{ color:#000000;text-decoration:none;}
+.fontSize A:hover{ color:#FF0000;text-decoration:none;}
+.fontSize a.now:link{color:#ff7d27;text-decoration:none;}
+#Zoom img {max-width:600px; max-height:600px; scale:expression((this.offsetWidth > this.offsetHeight)?(this.style.width = this.offsetWidth >= 600 ? "600px" : "auto"):(this.style.height = this.offsetHeight >= 600 ? "600px" : "auto")); display:inline !important;}
+
+.t_artiInfo{font-size:14px; padding-left:20px;background:url(../images/linex.gif) repeat-x top; line-height:30px; margin-top:10px;}
+.li_artiInfo{margin-left:30px; margin-right:30px;padding-bottom:10px; }
+.li_artiInfo ul li{float:left;width:100%;padding:3px 0;}
+.li_artiInfo ul li .title{ float:left;width:65%;}
+.li_artiInfo ul li .author{ float:left;width:15%;}
+.li_artiInfo ul li .come{ float:right;width:20%;color:#999999; text-align:right;}
+
+
+.index_artInfo{height:36px; line-height:36px; border-top:1px solid #e1e1e1;border-bottom:1px solid #e1e1e1; margin-top:20px; padding-left:20px;  padding-right:20px;padding-right:10px; margin-bottom:10px; margin-left:10px;text-align:center;}
+.index_artInfo a.collectionPage_link{ background:url(../images/icon.gif) no-repeat 0 1px; padding-left:15px;}
+.index_artInfo a.printPage_link{background:url(../images/icon.gif) no-repeat 0 -55px; padding-left:15px;}
+.index_artInfo a.downloadPage_link{background:url(../images/icon.gif) no-repeat 0 -108px; padding-left:13px;}
+
+.index_body .main{margin-left:100px; line-height:28px;color:#000000; padding-bottom:30px; padding-top:20px;}</style></head><body><div id="wraper">
+			<div id="artTitles">
+				<h1 id="artibodyTitle">唐安西四镇中“镇”的变化</h1>
+				<h2 id="artisubTitle"/>
+			</div>
+			
+			<div class="articl_info">
+				<div class="artBaseInfo" id="autInfo">
+					<div class="articl_info_t">作 者：</div>
+					<div class="articl_info_c">
+						<div class="info_c">
+								<a target="_blank" href="/qw?s0=4&amp;s1=%e9%99%88%e5%9b%bd%e7%81%bf">陈国灿</a> 
+						</div>
+					</div>
+					<br class="cls"/>
+				</div>
+				<div class="artBaseInfo" id="autDescription">
+					<div class="articl_info_t">作者简介：</div>
+					<div class="articl_info_c">
+						<div class="info_c">陈国灿，北京师范大学历史学院。</div>
+					</div>
+					<br class="cls"/>
+				</div>
+				<div class="artBaseInfo" id="tAutInfo"/>
+				<div class="artBaseInfo" id="orgInfo">
+					<div class="articl_info_t">原文出处：</div>
+					<div class="articl_info_c">
+						<div class="info_c">西域研究</div>
+					</div>
+					<br class="cls"/>
+				</div>
+				<div class="artBaseInfo" id="astInfo">
+					<div class="articl_info_t">内容提要：</div>
+					<div class="articl_info_c">
+						<div class="info_c">
+							<p>安西四镇的称谓，自安西都护府迁到龟兹后，就已出现。此后，曾三次陷落于吐蕃，四镇三失三复的重要教训是，要保持对四镇的稳定统治，必须要派驻足够的兵力驻防才有保障。长寿二年(693年)朝廷决定用汉兵三万人以镇之。此后，在安西四镇之下，又增设了许多二级军镇，除碎叶镇外，还有如拨换镇、通海镇、葱岭镇等。于阗镇下增置有坎城、兰城、胡弩、固城、吉良等五个二级镇，在于阗镇内诸州，还设置了州级军镇，如六城质逻州的杰谢镇，还有安夫镇，实为三级军镇，玉河军、箫乡军，也可能属于阗镇辖下的军镇名。在于阗镇内设置如此众多的军镇，主要是为了对抗吐蕃对于阗、进而对四镇的进犯。众多新军镇的建置，是唐安西都护府发展史上的一个重大变化，也是唐对西域统治由不稳定走向稳定的重要保证。</p>
+						</div>
+					</div>
+					<br class="cls"/>
+				</div>
+				<div id="artPdcInfo" class="artBaseInfo">
+					<div class="col_info"><b>期刊代号：</b>K22 </div>
+					<div class="col_info"><b>分类名称：</b>魏晋南北朝隋唐史 </div>
+					<div class="col_info"><b>复印期号：</b>2009 年 02 期 </div>
+					<br class="cls"/>
+				</div>
+				<div class="artBaseInfo" id="artKeyword">
+					<div class="articl_info_t">关 键 词：</div>
+					<div class="articl_info_c">
+						<div class="info_c">
+								<a target="_blank" href="/qw?s0=7&amp;s1=%e5%ae%89%e8%a5%bf%e9%83%bd%e6%8a%a4%e5%ba%9c">安西都护府</a> 
+								<a target="_blank" href="/qw?s0=7&amp;s1=%e5%9b%9b%e9%95%87">四镇</a> 
+								<a target="_blank" href="/qw?s0=7&amp;s1=%e5%ae%89%e8%a5%bf%e5%9b%9b%e9%95%87">安西四镇</a> 
+								<a target="_blank" href="/qw?s0=7&amp;s1=%e5%86%9b%e9%95%87">军镇</a> 
+
+						</div>
+					</div>
+					<br class="cls"/>
+				</div>
+				<div class="artBaseInfo" id="artTitleNote"/>
+				<a id="readArea" name="readArea"/>
+				
+			</div>
+			<div id="artText"><div class="artibody" id="Zoom" style="font-size: 14px;">
+    </p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;中图分类号：K242.1  文献标识码：A  文章编号：1002-4743(2008)04-0016-07</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;唐在天山以南地区设安西都护府始于贞观十四年灭高昌王国之后，《旧唐书·地理志》载：</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;安西大都护府  贞观十四年，侯君集平高昌，置西州都护府，治在西州。①</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“西州都护府”《旧唐书校勘记》已指出“据本卷下文及本书卷三《太宗纪下》、《通典》卷一七四、《寰宇记》卷一五六，‘西州’当作‘安西’。”对此《唐会要》则记述得更清楚：</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;贞观十四年九月二十二日，侯君集平高昌国，于西州置安西都护府，治交河城。②</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;安西都护府始建于西州，至高宗显庆三年(658年)才迁至龟兹，③这在史学界基本上已无疑义。然而将安西都护府与“四镇”联系起来，又始于何时？《旧唐书·西戎传》载：</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;先是，太宗既破龟兹，移置安西都护府于其国城，以郭孝恪为都护，兼统于阗、疏勒、碎叶，谓之“四镇”。④</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;这条记载有矛盾，郭孝恪是在破龟兹过程中战死的，是死在移置安西都护府于龟兹国城之前。还有“碎叶”一镇，岑仲勉早已指出“碎叶列四镇，是高宗时事，此处当作焉耆，唐是时势力未达碎叶也”⑤。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;《新唐书·龟兹传》记移都护府至龟兹事在阿史那社尔执龟兹王诃黎布失毕至长安献俘之后：</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;拜布失毕左武卫中郎将，始徙安西都护於其国，统于阗、碎叶、疏勒，号“四镇”。⑥</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;这就是说，自安西都护府迁到龟兹后，就有“四镇”这个专门的词，高宗朝，四镇应是指龟兹、焉耆、疏勒、于阗这四个军镇。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;唐对天山以南的地区，总由安西都护府所统领，对塔里木盆地的原城郭小国，在其归唐后，仍由其王治理地方，如对龟兹国即设龟兹都督，疏勒国设疏勒都督，于阗国即设于阗都督，均由当地王兼任。另从边防安全的考虑，唐军也在每一都督府设有一个镇。镇，在唐代为边境屯防机构，《新唐书·兵志》载：“唐初兵之戍边者，大曰军，小曰守捉，曰城，曰镇。”四镇的驻军，开初也是来自内地，人数不多，对于地方的防御，力量也比较薄弱，以致在安西四镇建立后，曾经历过多次的沦陷。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;咸亨元年(670年)，“四月二十三日，吐蕃陷我安西，罢四镇”。⑦这是安西四镇第一次的陷落，至上元二年(675年)前后，唐又相继恢复了四都督府及其军镇的设置。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;仪凤二年(677年)，“吐蕃与西突厥连兵攻安西”，⑧“吐蕃攻焉耆以西，四镇皆没”⑨。这是安西四镇第二次的陷落。到调露元年(679年)，朝廷命吏部侍郎裴行俭以册送波斯王名义，智擒叛军首领都支、遮匐，平定了乱局，“调露元年，以碎叶、龟兹、于阗、疏勒为四镇”。⑩</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;《忠武将军疏勒人裴沙钵罗墓志》载，垂拱二年(686年)，“属藩落携贰，安西不宁，(安西)都护李君与公再谋奏拔四镇，公乃按以戎律，导以泉井，百战无死败之忧，全军得生还之路，翳公是赖。”(11)说的是安西都护府的李都护在裴沙钵罗导引和帮助下撤出四镇的情况，这是安西四镇守军的第三次大撤离。直到长寿元年(692年)十月，“武威军总管王孝杰大破吐蕃之众，克复龟兹、于阗、疏勒、碎叶等四镇”。(12)对于此次再复四镇，武后总结说：“贞观中，西境在四镇，其后不善守，弃之吐蕃。今故土尽复，孝杰功也。”(13)</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;安西四镇的三次失陷，都是由于吐蕃的侵扰进犯所致。四镇的三失而又三复，给了唐朝廷一个很重要的教训，那就是要“善守”四镇、要保持对四镇的稳定统治，而不再遭到失陷，必须要派驻足够的兵力才有保障。于是，在长寿二年(693年)“自此复于龟兹置安西都护府，用汉兵三万人以镇之。既征发内地精兵，远逾沙碛，并资遣衣粮等，甚为百姓所苦。言事者多请弃之，则天竟不许”。(14)对四镇的防御，武则天的态度始终是积极的，从不言弃，故对请弃四镇的意见，不仅不赞成，反而对四镇的军事部署及兵力配置，都作了相应的加强，“用汉兵三万以镇之”正是这种加强的体现。开元二年(714年)十一月，安西副大都护、摄御史大夫、四镇经略安抚使郭虔瓘“乃奏请募关中兵一万人往安西讨击，皆给公乘，兼供熟食，敕许之”(15)。由于朝中有人反对而未行，至开元四年玄宗遣左卫中郎将王惠赍诏书谕解曰：</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;朕闻师克在和，不在众，以(郭)虔瓘、(阿史那)献宿将，当捨嫌窒隙，戮力国家。自开西镇，列诸军，戍有定区，军有常额，卿等所统，蕃汉杂之，在乎善用，何必加募？(16)</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;从玄宗诏书反映出朝廷对“西镇”的诸军部署是：“戍有定区，军有常额。”根据这一精神，三万汉兵不可能都集中于安西一地，而是分散到四镇各地去加强地方上的防务，将地方的防务尽量细分为一些小的戍区，具体体现在对“镇”设置的增加，即在原有四镇基础上建置了一些新的军镇，并在新军镇里，配备一定额度的汉兵驻防。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;从史籍记载或出土文献中，我们可以明显地看到，长寿二年(693年)后，在唐安西四镇下，出现了许多新的军镇，这是安西四镇史上的一个划阶段的变化。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;首先是碎叶镇，这应是原龟兹、焉耆、于阗、疏勒四镇之外的第五个军镇，直隶于安西都护府管理。它的建置在长寿二年之前，开始于调露元年(679年)第二次恢复四镇之时。据《新唐书·王方翼传》载：</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;裴行俭讨遮匐，奏(王方翼)为副，兼检校安西都护，徙故都护杜怀宝为庭州刺史。方翼筑碎叶城，面三门，纡还多趣以诡出入，五旬毕。西域胡纵观，莫测其方略，悉献珍货。未几，徙方翼庭州刺史，而怀宝自金山都护更镇安西，遂失蕃戎之和。(17)</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;裴行俭平定叛军首领都支、遮匐的叛乱，如前所论在调露元年，平定之后，即由安西都护王方翼新筑碎叶城以作镇守。碎叶镇位于今吉尔吉斯共和国的托克马克市西南八公里的阿克别希姆古城遗址，镇城筑好后，调任庭州刺史杜怀宝镇守此城，当时他的官职全衔为“安西副都护、碎叶镇压十姓使、上柱国”。(18)碎叶镇压十姓使，乃指镇压西突厥十姓部落的军使，实即碎叶镇守使。延载元年(694年)二月，吐蕃“首领勃论赞与突厥伪可汗阿史那俀子南侵，与孝杰战冷泉，败走。碎叶镇守使韩思忠破泥熟没斯城”。(19)表明碎叶镇守使下是有军队的，据《玉海》载：</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;安西都护府有保大军，屯碎叶城。碎叶川口至裴罗将军城，又西二十里至碎叶城，城北有碎叶水。(20)</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;此保大军，应是碎叶镇守使倚以为后盾的军队。此碎叶镇守使在景龙四年(710年)时是检校北庭都护的吕休璟。(21)</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;其次是拨换镇，这是在原龟兹镇统领下延伸出的一个新军镇。拨换处于由安西西南往于阗、西往疏勒、西北往碎叶的枢纽线上，又是唐神山路的北端终点站，军事地位十分重要。(22)唐在此设有驻军防守，早期称为拨换守捉使。天宝六载，玄宗命安西副都护、四镇都知兵马使高仙芝为行营节度使，往讨依附于吐蕃的小勃律等国。“仙芝乃分为三军：使疏勒守捉使赵崇玭统三千骑趣吐蕃连云堡自北谷入；使拨换守捉使贾崇瓘自赤佛堂路入；仙芝与中使边令诚自护密国入，约七月十三日辰时会于吐蕃连云堡。”(23)由此看，由守捉使贾崇瓘带领的拨换驻军为数恐怕也在三千左右。安史之乱后，拨换升为镇，其驻防长官称为镇守使。唐德宗贞元年间回到西域的高僧悟空在其《悟空入竺记》中写道：</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;渐届疏勒(一名沙勒)，时王裴冷冷，镇守使鲁阳，留住五月。次至于阗(亦云于遁或云豁丹)，梵云瞿萨怛那(唐言地乳国)，王尉迟曜，镇守使郑据，延住六月。次威戎城，亦名钵浣国，正曰怖汗国，镇守使苏岑。次据瑟得城，城使卖诠。(24)</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;悟空在疏勒，会见了疏勒镇守使鲁阳；至于阗，会见于阗镇守使郑据；到拨换，会见拨换镇守使苏岑。而到据瑟得城，会见的则是城使卖诠。在这里悟空的概念很清楚，属军镇一级的长官，称镇守使，属城一级而未置军镇的长官，称为城使。由此也透露出拨换的长官此时已由原守捉使升为镇守使了。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;通海镇：此镇名两见于敦煌文书，一为P.4615号《索崇恩和尚修功德记》中所载：</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;曾皇祖恪，前唐安西通海镇将军。方通西海，委辟辕门，大敌未平，先投镇将。目寻太白，探前茅而不疑；手执红旗，警后营而不殆。科头虎掷，八阵先冲；污血被犀，三场入战，改迁游击大将军。(25)</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;另一条是来自于P.4638号《大番故敦煌郡莫高窟阴处士公修功德记》中所记：</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;爰及慈母索氏，通海镇大将军之孙。(26)</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;这后一条的“通海镇大将军”，据郑炳林考释，即是前一条的“前唐安西通海镇将军”索恪。(27)索恪任通海镇将军的时间，据上引材料推测，应在安史之乱以前。至于此通海镇在何处？除了指明属安西以外，再就是接下来的“方通西海，委辟辕门”一语，暗示此“通海镇”是在通西海的地区开辟设置的镇。“西海”一称在史上所指常非一地，有的指青海；有的指居延海；还有的是指大秦国所在的地中海，郑炳林注释说：“西海，当指咸海”，均不在安西直接辖境之内。推测乃指热海，即今之伊塞克湖。或许是由安西通向热海的路途上所设之镇，隶属于安西统领。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;葱岭镇：开元中置为葱岭守捉，《新唐书·地理志》载：</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;葱岭守捉，故羯盘陀国，开元中置守捉，安西极边之戍。(28)</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;葱岭守捉，至开、天以后，改称为镇。据慧超《往五天竺国传》载：</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;又从胡密国东行十五日，过播密川即至葱岭镇，此即汉属，兵马见今镇押。此即旧日王裴星国境，为王背叛，走投土蕃，然今国界，无有百姓，外国人呼云竭饭檀国，汉名葱岭。(29)</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;葱岭所驻兵马，也是由镇押，即镇守使管理。应是由疏勒镇管下的二级军镇。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;于阗镇管下的二级镇最多，《新唐书·地理志》载：</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;又于阗东三百里有坎城镇，东六百里有兰城镇，南六百里有胡弩镇，西二百里有固城镇，西三百九十里有吉良镇。(30)</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;从《新唐书·地理志》所叙看，在于阗军属下有坎城镇、兰城镇、胡弩镇、固城镇、吉良镇五个二级镇。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;坎城一名，曾见于神龙年间的吐鲁番出土文书，(31)也见于和田本地出土的汉文文书，如斯文·赫定所获第24号文书，文转录于下：</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1  □史，乘驼人桑宜本口报称：闻神山堡□</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2  □三铺人并驼三头，今日子时到濡马屈萨</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3  得消息，便即走报来者。准状各牒所</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4  由，人畜一切，尽收入坎城防备，如有漏失，</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5  <img onerror="this.src='/images/err.png'" src="http://img.ipub.exuezhe.com/jpg/K22/2009/K22T208a.jpg" />罪科所由者，故牒。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6  <img onerror="this.src='/images/err.png'" src="http://img.ipub.exuezhe.com/jpg/K22/2009/K22T209a.jpg" /> 四年闰四月四日辰时典史环仆牒</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7  判官蘭王府长史富维谨<img onerror="this.src='/images/err.png'" src="http://img.ipub.exuezhe.com/jpg/K22/2009/K22T210a.jpg" /></p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;8  节度副使都督王□<img onerror="this.src='/images/err.png'" src="http://img.ipub.exuezhe.com/jpg/K22/2009/K22T211a.jpg" />(32)</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;学术界对这件文书的年代是有争议的，从内容看，是有报告从神山堡方面有敌情朝坎城方面而来，故要求坎城方面人畜入镇城防备。第7行表明，牒文发自蘭王府的长史富维谨，对于蘭王府，张广达、荣新江在考释俄藏дx.18918号文书《某年五月简王府长史王□□帖为欠税钱事》时说：经“细审”之后，认为“‘蘭王’当作‘简王’”，还提出唐代宗第六子李遘曾封为简王，并判定“简王很可能是在建中四年至贞元十四年之间遥领安西节度大使”者，(33)此说恐怕欠妥，宗王既是不出阁的遥领，也就不会在边远的地方设置王府，而此处的王府，显然是于阗地方的王府。文书的第8行，应是牒文最高长官终审署名位，在此实为于阗王签署名位，“节度副使”实是指于阗王身兼的四镇节度副使衔。“都督”乃是于阗都督府都督的省称。“王”是于阗王在此的自称，其下的缺文当属于阗王尉迟□的签名。由此牒文知，蘭王府，即于阗王王府，本件实来自于阗王府的牒文。第6行“<img onerror="this.src='/images/err.png'" src="http://img.ipub.exuezhe.com/jpg/K22/2009/K22T209a.jpg" />四年闰四月四日”中的“四年”，疑为六年的误释，因为唐贞元六年(790年)才有闰四月。贞元六年于阗面对吐蕃的进攻，形势已十分紧张，从本件文书也可以感觉到这种紧张气氛。文书出土于策勒县东北的达玛沟，中外学者一致认定此达玛沟就是唐代坎城镇的所在地(34)。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;兰城镇，《新唐书·地理志》载，在于阗东六百里。在《新唐书·兵志》中记有“保大军一，鹰娑都督一，兰城等守捉八，曰安西道。”(35)对于“兰城等守捉八”一语，钱大昕《廿二史考异》卷45释云：“案地理志，安西都护府有蘭城、坎城、葱岭、于术、榆林、龙泉、东夷僻、西夷僻、赤岸等九守捉，此云守捉八，所未详也。”针对所记为“守捉”名，唐长孺先生指出：“按地志末附贾耽《皇华四达记》，其坎城、蘭城皆称镇，志于镇及守捉，不甚分辨，此亦一证。”(36)不过，守捉与镇在此的变化，恐怕也反映出时间先后的不同。推测在长寿增兵之前，在于阗都督府、于阗军属下只设有坎城、蘭城二守捉。而在长寿增兵之后，不仅坎城、蘭城二守提升格为镇，而且还新增了胡弩、固城、吉良等三个镇。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;近读李吟屏《发现于新疆策勒县的四件唐代汉文文书残页考释》一文，(37)其中所列出土C3号文书中提到“蔺城镇”，此处据文书图版转录文如下：</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(前缺)</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1  <img onerror="this.src='/images/err.png'" src="http://img.ipub.exuezhe.com/jpg/K22/2009/K22T208a.jpg" />即(？)追(？)道(？)共李他<img onerror="this.src='/images/err.png'" src="http://img.ipub.exuezhe.com/jpg/K22/2009/K22T213a.jpg" /></p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2  <img onerror="this.src='/images/err.png'" src="http://img.ipub.exuezhe.com/jpg/K22/2009/K22T209a.jpg" />九探迥状称：贼去在堡鬥</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3  <img onerror="this.src='/images/err.png'" src="http://img.ipub.exuezhe.com/jpg/K22/2009/K22T209a.jpg" />牒蔺城镇：差强壮</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4  <img onerror="this.src='/images/err.png'" src="http://img.ipub.exuezhe.com/jpg/K22/2009/K22T209a.jpg" />意星夜驰报，仍牒诸</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(后缺)</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;对此“蔺城镇”，李吟屏氏认为：此即《新唐书·地理志》之兰城镇，依据文书，此镇名应为蔺城，“虽是一个孤证，但很可能是《新唐书》错了，‘兰城’应作‘蔺城’”(38)。此说颇有一定的道理，因为“兰”字与“蔺”字的笔画太相近似，在史籍与出土文献二者均为孤证时，当从出土文献。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;在于阗军属下，除了建置了许多二级军镇外，还在州所在地建有三级军镇，如六城质逻州内就建有傑谢镇，此镇的位置，在今和田东北沙漠深处的丹丹乌里克遗址。上世纪初，英国、俄国的探险队曾在这里获得了许多唐代傑谢镇的文书，如俄国藏的Dx.18915号是一件唐代《某年九月十七日傑谢镇帖羊户为市羊毛事》的文书，(39)文存8行，现转录如下：</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1傑谢镇帖羊户等</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2当镇诸色羊户共料官市毛壹伯斤</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3右被守捉帖，称：“上件羊毛，帖至速市供，</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4分付专官介华领送守捉，不得欠少。其价</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5值，卖即支遣者。”准状各牒所由，限三日内</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6送纳。待凭送上，迟违科所由。九月十七日帖。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7判官别将卫维悌</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;8镇官将军杨晋卿</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;对于“傑谢”，荣新江说：“在唐朝，它应是六城质逻州下属的一个城，而从军事体制来讲，它是于阗军下属的一个镇。”(40)应当说是州级镇，或者说是于阗军属下的三级镇。本件文书是傑谢镇接得上级守捉要求市羊毛的通知后，下发给羊户的通知。此帖由判官别将卫维悌草拟，镇官将军杨晋卿连署。杨晋卿，在“马继业文书”——《唐某年十二月二十三日傑谢镇知镇官将军杨晋卿限纳牛皮及鹑鸟翎帖》(41)中作“知镇官”。表明傑谢镇的镇官，都是由汉族的别将、将军来担任的。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;除傑谢镇外，还有安夫镇，这是从斯坦因在麻扎塔格所获《唐安夫镇将头郝知仙状》(42)中得知的。该状文残存4行，转录文如下：</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1  <img onerror="this.src='/images/err.png'" src="http://img.ipub.exuezhe.com/jpg/K22/2009/K22T208a.jpg" />无枉下情，今回使<img onerror="this.src='/images/err.png'" src="http://img.ipub.exuezhe.com/jpg/K22/2009/K22T213a.jpg" /></p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2  <img onerror="this.src='/images/err.png'" src="http://img.ipub.exuezhe.com/jpg/K22/2009/K22T209a.jpg" />谨状</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3  <img onerror="this.src='/images/err.png'" src="http://img.ipub.exuezhe.com/jpg/K22/2009/K22T209a.jpg" />安夫镇将头郝知仙状上</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4  <img onerror="this.src='/images/err.png'" src="http://img.ipub.exuezhe.com/jpg/K22/2009/K22T209a.jpg" />月二日</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;麻扎塔格遗址为唐神山堡所在地，仍属于阗军管辖范围，由此推测安夫镇亦为于阗军镇属下的三级军镇，从郝知仙一名看，也是汉兵官军充当的镇将头。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;应该在此提到的是，在《吐鲁番出土文书》中，有一件《唐西州高昌县上安西都护府牒稿为录上讯问曹禄山诉李绍谨两造辩辞事》(43)共裂为七片，其中有一片上记有“玉河军”和“箫乡军”二名，现将此片文字转录于下：</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(前缺)</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1  人，从安西来，其人为突厥劫夺弓箭鞍马<img onerror="this.src='/images/err.png'" src="http://img.ipub.exuezhe.com/jpg/K22/2009/K22T210a.jpg" /></p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2  逢绍谨，若有胡共相逐，即合知见。二人<img onerror="this.src='/images/err.png'" src="http://img.ipub.exuezhe.com/jpg/K22/2009/K22T210a.jpg" /></p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3  勅函向玉河军，二人为向刘监军<img onerror="this.src='/images/err.png'" src="http://img.ipub.exuezhe.com/jpg/K22/2009/K22T210a.jpg" /></p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4  人是二月内发安西。请牒安西检去年<img onerror="this.src='/images/err.png'" src="http://img.ipub.exuezhe.com/jpg/K22/2009/K22T210a.jpg" /></p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5 使向刘监箫乡军使人问有胡<img onerror="this.src='/images/err.png'" src="http://img.ipub.exuezhe.com/jpg/K22/2009/K22T213a.jpg" /></p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(后缺)</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;从前后文推测，是对当事人汉商李绍谨讯问的辩辞。大意是说绍谨在路上遇有从安西出发的官使人，有二人是持“勅函向玉河军”者；有二人是向刘监军的萧乡军使人，相遇的地点是在安西以西的路上。此两个军究竟在何地？玉河军，显然以地名名军，《梁书·于阗国传》载：“有水出玉，名曰玉河。”(44)《新五代史·于阗国传》亦载：“其河源所出至于阗分为三：东曰白玉河；西曰绿玉河；又西曰乌玉河，三河皆有玉而色异。”(45)由此知玉河军应是于阗国境内的一个军名，很可能也是一军镇名。由此推测，箫乡军也有可能是属于阗境内的一个军镇名。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;由上看到，在长寿二年后的安西四镇，普遍增加了军镇的建置，而特别突出的是在于阗镇，除增设了五个二级军镇外，还建有一批三级军镇。作这样的布局，主要是为了加强保卫于阗的安全，防范、对抗吐蕃对于阗进而对四镇的进犯、侵扰。因为于阗国南邻吐蕃，一些军镇的设置就设在去吐蕃的要路上，如胡弩镇，置于于阗南六百里，正当吐蕃羊同部北上于阗的通道上。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;总的来说，安西四镇由最初的四镇发展到长寿二年(693年)以后，众多新军镇的建置，这是唐安西都护府发展史上的一个重大变化，也是唐对西域统治由不稳定走向稳定的重要保证。以至于在安史之乱爆发、中原出现大动乱时，西域仍然能保持相对稳定达40年之久。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;注释：</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;①《旧唐书》第40卷《地理三》，中华书局，1975年，第1647、1662页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;②《唐会要》第73卷，安西都护府条，中华书局，1955年，第1567页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;③石墨林：《史料所见唐安西都护府治所的首次移徙》，2008年龟兹学学术讨论会论文。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;④《旧唐书》第198卷《西戎·龟兹传》，中华书局，1975年，第5304页；《册府元龟》第964卷《外臣部·册封二》，第11340页上。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⑤岑仲勉：《西突厥史料补阙及考证》，中华书局，1958年，第29页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⑥《新唐书》第221卷上《龟兹传》，1975年，第6232页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⑦《唐会要》第73卷，第1570页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⑧《新唐书》第216卷上《吐蕃传》上，第6077页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⑨《新唐书》第221卷上《西域传》上，第6232页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⑩《册府元龟》第957卷《外臣部·继袭二》，第11372页上。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(11)《忠武将军疏勒人裴沙钵罗墓志》，《千唐志斋藏石》第0599号，开元十三年。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(12)《旧唐书》第196卷上《吐蕃传》上，第5225页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(13)《新唐书》第111卷《王孝杰传》，第4148页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(14)《旧唐书》第198卷《西戎传》，第5304页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(15)《旧唐书》第103卷《郭虔瓘传》，第3188页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(16)《新唐书》第133卷《郭虔瓘传》，第4544页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(17)《新唐书》第111卷《王方翼传》，第4135页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(18)[日本]内藤みどり撰；于志勇编译：《吉尔吉斯斯坦发现杜怀宝碑铭》，《新疆文物》1998年第2期，文中揭示了1982年在托克马克市西南八公里的阿克贝希姆古城遗址、发现了一块红花岗岩质的汉文石刻造像记，文刻于造像基座上，有11行，其文为：“□□<img onerror="this.src='/images/err.png'" src="http://img.ipub.exuezhe.com/jpg/K22/2009/K22T204a.jpg" />西副都<img onerror="this.src='/images/err.png'" src="http://img.ipub.exuezhe.com/jpg/K22/2009/K22T205a.jpg" />、碎叶镇压十姓使、上柱国杜怀<img onerror="this.src='/images/err.png'" src="http://img.ipub.exuezhe.com/jpg/K22/2009/K22T206a.jpg" />，上为天子□□，下□□□□妣，见□□使□，法界□生，普願平安，获其暝福，敬造一<img onerror="this.src='/images/err.png'" src="http://img.ipub.exuezhe.com/jpg/K22/2009/K22T207a.jpg" />二菩萨。”证实了杜怀宝确实镇守于碎叶城任镇守使事。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(19)《新唐书》第216卷上《吐蕃传》上，第6079页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(20)《玉海》第174卷，唐碎叶城条。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(21)《文苑英华》第459卷“景龙四年五月十五日苏烦《命吕休璟等北伐制》”中云：“右领军卫将军兼检校北庭都护、碎叶镇守使、安抚十姓吕休璟……可为金山道行军大总管。”</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(22)陈国灿：《唐代的“神山路”与拨换城》，2007年龟兹学学术讨论会论文。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(23)《旧唐书》第104卷《高仙芝传》。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(24)悟空：《悟空入竺记》，见杨建新主编：《古西行记选注》，宁夏人民出版社，1987年，第125页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(25)郑炳林：《敦煌碑铭赞辑释》，甘肃教育出版社，1992年，第285页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(26)《敦煌碑铭赞辑释》，第291页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(27)《敦煌碑铭赞辑释》，第291页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(28)《新唐书》第43卷下《地理志》。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(29)慧超：《往五天竺国传》，见《古西行记选注》，第116页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(30)《新唐书》第43卷下《地理志》。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(31)《吐鲁番出土文书》(录文本)第七册《唐神龙二年(706年)史鄯住则牒为具衙参人姓名事》后附一残片上有“坎城：弘……”等文字。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(32)此件文书据张广达、荣新江《于阗史丛考》第82页文书录文转录。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(33)张广达、荣新江：《圣彼得堡藏和田出土汉文文书考释》，《敦煌吐鲁番研究》第六卷，北京大学出版社，2002年，第226～227页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(34)侯灿在其《麻扎塔格古戍堡及其在丝绸之路上的重要地位》《文物》1987年第3期中说：“上世纪东，斯文·赫定在此一带‘探险’，搜集到不少和田文书，其中第24号是一件和田文和汉文两面书写的双语文书，涉及从麻扎塔格古代戍堡至坎城的交通路线，坎城在今策勒东北老达莫沟附近。”老达莫沟，即达磨沟。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(35)《新唐书》第50卷下《兵志》。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(36)唐长孺：《唐书兵志笺正》第2卷，科学出版社，1957年，第61页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(37)《西域研究》2007年第4期。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(38)《西域研究》2007年第4期。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(39)张广达、荣新江《圣彼得堡藏和田出土汉文文书考释》，《敦煌吐鲁番研究》第六卷(2002年)，北京大学出版社，第222页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(40)荣新江：《于阗在唐朝安西四镇中的地位》，《西域研究》1992年第3期。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(41)陈国灿：《斯坦因所获吐鲁番文书研究》，武汉大学出版社，1994年，第537页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(42)陈国灿：《斯坦因所获吐鲁番文书研究》，第504页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(43)《吐鲁番出土文书》(录文本)，第6册，第470～479页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(44)《梁书》第54卷《诸夷·于阗国传》。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(45)《新五代史》第74卷《四夷附录第三·于阗国传》。
+</div>
+<div class="page-list">
+    <div class="pageNav" id="pageList"></div>
+</div>
+</div><br class="cls"/>
+		</div>
+		</body></html>

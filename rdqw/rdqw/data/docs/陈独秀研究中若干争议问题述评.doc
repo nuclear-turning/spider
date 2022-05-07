@@ -1,0 +1,205 @@
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><style>.trR{ text-align:right;}
+#wraper{width:1190px; margin:0 auto; margin-bottom:10px;text-align:left;}
+#left{ float:left;width:250px; text-align:left;}
+#right{float:right;width:930px;text-align:left;border-top:2px solid #619bc0; padding-bottom:10px;}
+.border_w{ border:1px solid #d3d3d3;border-top:2px solid #619bc0;}
+.t01{height:30px;line-height:30px;border:1px solid #dddddd;padding-left:10px;background:url(../images/tbg01.jpg) repeat-x bottom; color:#1183c1; font-size:14px;}
+.con_01{ padding:10px;}
+.con_cbg{ background:url(../images/con_cbg.gif) repeat-y;}
+.con_bbg{ background:url(../images/con_bbg.gif) no-repeat left bottom; height:1px; line-height:1px; font-size:0;}
+
+.source{margin:15px;background:url(../images/linex.gif) repeat-x bottom; padding-bottom:30px; margin-bottom:30px;}
+.source .source-img{border:1px solid #d3d3d3; text-align:center; padding:5px;margin-bottom:10px; }
+.source p{color:#666666; font-weight:bold; font-size:12px;}
+.source .fblue{ color:#236bac; font-weight:normal;}
+
+.t_tj{ height:27px;padding-top:2px;margin:15px; background:url(../images/con_t_tj.gif) no-repeat left top; padding-left:10px; color:#FFFFFF; font-size:14px;}
+.c12_01{ margin-left:15px; margin-right:15px; margin-bottom:15px;}
+.c12_01 li{font-size:12px; line-height:24px; background: url(../images/dot.gif) no-repeat 2px 10px; padding-left:15px;}
+
+#artibodyTitle{color:#236bac;font-family:"宋体";font-size:20px;font-weight: normal;line-height:35px;text-align:center;margin-top:10px;	text-align:center;}
+#artisubTitle{font-family:"宋体";font-size:16px;font-weight: normal;line-height:28px;text-align:center;}
+.articl_info{margin-left:30px; margin-right:30px; position:relative;border-bottom:1px solid #e1e1e1;padding-bottom:20px; margin-bottom:20px;}
+.btn-img{
+	background-image:url(../images/allbg.png);
+	background-repeat:no-repeat;
+	font-size:12px;		
+	cursor:pointer;
+	border: 0px none;
+	display: inline-block;
+	vertical-align:middle;
+	text-align:center;}
+
+.artInfo{height:22px;border-top:1px solid #e1e1e1;border-bottom:1px solid #e1e1e1;padding:5px;margin:20px;}
+.artInfo li{float:left;width:33%;height:22px; line-height:22px; color:#666666;}
+
+.artInfo li .collectionPage_link{
+	background-position:-509px -80px;
+	padding-left:10px;
+	margin-top:-2px;
+	_margin-top:0px;
+	margin-left:10px;
+	width:51px;
+	height:22px; 
+	line-height:22px;		
+	color:#1183c1;	}
+.artInfo li .printPage_link{
+	background-position:-570px -80px;
+	padding-left:10px;
+	margin-top:-2px;
+	_margin-top:0px;
+	margin-left:10px;
+	width:51px;
+	height:22px; 
+	line-height:22px;	
+	color:#1183c1;}
+.artInfo li .downloadPage_link{
+	background-position:-631px -80px;
+	margin-top:-2px;
+	_margin-top:0px;
+	margin-left:10px;
+	width:51px;
+	padding-left:10px;
+	height:22px; 
+	line-height:22px;	
+	color:#1183c1;}
+
+
+.artBaseInfo{line-height:24px; margin-bottom:5px;}
+.artBaseInfo .info_left{float:left;width:80px;}
+.artBaseInfo .info_right{float:left;width:790px;}
+
+.artBaseInfo dt{float:left;width:80px; color:#666666;line-height:20px; display:inline-block;}
+.artBaseInfo dd{color:#666666;line-height:20px;display:inline-block;}
+.artBaseInfo .col li{ float:left;width:210px; height:20px; line-height:20px;color:#666666;}
+
+.artBaseInfo .item{ float:left;width:50%;}
+.artBaseInfo .notice{
+	margin-left:10px;
+	width:61px;
+	padding-left:10px;
+	height:22px; 
+	line-height:22px;
+	background-position:-448px -80px;	
+	color:#1183c1;}
+
+.artInfo{height:30px;border-top:1px solid #e1e1e1;border-bottom:1px solid #e1e1e1;margin:20px 10px;}
+.artInfo div{ float:left;width:30%;height:30px; line-height:30px; text-align:center;}
+.artInfo div a{ margin-left:20px; margin-right:20px;}
+.artInfo li{float:left;width:33%;height:22px; line-height:22px; color:#666666;}
+
+.articl_info{margin-left:30px;margin-right:30px; position:relative;border-bottom:1px solid #e1e1e1;padding-bottom:20px; margin-bottom:20px;}
+.artBaseInfo{margin-bottom:5px;}
+.articl_info_t{float:left;width:80px;margin-right: -100%;font-weight:bold;line-height:24px;}
+.articl_info_c{float: left;width: 100%;}
+.articl_info_c .info_c{margin-left:80px; line-height:24px;}
+.artBaseInfo .marL{ margin-left:20PX;}
+.artBaseInfo .col_info{ float:left;width:30%;line-height:20px;}
+
+.fontSize{position: relative;right:0px;top:0px;font-size:12px; height:30px; line-height:30px; text-align:right;}
+.fontSize a{border:1px solid #c2c2c2;margin-right:10px;padding:4px 1px;*padding:1px; cursor:pointer;font-size:12px;}
+.fontSize a span{background:url(../images/page_a_36.png) repeat-x;padding:3px;}
+
+.fontSize a.now{border: #f9ad75 1px solid;padding:4px 1px;*padding:1px;}
+.fontSize a.now span{color:#ff7d27;background:url(../images/current_34.png) repeat-x bottom;padding:3px;}
+.artibody{margin-left:20px;margin-right:20px;font: 18px/180% "Microsoft YaHei","微软雅黑"; color:#666666;}
+.artibody p{margin-bottom:20px;}
+
+.fontSize A:link{ color:#000000;text-decoration:none;}
+.fontSize A:visited{ color:#000000;text-decoration:none;}
+.fontSize A:hover{ color:#FF0000;text-decoration:none;}
+.fontSize a.now:link{color:#ff7d27;text-decoration:none;}
+#Zoom img {max-width:600px; max-height:600px; scale:expression((this.offsetWidth > this.offsetHeight)?(this.style.width = this.offsetWidth >= 600 ? "600px" : "auto"):(this.style.height = this.offsetHeight >= 600 ? "600px" : "auto")); display:inline !important;}
+
+.t_artiInfo{font-size:14px; padding-left:20px;background:url(../images/linex.gif) repeat-x top; line-height:30px; margin-top:10px;}
+.li_artiInfo{margin-left:30px; margin-right:30px;padding-bottom:10px; }
+.li_artiInfo ul li{float:left;width:100%;padding:3px 0;}
+.li_artiInfo ul li .title{ float:left;width:65%;}
+.li_artiInfo ul li .author{ float:left;width:15%;}
+.li_artiInfo ul li .come{ float:right;width:20%;color:#999999; text-align:right;}
+
+
+.index_artInfo{height:36px; line-height:36px; border-top:1px solid #e1e1e1;border-bottom:1px solid #e1e1e1; margin-top:20px; padding-left:20px;  padding-right:20px;padding-right:10px; margin-bottom:10px; margin-left:10px;text-align:center;}
+.index_artInfo a.collectionPage_link{ background:url(../images/icon.gif) no-repeat 0 1px; padding-left:15px;}
+.index_artInfo a.printPage_link{background:url(../images/icon.gif) no-repeat 0 -55px; padding-left:15px;}
+.index_artInfo a.downloadPage_link{background:url(../images/icon.gif) no-repeat 0 -108px; padding-left:13px;}
+
+.index_body .main{margin-left:100px; line-height:28px;color:#000000; padding-bottom:30px; padding-top:20px;}</style></head><body><div id="wraper">
+			<div id="artTitles">
+				<h1 id="artibodyTitle">陈独秀研究中若干争议问题述评</h1>
+				<h2 id="artisubTitle"/>
+			</div>
+			
+			<div class="articl_info">
+				<div class="artBaseInfo" id="autInfo">
+					<div class="articl_info_t">作 者：</div>
+					<div class="articl_info_c">
+						<div class="info_c">
+								<a target="_blank" href="/qw?s0=4&amp;s1=%e6%9c%b1%e5%bf%97%e6%95%8f%2f%e5%ae%8b%e4%bc%a0%e4%bf%a1%2f%e5%bc%a0...">朱志敏/宋传信/张...</a> 
+						</div>
+					</div>
+					<br class="cls"/>
+				</div>
+				<div class="artBaseInfo" id="autDescription">
+					<div class="articl_info_t">作者简介：</div>
+					<div class="articl_info_c">
+						<div class="info_c">朱志敏，北京师范大学政治学与国际关系学院，北京  100875；
+　　宋传信，北京市委党史研究室，北京  100044；
+　　张红，北京师范大学团委，北京  100875；
+　　朱志敏(1953—)，吉林梅河口人，北京师范大学价值观与民族精神研究中心研究员，法学博士，主要从事中共党史、中国近现代思想文化史研究；
+　　宋传信(1979—)，山东临沂人，北京市委党史研究室助理研究员，主要从事中共党史研究；
+　　张红(1979—)，山东淄博人，北京师范大学讲师，主要从事中共党史和现代化问题研究。</div>
+					</div>
+					<br class="cls"/>
+				</div>
+				<div class="artBaseInfo" id="tAutInfo"/>
+				<div class="artBaseInfo" id="orgInfo">
+					<div class="articl_info_t">原文出处：</div>
+					<div class="articl_info_c">
+						<div class="info_c">教学与研究</div>
+					</div>
+					<br class="cls"/>
+				</div>
+				<div class="artBaseInfo" id="astInfo">
+					<div class="articl_info_t">内容提要：</div>
+					<div class="articl_info_c">
+						<div class="info_c">
+							<p>本文介绍了陈独秀研究中若干争议问题的缘起及不同观点，包括陈独秀在新文化运动中的地位、“形式主义”及“全盘反传统”、是否成为马克思主义者及在中共建党史上的地位、“二次革命论”和右倾机会主义路线、对大革命失败的责任、托派问题、后期政治思想及其一生的评价等。</p>
+						</div>
+					</div>
+					<br class="cls"/>
+				</div>
+				<div id="artPdcInfo" class="artBaseInfo">
+					<div class="col_info"><b>期刊代号：</b>K4 </div>
+					<div class="col_info"><b>分类名称：</b>中国现代史 </div>
+					<div class="col_info"><b>复印期号：</b>2007 年 02 期 </div>
+					<br class="cls"/>
+				</div>
+				<div class="artBaseInfo" id="artKeyword">
+					<div class="articl_info_t">关 键 词：</div>
+					<div class="articl_info_c">
+						<div class="info_c">
+								<a target="_blank" href="/qw?s0=7&amp;s1=%e9%99%88%e7%8b%ac%e7%a7%80">陈独秀</a> 
+								<a target="_blank" href="/qw?s0=7&amp;s1=%e4%ba%89%e8%ae%ae%e9%97%ae%e9%a2%98">争议问题</a> 
+								<a target="_blank" href="/qw?s0=7&amp;s1=%e7%a0%94%e7%a9%b6%e8%bf%b0%e8%af%84%0a%e3%80%80%e3%80%80Chen+Duxiu">研究述评
+　　Chen Duxiu</a> 
+								<a target="_blank" href="/qw?s0=7&amp;s1=controversial+issues">controversial issues</a> 
+								<a target="_blank" href="/qw?s0=7&amp;s1=review">review</a> 
+
+						</div>
+					</div>
+					<br class="cls"/>
+				</div>
+				<div class="artBaseInfo" id="artTitleNote"/>
+				<a id="readArea" name="readArea"/>
+				
+			</div>
+			<div id="artText"><div class="artibody" id="Zoom" style="font-size: 14px;">
+    </p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[中图分类号]K201[文献标识码]A[文章编号]0257-2826(2006)09-0063-09</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;陈独秀是中共党史、思想文化史上的重要人物，在历史上产生过重大影响，有关他的生平、活动、思想的研究和评价既是一个政治问题，又是学术中的重大问题。中国共产党在政治上批判陈独秀始自1927年总结大革命失败教训的“八七会议”，1945年党的六届七中全会通过《关于若干历史问题的决议》，就他对大革命失败应负的责任及其后来的错误正式做出结论。20世纪50年代胡乔木撰写《中国共产党的三十年》第一次从历史的角度评价了陈独秀在中共建党和大革命中的表现，但全面研究陈独秀是在十一届三中全会以后才开始的。20多年来的研究取得了丰硕的成果，澄清了许多问题，也出现了若干争议。本文试就一些争议问题的缘起及不同观点作一介绍。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;一、关于陈独秀在新文化运动中的地位</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;陈独秀创办《新青年》，发动和领导了五四新文化运动，在历史上产生了重大影响，但1949年后长时间内这一功绩却被忽视。台港学者强调胡适在新文化运动中的作用，大陆则推重李大钊和鲁迅。1951年出版的华岗《五四运动史》说“陈独秀在五四运动时期俨然以新文化运动的领袖自居，但实际上他是以一个革命的小资产阶级知识分子的资格登场的”，领导新文化运动的责任“不得不落在当时共产主义代表人物李大钊肩上，以及在当时以革命小资产阶级知识分子资格登场，但后来终于发展成为共产主义战士的鲁迅肩上”。[1] (P157、173)20世纪60年代初，孙思白等学者试图对陈独秀在新文化运动中的作用与影响做出比较客观的评价，但随后就有人提出：“陈独秀的文化思想、方向，始终没有超出旧资产阶级启蒙哲学的范畴。他对社会和革命的认识，不是共产主义的宇宙观。硬要把陈独秀当作‘五四’新文化运动的旗手而加歌颂，这就歪曲了这一时期历史发展的真相。”[2] 直到1978年侯外庐主编的《中国近代哲学史》仍认为当时中国文化革命的主将是鲁迅，陈独秀根本就无资格和鲁迅相提并论。[3] (P484-486)</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;十一届三中全会以后，学术界首先对这个问题拨乱反正，恢复了陈独秀在新文化运动中“主将和旗手”的地位。有文章指出：“新文化运动是陈独秀通过创办《新青年》发动起来的，是在陈独秀号召下兴起的”，“陈独秀是通过在组织上领导新文化运动的主要阵地——《新青年》，而领导了全国的新文化运动”，“鲁迅当时是一位在新文化运动的‘主将’领导下，‘听将令’行事的优秀战士”。[4] (P313、319)但仍有少数人提出五四运动的“总司令”应是李大钊，[5] 或主张“李陈二人”论。[6] 笔者认为，讨论这个问题应当考虑两点：其一，五四新文化运动与政治示威运动虽是两件事，但有密切关系，评价陈独秀在新文化运动中的地位与在五四(示威)运动中的地位是两件事。其二，马克思主义传播是后期新文化运动的重要内容，在这点上李大钊的贡献无疑大于陈独秀，但前期新文化运动应以《新青年》的创办、蔡元培在北京大学的改革和以陈独秀为中心形成新文化群体相关。整体上看，称陈独秀是新文化运动的“主将和旗手”、李大钊是中国第一位马克思主义者较为合适。至于胡适和鲁迅，同样应肯定他们在新文化运动中的重要地位和特殊贡献。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;二、关于“形式主义”与“全盘反传统”</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;对于陈独秀发动的新文化运动，毛泽东一直给予很高评价，同时也指出其存在“形式主义的错误”，即对现状、历史和外国事物缺乏辩证的批判，认为“坏就是绝对的坏，一切皆坏”，“好就是绝对的好，一切皆好”。十一届三中全会以后，多数学者认为陈独秀猛烈批判旧礼教、旧道德，沉重打击了封建伦理文化，启发了广大青年的民主觉悟，在一定程度上为马克思主义传播扫除了思想障碍并准备了文化土壤，同时也指出其存在“形式主义”即简单化、片面化倾向，在意识层面还不能完全摆脱传统伦理文化的消极影响。但20世纪80年代后期以来出现两种新观点：一是强调陈独秀宣传个性解放对唤醒国人具有重要价值，且在近现代思想史上第一次提出人的现代化问题，具有重大意义，并认为所谓“形式主义”的“简单化与片面性”不能视为缺点，乃是陈独秀思想深刻而“不复杂，也少有矛盾”、“相当的简洁和明朗”的表现，在当时历史条件下是合理的、必要的，与其深刻性“不可分割地交织在一起”，“舍此就没有深刻性，也没有战斗力”。[7] 另一种观点受到海外学者的影响。美籍华裔学者林毓生提出新文化运动是藉传统之一元化思维模式全盘反传统的运动，陈独秀是全盘反孔、反传统的代表人物①。殷海光指出，陈独秀“要拥护那德先生便不得不反对孔教”的观点影响很大，但是错误的。“如果说必欲倒孔子才能实现民主，那末西方国邦必须扫灭基督教才能实现民主。但是，何以西方国邦之实行民主和信奉基督教各不相伤呢？”[8] (P154)大陆也有学者提出，五四时期激烈地“打倒孔家店”，造成传统文化的严重断裂，应予以反思。这就产生了如何看待陈独秀非孔和如何对待传统文化的问题。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;有人反对把陈独秀说成“全盘反传统主义者”，指出陈对传统文化批判有过火、偏激之处，但没有全盘否定其历史价值，“与其说是批历史上的孔子，不如说是批现存的封建礼教，批当时的尊孔派”。[9] 陈独秀批判尊君为中心的礼教，抨击了复辟倒退逆流；批判三纲为中心的封建伦理道德，根据平等、自由、民主的原则论述了新的人生观、道德观、价值观，对于号召中国人民猛醒、觉悟、变革，起了重大的积极作用。他也不全盘否定孔子，反倒认为对传统文化不能采取全盘否定的虚无主义态度。[10] 有人则认为：陈尽管不否认孔子的历史地位和儒学的历史作用，但在评判孔学在现实中的作用时则取完全否定的态度。他无条件地扬西抑中，全盘否定传统文化的现实价值，显然是不科学的；[11] 这反映了五四批孔虽有不可估量的积极意义但不科学，认识这一点，有利于今天正视学术批评，学术批评要有充分的理论准备，不能用政治批判代替学术分析，错误地批判传统会将现实引入歧途，更不利于建立现代化的思想基础。[12] 后者是立于现实反思历史。对此，丁守和指出：陈独秀之所以批孔，恰是因孔道不适合现代生活，儒家的尊卑贵贱、三纲伦理、特权人治是专制主义的核心和基础，不利于现代民主政治和中国文化的复兴。[13] 这一争论蕴含了近百年来中国文化中传统与现代之间的矛盾及其社会主流思潮的转向，也反映了世纪之交国人文化价值观的冲突。其范围和价值已经超越了陈独秀研究本身。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;三、关于陈独秀是否成为马克思主义者及在中共创建中的作用和地位</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;前一个问题缘自胡乔木在《中国共产党的三十年》一书中作的陈独秀“不是一个好的马克思主义者”的论断。[14] 胡乔木的论断略显含混，既可以理解为肯定陈是马克思主义者但有缺点，似也可以理解为他在中共早期马克思主义者中不是好的，甚至是不好的。20世纪50年代末到“文化大革命”期间，先后出现“他至多是党的同路人”、“假马克思主义者”、“反马克思主义者”等说法。十一届三中全会后，对此仍存有争议。有人认为：从当时陈独秀的思想与活动看，他已开始接受马克思主义，开始由民主主义者向共产主义者转变，但最终没有完成这个转变，仍应归属于具有初步共产主义思想的知识分子行列。[15] 有人认为：虽然陈独秀在理论上承认了马克思主义的一些革命原则，并且成了颇有名气的社会主义思想的宣传者，但他从来就不是一个马克思主义者，依然是一个资产阶级的改良主义者。因为他在实践上宣扬改良主义的哲学根据——庸俗进化论，其历史观是蔑视群众的唯心史观。[16] 有人认为：陈的言行“虽然带有幼稚性和某些旧痕迹，但他的基本政治立场是站在无产阶级方面的，他的基本政治主张是正确的，他观察社会问题的方法基本上是马克思主义的。特别是在知识分子与工人群众结合、理论与实践结合方面迈出了可贵的一步”，表明陈独秀已经成为“我国无产阶级革命初期的马克思主义者了，只不过还不是一个好的马克思主义者。”[17] 有人不赞成“不是好的”一说，主张用“不成熟的马克思主义者”来评价。[18] 还有人指出：当时处于新民主主义革命起步阶段，如用全面掌握马克思主义的立场观点方法并找到中国革命的发展规律作“好的”或“成熟的”马克思主义者的标准，没有一个人符合标准，是不符合历史实际的苛求。实际上当时的社会主义者都从急进民主主义刚转变过来，或多或少都带有民主主义的尾巴，不能因为陈有这点而否认他的主流，也不应因他以后蜕化而否认他已实现了向马克思主义者的转变。[19] </p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;关于陈独秀在中共创建中的贡献和地位，以往大抵以他在五四时期“以急进的民主派著名；当马克思主义传入中国以后，他成了很有影响的社会主义宣传者和党的发起者”为评价基调，[14] (P8)“文化大革命”中甚至有“混入党内”、“窃取了党的总书记”的说法。十一届三中全会以来，人们充分肯定他利用《新青年》团结一批具有初步共产主义思想的知识分子，为建党作了思想准备和干部准备；积极宣传马克思主义，促进与工人运动的结合，为建党奠定了思想基础；最早创建党的发起组织——上海共产主义小组，并指导其他小组，为建党作了一系列组织工作。但在两个问题上还存有分歧：</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;其一，他是否是中共的主要创始人？有4种提法：与李大钊并称为主要创始人；与李大钊、毛泽东并称为创始人；只提李或只提陈；不提主要创始人，只说各地共产主义小组成员都为建党做出贡献。[20] (P19-22)其中影响较大的是第一种“南陈北李”说。有人针对此说指出：当时党员无一例外都受到陈独秀的影响，因而陈的作用要比李大得多。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;其二，中共一大为何选陈独秀为总书记？一些人认为：这与他在五四运动和建党过程中积极活动，有贡献、有名声固然关系重大，也与党当时的幼稚性有关系。[21] 有人则认为：初创时期的党幼稚“是客观事实”，“只能根据当时的条件和认识水平”选举自己的领导人。选举陈为总书记，是因为他起的实际作用“为人们所承认”，不能因他后来犯错误就说“‘一大’选举不当而苛求于前人”。[22] 另有人提出陈独秀曾向表弟濮清泉谈到党的一大之所以要他当书记，“是第三国际根据列宁的意见……说是中国的无产阶级还没有走上政治舞台，党的书记一职，要找一个有名望的人，号召力要大一点”。[23] </p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;四、关于“二次革命论”和右倾机会主义路线</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;蔡和森1928年11月发表《中国革命的性质及前途》，首次提出“二次革命论”概念，随后它几乎一直等同于陈独秀右倾机会主义理论被沿用下来。胡华1964年发表《试述陈独秀右倾机会主义思想的发展》，对此作了详细论述，并认为这种右倾思想到1927年上半年“发展成为了阶级投降主义的路线……形成全党性的路线错误”。[24] (P75)不少学者对此持肯定态度，只是对“二次革命论”和形成右倾路线的时间看法不一。对于“二次革命论”形成的时间，一说以1923年陈独秀发表《资产阶级的革命与革命的资产阶级》和《中国国民革命与社会各阶级》两文为标志；一说形成于1926年。后者又有1926年7月中共中央第三次扩大会议为标志和陈独秀发表《我们现在为什么争斗》为标志两种意见。对于形成路线错误的时间，一说以1926年12月中共汉口特别会议为标志，一说以1927年4月5日《汪陈联合宣言》发表为标志。人们还提出：陈对中国社会各阶级和民主革命前途的分析，是提出“二次革命论”的思想根源；当时社会思潮纷繁复杂，各种理论层出不穷，陈对此批判吸收，是其思想来源；当时处于从旧民主主义革命向新民主主义革命过渡时期，形势复杂，是主要客观原因；共产国际指导及苏俄实用主义倾向的外交政策影响是重要客观原因。而对于“二次革命论”的评价，有人认为它不符合国情、违背中国革命规律；有人则认为并非机会主义，而恰恰是与马列主义不断革命和革命阶段统一论一致的观点。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;20世纪80年代后期有关共产国际和中国革命关系的资料陆续出版，引起关于陈独秀右倾错误路线与共产国际关系的讨论。有人认为共产国际对中国革命的指示基本正确，陈的错误应由他本人负主要责任：“一切错误的形成是和他形而上学的思想方法”和“顽固的小资产阶级立场”分不开的。[25] (P57)陈的“二次革命论”发表于共产国际做出“国共合作决议”前，“足以说明”不是受共产国际影响。[26] 有人则认为，共产国际对中国革命的指示有正确的也有错误的，陈的错误与之有联系，也有区别。陈“容易接受”错误的东西，“并在工作中大力推行”，说明主观因素很重要；但又要看到路线错误“不仅是陈独秀本人的”，而是“包含了共产国际及其代表和当时党处于幼年时期”几方面因素促成的。[27] 还有人提出，共产国际对陈的错误应负全部责任，陈独秀没有所谓“二次革命论”的观点或没形成“二次革命论”的理论体系，也不存在一条以陈独秀为代表的右倾机会主义路线。有人全面考察中共建立前夕到1927年陈独秀的思想及围绕国共合作发动国民革命过程中方方面面的关系，指出：陈独秀在中共一大前就有中国革命“两步走”及联合民主派思想的萌芽，而党的幼稚和弱小使他虽然提出对共产国际保有一定的独立性，且对国民党有看法，但不得不亦步亦趋地学习俄国经验，同意“暂时支持国民党”；他的所谓“二次革命论”“在逻辑上未必有什么错误”；《中国国民革命与社会各阶级》一文是“为消除国民党人的疑虑而作”，所以既“很难简单地把它同所谓‘二次革命论’划上等号”，也谈不上“右倾”；陈独秀多次反对国际代表鲍罗廷“一切工作都必须通过国民党”的主张及其在国民党内强调合作反对斗争的一系列做法，不满共产国际在财政上对国民党方面的大力支持和对共产党人的忽视，这促成中共“四大”“加强自身阶级性和斗争性”的要求，证明他并没有“一心不乱地干国民革命”；四大后中共的迅速发展激化了国民党内部的矛盾，从而出现所谓陈独秀三次“大让步”，但陈在国民党两大问题上做了争取主动的努力，却被实际决定中共策略原则的鲍罗廷和另一国际代表维经斯基化解了，“三·二○”事件时“实际指挥退让的是布勃罗夫，并非陈独秀”，在“整理党务案”问题上，陈独秀的真实心态是“做出退出国民党的准备”，不受该案束缚，主张党外联盟代替党内联盟；《汪陈联合宣言》是陈独秀放弃“预定的武装对抗的计划”，屈从莫斯科“用策略手腕来暂时缓和矛盾”“指令”的结果；武汉国民政府转向反共，中共未能组织有效反击，是由于工农运动“左”倾激化与军队的矛盾、共产国际政策激进多变不符实际、国际代表争执和缺乏经验等多方因素导致，陈独秀力主引导工农运动、约束“过火”，以至最后几个月坚持退却策略显示了“求实态度”，而正是这种保持中共领导人对共产国际“独立见解和不服从”的态度惹恼了后者，被扣上“右倾投降”的帽子。总之，“二次革命论”既非错误，右倾投降亦不存在。[28] (P53-107)这一考察深入细致，引人注目，但其否认陈独秀犯有错误，未能为主流观点接受。修订的《中国共产党历史》以“陈独秀为代表的右倾机会主义”立目，指出1926年12月中共中央汉口特别会议“指引了错误的方向”，“使党内的右倾错误逐步发展为右倾机会主义”。[29] (P255)</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;五、关于对大革命失败的责任</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1945年4月中共六届七中全会通过《关于若干历史问题的决议》指出：大革命时期，由于国民党内的反动集团叛变革命，由于帝国主义和国民党反动集团的联合力量过于强大，特别是党内以陈独秀为代表的右倾思想发展为投降主义，在党的领导机关内占了统治地位，拒绝执行共产国际和斯大林的指示，拒绝接受毛泽东及其他同志的正确意见，导致革命失败。这段对大革命失败原因和陈独秀应负责任的正式结论实际上讲了造成革命失败的客观和主观两方面的原因，但因在后者的前面加了“特别是”的强调，导致后来很长时间里人们认为陈独秀应对大革命失败负主要责任，以至有“一条错误路线葬送了一场革命”的说法。十一届三中全会后特别是有关共产国际指导中国革命的档案资料陆续公布之后，人们重新研究思考这个问题，逐渐回到决议的评价，肯定多重原因，甚至认为客观原因更为重要，但对于陈独秀应负多少责任，看法不一。第一种观点强调陈独秀的错误几乎都与共产国际的错误指导相联系，认为由于中共无权不接受共产国际的指示，“如果要追究责任的话，就不应只是归结于陈独秀一个人……共产国际是首当其冲的”。[30] (P150)第二种观点认为：共产国际和斯大林对中国革命失败“必须负领导的责任”，中共中央和陈独秀“必须负主要责任”，毕竟后者“自己执行了共产国际和斯大林的右倾错误指示”，陈独秀接受错误指示更“是以他自己的右倾思想‘二次革命论’为根据的，就是说他是自觉地去执行的”。[31] (P19-20)第三种观点倾向于深入分析复杂的关系多变的局势，指出“1927年共产党的失败几乎是不可避免的，它无疑是由一系列复杂原因造成的，并非是陈独秀某种错误的直接结果”，即陈独秀完全不必为革命失败承担任何责任。[32] 这三种观点，以赞成第一种的较多。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;六、关于托派问题</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;陈独秀参与托派，成为其领导者，为学者公认。由于托派在苏联被定为“反对派”、“布尔什维主义的敌人”、“反党分子”、“白卫杀人凶手和间谍”、“替德日法西斯蒂效忠的可恶奴仆和走狗”，[33] (P350、370、434)中国的托派则反对中国共产党的主张，事情牵扯中苏两党关系、共产国际、中国革命和世界反法西斯主义斗争，十分复杂。故托派对于中国共产党特别是党内“左”倾人物来说，是比国民党政府更可恶的敌人，是叛徒、反革命。抗日战争初期，中共按照共产国际决议开展肃清“托派汉奸”斗争，托派又被称作“汉奸”、“日寇侦探”。十一届三中全会后，学者首先辨析陈独秀转向托派是革命阵营内部的是非问题，认为称其为“反革命”是不妥的，因为他始终没有改变反帝反国民党独裁统治的立场，说他是“叛徒”，也只能从背离马列主义这个意义上讲，不应与张国焘划等号，而“汉奸”之说纯属诬蔑。[34] 后者因1988年8月4日塔斯社公布《苏共中央政治局重新研究30至40年代和50年代初迫害事件材料委员会公报》为托洛茨基等人平反而更为明确。有学者指出：既然苏联最高法院已宣布撤销对托洛茨基的指控，那么以“冤案”为据的斯大林对托洛茨基主义的论断、共产国际《关于与法西斯主义的奸细——托洛茨基分子作斗争的决议》，以及按照这个决议在中国开展的反对“托派汉奸”的斗争，就都失去了依据。[35] </p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;对于陈独秀为什么转向托派？一些人认为：客观上是因为共产国际和中共中央对陈独秀问题采取了简单粗暴的做法，主观上讲，是因为陈个性强，缺乏自我批评精神，且作为不彻底的马克思主义者，他与托洛茨基在中国革命问题上有相近相同的见解。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;对于陈独秀与托派的关系，有人认为，陈从被开除党籍到被捕前充当托派头目，“进行了反共产国际反中国共产党的托派活动”，被释放后，虽停止了托派组织活动，“仍坚持其托派的观点”。[36] (P164)有人认为，陈曾参加托派并扮演过角色，甚至入狱后还与托派保持某种联系；但出狱后不久就主动脱离了托派组织，且政治主张也与托派有了很大差别，只在思想理论上没有与托派完全划清界限，尤其对托洛茨基一直是信任的。[37] (P175)有人认为：陈“一直是一个托派分子”，但是一个“特殊的分子”，他一度担任中国托派首领，却“始终是一个不彻底的托洛茨基主义者”。他是在小资产阶级民主主义和机会主义的“二次革命论”基础上部分地接受托洛茨基理论的，所以在他13年的托派生涯中，始终在托洛茨基主义、小资产阶级民主主义和“二次革命论”的圈子里摇摆。这种摇摆曾使他一度走到与托派决裂的边缘，晚年孤立到只有一个人，但“他到底没有跳出这个圈子”。[38] 有人认为，虽然托洛茨基关于中国革命的观点吸引陈独秀，使他与托派同流合污，但他和中国托派组织乃至托洛茨基主义自始至终存在着思想矛盾。这种矛盾根源于“二次革命论”和“不断革命论”的“左”右两极。他只在“二次革命论”基础上部分地接受托洛茨基理论，终究没有形成系统的托派思想，更没有成为托洛茨基主义者。他的后期思想从根本上背叛马列主义，但和托洛茨基主义相去甚远，“完全是一种倒行逆施的资产阶级民主思想”。[31] (P166)还有人认为，陈独秀参加托派并非是出于对托洛茨基主义的信仰，而是想借助托派的力量来实现他对中国革命的理想。[39] </p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;对于应否因陈独秀参与托派进行分裂活动而开除其党籍，有四种观点：一是认为陈坚持错误，进行分裂活动，屡教不改，为党纪所不容，理应开除。二是认为不应开除，党应容纳不同观点、意见的存在。三是认为开除陈是在一种党内民主生活不够正常的情况下进行的，对陈所犯错误的事实、背景均未进行全面分析和研究，而且是在共产国际指导下做出的决定，所以是不正确的，应该为陈平反。四是认为开除陈党籍确实是在党内民主生活不够正常的情况下提出的，做出这个决定是不恰当的，但也不存在平反问题。因为陈本人在被开除出党后虽有过申诉，但他后来又另组托派反对派，在行动上已经同党分裂。陈出狱后，不管有什么原因和理由，他都不愿意再回到党内，所以在组织问题上，没有必要为陈平反。[40] (P352)</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;七、关于陈独秀后期政治思想</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1980年四川人民出版社出版了《后期的陈独秀及其文章选编》。其后有学者做了大量开拓性工作，使后期(也称“晚年”、“晚期”)陈独秀研究成为引起重视的课题。但对“后期”的界定略有差别，一是认为从1929年11月被开除党籍至其逝世，一是认为自1937年出狱至其逝世。后者逐渐为多数人认同。陈独秀后期思想的内容，一般指他的抗战主张及与托派论战体现出的政治思想，核心是其民主思想。后者集中在陈1940年发表的《我的根本意见》等文章中，其中谈到民主终将战胜独裁、资产阶级民主政治有其真实内容和价值、苏联是法西斯独裁国家、其“无产阶级民主”、“大众民主”是“空洞名词”、“门面语”等等。[41] (P263)有学者说：以往台湾或大陆学者都将陈独秀晚年民主思想理解为“又回到了资产阶级民主主义的老路”，前者赞扬他抛弃“无产阶级专政”，是“大觉大悟”，后者谴责他“背叛了马克思主义”。这类看法虽有一定道理，但也有片面性。事实上晚年陈独秀看到了斯大林模式的危害，主张维护人民利益，从这个意义讲，其民主思想有价值，对于加强民主和法制建设也具有现实意义。当然，也有缺陷，对此不能苛求他。[42] 有人将陈独秀晚年思想分为两个阶段：第一阶段主要讨论抗战，“有悲观成分，但总的格调还是比较高昂的”。其中有许多错误，如对国民党寄予过多希望，过分看重武器等，但他“始终坚决主张抗战的态度和那些原则上明显有别于国民党的积极而正确的意见”占主导地位。第二阶段集中阐发对苏联无产阶级专政历史经验和第二次世界大战的看法，这时“资产阶级的民主观已成了他全部政治思想的主宰”，“正确与错误、进步与退步”“错综复杂地交织在一起”，但他始终站在反法西斯的一边，并针对牵动国内国外的重大事件，从不同侧面阐述了民主问题的重要意义，构筑了他以民主为核心的政治思想体系。他对苏联制度的透视揭示了20世纪社会主义运动潜伏的危机，指出了它的症结所在。[43] 有人强调陈独秀晚年思想的复杂性：“既背离了传统的马克思列宁主义，也背离了托洛茨基主义；既与中国共产党有某些根本意见分歧，也对中国托派展开论战；既认为国民党是抗战的领导力量，又反对国民党的专制独裁统治；既认为英美是反法西斯战争中的民主势力的代表，又认为英美的帝国主义政策是压迫落后民族的；既拥护国共合作反对国民党的反共政策，又对共产党的某些方针政策不满；既同情苏联的反法西斯战争，又认为苏联的政治制度是违背了社会主义原则的独裁专制，认为斯大林是反无产阶级利益的独裁者。”[44] 有人则认为，陈独秀后期民主思想是他“痛定思痛，最终回到了德先生，回到了五四”理想的结果，是“经过漫长的革命、牢狱生涯之后”，“认识更加深刻，也更加成熟”的表现，“是他最后留下的弥足珍贵的精神遗产，是他以一生惨痛的代价换来的结论”，[45]“表现出一种少有的理性和远见卓识。”[46] </p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;八、关于陈独秀的历史地位</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1945年毛泽东有一次谈到陈独秀，将他比作中国的普列汉诺夫，说“普列汉诺夫在俄国做过很好的马克思主义的宣传”，后来“变成了孟什维克”，“陈独秀是中国的孟什维克”，但在思想上不如前者，“有些很不正确的言论”。[47] (P294)普列汉诺夫是俄国第一个马克思主义团体“解放社”的创立者、俄国社会民主工党的创始人和领袖之一，后来成为孟什维克即社会民主工党内的机会主义分子。将陈独秀比作普列汉诺夫，恰如对陈在中国共产党历史上的地位做一个总的评价。毛泽东这番讲话1981年公布后引起学者的积极思考。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;一些学者认为陈独秀与普列汉诺夫有相似之处，也有不同之处。相似之处表现在：普做过马克思主义宣传，陈在中国也宣传过马克思主义；普最早在俄国建立工人阶级的党，陈是中共的发起人；普一生都对俄国资产阶级在民主革命中的作用估计过高，陈认为中国的民主革命应由资产阶级来领导；普始终不承认俄国农民在民主革命中的巨大作用，陈认为中国农民难以加入民主革命；普最后成为俄国的孟什维克，陈最后成为中国的孟什维克。不同之处在于陈没有像普的《我们的意见分歧》、《论一元论历史观之发展》那样著名的马克思主义著作，且在他一开始宣传马克思主义的时候就在理论上有原则错误，并且始终不认识不改正。[48] (P37)</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;有人反对把陈独秀简单地同普列汉诺夫类比，主张对他们的理论贡献作具体分析，指出普曾经对马克思主义理论，特别是哲学思想(阐释)做出过重要贡献，陈则没有，但陈接受并积极宣传过马克思主义，虽然是初步的、幼稚的；陈没有与普相比的大著作，但他主编过《新青年》，就这一点及他们的最后结局来说，二人确有相似之处。[49] (P288)有人却认为不能把陈独秀和普列汉诺夫相比，原因主要的不是因他不曾写过堪与普相比的鸿篇巨著，而是因他从来就不曾是一个马克思主义者。[16] </p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;90年代以后，学者评价陈独秀历史地位的视野加宽。有人把他放到20世纪中国历史上评价说，他在“中国近代化的全过程”中有“十分崇高”的地位，处在康有为、梁启超、孙中山和毛泽东、邓小平中间的“由失败到成功的转折点上”，是公认的“启蒙运动领袖”，“在这个全过程中起了承上启下，由失败到胜利的转折作用”，“开始了中国近代化的实际途径”；从中国革命史的视角考察，“若以一个人物代表一个时代，那么，1915年《新青年》创办前是孙中山时代，1927年八一南昌起义后是毛泽东时代，1915—1927年是陈独秀时代”。陈独秀是这一时期的代表，是指导这个时期历史发展方向的关键人物、历史前进的领头羊，“对这一段历史的推动作用，同时代的任何一个人，都不能与他相比”。[50] (P7)还有人提出陈独秀的思想不仅在中国近代革命史上产生过重大影响，并且在中国现代文化史上占有十分重要的地位。他一生做了两件事：提倡科学民主，创建中国共产党，“已经对中国历史的发展产生了巨大的推动作用而且必将继续产生深远的影响”。[51] (P680)</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;以上观点不仅视角和以往有别，对于陈独秀的推重也达到前所未有的高度。但这些评价能否得到公认，尚是问题。尽管近年来的研究确已相当深入，学者们的确已把研究的范围从陈独秀与中国共产党和中国革命的关系方面拓展到与中国文化、中国近现代历史发展的关系上，并且确已做了不少工作，但若使这些评价为人们公认，还有待于更多成果的问世。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;注释：</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;①参见《陈独秀的全盘性反传统主义》，《河北大学学报》1984年第1期，另见林毓生《中国意识的危机：五四时期激进的反传统主义》，贵阳，贵州人民出版社，1986。
+</div>
+<div class="page-list">
+    <div class="pageNav" id="pageList"></div>
+</div>
+</div><br class="cls"/>
+		</div>
+		</body></html>

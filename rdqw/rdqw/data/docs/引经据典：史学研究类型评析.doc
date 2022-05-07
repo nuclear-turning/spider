@@ -1,0 +1,201 @@
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><style>.trR{ text-align:right;}
+#wraper{width:1190px; margin:0 auto; margin-bottom:10px;text-align:left;}
+#left{ float:left;width:250px; text-align:left;}
+#right{float:right;width:930px;text-align:left;border-top:2px solid #619bc0; padding-bottom:10px;}
+.border_w{ border:1px solid #d3d3d3;border-top:2px solid #619bc0;}
+.t01{height:30px;line-height:30px;border:1px solid #dddddd;padding-left:10px;background:url(../images/tbg01.jpg) repeat-x bottom; color:#1183c1; font-size:14px;}
+.con_01{ padding:10px;}
+.con_cbg{ background:url(../images/con_cbg.gif) repeat-y;}
+.con_bbg{ background:url(../images/con_bbg.gif) no-repeat left bottom; height:1px; line-height:1px; font-size:0;}
+
+.source{margin:15px;background:url(../images/linex.gif) repeat-x bottom; padding-bottom:30px; margin-bottom:30px;}
+.source .source-img{border:1px solid #d3d3d3; text-align:center; padding:5px;margin-bottom:10px; }
+.source p{color:#666666; font-weight:bold; font-size:12px;}
+.source .fblue{ color:#236bac; font-weight:normal;}
+
+.t_tj{ height:27px;padding-top:2px;margin:15px; background:url(../images/con_t_tj.gif) no-repeat left top; padding-left:10px; color:#FFFFFF; font-size:14px;}
+.c12_01{ margin-left:15px; margin-right:15px; margin-bottom:15px;}
+.c12_01 li{font-size:12px; line-height:24px; background: url(../images/dot.gif) no-repeat 2px 10px; padding-left:15px;}
+
+#artibodyTitle{color:#236bac;font-family:"宋体";font-size:20px;font-weight: normal;line-height:35px;text-align:center;margin-top:10px;	text-align:center;}
+#artisubTitle{font-family:"宋体";font-size:16px;font-weight: normal;line-height:28px;text-align:center;}
+.articl_info{margin-left:30px; margin-right:30px; position:relative;border-bottom:1px solid #e1e1e1;padding-bottom:20px; margin-bottom:20px;}
+.btn-img{
+	background-image:url(../images/allbg.png);
+	background-repeat:no-repeat;
+	font-size:12px;		
+	cursor:pointer;
+	border: 0px none;
+	display: inline-block;
+	vertical-align:middle;
+	text-align:center;}
+
+.artInfo{height:22px;border-top:1px solid #e1e1e1;border-bottom:1px solid #e1e1e1;padding:5px;margin:20px;}
+.artInfo li{float:left;width:33%;height:22px; line-height:22px; color:#666666;}
+
+.artInfo li .collectionPage_link{
+	background-position:-509px -80px;
+	padding-left:10px;
+	margin-top:-2px;
+	_margin-top:0px;
+	margin-left:10px;
+	width:51px;
+	height:22px; 
+	line-height:22px;		
+	color:#1183c1;	}
+.artInfo li .printPage_link{
+	background-position:-570px -80px;
+	padding-left:10px;
+	margin-top:-2px;
+	_margin-top:0px;
+	margin-left:10px;
+	width:51px;
+	height:22px; 
+	line-height:22px;	
+	color:#1183c1;}
+.artInfo li .downloadPage_link{
+	background-position:-631px -80px;
+	margin-top:-2px;
+	_margin-top:0px;
+	margin-left:10px;
+	width:51px;
+	padding-left:10px;
+	height:22px; 
+	line-height:22px;	
+	color:#1183c1;}
+
+
+.artBaseInfo{line-height:24px; margin-bottom:5px;}
+.artBaseInfo .info_left{float:left;width:80px;}
+.artBaseInfo .info_right{float:left;width:790px;}
+
+.artBaseInfo dt{float:left;width:80px; color:#666666;line-height:20px; display:inline-block;}
+.artBaseInfo dd{color:#666666;line-height:20px;display:inline-block;}
+.artBaseInfo .col li{ float:left;width:210px; height:20px; line-height:20px;color:#666666;}
+
+.artBaseInfo .item{ float:left;width:50%;}
+.artBaseInfo .notice{
+	margin-left:10px;
+	width:61px;
+	padding-left:10px;
+	height:22px; 
+	line-height:22px;
+	background-position:-448px -80px;	
+	color:#1183c1;}
+
+.artInfo{height:30px;border-top:1px solid #e1e1e1;border-bottom:1px solid #e1e1e1;margin:20px 10px;}
+.artInfo div{ float:left;width:30%;height:30px; line-height:30px; text-align:center;}
+.artInfo div a{ margin-left:20px; margin-right:20px;}
+.artInfo li{float:left;width:33%;height:22px; line-height:22px; color:#666666;}
+
+.articl_info{margin-left:30px;margin-right:30px; position:relative;border-bottom:1px solid #e1e1e1;padding-bottom:20px; margin-bottom:20px;}
+.artBaseInfo{margin-bottom:5px;}
+.articl_info_t{float:left;width:80px;margin-right: -100%;font-weight:bold;line-height:24px;}
+.articl_info_c{float: left;width: 100%;}
+.articl_info_c .info_c{margin-left:80px; line-height:24px;}
+.artBaseInfo .marL{ margin-left:20PX;}
+.artBaseInfo .col_info{ float:left;width:30%;line-height:20px;}
+
+.fontSize{position: relative;right:0px;top:0px;font-size:12px; height:30px; line-height:30px; text-align:right;}
+.fontSize a{border:1px solid #c2c2c2;margin-right:10px;padding:4px 1px;*padding:1px; cursor:pointer;font-size:12px;}
+.fontSize a span{background:url(../images/page_a_36.png) repeat-x;padding:3px;}
+
+.fontSize a.now{border: #f9ad75 1px solid;padding:4px 1px;*padding:1px;}
+.fontSize a.now span{color:#ff7d27;background:url(../images/current_34.png) repeat-x bottom;padding:3px;}
+.artibody{margin-left:20px;margin-right:20px;font: 18px/180% "Microsoft YaHei","微软雅黑"; color:#666666;}
+.artibody p{margin-bottom:20px;}
+
+.fontSize A:link{ color:#000000;text-decoration:none;}
+.fontSize A:visited{ color:#000000;text-decoration:none;}
+.fontSize A:hover{ color:#FF0000;text-decoration:none;}
+.fontSize a.now:link{color:#ff7d27;text-decoration:none;}
+#Zoom img {max-width:600px; max-height:600px; scale:expression((this.offsetWidth > this.offsetHeight)?(this.style.width = this.offsetWidth >= 600 ? "600px" : "auto"):(this.style.height = this.offsetHeight >= 600 ? "600px" : "auto")); display:inline !important;}
+
+.t_artiInfo{font-size:14px; padding-left:20px;background:url(../images/linex.gif) repeat-x top; line-height:30px; margin-top:10px;}
+.li_artiInfo{margin-left:30px; margin-right:30px;padding-bottom:10px; }
+.li_artiInfo ul li{float:left;width:100%;padding:3px 0;}
+.li_artiInfo ul li .title{ float:left;width:65%;}
+.li_artiInfo ul li .author{ float:left;width:15%;}
+.li_artiInfo ul li .come{ float:right;width:20%;color:#999999; text-align:right;}
+
+
+.index_artInfo{height:36px; line-height:36px; border-top:1px solid #e1e1e1;border-bottom:1px solid #e1e1e1; margin-top:20px; padding-left:20px;  padding-right:20px;padding-right:10px; margin-bottom:10px; margin-left:10px;text-align:center;}
+.index_artInfo a.collectionPage_link{ background:url(../images/icon.gif) no-repeat 0 1px; padding-left:15px;}
+.index_artInfo a.printPage_link{background:url(../images/icon.gif) no-repeat 0 -55px; padding-left:15px;}
+.index_artInfo a.downloadPage_link{background:url(../images/icon.gif) no-repeat 0 -108px; padding-left:13px;}
+
+.index_body .main{margin-left:100px; line-height:28px;color:#000000; padding-bottom:30px; padding-top:20px;}</style></head><body><div id="wraper">
+			<div id="artTitles">
+				<h1 id="artibodyTitle">引经据典：史学研究类型评析</h1>
+				<h2 id="artisubTitle">——以中共党史研究为例</h2>
+			</div>
+			
+			<div class="articl_info">
+				<div class="artBaseInfo" id="autInfo">
+					<div class="articl_info_t">作 者：</div>
+					<div class="articl_info_c">
+						<div class="info_c">
+								<a target="_blank" href="/qw?s0=4&amp;s1=%e5%91%a8%e4%b8%80%e5%b9%b3">周一平</a> 
+						</div>
+					</div>
+					<br class="cls"/>
+				</div>
+				<div class="artBaseInfo" id="autDescription">
+					<div class="articl_info_t">作者简介：</div>
+					<div class="articl_info_c">
+						<div class="info_c">周一平，扬州大学社会发展学院，江苏  扬州  225002；
+　　周一平(1949—)，男，浙江省嵊州市人，扬州大学、华东师范大学教授、博士生导师，主要从事历史学、政治学研究。</div>
+					</div>
+					<br class="cls"/>
+				</div>
+				<div class="artBaseInfo" id="tAutInfo"/>
+				<div class="artBaseInfo" id="orgInfo">
+					<div class="articl_info_t">原文出处：</div>
+					<div class="articl_info_c">
+						<div class="info_c">河北学刊</div>
+					</div>
+					<br class="cls"/>
+				</div>
+				<div class="artBaseInfo" id="astInfo">
+					<div class="articl_info_t">内容提要：</div>
+					<div class="articl_info_c">
+						<div class="info_c">
+							<p>在历史研究中，引用经典作家的论断，有四种类型，即当作历史研究的对象；当作历史研究的史料；当作理论分析加以借用；或以此代替史料。但是，无论何种引经据典都有合理或不合理之分，合理者为之，不合理者则弃之。</p>
+						</div>
+					</div>
+					<br class="cls"/>
+				</div>
+				<div id="artPdcInfo" class="artBaseInfo">
+					<div class="col_info"><b>期刊代号：</b>K4 </div>
+					<div class="col_info"><b>分类名称：</b>中国现代史 </div>
+					<div class="col_info"><b>复印期号：</b>2007 年 02 期 </div>
+					<br class="cls"/>
+				</div>
+				<div class="artBaseInfo" id="artKeyword">
+					<div class="articl_info_t">关 键 词：</div>
+					<div class="articl_info_c">
+						<div class="info_c">
+								<a target="_blank" href="/qw?s0=7&amp;s1=%e5%bc%95%e7%bb%8f%e6%8d%ae%e5%85%b8">引经据典</a> 
+								<a target="_blank" href="/qw?s0=7&amp;s1=%e7%b1%bb%e5%9e%8b">类型</a> 
+								<a target="_blank" href="/qw?s0=7&amp;s1=%e8%af%84%e6%9e%90%0a%e3%80%80%e3%80%80chapter+and+verse">评析
+　　chapter and verse</a> 
+								<a target="_blank" href="/qw?s0=7&amp;s1=type">type</a> 
+								<a target="_blank" href="/qw?s0=7&amp;s1=evaluation">evaluation</a> 
+
+						</div>
+					</div>
+					<br class="cls"/>
+				</div>
+				<div class="artBaseInfo" id="artTitleNote"/>
+				<a id="readArea" name="readArea"/>
+				
+			</div>
+			<div id="artText"><div class="artibody" id="Zoom" style="font-size: 14px;">
+    </p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[中图分类号]K061  [文献标识码]A  [文章编号]1003-7071(2006)06-0108-06</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;著书立说，引经据典，古已有之，所谓言必称孔孟，大概是传统学理上的教条主义。中华人民共和国成立以来，历史研究中曾形成了热衷于引用马恩列斯毛论断的风气，而在中共党史研究中尤盛，这或许与《联共(布)党史》引用马恩列斯论断的篇幅很多、苏联曾规定文科学位论文必须有一定篇幅引用马列论断的影响有关。在历史研究中引经据典是否多多益善，合理抑或不合理？是否都是教条主义？似乎没有谁认真研究过。发生于20世纪五六十年代的“史”、“论”之争，实际上也涉及到这个问题。因此，作为一种研究方法、一种方法论，引经据典很值得深入研究。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;所谓经典，按照《辞海》的解释，一是指最重要的、有指导作用的权威“著作”；二是指古代儒家的经籍。也泛指宗教的经书。引申言之，也就是一定时代、一定阶级认为最重要的、有指导意义的著作。无产阶级领袖所写的著作，如马克思、恩格斯、列宁、斯大林、毛泽东等的著作，一般就被称为无产阶级的经典著作或经典。引用这些经典著作就被视为引经据典。经过研究发现，中国学者在一些历史研究中引用经典作家的论断，作为认识历史和历史人物的依据，大概有以下四种类型。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;一、把经典作家的论著当作历史研究的对象</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;亦即把经典作为研究对象，通过研究经典，达到研究经典作家思想的目的。如蒋伯英《走出困境的毛泽东——土地革命战争的历史报告》(以下简称《报告》)一书谈到，经历了中共建党最初几年对工人运动的组织与领导的实践，转而投身研究农民运动，使得毛泽东对中国社会有了深切了解。“在此期间，毛泽东撰写了大量关于研究中国农村和农民问题的文章，其中以《中国社会各阶级的分析》和《国民革命与农民运动》为代表……”以下便介绍这两篇文章的主要观点、内容，并对之进行了分析[1] (P6—11)。这种引经据典，是把毛泽东的两篇文章作为研究对象，来探讨毛泽东当时的思想、理论状况及其价值。上述两篇文章是毛泽东当时思想发展认识的代表作，如果不深入研究它们，就无从说明毛泽东当时的思想认识水平，也就无法真实叙述毛泽东大革命时期的这段历史。正是具体研究分析了毛泽东这两篇文章，《报告》得出结论：“毛泽东上述关于农民是中国革命的中心问题，中国共产党只有发动农民使之成为工人阶级领导下的最可靠的同盟军，进而推翻帝国主义、封建主义的统治以达到革命胜利的一系列主张，实际上标志着他的农民问题理论开始形成。这同陈独秀只在纸面上空谈农民问题而在实践中轻视农民的态度形成一个鲜明的对照”[1] (P9)。试想，如果不作深入具体研究和分析，作者就不可能得出这样的结论。而这样见地深刻的结论，正是研究毛泽东史、研究中共党史所需要的，也是必不可少的。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;当前，把近百种的毛泽东思想、言论资料作为研究对象进行研究分析，这是毛泽东史、中共党史研究趋向深入的反映。从毛泽东史来说，作为研究对象研究的思想、言论资料越多，研究就越深入。但是，有些研究者在这方面就显得力所不逮。如马玉卿等《毛泽东革命的道路》(以下简称《道路》)也将毛泽东的一部分思想、言论资料作为研究对象进行研究，甚至将毛泽东的某些论著列为章节标题，但其研究的思想、言论资料不到《报告》的一半，这就成为《道路》浅显，《报告》精深的一个重要原因。又如逢先知等的《毛泽东年谱》上卷(以下简称《毛谱》)之所以是精深的，也因为在研究和著述中引用了大量的毛泽东思想、言论资料。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;因此，在一定程度上可以说，毛泽东的论著资料是毛泽东史研究中不可或缺的宝贵资源。然而，把经典作家的论著当作从事历史研究的对象，也有值得注意的问题：</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;第一，研究、分析经典应实事求是、一分为二。经典作家无论多么伟大，也不是完美无缺的圣人，他们的思想、言论也不都是十全十美的“经典”，其中，有正确的，有错误的，或者有的是成熟的，有的是不成熟的。对于正确的当然要肯定，但是错误的、不成熟的也不必掩饰或回避，该否定的就应当否定。然而，如果不加分析地肯定或否定，就难以得出客观科学的结论。比如，《道路》在论述毛泽东的《中国的红色政权为什么能够存在？》时说：“它标志着农村包围城市革命道路的理论已经初步形成”[2] (P233)。《报告》则指出，在这篇文章中，毛泽东提出了“工农武装割据”的概念及理论，但“尚未脱落以城市为中心夺取革命胜利的马克思主义暴力革命的传统模式”，只是开始向“城市中心论”挑战，为以后形成“农村包围城市”革命道路的理论“架设了一条通道”[1] (P205)。这样一比较，可以看到《报告》研究“经典”是实事求是、一分为二的，而《道路》尚未做到实事求是、一分为二。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;第二，引用、研究经典是有一定条件的。对研究毛泽东史来说，研究、分析毛泽东的思想、言论资料，是越多越好。而研究中共党史，虽然也离不开研究毛泽东的思想、言论资料，但并不是说研究中共党史引用毛泽东的论著越多越好。中共党史是中国共产党的集体史，不是个人史，如果研究中共党史只研究引用毛泽东的论著，只突出毛泽东一个人，就会用毛泽东史代替中共党史，也就没有党史、集体史，而只有个人史了。“文化大革命”时期的中共党史书，章节标题都是“毛主席”如何，都是“毛主席”的一篇篇论著，这种党史书严重违背历史，是彻头彻尾的唯心的东西。对于研究中共党史来说，毛泽东的思想、言论资料必须研究，但只能作为中共党史研究资料的一个部分，更多的是要研究中共各个时期的历史文件，中国共产党的众多领导人、机构组织、决策过程以及各种代表人物的思想和言论资料，甚至还要研究人民群众、党外民主人士的思想和言论资料。唯此，才能达到历史唯物主义的科学水平。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;二、把经典作家的论断当作历史研究的史料</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.个人历史史料。如《报告》谈到毛泽东领导秋收起义时被民团抓住的经历，就引用毛泽东同斯诺的一段谈话：“当我最后安全到达农民武装那里的时候，我的口袋里只剩下两个铜板了”[1] (P91)。又如《报告》在谈毛泽东考察湖南农民运动前后的思想变化时，引用了毛泽东在中共“八七”会议上的发言：“当我未到长沙之先，对党完全站在地主方面的决议无由反时，及到长沙后仍无法答复此问题。直到在湖南住了三十多天，才完全改变了我的态度”[1] (P23)。以上毛泽东谈自己的经历、思想变化、心情等有关论述，都是被作者作为研究毛泽东史的第一手资料引用的。毫无疑问，毛泽东谈自己历史、心境等的资料，是研究毛泽东权威性的依据。如果不研究这些资料，有些问题就难以获得正确地阐释。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.史事、地方史料。毛泽东一生经历过大量重大历史事件，到过许多地方，并对一些地方作过重要考察、调查，留下了不少亲笔撰写的经典文献，从而为历史研究者提供了十分宝贵的资料。如《报告》谈到井冈山“八月失败”以后的情况说：“边界各县的县城及平原地区尽为敌据。为虎作伥的保安队、挨户团横行无忌，白色恐怖布满城乡。党的组织和政权的组织大部塌台。富农和党内的投机分子纷纷反水。”[1] (P176)在谈到井冈山地区的土地状况时说：“江西方面，遂川的土地最集中，约百分之八十是地主的。永新次之，约百分之七十是地主的。……湖南方面，茶陵、酃县两县均有约百分之七十的土地在地主手中”[1] (P134)。以上二段论述均引自毛泽东《井冈山的斗争》。诸如此类资料，都是毛泽东耳闻目睹和亲身体验的记录，弥足珍贵。尽管还有其他类似的说明这些史事和这些地区情况的资料，但是作为当时井冈山根据地中共党组织的最高领导人，毛泽东站得较高，看得较远，能从全局着眼。所以，毛泽东描述的历史情况，既具历史现象的真实，又具历史本质的真实，其价值是其他史料所不能企及的。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.记述性史料。《报告》在谈到毛泽东1936年同国民党部分高层人士之间的关系和毛泽东当时的思想状况时说：“1936年，或许是毛泽东在国共分裂以后10年来同国民党高层人士联络最为繁忙的一年。他不断地派专人前往各方实权派的代表人物那里，或者亲笔致书……目前已经公布的毛泽东在1936年8月的几封书信，足可见一斑：8月13日，毛泽东致杨虎城十七路军总参议杜斌丞……8月13日，毛泽东致杨虎城……8月14日，毛泽东致国民党冀察政务委员会委员长宋哲元……8月14日，毛泽东致国民党绥远省政府主席傅作义……8月14日，毛泽东致国民党政府全国经济委员会主席宋子文……”[1] (P580—581)显然，在这段论述中，作者记述和引用这些书信，是为了更清晰地如实叙述毛泽东致力于建立抗日民族统一战线的历史，这些书信本身就是反映毛泽东个人活动与思想的第一手史料，是任何其他资料所不能替代的。作为叙述毛泽东历史的史料来引用的这些文件、书信既是记述性史料的一部分，同时更是一种研究对象。所以，引用这些文件、书信是必要合理的。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4.依据性史料。在历史研究中，有时为了作出某种推论，往往需要引用某些作为依据的资料。如《报告》在关于毛泽东领导第一次反“围剿”实施诱敌深入战略时，作了这样的叙述：毛泽东采用这一战略很可能受到《水浒传》林冲智胜柴进、春秋时期以弱胜强的齐鲁之战的启发。因为毛泽东后来在延安讲述到战略退却时，还专门引用了这些战例来论证自己的正确。他告诉人们：“谁人不知，两个拳师放对，聪明的拳师往往退让一步，而蠢人则气势汹汹，劈头就使出全副本领，结果却往往被退让者打倒”[1] (P350)。这里引用毛泽东的言论，是以此作为推论的依据，这是作为史料来引用的又一种形式。又如，井冈山会师前，毛泽东与朱德是否相识？《报告》提出：并不相识。其根据是“按照朱德的记忆，他以前曾经同毛泽东见过一次，‘不过是在秘密会议的昏暗大厅中远远相对而坐，没有真正见过面’”[1] (P154)。这里，引用朱德的回忆，其目的是要证明在井冈山会师前，毛、朱并不相识。这也是作为推论的依据并且作为史料来引用的。推论毛泽东的行为，引用毛泽东的言论；推论毛泽东、朱德之间的交往，则引用朱德的言论。这也是历史研究中引用第一手文献资料来论述历史人物的一个范例，如果引用其他资料，就难以准确地令人信服地说明上述历史问题。或者说，引用其他资料不具备更可靠地说服力。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;把经典作家的论断当作历史研究的史料来研究、引用，虽然是合理的，但仍要注意以下一些问题：</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;第一，要区别是第一手还是第二手资料。例如，用毛泽东的自述来叙述他本人的历史，这种自述就是第一手资料，价值很高。如果论述毛泽东没有直接接触过的人的历史、毛泽东没有亲历过的史实，那么，毛泽东的论断就不能作第一手资料，尽管也可以引用，但从历史研究的要求来说，总没有引用第一手资料更有价值。比如，关于1928年井冈山的“八月失败”，《报告》谈到：“第二十九团随即自由行动，跑向宜章家乡，结果一部在乐昌被土匪胡凤章消灭，一部散在郴宜各地，不知所终，当日收集的不过百人。”[1] (P175)这里引用的是毛泽东《井冈山的斗争》中的话。当时，红四军二十九、二十八团向湘南进军，是朱德、陈毅带队的，毛泽东则率领三十一团在江西永新作战。所以，毛泽东在《井冈山的斗争》叙述二十九团失败的情况，当是听汇报所得，并非自己亲历，严格地说不是第一手资料，而是第二手资料。如果引用朱德、陈毅对这一史实的论述，就是第一手资料。尽管第二手资料也可以引用，不过比起第一手资料不免逊色。因此，作为推论依据所用的史料，一定要注意选择是第一手的还是第二、第三手的。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;第二，第一手资料也应查考，不能盲目搬用。如毛泽东谈个人经历，谈亲历史实时所说的是否百分之百准确无误，也是需要查考的。如《报告》所引《毛泽东一九三六年同斯诺的谈话》一段话：“大致在这个时候，我开始对陈独秀的右倾机会主义路线政策持不同意见”[1] (P11)。“大致在这个时候”，究竟是何时？《报告》没有说明。“大致”，是不肯定词，说明毛泽东本人也记不准确了。究竟在何时与陈独秀分道扬镳是可以在毛泽东之说的基础上作进一步查考的。查毛泽东谈话的原文，大概指1925年底《中国社会各阶级的分析》发表前后。又如，毛泽东对斯诺说，当时以陈独秀为首的中共中央认为占地五百亩以上的才是地主。实际上，当时中央认为占肥田50亩，瘠田100亩以上是大地主，以下是小地主。这说明毛泽东记忆有误[1] (P48)。对于没有查考过的史料不予采用，这也是历史研究所要遵循的基本原则之一。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;第三，把经典作家的论述当作史料来引用，最好避免转引的形式。因为转引自他人的文章，而又不去核实，往往会出现一些引文的讹误，而且从治史、做学问来说，这也是极不严谨的。如毛泽东的论著中常会引用一些经典作家的话，也会引用一些文件、报刊资料。对于毛泽东论著中引用的资料再转引，也要避免。如果必须要引用，最好找到原文查对一下，然后再引用，这样才能避免产生不必要的讹误。比如，有些书谈解放区大生产运动的成就，往往引用毛泽东《游击区也能够进行生产》一文中说的“每人每日增加到五钱油和盐，一斤菜，每月半斤肉……”而毛泽东文章中的这些油盐菜数字是从1945年1月28日《解放日报》所载张平凯关于晋察冀游击队的生产运动的报道中转引来的。对于严谨的史学工作者，论述大生产运动的成就，就应该找到张平凯报道的原文，或者当时的相关资料，引用其中的更多更丰富的内容，也可以找更多的原始资料、第一手资料，进行新的研究、分析，而不至于把大生产运动的研究一直停留在毛泽东著作的研究水平上。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;第四，要重视史料的年代。由于历史的发展，经典作家的认识也会发生变化，对同一史实的论述就会有所差异。或者由于其他主观和客观的原因，经典作家在不同时期、不同时代对同一问题的论述也会有所不同。因此，把某些经典作家的论述作为历史研究资料时，务必要注意这些资料首次发表的年代，以及当时的历史背景，不要把后来的论述、认识替代以前的论述、认识加以研究和引用。如《报告》谈到1931年2月中共中央政治局和共产国际远东局共同商议，为全国苏维埃第一次代表大会起草《土地法草案》。“那么毛泽东对此态度如何呢？他是反对的，他在后来说到这一问题时阐述了他的看法：……当时，他们还主张地主不分田。既然地主不杀掉，却不给谋生之道，地主有劳动力，却不分给他们土地，这种政策，是破坏社会稳定、破坏社会生产力的政策。富农分坏田，也是这种性质的政策”[1] (P463—464)。《报告》注明，毛泽东的这段论述引自1959年12月～1960年2月，读苏联《政治经济学(教科书)》谈话。《报告》指出这是毛泽东“后来”的分析、认识，这是对的。但《报告》下的结论“他是反对的”。全文的意思大概是指毛泽东当时就是反对《土地法草案》的。如果不下这个结论，引用毛泽东“后来”的认识，是可以的。但一下这个结论，似乎是用毛泽东后来对《土地法草案》的批评来代替当时的批评了，这就十分不妥当了。至于毛泽东当时对《土地法草案》是怎么看的，最好引用当时的看法，才对路。如果当时毛泽东没有留下批评的言论，最好不要盲目下毛泽东当时就反对的结论。这没有任何史料背景和客观依据。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;三、把经典作家的论断当作理论分析加以借用</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;经典作家的著作中常常谈人谈事，对今人来说，有的是属于史料性质的，即可作历史叙述之用；有的是评价性质的，即可当作理论分析加以借用。大致说来，借用经典作家的理论分析的情况有以下几种：</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;一是借用经典作家的理论分析来评论经典作家本人。例如，毛泽东对自己的《湖南农民运动考察报告》的某些缺点作了批评，《报告》引用了毛泽东自我批评的话：“1927年我写过一篇文章，有马克思主义的观点，但在经济问题上缺乏马克思主义的观点，所以经济问题写错了”[1] (P485)。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;二是借用经典作家的理论分析来评论历史人物。例如，《报告》引用了毛泽东对袁文才、王佐的评价：“我在井冈山期间，他们是忠实的共产党人，是执行党的命令的”[1] (P129)。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;三是借用经典作家的理论分析来评论某一史实、某一问题。例如，《报告》引用了毛泽东对井冈山“八月失败”原因的分析：“八月失败，完全在于一部分同志不明了当时正是统治阶级暂时稳定时期，反而采取在统治阶级破裂时期的政策，分兵向湘南冒进，致使边界和湘南同归失败……”[1] (P176)</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;但是，无论是借用经典作家对本人的评价，还是借用经典作家对某一人物、某一史实或某一问题的评价，都有一个前提，即必须经研究后确认这种评价是客观科学的。因为，经典作家的评价会有正确的，也会有不正确的，应该以独立自由的学术精神去加以研究和分析，绝不能盲目搬用。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;具体到毛泽东史和中共党史研究中，借用经典作家正确的理论分析和历史评价，有一定的合理性、必要性，但必须注意以下一些问题：</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;第一，借用经典作家的理论分析，目的在于提高研究分析水平，更好地抓住和反映史实、人物、问题的本质与实质，但绝不是为了一味“紧跟”经典作家，以“我”注经、以史释“经”、以“经”代史，更不是为了以“经”炫耀、以“经”压人。同时，更不能认为，引用经典越多，理论水平就一定越高，物极必反。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;第二，不要用经典作家的理论分析来代替自己的独立思考。①科学研究的精神就是独立思考，就是超越前人。如果只是引用经典作家的论断，就等于把研究停留在经典作家那一生活年代的水平上，停留在十多年前、数十年前，甚至一百年前，那么历史研究怎么发展？历史研究要发展，就要有所突破，就要突破前人。这就需要历史研究者独立思考，敢于走自己理论分析的路子。如果在历史研究中觉得自己的理论分析胜过经典作家的理论分析，就采用自己的理论分析，而不借用经典作家的理论分析。②经典作家的理论分析也会有局限性。一是经典作家评事论人未必完全正确。二是经典作家的某些论断，当时是正确的，随着历史的发展，有的会过时。三是不同的经典作家会对同一人物、同一事件作不同的评价、结论。所以，一味借用经典作家的理论分析来代替自己的理论分析，不一定妥当。如《报告》在研究了毛泽东1930年1月5日给林彪的信(《星星之火，可以燎原》)之后，得出结论：这封信“尽管在言词中并没有明确指出农村斗争与红军的发展是夺取中国革命胜利的唯一道路，这封信的其他一些段落似乎也还流露出某些以农村斗争帮助城市斗争的意味，然而统观全文，毛泽东关于中国革命必须‘以乡村为中心’的观点已是呼之欲出，伸手可及了”[1] (P276)。即认为在这封信中毛泽东还没有完全形成“以乡村为中心”的观念，这样的观念只是“呼之欲出”，但还没有“出”。这是一个全新的分析，全新的结论。但《报告》接着又引用了周恩来的论述：1930年1月5日给林彪的信中产生了“以乡村为中心”的观念[1] (P276)。《报告》作者的结论显然与周恩来的结论是不同的，是超越了周恩来的结论的。既然这样，《报告》本可以不借用周恩来的结论，或者在借用了周恩来的结论后，指出这个结论不完全正确，但《报告》没有这样做，这是很遗憾的。在政治生活中，我们提倡理论创新，提倡摆脱各种不合时宜的思想、理论的束缚，反对教条主义和本本主义，在学术研究、历史研究中，也要大力提倡独立思考、理论创新，摆脱各种不合时宜的思想、理论的束缚，反对教条主义和本本主义。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;第三，不要用经典作家的理论分析代替历史分析。历史研究需要从历史实际出发，还要坚持历史唯物主义的分析方法。即从当时当地的实际情况出发，分析当时的人物和事件。任何一个经典作家的思想观点必然受到不同历史环境的影响或局限，所以，随着时间的推移和社会发展，他们对同一历史问题的观点也会因时因地而发生变化。所以，必须提倡坚持历史唯物主义的分析方法，不应轻易借用经典作家的论断来代替历史研究结论。即便经典作家的某些宏观的论断是正确的，也不能用来代替对某些微观问题的历史分析。胡绳曾指出：某人文章一开始就指出列宁、毛泽东如何“高度评价”辛亥革命。“我以为，这种总的概括的评价，不能代替具体的分析，不能从这种概括的估价中演绎出对一个个具体问题的看法”[3] (P535)。对于历史的具体问题、微观问题，必须作具体历史分析。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;第四，历史科学没有规定，也没有强调必须引用经典作家的理论分析。历史研究强调“言必有据”，甚至强调“字字有来历”，是指必须详尽地占有资料，必须从史实出发，展开科学的、理性的分析。一个史学工作者、研究者，关键是要按照历史唯物主义的基本原理，对各种历史现象作出不同的理论分析，而不是一味按照某经典作家的言论、结论去进行理论分析。如果一味以经典作家是否说过什么为据，那就将阻碍独立思考，影响历史研究的健康发展，必然导致学科建设丧失创新精神。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;第五，借用经典作家的理论分析，也必须防止以下的不良倾向：①张冠李戴。即把对甲人、甲事的评价，用在对乙人、乙事的评价上。②断章取义。从某一个段落中抽出一句话，从某句话中抽出半句话，而不顾前文后语的意思有变化、有转折，或侧重点不同。③烦琐累赘。分析一件事、一个人物，同时引用一个经典作家的二段、三段论述，或同时引用多个经典作家的相同的论述。总之，必须反对实用主义、教条主义的文风。如《道路》在谈论旧中国是半殖民地半封建社会，以农民为主，革命任务是反帝反封建，与西方不同，要把马列主义运用到中国“是一种非常困难、非常复杂、非常特殊的事业”后，就写到：“因此，列宁在1919年11月曾向东方的共产主义者强调指出：‘你们面临着一个全世界共产主义者所没有遇到过的任务，就是你们必须以一般共产主义的理论和实践为依据，适应欧洲各国所没有的特殊条件，善于把这种理论和实践用之于主要群众是农民、需要解决的斗争任务不是反对资本而是反对中世纪残余这样的条件。这是一个困难而特殊的任务，同时它又是特别崇高的任务。’不是别人，正是毛泽东成功而出色地完成了列宁提出的这个困难、特殊而崇高的历史任务”。[2] (《引言》)。这里的意思是，1919年，列宁向“东方共产主义者”包括中国共产主义者提出了要把马克思主义与本国实际相结合的任务，而在中国，毛泽东完成了列宁提出的任务。这里的注释未注明列宁原文的篇名。查列宁原文的篇名是：《在全俄东部各民族共产党组织第二次代表大会上的报告》。就是说，列宁是向俄国东部各民族共产主义者讲话，并非是向“东方”共产主义者的讲话，亦并非是向中国共产主义者提出了什么任务。再说，中国是半殖民地半封建社会，俄国东部民族是有“中世纪残余”的社会；中国革命的任务是反帝反封建，俄国东部是反“中世纪残余”，社会性质、革命任务完全不同。毛泽东解决的问题，不仅与列宁提出的问题毫不相干，也比列宁提出的俄国东部民族的任务更困难、更艰巨。这样张冠李戴搬用列宁的理论分析，既歪曲了列宁论述的原意，也贬低了毛泽东的贡献；既伤害了毛泽东，也伤害了列宁。查列宁原文“特别崇高的任务”后为逗号，下面还有这样的话：“因为卷入斗争的是一些还没有参加过斗争的群众，但另一方面，由于东部组织了共产党支部，你们就能够同第三国际保持最紧密的联系。你们必须找到特殊的形式，把全世界先进无产者同东部那些往往处在中世纪生活条件下的被剥削劳动群众联合起来”[4] (P104)。把前后文联系起来看，就知道，列宁的所谓“困难”、“特殊”、“崇高”的任务，主要是指要找到一种特殊的形式，把没有参加过斗争的、处在中世纪生活条件下的群众发动起来，与全世界先进无产者联合，而不是马克思主义与本国实际相结合的任务。这个任务，与中国革命的任务毫不相干，更不是毛泽东解决、完成的任务了。这说明，《道路》不仅张冠李戴，而且断章取义，完全歪曲了列宁原文的原意。如果《道路》作者能前后文一起引出，注明篇名，并认真解读原文的原意，大概就不会出现如此“伪引”的严重失误。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;四、以经典作家的论断代替史料</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;亦即叙史、论史时，应该用具体史料时却不用，只用经典作家的一段论述顶替之。如《道路》说：“关于毛泽东主办第六届农民运动讲习所的情况，周恩来曾在1943年春回顾说：‘……他接办农民运动讲习所，进行农民土地问题的调查，出了二十几种小册子……’”[2] (P99)毛泽东办第六届农民运动讲习所的情况，应该用具体的史料来说明，如怎么搞调查研究，研究了哪些问题，出版了哪些小册子，准确数是多少，等等，都应用具体史料来加以说明。只借用周恩来的一段论述代替，不符合研究历史用史料说话的基本原则。又如，《报告》谈到，李立三认为毛泽东领导的红军存在着两个严重的错误：“苏维埃区域的保守观念”和“红军狭隘的游击战略”。李立三在中共中央政治局会议上点名批判毛泽东是这一错误的代表：“最明显的是四军毛泽东，他有一贯的游击观念，这一路线完全与中央的路线不同……他对红军的发展，则完全是游击战争的观念。这一问题必须要根本解决”[1] (P284)。这里说李立三在会上点名批判了毛泽东，接着摆出了批判的具体话，无疑是合乎历史研究规范的。于此，不仅没有说进行了“激烈”的批判，但已然能看到“激烈”的程度。史实一清二楚，令人信服。以前有些谈论抗日战争的书，说国民党政府“不断与日寇进行秘密和谈，‘直到一九四四年，蒋介石和日寇的秘密谋和活动，始终没有停止’。”注：“《毛泽东选集》第二卷第316页题注”[5] (P99)。说国民党政府“不断与日寇进行秘密和谈”，应该摆出具体的史料和史实，而不应仅用《毛泽东选集》题注中的一句话“直到一九四四年，蒋介石和日寇的秘密谋和活动，始终没有停止”来代替，这样做，既说服不了人，也不符合历史研究规范。历史研究的基本原则是依据史实和史料来说明历史的真相，叙史或论史必须经得起史实检验。如果历史研究仅以某人或某种论断为依据、为出发点，这就违反了历史研究的基本原则，也未必经得起史实和历史的检验。所以，以经典作家的论断代替史料，是“以论代史”的一种表现，是不合理的，更不可取。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;在毛泽东史研究、中共党史研究中，以及历史研究中，引经据典的情况大致如上。引用马克思主义经典作家的论著有以上几种情况，有些书籍引用西方经典的情况，也大致如此。总之，无论引何种经典，大概都有合理与不合理之分。在历史研究中应遵循的一以贯之的原则是，合理者为之，不合理者则弃之①。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;注释：</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;①金冲及曾批评，有些人“只醉心于搬用某些西方学者(有的甚至在国外也只是二三流学者)提出的理论模式或论点，把它作为研究的出发点。这是另一种形式的洋教条或‘以论带史’”(详见金冲及《中国史学研究的现状与继续推进史学研究的思考》，《陕西师范大学学报》2005年第2期)。
+</div>
+<div class="page-list">
+    <div class="pageNav" id="pageList"></div>
+</div>
+</div><br class="cls"/>
+		</div>
+		</body></html>

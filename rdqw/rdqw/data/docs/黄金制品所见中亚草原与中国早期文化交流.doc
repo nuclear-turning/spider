@@ -1,0 +1,200 @@
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><style>.trR{ text-align:right;}
+#wraper{width:1190px; margin:0 auto; margin-bottom:10px;text-align:left;}
+#left{ float:left;width:250px; text-align:left;}
+#right{float:right;width:930px;text-align:left;border-top:2px solid #619bc0; padding-bottom:10px;}
+.border_w{ border:1px solid #d3d3d3;border-top:2px solid #619bc0;}
+.t01{height:30px;line-height:30px;border:1px solid #dddddd;padding-left:10px;background:url(../images/tbg01.jpg) repeat-x bottom; color:#1183c1; font-size:14px;}
+.con_01{ padding:10px;}
+.con_cbg{ background:url(../images/con_cbg.gif) repeat-y;}
+.con_bbg{ background:url(../images/con_bbg.gif) no-repeat left bottom; height:1px; line-height:1px; font-size:0;}
+
+.source{margin:15px;background:url(../images/linex.gif) repeat-x bottom; padding-bottom:30px; margin-bottom:30px;}
+.source .source-img{border:1px solid #d3d3d3; text-align:center; padding:5px;margin-bottom:10px; }
+.source p{color:#666666; font-weight:bold; font-size:12px;}
+.source .fblue{ color:#236bac; font-weight:normal;}
+
+.t_tj{ height:27px;padding-top:2px;margin:15px; background:url(../images/con_t_tj.gif) no-repeat left top; padding-left:10px; color:#FFFFFF; font-size:14px;}
+.c12_01{ margin-left:15px; margin-right:15px; margin-bottom:15px;}
+.c12_01 li{font-size:12px; line-height:24px; background: url(../images/dot.gif) no-repeat 2px 10px; padding-left:15px;}
+
+#artibodyTitle{color:#236bac;font-family:"宋体";font-size:20px;font-weight: normal;line-height:35px;text-align:center;margin-top:10px;	text-align:center;}
+#artisubTitle{font-family:"宋体";font-size:16px;font-weight: normal;line-height:28px;text-align:center;}
+.articl_info{margin-left:30px; margin-right:30px; position:relative;border-bottom:1px solid #e1e1e1;padding-bottom:20px; margin-bottom:20px;}
+.btn-img{
+	background-image:url(../images/allbg.png);
+	background-repeat:no-repeat;
+	font-size:12px;		
+	cursor:pointer;
+	border: 0px none;
+	display: inline-block;
+	vertical-align:middle;
+	text-align:center;}
+
+.artInfo{height:22px;border-top:1px solid #e1e1e1;border-bottom:1px solid #e1e1e1;padding:5px;margin:20px;}
+.artInfo li{float:left;width:33%;height:22px; line-height:22px; color:#666666;}
+
+.artInfo li .collectionPage_link{
+	background-position:-509px -80px;
+	padding-left:10px;
+	margin-top:-2px;
+	_margin-top:0px;
+	margin-left:10px;
+	width:51px;
+	height:22px; 
+	line-height:22px;		
+	color:#1183c1;	}
+.artInfo li .printPage_link{
+	background-position:-570px -80px;
+	padding-left:10px;
+	margin-top:-2px;
+	_margin-top:0px;
+	margin-left:10px;
+	width:51px;
+	height:22px; 
+	line-height:22px;	
+	color:#1183c1;}
+.artInfo li .downloadPage_link{
+	background-position:-631px -80px;
+	margin-top:-2px;
+	_margin-top:0px;
+	margin-left:10px;
+	width:51px;
+	padding-left:10px;
+	height:22px; 
+	line-height:22px;	
+	color:#1183c1;}
+
+
+.artBaseInfo{line-height:24px; margin-bottom:5px;}
+.artBaseInfo .info_left{float:left;width:80px;}
+.artBaseInfo .info_right{float:left;width:790px;}
+
+.artBaseInfo dt{float:left;width:80px; color:#666666;line-height:20px; display:inline-block;}
+.artBaseInfo dd{color:#666666;line-height:20px;display:inline-block;}
+.artBaseInfo .col li{ float:left;width:210px; height:20px; line-height:20px;color:#666666;}
+
+.artBaseInfo .item{ float:left;width:50%;}
+.artBaseInfo .notice{
+	margin-left:10px;
+	width:61px;
+	padding-left:10px;
+	height:22px; 
+	line-height:22px;
+	background-position:-448px -80px;	
+	color:#1183c1;}
+
+.artInfo{height:30px;border-top:1px solid #e1e1e1;border-bottom:1px solid #e1e1e1;margin:20px 10px;}
+.artInfo div{ float:left;width:30%;height:30px; line-height:30px; text-align:center;}
+.artInfo div a{ margin-left:20px; margin-right:20px;}
+.artInfo li{float:left;width:33%;height:22px; line-height:22px; color:#666666;}
+
+.articl_info{margin-left:30px;margin-right:30px; position:relative;border-bottom:1px solid #e1e1e1;padding-bottom:20px; margin-bottom:20px;}
+.artBaseInfo{margin-bottom:5px;}
+.articl_info_t{float:left;width:80px;margin-right: -100%;font-weight:bold;line-height:24px;}
+.articl_info_c{float: left;width: 100%;}
+.articl_info_c .info_c{margin-left:80px; line-height:24px;}
+.artBaseInfo .marL{ margin-left:20PX;}
+.artBaseInfo .col_info{ float:left;width:30%;line-height:20px;}
+
+.fontSize{position: relative;right:0px;top:0px;font-size:12px; height:30px; line-height:30px; text-align:right;}
+.fontSize a{border:1px solid #c2c2c2;margin-right:10px;padding:4px 1px;*padding:1px; cursor:pointer;font-size:12px;}
+.fontSize a span{background:url(../images/page_a_36.png) repeat-x;padding:3px;}
+
+.fontSize a.now{border: #f9ad75 1px solid;padding:4px 1px;*padding:1px;}
+.fontSize a.now span{color:#ff7d27;background:url(../images/current_34.png) repeat-x bottom;padding:3px;}
+.artibody{margin-left:20px;margin-right:20px;font: 18px/180% "Microsoft YaHei","微软雅黑"; color:#666666;}
+.artibody p{margin-bottom:20px;}
+
+.fontSize A:link{ color:#000000;text-decoration:none;}
+.fontSize A:visited{ color:#000000;text-decoration:none;}
+.fontSize A:hover{ color:#FF0000;text-decoration:none;}
+.fontSize a.now:link{color:#ff7d27;text-decoration:none;}
+#Zoom img {max-width:600px; max-height:600px; scale:expression((this.offsetWidth > this.offsetHeight)?(this.style.width = this.offsetWidth >= 600 ? "600px" : "auto"):(this.style.height = this.offsetHeight >= 600 ? "600px" : "auto")); display:inline !important;}
+
+.t_artiInfo{font-size:14px; padding-left:20px;background:url(../images/linex.gif) repeat-x top; line-height:30px; margin-top:10px;}
+.li_artiInfo{margin-left:30px; margin-right:30px;padding-bottom:10px; }
+.li_artiInfo ul li{float:left;width:100%;padding:3px 0;}
+.li_artiInfo ul li .title{ float:left;width:65%;}
+.li_artiInfo ul li .author{ float:left;width:15%;}
+.li_artiInfo ul li .come{ float:right;width:20%;color:#999999; text-align:right;}
+
+
+.index_artInfo{height:36px; line-height:36px; border-top:1px solid #e1e1e1;border-bottom:1px solid #e1e1e1; margin-top:20px; padding-left:20px;  padding-right:20px;padding-right:10px; margin-bottom:10px; margin-left:10px;text-align:center;}
+.index_artInfo a.collectionPage_link{ background:url(../images/icon.gif) no-repeat 0 1px; padding-left:15px;}
+.index_artInfo a.printPage_link{background:url(../images/icon.gif) no-repeat 0 -55px; padding-left:15px;}
+.index_artInfo a.downloadPage_link{background:url(../images/icon.gif) no-repeat 0 -108px; padding-left:13px;}
+
+.index_body .main{margin-left:100px; line-height:28px;color:#000000; padding-bottom:30px; padding-top:20px;}</style></head><body><div id="wraper">
+			<div id="artTitles">
+				<h1 id="artibodyTitle">黄金制品所见中亚草原与中国早期文化交流</h1>
+				<h2 id="artisubTitle"/>
+			</div>
+			
+			<div class="articl_info">
+				<div class="artBaseInfo" id="autInfo">
+					<div class="articl_info_t">作 者：</div>
+					<div class="articl_info_c">
+						<div class="info_c">
+								<a target="_blank" href="/qw?s0=4&amp;s1=%e9%a9%ac%e5%81%a5">马健</a> 
+						</div>
+					</div>
+					<br class="cls"/>
+				</div>
+				<div class="artBaseInfo" id="autDescription">
+					<div class="articl_info_t">作者简介：</div>
+					<div class="articl_info_c">
+						<div class="info_c">马健，北京大学考古文博学院博士研究生</div>
+					</div>
+					<br class="cls"/>
+				</div>
+				<div class="artBaseInfo" id="tAutInfo"/>
+				<div class="artBaseInfo" id="orgInfo">
+					<div class="articl_info_t">原文出处：</div>
+					<div class="articl_info_c">
+						<div class="info_c">西域研究</div>
+					</div>
+					<br class="cls"/>
+				</div>
+				<div class="artBaseInfo" id="astInfo">
+					<div class="articl_info_t">内容提要：</div>
+					<div class="articl_info_c">
+						<div class="info_c">
+							<p>先秦时期中国北方地区的诸多古部族在联系北方草原与中原地区的早期文化交流过程中起到了重要的作用。以前学者的研究多集中在比较北方草原与中国北方地区出土青铜器所反映出的文化联系。自青铜时代以来，中亚草原的部族首领或贵族就形成了以黄金装饰人身、兵器、马具以象征地位和权势的习俗。本文试以金器为线索，分别比较了中亚草原、中国北方农牧交错地带、中原地区在铜石并用时代至战国末期这一时段内金器形制、功能、流行、演化等情况。试图理清中亚草原的用金习俗和黄金艺术在不同时期逐渐经过中国北方向中原地区渗透、影响的过程，以及中国北方、中原地区对这些外来因素吸收、融合的过程。</p>
+						</div>
+					</div>
+					<br class="cls"/>
+				</div>
+				<div id="artPdcInfo" class="artBaseInfo">
+					<div class="col_info"><b>期刊代号：</b>K21 </div>
+					<div class="col_info"><b>分类名称：</b>先秦、秦汉史 </div>
+					<div class="col_info"><b>复印期号：</b>2009 年 06 期 </div>
+					<br class="cls"/>
+				</div>
+				<div class="artBaseInfo" id="artKeyword">
+					<div class="articl_info_t">关 键 词：</div>
+					<div class="articl_info_c">
+						<div class="info_c">
+								<a target="_blank" href="/qw?s0=7&amp;s1=%e5%b7%b4%e6%b3%bd%e9%9b%b7%e5%85%8b">巴泽雷克</a> 
+								<a target="_blank" href="/qw?s0=7&amp;s1=%e9%98%bf%e5%b0%94%e8%b5%9e">阿尔赞</a> 
+								<a target="_blank" href="/qw?s0=7&amp;s1=%e9%bd%90%e5%88%97%e5%85%8b%e5%a1%94">齐列克塔</a> 
+								<a target="_blank" href="/qw?s0=7&amp;s1=%e6%a0%bc%e9%87%8c%e8%8a%ac">格里芬</a> 
+								<a target="_blank" href="/qw?s0=7&amp;s1=%e6%ac%a7%e4%ba%9a%e8%8d%89%e5%8e%9f">欧亚草原</a> 
+								<a target="_blank" href="/qw?s0=7&amp;s1=%e4%b8%ad%e8%a5%bf%e6%96%87%e5%8c%96%e4%ba%a4%e6%b5%81">中西文化交流</a> 
+
+						</div>
+					</div>
+					<br class="cls"/>
+				</div>
+				<div class="artBaseInfo" id="artTitleNote"/>
+				<a id="readArea" name="readArea"/>
+				
+			</div>
+			<div id="artText"><div class="artibody" id="Zoom" style="font-size: 14px;">
+    </p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;中图分类号：K876.43  文献标识码：A  文章编号：1002—4743（2009）03—0050—15</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;一、青铜时代中亚金器的发现与研究</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;黄金以其耀目的色泽和稳定的化学特性很早就受到古代人类社会的青睐。黄金虽然在自然界可以单质形态存在而在最初被人类直接采集获得，但数量极少。金矿常与铜、铁等矿藏共生，其熔点（1064.43℃）又低于铜（1084.5℃），因此人类对黄金的开采和利用主要始于青铜时代，是与铜等其他金属冶炼技术的发展分不开的。欧亚草原古部族有意识开采金矿、制作黄金制品约始于公元前三千纪。主要发现于欧亚西部草原青铜时代中期（2700－2500B.C.）的比德尼文化（Bedeni Culture）和特利阿勒梯文化（Trialeti Culture），中亚绿洲青铜时代早、中期的纳玛兹加文化（Namazga IV-V Culture,2700～2200B.C.），中亚草原铜石并用时代的阿凡纳谢沃文化（Afanasevo Culture,3500～2500B.C.）。这些黄金制品主要是贵族日用的奢侈品，象征地位和财富；或为宗教仪式中使用的祭祀品。相比之下，这一时期用黄金装饰人身的习俗在中亚草原地区已经形成。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;比德尼文化和特利阿勒梯文化均位于格鲁吉亚，其高级墓葬中出土过金制耳环、手镯、发簪、衣服坠饰，狮子形象的小型圆雕，以及镶嵌绿松石和红玛瑙珠的金制酒杯（图一，1～3）。① 纳玛兹加文化位于土库曼斯坦南部，其四期末至五期初的阿尔丁特佩（Altyn depe）遗址，金属加工业十分发达。在一处祭祀遗址中发现了金牛头和金狼头造型圆雕。② 中亚东部草原虽然进入青铜时代较晚，但发展很迅速。青铜时代初期，当地居民就开始用金属打制首饰。阿凡纳谢沃文化墓葬就出土了一批螺旋状用金、红铜、银、陨铁打制的耳环、手镯等人身饰物（图四，1）。取代阿凡纳谢沃文化的奥库涅夫文化（Okunev Culture 2600～2000B.C.），虽未发现金制品，但也使用红铜丝打制的耳环和手镯，形制与阿凡纳谢沃文化接近。③</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;青铜时代晚期中亚草原以安德罗诺沃文化（Andronovo Culture,2200～1000B.C.）最具代表性。④ 安德罗诺沃文化对金、铜、锡的开采十分积极，金属冶炼技术也较前一时期有了显著提高。哈萨克斯坦中部和东部、七河流域东部的宗伽尔斯基－阿拉套地区（the region of Djungarsky Alatau）、阿尔泰地区楚茨齐矿区（Chudskie mines）都发现过安德罗诺沃时期古金矿遗址，遗址中还出土了当时人们采矿所用的工具。⑤ 安德罗诺沃二、三期文化，也即阿拉库尔类型（Alakul type,2100～1400B.C.）和费多罗沃类型（Fedorovo type,1400～1200B.C.），分别位于哈萨克斯坦中部和东部，流行使用金制首饰。⑥ 其中阿拉库类型典型器物是管状金手镯。手镯是用中空的细管制成，一头末端外侧附有銎状插孔，可与另一端扣合，形成类似榫卯的结构。銎外侧饰有安德罗诺沃文化典型的三角形蕉叶纹（图一，4）。费多罗沃类型流行螺旋状和喇叭口插孔式的金耳环、手镯等人身饰物（图四，5）。其中螺旋耳环是用贴覆金箔的红铜凹条环绕一圈半制成（图一，5）。这种耳环最早见于红铜时代的环黑海地区，在欧亚西部草原十分流行，并一直沿用到青铜时代晚期。由于黄金数量有限，纯金制品罕见。一般选用细丝状红铜丝，然后在上面包裹金箔，待器物成形后用软皮抛光。制作过程中主要采用锤碟技术。⑦ 另外，大都会博物馆也藏有一件贴金箔银斧。斧管銎外侧装饰一个双头鹰人身形象，它一手抓住一只带翼狮的脖子，另一只手握着一头野猪的獠牙，野猪的背部形成银斧的刃部。双头鹰头、翼，狮子的胸、腹、翼均贴着金箔，细部刻画生动，工艺高超（图一，7）。⑧ 显然这件银斧并不具备实用性，而可能象征着某种宗教含义。我们发现这件银斧与巴克特里亚一马尔吉亚那考古学文化系出土青铜斧形制接近，由此推测它也应属于安德罗诺沃时期（图一，8）。⑨ 安德罗诺沃文化的黄金艺术对后来早期铁器时代中亚哈萨克斯坦中部、东部、萨彦—阿尔泰等地诸文化影响很大。后起的卡拉苏克文化占据了原安德罗诺沃文化东部区域，即西起咸海，东至叶尼塞，南抵阿尔泰、天山一带的范围。⑩ 喇叭口插孔式耳环在该文化中仍然沿用，同时卡拉苏克居民也开始将马等动物纹样装饰在耳环上，这些纹样是用质地软细的石模浇铸而成的（图一，6）。(11)</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;二、早期铁器时代中亚金器的发现与研究</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;进入早期铁器时代，中亚草原兴起多支游牧文化。随着矿藏开采、金属冶炼和加工技术的长足发展，部落首领或贵族使用的金制品数量大大增多，造型、题材也更加丰富。除了金制首饰，还发展出大量动物纹黄金饰牌，并用黄金装饰马具、武器。同时由于骑马术的普及、中亚草原与西部草原的游牧民族，与南部波斯阿契美尼德帝国之间文化交流显著增加，一些波斯文化因素被中亚部族所吸收、改造，也反映在黄金艺术当中。我们可以将这一时期的黄金艺术分为两期：</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;早期（公元前8～前5世纪），以萨彦—阿尔泰地区阿尔赞2号坟冢、哈萨克斯坦东部齐列克塔墓地为代表。南西伯利亚萨彦—阿尔泰地区在早期铁器时代初期就形成了以马具、武器和动物纹三要素为代表的发达的游牧文化。金器作为部落首领和贵族等级身份的标志，常发现于大型墓葬之中。可惜的是，18世纪阿尔泰地区兴起盗墓之风，许多大型墓葬中的珍品被席卷一空，其中一部分流入沙皇宫廷，形成了现在埃米塔什博物馆的“彼得大帝藏品”。而通过科学发掘未经盗掘的大型墓葬要数2000年俄罗斯与德国联合考察队在图瓦共和国乌尤克盆地国王谷发掘的阿尔赞2号坟冢。这座坟冢绝对年代在公元前7世纪，其主椁室内埋葬贵族夫妇二人，出土金器5700多件，总重20公斤，数量惊人。金器上装饰丰富的动物纹图案被称为“斯基泰动物纹百科全书”。(12) 男性头戴皮帽，帽顶有鹿形金冠饰，表现一只昂首伫立的公鹿，鹿角上扬呈枝蔓状（图二，5）。帽檐饰卧马形金牌饰，马颈部鬃毛经过修葺，肩部一缕卷曲的鬃毛上扬（图二，7）；男性脖子上带金项圈，项圈上部呈圆柱状，表面浮雕出山羊、野猪、虎等搏斗的复杂场景。项圈前部为弯曲的四方体，四面浮雕成排的老虎图案（图二，1）。男性衣服上满坠野猪形金坠饰、腰着金腰带，并佩有木柄包金铁剑和小铁刀，剑首、柄、翼、脊和刀首、柄部位贴金箔，也有表现虎搏羊的动物图案（图二，4、8）。皮靴上缘也包有金箔。男性身旁还有包金箭菔一个，里面装有三棱形铁镞数枚，有的铁镞表面贴金箔，表现“S”形水波纹和鹰搏羊的图案（图二，3）。女性头顶留有高耸的发髻，上插鹿首金发簪；双耳佩戴圆锥形錾金珠镶嵌绿松石的耳环（图二，2）；项带月牙形项圈，项圈上也刻有飞奔状山羊的图案；腰配一柄铁刃贴金短剑，剑首、柄、翼表现虎羊搏斗纹样、剑脊表现“S”形水波纹。除人身装饰外，还发现一件敞口鼓腹圜底瓢，把手部位包金箔，表现为马蹄形，马蹄上部还表现出鳞片状图案，另有一件鍑型明器，口部直径3.9cm，高4.2cm（图二，6）。金鍑表面浮雕出后肢翻转180°的山羊与老虎搏斗的场景。另外，墓葬中殉葬的马匹身上也发现有月牙形当卢、马镳等黄金饰件。马作为坐骑，是早期铁器时代欧亚游牧民的重要标志之一。很多游牧民的墓葬中多殉葬马匹，而身份显赫的贵族，也常为马匹装饰黄金饰件。阿尔泰地区巴沙德勒2号墓葬（公元前5～前4世纪初）出土的一套木制马具，马镳、颊带上都包着金叶片（图三，5）。马头部还佩戴木制贴金仿鹿角冠饰。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;哈萨克斯坦东部的齐列克塔墓地（公元前8～前6世纪）是中亚早期铁器时代兴起较早的一支塞种文化，与同时期的萨彦—阿尔泰地区古部族有着密切的联系。该墓地大型墓葬5号坟冢中出土了一批金器，多为人身饰物。表现题材以动物纹为主，有卧鹿、野猪、鹰首、鱼、身体蜷曲的雪豹等。另有“S”形水波纹饰件和金珠串项链等（图二，9～10）。(13)</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;这一时期的金器主要有三类：（1）人身装饰，包括冠饰、项圈、耳环、发簪等首饰，以及衣、腰带、靴子上的饰件；（2）马身装饰，包括当卢、马镳等马具；（3）武器贴、包金，包括短剑、箭箙、箭镞表面的贴、包金。从装饰纹样上来看，两地都流行生动、写实的自然主义风格，题材以单体的鹿、马、虎、雪豹、野猪、羊等动物纹为主，动物搏斗场面是由单体动物的拼合而成，构图不成熟。晚期（公元前4～3世纪），以萨彦—阿尔泰地区巴泽雷克文化、哈萨克斯坦东部伊塞克墓地为代表。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;中亚草原诸塞种部族与南俄草原斯基泰、乌拉尔萨尔马提亚等部族间的文化交流趋于频繁，他们在武器、马具、动物纹等方面表现出很强的共性。同时，由于战争和贸易的原因，一些波斯文化因素、希腊文化因素也被草原民族吸纳，融入中亚和南西伯利亚等地文化之中。高级贵族墓葬中出土的一些黄金制品，就反映了当时这种文化交流的背景。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;阿尔泰巴泽雷克墓地发现于20世纪初，其中出土了一批带有波斯、希腊文化因素的物品。(14) 格里芬是当地较为流行的一种题材，本源于西亚的一种鹰、狮混合的神兽，在波斯艺术中其造型可分为鹰形格里芬和狮形格里芬。这两种造型都在巴泽雷克墓葬中发现（图三，10、11）。阿尔泰居民还将格里芬形象融入本土的鹰、鹿崇拜当中，创造出一种鹰首鹿角鹿身的神话动物，我们称之为鹿形格里芬（图六，5）。(15) 这种造型在人身刺青、马鞍鞯、马镳、当卢、勒带上大量使用。库图尔贡塔斯（Kuturguntas）坟冢的马匹当卢、颊带上就装饰包金的鹿形格里芬纹样，造型十分生动（图三，8）。1998～1999年法国、意大利、哈萨克斯坦三方组成的考察队在哈萨克斯坦东部发掘的波莱尔（Berel）11号坟冢，也出土了木制包金仿鹿角装饰（图三，6）。(16)</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1969～1970年考古学家发掘了阿拉木图东50公里的伊塞克山间河谷左岸一座坟冢旁未经盗掘的侧室，结果在里面的椁底板上发现墓主人的遗体，墓主人头戴金冠，上衣、腰带、靴子上满饰金叶片和牌饰，因此这座坟冢也被称为“金人墓”。苏联考古学家阿基舍夫将这座坟冢的年代定为公元前5至前4世纪。(17) 这座墓葬中出土了一大批精美的金器，包括饰有鹿角、羊角翼马图案的金冠，虎首螺旋状项圈，人面印章金戒指，后肢翻转180°的虎、马、麋鹿，以及鹿形格里芬、山羊、鸟、树叶等造型的金饰牌、饰件。墓主人腰间也佩有一把金柄铁剑。铁剑首、柄、翼、脊上刻有狼、羊、虎、鹰、兔、野猪等纹样（图三，1～4、9）。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;另外，俄罗斯埃米塔什博物馆的“彼得大帝藏品”、大英博物馆的阿姆河1号宝藏、日本美秀博物馆的阿姆河2号宝藏（或称巴克特里亚遗宝）中也有许多属于这一时期中亚草原民族的遗物，可作为我们研究的参照（图三，12；图五，8；图六，3）。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;值得注意的是，伊塞克金人头冠装饰的鹿角与阿尔泰巴沙德勒、图雅赫塔、巴泽雷克、波莱尔墓葬中马头装饰的鹿角十分相似，因此有学者推测墓主是一位萨满巫师。鹿在古代萨满教中是一种通神的动物。根据现有资料，奥库涅夫文化居址或祭祀遗址附近常树立0.5～2米高的天然碑石，上面阴刻面目狰狞的鬼神怪兽或人面形象，其中一些就带有鹿角。学者们一般认为这些长有鹿角的人面是萨满巫师的面具。同样鹿也是青铜时代末期卡拉苏克文化流行的鹿石中最常见的题材。鹿石表现为武士形象，上面的鹿纹则象征古代武士的勇猛善战。(18) 进入早期铁器时代，此类图案仍在沿用。阿尔赞1号坟冢、2号坟冢墓坑中都发现刻有鹿纹的鹿石残件，另外阿尔赞2号坟冢男主人的冠饰、女主人金簪都装饰上扬鹿首，鹿角成繁枝状、蹄尖伫立的公鹿形象。阿尔泰墓葬中，这种鹿角则主要用于装饰大型木椁墓中殉马的头冠，德国艺术史家耶特马尔认为装饰鹿角和面具的马匹在葬仪中起领头作用。(19) 按照人类学家的研究，头饰和外套在很远的距离就能被辨认，因此许多部落首领都要在头顶装饰独特的物品或纹样，这样头饰中所包含的风格化信息就会迅速地被其他人接收。(20) 同理，阿尔赞墓主的冠饰、发簪以及马冠饰、当卢也象征着他们的社会地位、财富和宗教地位。另外，阿尔赞2号坟冢男性墓主与伊塞克金人除了头顶都装饰鹿角或鹿以外，额头部分都装饰马或翼马形象，两者装饰题材与位置都很接近，可见马在动物纹中的地位仅次于鹿。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;可见这一时期的黄金制品仍集中在武器、马具、人身装饰三类，但纹样和题材更加丰富，格里芬造型流行，表现手法虽然沿用早期写实生动的自然主义风格，但更重视动物身体比例，重视对细节的刻画，重视动物轮廓线条的流畅。后肢翻转180°的动物造型流行；能够表现多个动物相互交叠、撕咬的搏斗场面和繁缛的纹饰。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;三、夏商周时期中国境内金器中的外来因素</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;有关夏至战国时期中国境内金器的发现、工艺和分布的情况，艾玛·邦克（Emma C.Bunker）、齐东方、黄盛璋等学者做过详细的梳理；(21) 乌恩、林沄、李水城等学者也分析过中国北方青铜文化以及春秋战国时期长城地带早期铁器时代诸文化与中原地区考古学文化间的联系，为我们探讨黄金艺术的传播提供了框架性背景。(22)</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;中国境内发现的早期金器，主要集中在甘青地区的四坝文化、内蒙古鄂尔多斯地区的朱开沟文化、西辽河流域的夏家店下层文化、燕山以南的大坨头文化等北方系青铜文化，时代相当于夏代，主要为鼻环、耳环、手镯等人身装饰。有不少学者注意到其中的喇叭形插孔式耳环可能受到安德罗诺沃文化的影响。(23) 例如，四坝文化的酒泉干骨崖遗址，(24) 朱开沟遗址，(25) 夏家店下层文化的内蒙古喀喇沁旗大山前遗址，大坨头文化的天津蓟县围坊、(26) 北京房山琉璃河、(27) 北京昌平雪山、(28) 河北唐山小官庄(29) 等都出土此类耳环，多为铜质（图四，6～9）。另有学者从铜斧、铜锛、铜矛等青铜器形制、冶金术等角度出发，讨论了安德罗诺沃文化向东、南、从新疆西北部经天山北麓向甘青地区传播的可能性。这无疑为前者提供了许多有利的证据。(30)</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;同时我们还注意到，齐家文化的贵南尕马台遗址、四坝文化的酒泉干骨崖遗址、大坨头文化的房山琉璃河遗址都出土一种螺旋形铜“指环”（图四，2～4）。(31) 上面已提到，螺旋状金、银、红铜耳环在米努辛斯克盆地的阿凡纳谢沃文化中十分流行，两者之间是否存在联系呢？根据琉璃河M2报告，“铜指环1件（2：2）。作螺旋形环饰，形状似弹簧。高0.6、圆径2厘米。发现于头骨附近。”既然位于“头骨附近”，这枚“铜指环”应该是一枚铜耳环。可惜的是，齐家文化和四坝文化“指环”资料尚无从查考。如果这些“指环”均是耳环之误的话，我们怀疑在安德罗诺沃文化之前，南西伯利亚的阿凡纳谢沃文化可能就与中国北方的青铜文化发生了联系。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;可见，受中亚草原古部族的影响，早期金属时代的中国北方地区就开始流行铜、金制喇叭口插孔式耳环、螺旋形耳环来装饰人身。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;商代金器集中出土于三个区域：一为安阳晚商殷都大型墓葬出土的金箔片，用作铜、木、漆、玉石等器物的装饰。二为四川三星堆祭祀遗址出土青铜人像的金面具。三为中国北方系青铜文化出土的耳环、手镯、发簪等人身饰件。(32) 金器在各个区域中的功用显然不同，安阳金箔片只作为其他器物的辅助装饰，三星堆金器则多用于祭祀。相比之下，北方地区出土金器仍以人身装饰品为主，数量较多、范围也较广。例如北京平谷刘家河商墓出土金耳环、(33) 辽宁彰武平安堡遗址出土铜耳环，表明喇叭口插孔式耳环仍在沿用（图四，11、12）。(34)</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;同时北方地区也开始自行设计、打造出一些新式样的饰物，如两头扁的手镯、(35)“L”形镶嵌绿松石的金耳环，以及金丝、弓形饰等可能用于装饰衣、帽的饰物。(36) 其中“L”形耳环、金丝、金或铜制弓形饰等主要见于山西北部和陕西东北部。如山西石楼桃花庄、(37) 后兰家、(38) 褚家峪、曹家垣、(39) 永和下辛角、(40) 保德林遮峪、(41) 洪洞上村、(42) 陕西淳化黑豆嘴等遗址。(43) 值得注意的是，两头扁的手镯在蒙古—外贝加尔地区的格拉兹克沃文化中也曾发现过，(44) 这或许暗示了中国北方系青铜文化与北部地区的联系。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;西周时期，金器仍旧集中在北方地区，种类、形制与商代大略相同。如河北迁安县小山东庄出土的喇叭口铜耳环、一头尖一头扁金耳环、两头扁金手镯，(45) 天津蓟县张家园西周墓葬出土的两头扁金耳环、手镯，(46) 辽宁朝阳魏营子M7101出土的螺旋形手镯，(47) 南山根M101的螺旋形和两头扁的金手镯等（图四，13）。(48)</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;周王畿附近的渭河流域出土金器极少，表明周人不喜用金，这可能与当时青铜器、玉器占据贵族用器大宗的状况有关。(49) 但是我们也发现一些周代贵族也开始用黄金装饰人身。他们虽然不佩戴黄金耳环、手镯，却发展出黄金带饰。如河南三门峡市虢国墓地M2001出土一套12件金带饰、(50) 山西曲沃晋侯墓地I11M8出一套15件、M91出一套6件金带饰。(51) 另据报道，最近刚发掘完毕的陕西韩城梁带村两周墓地M27墓主人胸部、腰部也发现了一套30件金器，包括剑鞘、三角龙形带饰、兽首形带扣、环、泡等。(52) 诚然，这些带具与北方地区以及欧亚草原流行的带具形制差别很大，我们无法通过比较得知这一习俗在周代贵族内流传的原因。但是这却标志着汉地以黄金装饰人身的开始。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;此外，周统治下的部分地区仍沿袭并发展早期贴金、镶嵌技术，浚县辛村西周墓和大堡子山秦贵族墓出土的大量制作精美的包金铜器、金饰片可以说明这一点。(53)</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;四、春秋战国时期中国境内金器中的外来因素</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;春秋时期，中国境内许多地区都出土了金器。周封国出土的金器仍以金箔饰片为多，用于人身装饰的金带钩也开始流行。这一时期随着萨彦—阿尔泰地区游牧部落的兴起，向南、东与中国新疆、甘肃、宁夏等地的古部族发生了联系。(54) 新疆新源县出土金卧虎、(55) 乌拉泊古墓葬出土的圆锥形金耳环，(56) 甘肃清水刘坪发现虎噬羊纹金牌饰等，(57) 均可在图瓦阿尔赞2号坟冢中找到纹饰、形制相近的器物（图五）。除了人身饰件以外，萨彦地区部落贵族流行使用金柄铁剑、铁刀、黄金马具的习俗也可能影响到了西北地区的戎人。如陕西宝鸡益门村2号墓出土104件组金器中，墓主人身上装饰金串珠项链、金带钩3件、带扣7件、佩戴金柄铁剑3件，金首铁刀15件、金首铜刀4件、头箱内还放置着多件金环、金圆泡、金络饰等金制马具。(58) 此外，宝鸡益门村M2号墓只出土了铜马衔、节约以及金环、泡、络饰等马具，而不见车具，可能表明当时马匹已经用于骑乘。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;另外，陕西省雍城考古队于1981～1984年在凤翔县马家庄秦宗庙遗址发掘的K17、K121两个祭祀车坑内，出土了29件金器，总重量达302.6克。(59) 均为马具或马具饰件，而且均采用铸造技术。其中两件金饰为“虎头、双卷角、偶蹄、有翼、卷尾、卧姿”。其造型与阿尔泰中晚期墓葬出现的波斯式长有山羊犄角、带翼的格里芬形象十分接近（图五，9～10）。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;战国时期，汉地制作金器的技术已相当成熟，鎏金银、错金银技术开始流行。除了用于人身装饰的带钩，还能制造金币和体量较大的容器。同时，中国北方与萨彦—阿尔泰地区古部族的交往也更加频繁。巴泽雷克5号坟冢曾出土过楚地制作的凤鸟纹织锦；6号坟冢出土过楚式四山纹铜镜和秦式漆器残件。另一方面，萨彦－阿尔泰地区的装饰纹样和造型艺术因素也被中国北方诸部族所吸收、改造。新疆吐鲁番，甘肃清水、庆阳、秦安，宁夏固原彭堡于家庄、杨郎马庄、草庙乡张街村，陕西神木纳林高兔、西安北郊，内蒙古西沟畔、阿鲁柴、碾房渠，河北易县燕下都、平山中山国等地都发现过大量南西伯利亚动物纹造型的金、铜打制的饰牌、带扣、冠饰或项圈。(60) 举其要者，如新疆吐鲁番阿拉沟墓葬出土的虎纹金饰牌、饰扣，虎身后肢翻转180°，肩部鬃毛上卷，这些特征与伊塞克“金人墓”虎纹金饰牌十分接近（图六，1～2）。(61)</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;鄂尔多斯地区出土的一大批金、银制人身装饰品反映了当地居民对阿尔泰动物纹造型的模仿和改造。西沟畔墓地出土金饰片，以及陕北神木纳林高兔出土的金冠饰，都表现为典型的鹿角鹰嘴鹿身的鹿形格里芬造型（图六，3～8）。(62) 同出的金、银饰件所表现的伫立、屈卧或后肢翻转180°姿态的鹿、马、羊、虎等造型中都可清晰看出对阿尔泰艺术造型模仿的痕迹。同时，鄂尔多斯地区的古部族也积极将这些外来因素融入自己偏好的艺术题材之中。例如狼的造型是在战国晚期鄂尔多斯十分流行的装饰题材。伊克昭盟阿鲁柴登战国晚期墓葬出土一批金、银制人身饰件。(63) 其中一件镶嵌绿松石的金饰件上，工匠巧妙地将鹿形格里芬的枝蔓状鸟头鹿角与狼身结合了起来（图六，6）。除了自己打制金制品，当时鄂尔多斯等地的古部族可能还与汉地诸侯国进行黄金贸易，定做草原风格的金制品。例如西沟畔M2出土7件银质虎头节约，背面阴刻“少府二两十四朱”、“得工二两二朱”、“得工二两廿一朱”等铭文。另有两块金饰牌，背面刻写“一斤五两四朱少半”、“一斤五两廿朱少半”、“故寺豕虎气”铭文。其中斤、两、朱为计重铭文，而“得工”是赵国工官。“少府”在战国晚期出现，见于秦、韩、魏、赵等国，但撰写字体属赵。可知这7件节约均为赵国制造的产品。黄盛璋先生还判定另两件金饰牌为秦少府打造，也是令人信服的。(64) 1999年12月，西安北郊发现战国晚期墓葬，出土一批铸造动物纹牌饰的模具，发掘者推测此为铸铜工匠之墓。(65) 模具上的长有枝蔓状鸟头鹿角、后肢翻转180°的马身神兽造型应是根据阿尔泰鹿形格里芬改造而来的（图六，10）。这种题材的牌饰在当时当地并不流行，而在甘肃庆阳、宁夏固原以及鄂尔多斯等地的戎、狄部族中流行。据此我们推测这个工匠生前铸造的青铜或金饰牌可能是向北方草原民族输出的。这种农业定居民族为北方草原民族制作金器的现象并不罕见，欧亚草原西部斯基泰古墓出土金器中有许多就是由黑海北岸的希腊工匠专门制造的。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;萨彦—阿尔泰的造型艺术也影响到了与北方狄人临近的中山、赵、燕等诸侯国。例如在河北平山县中山国贵族墓葬群中发现了混合草原艺术风格的器物，其中最典型的是M1东库、西库各发现的一对“错银双翼神兽”，和M1东库出土的一件错金银虎噬鹿屏风座。(66) 神兽应是以狮形格里芬造型为底本，融合汉地对虎等动物的表现手法而创造出来的。虎噬鹿的搏斗式动物纹题材，也应源自北方草原。河北易县燕下都辛庄头M30，出土金柄铁剑、错金银铜衡饰以及方、圆形金饰件共计82件。(67) 金器上流行装饰马、鹿、羊、鹿形格里芬、虎、狼等题材的动物图案。许多动物造型与鄂尔多斯地区十分接近，取自阿尔泰艺术（图六，9）。其中20件背面都刻写“十两九朱”、“五两十三朱”等计重铭文，有学者考证这批器物是赵国宫廷工官制造的。(68) 另外，我们在该遗址老爷庙V号建筑、郎井村10号、30号作坊，都发现出战国晚期的“双龙纹饕餮纹”瓦当，造型也是由波斯式野山羊犄角的狮形格里芬改造而成的（图六，12）。可见在战国晚期，随着汉地与北方草原民族交往的增多，黄金饰品及其纹饰已经为不少汉地贵族所接纳、模仿。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;五、结语</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1993年美国艺术史家艾玛·邦克女士曾对中国早期金器做过综合性研究，她主张中国商周时期的贵族多以玉器、铜器作为地位和财富的象征，后来在北方文化的影响下，春秋以后才将金器逐渐纳入到这一象征体系之中。(69) 她将金器纳入早期欧亚大陆南北方文化交流背景之中的做法无疑为我们开拓出宽广的视角与合理的思路。随着近年来材料的丰富和研究的深入，我们发现以黄金装饰人身的习俗，在汉地肇始于周代；同时结合地域、器物的功用进行分类和比较可知，黄金艺术所反映出的文化交流主要集中在三个区域之间：南西伯利亚和中亚草原地区、中国北方农牧交错地带、中原地区。从安德罗诺沃或可能自阿凡纳谢沃文化开始的中亚草原古部族很早就开始打制并使用金器，流行耳环、手镯等贵族日常使用的人身装饰品。在其影响下，中国北方地区在夏商之际也开始模仿制作同类物品并创造出一些新的样式。商殷都周围的贵族也使用少量金器作为奢侈品，但不是人身饰品，而是用作漆、木器等表面的贴金装饰；西周时期，中国北方地区以黄金装饰人身的习俗为周统治下的一些汉地贵族所接受，他们开始打制一些汉风带饰；春秋时期，随着中亚地区游牧部落的兴起，除了人身装饰品，萨彦—阿尔泰等地贵族使用黄金装饰的武器、马具的习俗也影响到了中国西北地区诸部族以及靠近北方的汉地贵族。战国时期，南北方文化交流趋于频繁，中国北方的许多地区都流行萨彦—阿尔泰艺术造型的黄金、银或青铜打制的人身饰品、武器、马具。与之临近的中山、赵、燕等诸侯贵族开始模仿并将草原艺术风格的题材融入汉地造型艺术之中。秦、赵诸侯国也开始制作装饰动物纹的人身饰品，向鄂尔多斯等农牧交错地带的古部族输出。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;可见，这样一种佩戴黄金饰品的习俗是在夏商之际从中亚草原传入中国北方地区，并在西周时期被一些汉地贵族所模仿。春秋至战国早期，中亚草原游牧部落贵族的标志性特征——黄金装饰的人身饰品、武器、马具——在中国北方地区逐渐流行，并在战国晚期融入汉地造型艺术之中。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;本研究受到北京大学法鼓人文奖助学术基金资助，特此致谢！</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img onerror="this.src='/images/err.png'" src="http://img.ipub.exuezhe.com/jpg/K21/2009/K21T601.jpg" /></p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;图一  欧亚草原出土青铜时代金器</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1～2.比德尼文化  3.特利阿勒梯文化  4～5.安德罗诺沃文化  6.卡拉苏克文化  7.大都会博物馆藏品  8.巴克特里亚—马尔吉亚那考古学文化系</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img onerror="this.src='/images/err.png'" src="http://img.ipub.exuezhe.com/jpg/K21/2009/K21T602.jpg" /></p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;图二  早期铁器时代早期中亚草原出土金器</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.项圈  2.耳环  3.包金铁镞  4.包金铁短剑、刀  5.鹿形冠饰  6.鍑形明器  7.马形饰件  8.野猪形衣饰  9.鱼形饰件  10.鹿形饰件  11.雪豹形饰件（1～8.阿尔赞2号坟冢9～10.齐列克塔5号坟冢）</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img onerror="this.src='/images/err.png'" src="http://img.ipub.exuezhe.com/jpg/K21/2009/K21T603.jpg" /></p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;图三  早期铁器时代晚期中亚草原出土金器</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.翼马形帽饰  2.马形牌饰  3.麋鹿形牌饰  4.包金铁剑  5.包金马具  6.包金鹿角形马冠饰  7.鹰形格里芬形饰件  8.鹰形格里芬马冠饰  9.鹿角形冠饰  10.毛制鞍鞯上的狮形格里芬搏山羊图案  11.毛制鞍鞯上的鹰形格里芬搏山羊图案  12.鹰形格里芬纹手镯（1～4、9.伊塞克金人墓  5.巴沙德勒2号坟冢  6、7.波莱尔11号坟冢  8.库图尔贡塔斯坟冢  10、11.巴泽雷克1号坟冢  12.大英博物馆藏阿姆河1号宝藏）</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img onerror="this.src='/images/err.png'" src="http://img.ipub.exuezhe.com/jpg/K21/2009/K21T604.jpg" /></p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;图四  夏商周时期中国北方地区出土耳环</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.阿凡纳谢沃文化  2.贵南尕马台  3、6.酒泉干谷崖  4、8.房山琉璃河  5.安德罗诺沃文化  7.蓟县围坊  9.唐山小官庄  10.卡拉苏克文化  11.平谷刘家河  12.彰武平安堡  13.迁安小山东庄</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img onerror="this.src='/images/err.png'" src="http://img.ipub.exuezhe.com/jpg/K21/2009/K21T605.jpg" /></p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;图五  春秋战国时期中国与中亚草原金器比较之一</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.虎形饰件（阿尔赞2号坟冢）  2.虎形饰件（新源）  3.狼纹饰件（阿鲁柴登）  4.虎噬羊纹包金剑首（阿尔赞2号坟冢）  5.虎噬羊纹饰件（清水刘坪）  6.耳环（阿尔赞2号坟冢）  7.耳环（乌拉泊古墓）  8.耳环（美秀博物馆藏）  9.格里芬纹饰件（凤翔马家庄祭祀车坑）  10.土木制项圈上的格里芬纹样（巴泽雷克2号坟冢）</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img onerror="this.src='/images/err.png'" src="http://img.ipub.exuezhe.com/jpg/K21/2009/K21T606.jpg" /></p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;图六  春秋战国时期中国与中亚草原金器比较之二</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.出土虎形饰件（伊塞克“金人墓”）  2.虎纹饰件（阿拉沟）  3.鹿形格里芬纹牌饰（埃米塔什博物馆藏品）  4.鹿形格里芬纹牌饰（伊塞克“金人墓”）  5.鹿形格里芬纹刺身（巴泽雷克2号坟冢）  6.狼形格里芬纹饰件（阿鲁柴登）  7.鹿形格里芬纹冠饰（纳林高兔）  8.鹿形格里芬纹牌饰（西沟畔）  9.鹿形格里芬纹牌饰（燕下都辛庄头M30）  10.马形格里芬纹陶范（西安北郊）  11.格里芬纹黄铜牌饰（巴泽雷克2号坟冢）  12.格里芬纹瓦当（燕下都）  13.棺侧板上阴刻的虎纹（巴沙德勒2号坟冢）  14.虎纹木雕（图埃赫塔1号坟冢）  15.银虎（纳林高兔）</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;注释：</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;① E.N.Chernykh,Ancient metallurgy in the USSR,Cambrige University Press,1992,pp.101-103; 110-111.</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;② 张广达、陈俊谋：《纳马兹加IV～VI期文化》，《中国大百科全书·考古卷》，中国大百科全书出版社，1986年，第343页；［苏］阿甫杜辛著；陈弘法译；莫润先校：《中亚考古》，《考古学参考资料》6期，文物出版社，1983年，第112～120页； V.M.Masson,The Bronze Age in Khorasan and Transoxania,History of Civilizations of Central Asia,Delhi,1999,pp.225-245.; F.T.Hiebert,Origins of the Bronze Age Oasis Civilization in Central Asia,Peabody Museum of Archaeology and Ethnology Harvard University Cambridge,MA,1994,pp.165-178。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;③ 阿凡纳谢沃文化，是南西伯利亚地区时代最早的青铜文化，集中分布于叶尼塞河中游的米努辛斯克盆地和阿尔泰地区。一般认为其金属冶炼技术是独立起源的，阿尔泰地区曾发现过该文化的采矿遗址和采矿工具。参见莫润先：《阿凡纳谢沃文化》，《奥库涅夫文化》，《中国大百科全书·考古卷》，中国大百科全书出版社，1986年，第2～3，23页；J.P.Mallory,Afanasyevo,Encyclopedia of Indo-European Culture,London and Chicago:Fitzroy Dearborn Publishers,1997,pp.4-6.; E.N.Chernykh,The Sayano-Altai:the Afanasevo and Okunevo cultures,Ancient metallurgy in the USSR,Cambriage University Press,1992,pp.182-185。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;④ 莫润先：《安德罗诺沃文化》，《中国大百科全书·考古卷》，中国大百科全书出版社，第15～16页。J.P.Mallory,Andronovo Culture,Encyclopedia of Indo-European Culture,London and Chicago:Fitzroy Dearborn Publishers,1997,pp.20-21.; V.M.Masson,The decline of the Bronze Age civilization and movements of the tribes,History of Civilizations of Central Asia,Delhi,1999,pp.337-356.; Michael David Franchetti,Bronze Age Pastoral Landscapes of Eurasia and the Nature of Social Interaction in the Mountain Steppe Zone of Eastern Kazakhstan,Ph.D dissertation in University of Pennsylvania,2004,pp.201-252.</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⑤ A.Akishev and K.Akishev,The Ancient Gold of Kazakhstan,АΛМТы,θНЕР,1983,pp.33-35.楚茨齐矿区的介绍可参见阿尔泰博物馆网页：Ancient Miners cited in http://www.museum.ru/museum/asrsm/exib/ad&a/chpt1 en.htm。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⑥ 安德罗诺沃文化分为四期，初期以辛塔什塔－佩特洛伏卡－阿尔凯姆类型（Sintashta-Petrovka-Arkaim type,2200～1600B.C.）为代表，该文化兴起于乌拉尔并向西、向北扩张至伏尔加河，与东进的木椁墓文化发生融合；二期以阿拉库尔类型（Alakul type,2100～1400B.C.）为代表，三期以费多罗沃类型（Fedorovo type,1400～1200B.C.）为代表，四期以阿列克谢沃卡类型（Alekseyevka type,1200～1000B.C.）为代表，后三期该文化向南的扩张至中亚绿洲，促成了（Tazabagyab Culture,1500B.C.）、毕什肯特文化（Bishkent Culture,1700～1500B.C.）、瓦赫什文化（Vakhsh Culture,1700～1500B.C.）以及巴克特里亚－马尔吉亚那考古学文化系（Bactrian-Margiana Archaeological Complex，简称BMAC,2200～1700B.C.）等多支青铜文化的形成；向东经哈萨克斯坦进入米努辛斯克盆地，取代了那里的奥库涅夫文化。参见J.P.Mallory,Andronovo Culture,Encyclopedia of Indo-European Culture,London and Chicago:Fitzroy Dearborn Publishers,1997,pp.20-21.</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⑦ A.Akishev and K.Akishev,The Ancient Gold of Kazakhstan,АΛМТы,θНЕР,1983,pp.34,图版46～48,51。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⑧ 大都会博物馆称这件藏品出自中亚，年代属于8000～2000B.C.。藏品介绍将带翼狮描述为龙，可能有误。参见:Shaft-hole axhead with a bird-headed demon,boar,and dragon[Central Asia(Bactria-Margiana)](1982.5).In Timeline of Art History.New York:The Metropolitan Museum of Art,2000-.http:// www.metmuseum.org/toah/ho/02/nc/hod_1982.5.htm(October 2006)。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⑨ F.T.Hiebert,Origins of the Bronze Age Oasis Civilization in Central Asia,Peabody Museum of Archaeology and Ethnology Harvard University Cambridge,MA,1994,pp.162,插图9.26.6.; 注6,以及J.P.Mallory,“BMAC”,Encyclopedia of Indo-European Culture,London and Chicago:Fitzroy Dearborn Publishers,1997,pp.72-74。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⑩ J.P.Mallory,“Karasuk Culture”,Encyclopedia of Indo-European Culture,London and Chicago:Fitzroy Dearborn Publishers,1997,pp.325-326.</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(11) A.Akishev and K.Akishev,The Ancient Gold of Kazakhstan,АΛМТы,θНЕР,1983,pp.35,图版49。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(12) M.Edards,Master of Gold,National Geographic,Vol.2003,No.6,pp.112-129.;Аржан Источник в Долине царей Археологические открытия в Туве(Archaeological Discoveries in the Valley of the Kings,Tuva Artifacts from the Arzhan Barrow),Санкт-Петербург 2004.</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(13) A.Akishev and K.Akishev,The Ancient Gold of Kazakhstan,АΛМТы,θНЕР,1983,pp.36-38,图版52-61。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(14) Guitty Azarpay,Some Classical and Near Eastern Motifs in the art of Pazyryk,Artibus Asiae,Vol.XXII/4,1959,pp.313-339; Anne Roes,Achaemenid Influence upon Egyptian and Nomad Art,Artibus Asiae,Vol.XV,1952,pp.17-30.</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(15) 鹿形格里芬也被一些学者称为怪异动物纹样或鹰首鹿，此类题材在战国晚期传入鄂尔多斯地区。参见乌恩：《略论怪异动物纹样及其相关问题》，《故宫博物院院刊》1994年第3期；李零：《论中国的有翼神兽》，《中国学术》2001年第1期，商务印书馆，2001年，第119～121页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(16) Z.S.Samashev,G.A.Bazarbaeva,G.S.Zhumabekova and H.P.Francfort,Le kourgane de Betel' darts l'Alta? kazakhstanais,Arts Asiatiques,55,2000,pp.5-20.</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(17) 阿基舍夫著；吴妍春译；陈万仪校：《伊塞克古墓——哈萨克斯坦的塞克艺术》，《新疆文物》1995年第2期。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(18) 相关研究可参见：A.I.Martynov:The Golden Reindeer Flying to the Sun,The ancient art of Northern Asia,Urbana and Chicago:University of Illinois Press,1991,pp.52-73.; Burchard Brentjes,'Animal Style' and Shamanism:Problems of Pictoral Tradition in Northern in Central Asia,Kurgans,Ritual Sites,and Settlements:Eurasian Bronze and Iron Age,Oxford:The Basingstoke Press,2000,pp.259-268.</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(19) Karl Jettmar,Art of the Steppes,New York:Crown Publishers,1967,p.108.</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(20) H.Martin Wobst,Stylistic behavior and information exchange,Cleland,Charles E.,ed.For the Director:research essays in honor of James B.Griffin.Ann Arbor,Museum of Anthropology,University of Michigan.Anthropological Papers.1977,pp.330-335.</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(21) Emma C.Bunker,Cold in the Ancient Chinese World:A Cultural Puzzle,Artibus Asiae,Vol.LIII/1-2,1993,pp.27-50；齐东方：《中国早期金银器研究》，《华夏考古》1999年第4期；《中国早期金银工艺初论》，《文物世界》1998年第2期。黄盛璋：《论中国早期〈铜铁以外〉的金属工艺》，《考古学报》1996年第2期。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(22) 乌恩：《殷至周初的北方青铜器》，《考古学报》1985年第2期；《欧亚大陆草原早期游牧文化的几点思考》，《考古学报》2002年第4期；林沄：《夏至战国中国北方长城地带游牧文化带的形成过程》，《燕京学报》第14期，2003年；李水城：《西北与中原早期冶铜业的区域特征及交互作用》，《考古学报》2005年第3期。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(23) 乌恩：《殷至周初的北方青铜器》；林沄：《夏代的中国北方系青铜器》，《边疆考古研究》第1辑，科学出版社，2002年，第1～12页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(24) 水涛：《四坝文化铜器研究》，《文物》2000年第3期，图二，13。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(25) 内蒙古自治区文物考古研究所、鄂尔多斯博物馆：《朱开沟》，科学出版社，第273～277页，图版三三，4，左1。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(26) 天津市文物管理处考古队：《天津蓟县围坊遗址发掘报告》，《考古》1985年第10期，图八，14。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(27) 中国科学院考古研究所等，《北京琉璃河夏家店下层文化墓葬》，《考古》1976年第1期，页60，图四，2。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(28) 北京大学考古专业1961年发掘实习资料；北京大学历史系考古教研室商周组：《商周考古》，文物出版社，1979年，第139页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(29) 安志敏：《唐山石椁墓及其相关的遗物》，《考古学报》1954年，第七册，81页，图版三，1。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(30) 李水城：《西北与中原早期冶铜业的区域特征及交互作用》，《考古学报》2005年第3期。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(31) 李水城：《西北与中原早期冶铜业的区域特征及交互作用》，《考古学报》2005年第3期，第241～242页，图二，11；图三，9；中国科学院考古研究所等，《北京琉璃河夏家店下层文化墓葬》，《考古》1976年第1期，第60页，图四，1。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(32) 齐东方：《中国早期金银器研究》，《华夏考古》1999年第4期。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(33) 北京市文物管理处：《北京市平谷县发现商代墓葬》，《文物》1977年第1期，第3、6页，图一八。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(34) 林沄：《夏代的中国北方系青铜器》，《边疆考古研究》第1辑，第8页，图一一。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(35) 此类耳环发现于四坝文化、刘家河商墓、辽宁喀左和尚沟墓。参见林沄：《夏代的中国北方系青铜器》，《边疆考古研究》第1辑，1～12页。；李水城、水涛：《四坝文化铜器研究》，《文物》2000年第3期，第37～38页，图2，19；北京大学考古专业1961年发掘实习资料；北京大学历史系考古教研室商周组：《商周考古》，第139页；北京市文物管理处：《北京市平谷县发现商代墓葬》，《文物》1977年第1期，第3、6页，图一三、一七；辽宁省文物考古研究所等：《喀左和尚沟墓》，《辽海文物学刊》1989年第2期，110页，图版贰，5；河北卢龙阎各庄见《河北省三十年来的考古工作》，《文物考古工作三十年》，文物出版社，第38页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(36) 山西保德林遮峪、山西石楼桃花庄等墓葬报告称，金丝、弓形饰一般放置在墓主人的头、胸部位，上面还有穿空，据此推测可能是缝在衣、帽上的饰物。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(37) 谢青山、杨绍舜：《山西吕梁县石楼镇又发现铜器》，《文物》1960年第7期，第52页，图4，5。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(38) 郭勇：《石楼后兰家沟发现商代青铜器简报》，《文物》1962年4、5期合刊，第33～34页，图2，10。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(39) 杨绍舜：《山西石楼褚家峪、曹家垣发现商代铜器》，《文物》1981年第8期，第50、53页，图九，一七，二六。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(40) 石楼县文化馆：《山西永和发现殷代铜器》，《考古》1977年第5期，第356页，图五。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(41) 吴振录：《保德县新发现的殷代青铜器》，《文物》1972年第4期，第64页，图九、一六。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(42) 朱华：《山西洪洞县发现商代遗物》，《文物》1989年第12期，第90～91页，图七。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(43) 姚生民：《陕西淳化县出土的商周青铜器》，《考古与文物》1986年第5期，图三，8。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(44) 冯恩学：《俄国东西伯利亚与远东考古》，吉林大学出版社，2002年，第291页，图64，4。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(45) 唐山市文物管理处等：《河北迁安县小山东庄西周时期墓葬》，《考古》1997年第4期，第59～60页，图四，2，六。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(46) 天津市历史博物馆考古部：《天津蓟县张家园遗址第三次发掘》，《考古》1993年第4期，第321～323页，图九、十二、十三、十四。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(47) 辽宁省博物馆文物工作队：《辽宁朝阳魏营子西周墓和古遗址》，《考古》1977年第5期，第308页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(48) 辽宁省昭乌达盟文物工作站等：《宁城南山根的石椁墓》，《考古学报》1973年第2期，36页，图版伍，4、5。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(49) Emma C.Bunker,Gold in the Ancient Chinese World:A Cultural Puzzle,Artibus Asiae,Vol.LIII/1-2,1993,pp.27-50.</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(50) 河南省文物研究所等：《三门峡上村岭虢国墓地M2001发掘简报》，《华夏考古》1992年第3期，第112页，图四，2。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(51) 北京大学考古系等：《天马——曲村遗址北赵晋侯墓地第二次发掘》，《文物》1994年第1期，第14页，图二○，《天马——曲村遗址北赵晋侯墓地第五次发掘》，《文物》1995年第7期。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(52) 《陕西韩城梁带村遗址两周考古取得重大收获》，《中国文物报》2005年12月28日1版。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(53) 中国科学院考古研究所：《浚县辛村》，科学出版社，1964年，第61～62页，图版贰伍，3、4；韩伟：《论甘肃礼县出土的秦金箔饰件》，《文物》1995年第6期；齐东方：《中国早期金银器研究》，《华夏考古》1999年第4期。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(54) 马健：《公元前8～前3世纪的萨彦—阿尔泰——早期铁器时代欧亚东部草原文化交流》，《欧亚学刊》第8辑，待刊。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(55) 新疆维吾尔自治区文物事业管理局等：《新疆文物古迹大观》，新疆美术摄影出版社，1999年，第364页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(56) 穆舜英、王明哲：《论新疆古代民族考古文化》，《新疆古代民族文物》，文物出版社，1985年，第1～22页，图版160，161。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(57) 李晓青、南宝生：《甘肃清水县刘坪近年发现的北方系青铜器及金饰片》，《文物》2003年第7期，第4～17页，图一五，二五，1。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(58) 宝鸡市考古工作队：《宝鸡市益门村二号春秋墓发掘简报》，《文物》1993年第10期。赵化成、陈平两位学者不谋而合，都推测这座墓的主人是西戎贵族。参见：陈平：《试论宝鸡益门二号墓短剑及有关问题》，《考古》1995年第4期；赵化成：《宝鸡市益门村二号春秋墓族属管见》，《考古与文物》1997年第1期。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(59) 陕西省雍城考古队：《凤翔马家庄一号建筑群遗址发掘简报》，《文物》1985年第2期。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(60) 马健：《公元前8～前3世纪的萨彦—阿尔泰——早期铁器时代欧亚东部草原文化交流》，《欧亚学刊》第8辑，待刊。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(61) 新疆社会科学院考古研究所：《新疆阿拉沟竖穴木椁墓发掘简报》，《文物》1981年第1期。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(62) 伊克昭盟工作站等：《西沟畔匈奴墓》，《文物》1980年第7期，第1～10页，图三、四；戴应新、孙嘉样：《陕西神木县出土匈奴文物》，《文物》1983年第12期。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(63) 田广金、郭素新：《内蒙古阿鲁柴登发现的匈奴遗物》，《考古》1980年第4期。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(64) 黄盛璋：《新出战国金银器铭文研究（三题）》，《古文字研究》第十二辑，第340～348页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(65) 戴应新、孙嘉祥：《陕西神木县出土匈奴文物》，《文物》1983年第12期；陕西省考古研究所：《西安北郊战国铸铜工匠墓发掘简报》，《文物》2003年第9期。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(66) 河北省文物管理处：《河北省平山县战国时期中山国墓葬发掘简报》，《文物》1979年第1期。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(67) 河北省文物研究所：《燕下都》，文物出版社，1996年，第684～731页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(68) 黄盛璋：《新出战国金银器铭文研究（三题）》，《古文字研究》第十二辑，第348～351页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(69) Emma C.Bunker,“Gold in the Ancient Chinese World:A Cultural Puzzle”,Artibus Asiae,VoL LIII/1-2,1993,pp.27-50；齐东方：《中国早期金银器研究》，《华夏考古》1999年第4期；《中国早期金银工艺初论》，《文物世界》1998年第2期。黄盛璋：《论中国早期（铜铁以外）的金属工艺》，《考古学报》1996年第2期。
+</div>
+<div class="page-list">
+    <div class="pageNav" id="pageList"></div>
+</div>
+</div><br class="cls"/>
+		</div>
+		</body></html>

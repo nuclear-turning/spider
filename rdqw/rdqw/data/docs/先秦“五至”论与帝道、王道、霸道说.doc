@@ -1,0 +1,200 @@
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><style>.trR{ text-align:right;}
+#wraper{width:1190px; margin:0 auto; margin-bottom:10px;text-align:left;}
+#left{ float:left;width:250px; text-align:left;}
+#right{float:right;width:930px;text-align:left;border-top:2px solid #619bc0; padding-bottom:10px;}
+.border_w{ border:1px solid #d3d3d3;border-top:2px solid #619bc0;}
+.t01{height:30px;line-height:30px;border:1px solid #dddddd;padding-left:10px;background:url(../images/tbg01.jpg) repeat-x bottom; color:#1183c1; font-size:14px;}
+.con_01{ padding:10px;}
+.con_cbg{ background:url(../images/con_cbg.gif) repeat-y;}
+.con_bbg{ background:url(../images/con_bbg.gif) no-repeat left bottom; height:1px; line-height:1px; font-size:0;}
+
+.source{margin:15px;background:url(../images/linex.gif) repeat-x bottom; padding-bottom:30px; margin-bottom:30px;}
+.source .source-img{border:1px solid #d3d3d3; text-align:center; padding:5px;margin-bottom:10px; }
+.source p{color:#666666; font-weight:bold; font-size:12px;}
+.source .fblue{ color:#236bac; font-weight:normal;}
+
+.t_tj{ height:27px;padding-top:2px;margin:15px; background:url(../images/con_t_tj.gif) no-repeat left top; padding-left:10px; color:#FFFFFF; font-size:14px;}
+.c12_01{ margin-left:15px; margin-right:15px; margin-bottom:15px;}
+.c12_01 li{font-size:12px; line-height:24px; background: url(../images/dot.gif) no-repeat 2px 10px; padding-left:15px;}
+
+#artibodyTitle{color:#236bac;font-family:"宋体";font-size:20px;font-weight: normal;line-height:35px;text-align:center;margin-top:10px;	text-align:center;}
+#artisubTitle{font-family:"宋体";font-size:16px;font-weight: normal;line-height:28px;text-align:center;}
+.articl_info{margin-left:30px; margin-right:30px; position:relative;border-bottom:1px solid #e1e1e1;padding-bottom:20px; margin-bottom:20px;}
+.btn-img{
+	background-image:url(../images/allbg.png);
+	background-repeat:no-repeat;
+	font-size:12px;		
+	cursor:pointer;
+	border: 0px none;
+	display: inline-block;
+	vertical-align:middle;
+	text-align:center;}
+
+.artInfo{height:22px;border-top:1px solid #e1e1e1;border-bottom:1px solid #e1e1e1;padding:5px;margin:20px;}
+.artInfo li{float:left;width:33%;height:22px; line-height:22px; color:#666666;}
+
+.artInfo li .collectionPage_link{
+	background-position:-509px -80px;
+	padding-left:10px;
+	margin-top:-2px;
+	_margin-top:0px;
+	margin-left:10px;
+	width:51px;
+	height:22px; 
+	line-height:22px;		
+	color:#1183c1;	}
+.artInfo li .printPage_link{
+	background-position:-570px -80px;
+	padding-left:10px;
+	margin-top:-2px;
+	_margin-top:0px;
+	margin-left:10px;
+	width:51px;
+	height:22px; 
+	line-height:22px;	
+	color:#1183c1;}
+.artInfo li .downloadPage_link{
+	background-position:-631px -80px;
+	margin-top:-2px;
+	_margin-top:0px;
+	margin-left:10px;
+	width:51px;
+	padding-left:10px;
+	height:22px; 
+	line-height:22px;	
+	color:#1183c1;}
+
+
+.artBaseInfo{line-height:24px; margin-bottom:5px;}
+.artBaseInfo .info_left{float:left;width:80px;}
+.artBaseInfo .info_right{float:left;width:790px;}
+
+.artBaseInfo dt{float:left;width:80px; color:#666666;line-height:20px; display:inline-block;}
+.artBaseInfo dd{color:#666666;line-height:20px;display:inline-block;}
+.artBaseInfo .col li{ float:left;width:210px; height:20px; line-height:20px;color:#666666;}
+
+.artBaseInfo .item{ float:left;width:50%;}
+.artBaseInfo .notice{
+	margin-left:10px;
+	width:61px;
+	padding-left:10px;
+	height:22px; 
+	line-height:22px;
+	background-position:-448px -80px;	
+	color:#1183c1;}
+
+.artInfo{height:30px;border-top:1px solid #e1e1e1;border-bottom:1px solid #e1e1e1;margin:20px 10px;}
+.artInfo div{ float:left;width:30%;height:30px; line-height:30px; text-align:center;}
+.artInfo div a{ margin-left:20px; margin-right:20px;}
+.artInfo li{float:left;width:33%;height:22px; line-height:22px; color:#666666;}
+
+.articl_info{margin-left:30px;margin-right:30px; position:relative;border-bottom:1px solid #e1e1e1;padding-bottom:20px; margin-bottom:20px;}
+.artBaseInfo{margin-bottom:5px;}
+.articl_info_t{float:left;width:80px;margin-right: -100%;font-weight:bold;line-height:24px;}
+.articl_info_c{float: left;width: 100%;}
+.articl_info_c .info_c{margin-left:80px; line-height:24px;}
+.artBaseInfo .marL{ margin-left:20PX;}
+.artBaseInfo .col_info{ float:left;width:30%;line-height:20px;}
+
+.fontSize{position: relative;right:0px;top:0px;font-size:12px; height:30px; line-height:30px; text-align:right;}
+.fontSize a{border:1px solid #c2c2c2;margin-right:10px;padding:4px 1px;*padding:1px; cursor:pointer;font-size:12px;}
+.fontSize a span{background:url(../images/page_a_36.png) repeat-x;padding:3px;}
+
+.fontSize a.now{border: #f9ad75 1px solid;padding:4px 1px;*padding:1px;}
+.fontSize a.now span{color:#ff7d27;background:url(../images/current_34.png) repeat-x bottom;padding:3px;}
+.artibody{margin-left:20px;margin-right:20px;font: 18px/180% "Microsoft YaHei","微软雅黑"; color:#666666;}
+.artibody p{margin-bottom:20px;}
+
+.fontSize A:link{ color:#000000;text-decoration:none;}
+.fontSize A:visited{ color:#000000;text-decoration:none;}
+.fontSize A:hover{ color:#FF0000;text-decoration:none;}
+.fontSize a.now:link{color:#ff7d27;text-decoration:none;}
+#Zoom img {max-width:600px; max-height:600px; scale:expression((this.offsetWidth > this.offsetHeight)?(this.style.width = this.offsetWidth >= 600 ? "600px" : "auto"):(this.style.height = this.offsetHeight >= 600 ? "600px" : "auto")); display:inline !important;}
+
+.t_artiInfo{font-size:14px; padding-left:20px;background:url(../images/linex.gif) repeat-x top; line-height:30px; margin-top:10px;}
+.li_artiInfo{margin-left:30px; margin-right:30px;padding-bottom:10px; }
+.li_artiInfo ul li{float:left;width:100%;padding:3px 0;}
+.li_artiInfo ul li .title{ float:left;width:65%;}
+.li_artiInfo ul li .author{ float:left;width:15%;}
+.li_artiInfo ul li .come{ float:right;width:20%;color:#999999; text-align:right;}
+
+
+.index_artInfo{height:36px; line-height:36px; border-top:1px solid #e1e1e1;border-bottom:1px solid #e1e1e1; margin-top:20px; padding-left:20px;  padding-right:20px;padding-right:10px; margin-bottom:10px; margin-left:10px;text-align:center;}
+.index_artInfo a.collectionPage_link{ background:url(../images/icon.gif) no-repeat 0 1px; padding-left:15px;}
+.index_artInfo a.printPage_link{background:url(../images/icon.gif) no-repeat 0 -55px; padding-left:15px;}
+.index_artInfo a.downloadPage_link{background:url(../images/icon.gif) no-repeat 0 -108px; padding-left:13px;}
+
+.index_body .main{margin-left:100px; line-height:28px;color:#000000; padding-bottom:30px; padding-top:20px;}</style></head><body><div id="wraper">
+			<div id="artTitles">
+				<h1 id="artibodyTitle">先秦“五至”论与帝道、王道、霸道说</h1>
+				<h2 id="artisubTitle">——由《鹖冠子·博选》篇说起</h2>
+			</div>
+			
+			<div class="articl_info">
+				<div class="artBaseInfo" id="autInfo">
+					<div class="articl_info_t">作 者：</div>
+					<div class="articl_info_c">
+						<div class="info_c">
+								<a target="_blank" href="/qw?s0=4&amp;s1=%e6%9d%a8%e5%85%86%e8%b4%b5">杨兆贵</a> 
+						</div>
+					</div>
+					<br class="cls"/>
+				</div>
+				<div class="artBaseInfo" id="autDescription">
+					<div class="articl_info_t">作者简介：</div>
+					<div class="articl_info_c">
+						<div class="info_c">杨兆贵（1971—），澳门大学教育学院助理教授</div>
+					</div>
+					<br class="cls"/>
+				</div>
+				<div class="artBaseInfo" id="tAutInfo"/>
+				<div class="artBaseInfo" id="orgInfo">
+					<div class="articl_info_t">原文出处：</div>
+					<div class="articl_info_c">
+						<div class="info_c">古代文明</div>
+					</div>
+					<br class="cls"/>
+				</div>
+				<div class="artBaseInfo" id="astInfo">
+					<div class="articl_info_t">内容提要：</div>
+					<div class="articl_info_c">
+						<div class="info_c">
+							<p>《鹖冠子·博选》篇写于秦代，其主要思想是五至论。本文由该篇入手，探讨五至论的理论渊源，五至论所涉及的先秦诸子帝道、王道、霸道说，以及各学派对帝道、王道、霸道的不同看法，并对产生此三道说的时代背景做简要论述。</p>
+						</div>
+					</div>
+					<br class="cls"/>
+				</div>
+				<div id="artPdcInfo" class="artBaseInfo">
+					<div class="col_info"><b>期刊代号：</b>K21 </div>
+					<div class="col_info"><b>分类名称：</b>先秦、秦汉史 </div>
+					<div class="col_info"><b>复印期号：</b>2009 年 06 期 </div>
+					<br class="cls"/>
+				</div>
+				<div class="artBaseInfo" id="artKeyword">
+					<div class="articl_info_t">关 键 词：</div>
+					<div class="articl_info_c">
+						<div class="info_c">
+								<a target="_blank" href="/qw?s0=7&amp;s1=%e3%80%8a%e9%b9%96%e5%86%a0%e5%ad%90%c2%b7%e5%8d%9a%e9%80%89%e3%80%8b%e7%af%87">《鹖冠子·博选》篇</a> 
+								<a target="_blank" href="/qw?s0=7&amp;s1=%e4%ba%94%e8%87%b3%e8%ae%ba">五至论</a> 
+								<a target="_blank" href="/qw?s0=7&amp;s1=%e5%b8%9d%e9%81%93">帝道</a> 
+								<a target="_blank" href="/qw?s0=7&amp;s1=%e7%8e%8b%e9%81%93">王道</a> 
+								<a target="_blank" href="/qw?s0=7&amp;s1=%e9%9c%b8%e9%81%93">霸道</a> 
+								<a target="_blank" href="/qw?s0=7&amp;s1=%e5%85%88%e7%a7%a6">先秦</a> 
+
+						</div>
+					</div>
+					<br class="cls"/>
+				</div>
+				<div class="artBaseInfo" id="artTitleNote"/>
+				<a id="readArea" name="readArea"/>
+				
+			</div>
+			<div id="artText"><div class="artibody" id="Zoom" style="font-size: 14px;">
+    </p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;《鹖冠子》一书自唐代柳宗元怀疑它是伪书以来，一直被当作伪书。迄20世纪70年代马王堆帛书出土，其中《黄帝四经》与该书有不少文句、文意相同或相近，学者不再认为它是伪书，并加以研究。迄今为止，国内外研究《鹖冠子》的有3本专著：比利时学者戴卡琳（Carine Defoort）《解读〈鹖冠子〉》，孙福喜《〈鹖冠子〉研究》和拙著《〈鹖冠子〉研究》。① 根据拙文研究，今本《鹖冠子》19篇不是鹖冠子一人所写，也非反映一时一派之作。其中《近迭》、《度万》、《王鈇》、《兵政》、《学问》5篇反映鹖冠子的思想。其他大部分篇章反映战国晚期黄老学派的思想，也有的主要反映兵家思想（黄老学在某程度上可包容兵家）。《博选》和《著希》两篇因避秦始皇之讳，写成于秦代。《泰鸿》篇吸收、包含战国以来太一的主要内涵，把本体和元神结合起来，为汉武推行以太一为中心的祭祀奠下理论基础，写于汉武之时。②</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;《博选》篇是《鹖冠子》的首篇，最重要的内容是提出“五至”论。下文就该篇五至论的提出，讨论其理论源流，进而探讨与此一理论有密切关系的时代思潮之一：帝道、王道、霸道说。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;一、五至论的理论源流</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;《博选》篇开章明义说：“王鈇非一世之器者，厚德隆俊也”（1a／4），③ 说明君主治理天下之方，最重要的莫过于尊崇有德有才之士，而非一味专任法制。陆佃解云：“夫专任法制，不以厚德将之，欲以持久，难哉。”（1a／4）可谓深得篇旨。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;那么，怎样才是有德有才者呢？文章提出“五至”：</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;权人有五至：一曰伯己，二曰什己，三曰若己，四曰厮役，五曰徒隶。（1a／6—7）这应当从德、才两方面来说明五至之士。作者依德、才高低把士分成5等，相信他们对治理国家发挥不同程度的作用。因五者的德、才不一，故作者建议君主对他们采取不同的态度：</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;北面而事之，则伯己者至；先趋而后息，先问而后默，则什己者至；人趋己趋，则若己者至；凭几据杖，指麾而使，则厮役者至；乐嗟苦咄，则徒隶之人至矣。（1b／5—9）</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;伯己者的学、德比君主多百倍，君主“北面而事”，就当自己是学生，拜伯己者为师。什己者的学、德比君主多10倍，君主“先趋而后息”，把什己者当成学长，向他虚心请教。“人趋己趋”，是君主对若己者的态度与一般人相同，不必特加厚礼。至于“凭几据杖，指麾而使”、“乐嗟苦咄”，君主把厮役者、徒隶这两种人当成下人，更谈不上任何礼遇了。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;君主对待五者的不同态度，反映君主之贤愚以及对富国强兵是否有强烈的责任感。不同的君主对五者在富国强兵、称王立统所发挥的不同作用，有不同程度的认识，故以不同的方式任用五者，那么治理成效自然有别：“帝者与师处，王者与友处，亡主与徒处。”（1b／10）</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;这里首先把君主分成3种：帝者、王者、亡主。其次，强调君主对五者的态度不同，关系到国家兴亡，则国家兴亡操诸君主对人才的态度：重贤者可一统天下，为帝为王；相反则为亡国之奴。可见，五者对于治国发挥不同程度的作用。前三者有益于富国强兵，后两者则使国将不国，因此，五至论主张的是明君重用前三者，疏远后两者，最多视他们为奴役即可，不让他们参与政事，以免贻害无穷。只有重用前三者，才能国富兵强，一统天下，这样，徒役者流会风从景服。这里提及帝、王、亡主，如要深入分析，必须涉及帝道、王道、霸道，而本篇没有涉及霸道，原因是秦已统一天下，不必再提。帝、王、霸联提是战国思想的一个特征。④ 其三，要求君主重视士，强调士在政治上的重要性。先秦之士多以道统传者自居，与以政统代表的君主相抗衡，他们争取和王侯保持师友而非君臣的关系。⑤ 因此，作者提出伯己、什己、若己的看法，把士当成君主的师、友，强调他们对君主治政起着不可替代的作用。敦煌本注云：“师可以潜移默化，养成帝德；友可以拾遗补阙，匡其王业。”⑥ 可见士在君主称雄天下中起着极其重要的作用。最后，五至者实际上就是作者依德、才把士分为5等。这是因为在春秋战国时期，大量兴起的士人真材实料如何，对君侯治国、一统天下究竟能起什么作用，已是当时士人自己思考的问题。《博选》篇作者依德、才把士分为5等：能使君主一统天下、成为帝王的，便是伯己者；其次是什己者，再次是若己者。其下则仅可充厮役、徒隶之用。看来，作者是以士人襄助君主治国、统一天下的功效为标准来衡量这五至者的。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;由于《鹖冠子·博选》与《战国策·燕策》有相同记载，故学者怀疑它抄袭《燕策》，并进而推断《鹖冠子》是伪书。⑦ 然而学者们的这种怀疑却凸显出，自先秦至汉初，五至论在士阶层中甚为盛行。先秦、西汉文献如《吴子·图国》、《黄帝四经·称》、《燕策》、《荀子·尧问》、《吕氏春秋·骄恣》、《韩诗外传》、《新语·辅政》、《贾子·官人》、《说苑·君道》诸篇都有相同或相近的记载。兹据此等材料所记之人与事，依时代先后，略加阐明，以见五至论之源流。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;首先是《战国策·燕策》记燕昭王（前311—前279年在位）为报齐国破燕杀父之仇，师事郭隗。郭氏说：</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;帝者与师处，王者与友处，霸者与臣处，亡国与役处。诎指而事之，北面而受学，则百己者至；先趋而后息，先问而后嘿，则什己者至；人趋己趋，则若己者至；冯几据杖，眄视指使，则厮役者之人至。若恣睢奋击，呴籍叱咄，则徒隶之人至矣。此古服道致士之法也。⑧</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;燕王听从郭氏之见，广开言路，尊贤使能，于公元前284年派乐毅率兵攻下齐国70余城，仅遗莒、即墨，一雪父仇。可见燕王采纳此说，的确有助于兴邦强国。看来，郭氏算是五至者中的什己者。此段所记基本上与《博选》篇相同，不同者在于《燕策》说“霸者与臣处，亡国与役处”，“霸者”为《博选》篇所无，又“亡国与役处”，《博选》篇说是“亡国与徒处”，徒、役都是地位低下的被统治阶层。⑨《燕策》说这是“古服道致士之法”，说明以5种方法罗致5种人士是自古以来的“服道”者所用之方。易言之，此法自古已有，非郭氏首倡。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;服道致士之方，可上溯到商代仲虺。《尚书·仲虺之诰》记仲虺告诉成汤说：“能自得师者王，谓人莫己若者亡。”⑩ 意思是成汤若能找到贤能，并事之为师，就能称王，一统天下。若自以为是，目空一切，商朝就会灭亡。仲虺是劝成汤要谦卑治理从夏桀手中取来的天下，有谦则成、骄则败之意。当然，仲虺劝成汤努力求贤，认为汤能得到贤明的帮助，一统天下更没有问题。看来，君主个人的才识、眼光、抱负起着关键的作用。政权存亡，在于君主怎样看待自己与贤臣。如果君主谦虚自下，且能真正选拔杰出人才，则政权能长治久安，否则则亡。这样，君主、求贤、政权存亡，三者有密切的关系。贤能对君主能否一统天下起了重要的作用。《仲虺之诰》虽是古文篇章，然先秦文献如《左传》、《墨子》、《荀子》等分别引用“仲虺”之言、《仲虺之志》、《仲虺之告》共8次。(11) 可见，仲虺所说的师贤为师，应是事实。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;到了春秋时代，楚庄王（前613—591年在位）也能强烈地认识到这一点。根据《吴子·图国》篇记载，吴起曾告诉魏武侯说，楚庄王虽然称霸一方，但仍然担忧臣下没有比他高明的，希望贤人辅佐，且云：“能得其师者王，能得其友者霸。”(12) 看来，楚庄王认识到要称王或称霸，关键在于君主有没有自知之明，以及愿不愿意招纳更高明的贤才辅佐政事。另外，根据庄王之言，可见王、霸之别春秋之时已有之。然考诸《左传》所载，春秋人不重王、霸之别，而多重德、力之殊，如《左传》僖公二年记苍葛告晋文公曰：“德以柔中国，刑以威四夷。”(13) 成公九年记季文子告范文子云：“德则不竞，焉盟何为？”(14) 这都是小国对盟主国的告诫。春秋晚期，晋叔向在弭兵之盟期间告诉赵文子说：“夫霸王之势，在德不在先歃。”(15) 则重德重礼乃春秋时人之重要观念。得师则王，得友则霸为春秋时人的观念，到了战国时期，进一步得到发挥。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;另外，楚庄王这一言论一直被后代记载。《吕氏春秋·骄恣》篇称，是李悝而非吴起对魏武侯说了上述那番话。李悝谏魏武侯勿因谋事而当就自骄，说楚庄王因臣下才能不如己而忧心忡忡，并称他自己听到仲虺之言：“诸侯之德，能自为取师者王，能自取友者存，其所择而莫如己者亡。”(16)《韩诗外传》卷6称赞楚庄王能以臣下见解不如自己而担忧没有贤佐治国为先生。(17)《说苑·君道》篇所记基本上与《黄帝四经·称》篇亦相同。(18)</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;写于战国中期的《黄帝四经·称》篇云：“帝者臣，名臣，其实师也。王者臣，名臣，其实友也。霸者臣，名臣，其实［宾也。危者］臣，名臣，其实庸也。亡者臣，名臣，其实虏也。”(19)《称》篇此节首次提出5种君、5种臣，并侧重说明它们的不同性质。君的次序先后为帝、王、霸、危、亡，臣的次序先后为帝者之师、王者之友、霸者之宾、危者之庸、亡者之虏。他们的地位明显有差别。帝、王、霸三者都是统一天下的君主，但帝之师的地位比王之友高，而霸之宾又在王之友下。帝、王、霸，其统治境界有高下之殊；师、友、宾，其地位也有上下之别。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;至于郭隗所说服道云云，离《称》篇约百年，偏重阐述君主重用贤士以期收到强国之效，内容重点与《称》篇有别而与《博选》篇同。此两篇所著时代相近，而时代学风已有差异，所以认为《称》、《燕策》、《博选》是对庄王之言的发挥亦未尝不可。(20)</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;五至论到了战国末、秦汉时代仍然盛行。荀子后学在《荀子·尧问》篇所言与《吴子·图国》篇基本相同，称：“诸侯自为得师者王，得友者霸，得疑者存，自为谋而莫己若者亡。”(21) 这里要注意的是，荀子后学只提王、霸，而没有提到帝，同时也没有把亡臣说成是徒役。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;汉初，陆贾在《新语·辅政》篇指出：“杖圣者帝，杖贤者王，杖仁者霸，杖义者强，杖谗者灭，杖贼者亡。”(22) 陆氏也把君主分为帝、王、霸、强、灭、亡6种，并认为不同君主重用不同的臣子，其君道与治境必然有异。而且，陆贾强调君主重用贤能，贤能依等次分为圣者、贤者、仁者、义者。陆氏没有说圣者、贤者是君主的师友，但内涵基本相同。其后，贾谊在《贾子·官人》篇说君主对待不同德、才之士，礼节不同，指出“官人”亦有6等，即师、友、大臣、左右、侍御、厮役。君主待他们之礼节应有不同，“与师为国者帝，与友为国者王，与大臣为国者伯，与左右为国者强，与侍御为国者若存若亡，与厮役为国者亡可立待也。”(23) 贾谊是在西汉大一统时代提出这种看法，其目的是改变起自草昧的汉帝对大臣的态度，主张礼重大臣，这是他的政论的一大贡献。(24) 贾谊提出帝、王、霸等之别，宜是继承先秦遗说。汉已是大一统之国，并没有战国所谓王霸之分，其帝、王之别论指的是国家统治可能达到的不同理想阶段。陆贾、韩婴、贾谊、刘向身处炎汉，仍强调师、友对君主治国的重要性，正说明这一观念为先秦、秦汉思想家所重视。可见，自商初迄秦汉，儒道两家都相当肯定士能辅佐君主一统天下、建立王业所发挥的作用。他们把君主统治天下所能达到的境界，依其高低，分成帝、王、霸、亡主数等；依德、才高下把士人分成师、友、徒、隶数等。这种看法成为先秦西汉士人政论的一个特色。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;与此有密切关系的是，战国之际，各国君主力求一统天下，诸子则提出帝道、王道、霸道说，两相呼应。唯各学派的主张各有偏重，或强调君主重用师友，或强调师友之实际内涵。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;下文讨论先秦诸子对帝道、王道、霸道的看法。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;二、先秦帝道、王道、霸道说</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;战国时期，诸子提出帝道、王道、霸道三道说。不同学派对这三道有不同的看法，各学派内部对此的看法也未必一致。有关这方面的研究，罗根泽曾撰《古代政治学中之“皇”“帝”“王”“霸”》一文，(25) 本文在此基础上，加以阐明。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;罗氏认为，王始于周，霸始于春秋，而王霸之说，则在战国中叶。王霸之霸，在周代是制度名词，为侯伯之伯，没有战国时期王霸之意。《左传》、《论语》、《墨子》所说的霸，都是制度名词，而非政治名词。到了战国时期，孟子思以仁义易天下，首标王霸二字。(26) 罗氏此说，当符合史实。兹先说明儒家对王、霸的看法。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;儒家一般强调王、霸之别，很少提及帝道。孟子分辨王霸之别，强调王道，轻视霸道。他说：“以力假仁者霸，霸必有大国；以德行仁者王，王不待大……以力服人者，非心服也，力不赡也；以德服人者，中心悦而诚服也。”(27) 盖孟子主张行仁政，希望君主为民制产，这样，天下百姓就会自动臣从，该国自可无敌于天下，进而一统天下。他反对以武力称霸，鼓吹以仁义悦服诸侯。孟子把王道高置于霸道之上，因为他有自己的理想。他重义而非利，以仁义道德为评价标准，而不一定以历史事实为判断标准。例如，孔子称赞管仲九合诸侯，然而孟子轻视管子，说：“管仲，曾西之所不为也，而子为我愿之乎？”(28) 虽然管子在春秋时推行霸政有其贡献，但到了战国，时移势易，当时诸侯多言利，所以孟子欲矫其枉，而有重王轻霸之说。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;其后，荀子对王道、霸道也提出了和孟子有所不同的看法。他也以王道为最高的政治理想，但是尊王而不黜霸。例如，他称赞齐桓公重用管子，有大节、大知、大决才能，“九合诸侯，一匡天下，为五伯长。”(29) 他能结合历史和道德两方面，给桓公、管子很高的评价。荀子认为，理想的王者必须“修仁义，伉隆高，正法则，选贤良，养百姓”。(30) 他指出王者与霸者之别在于：“用国者义立而王，信立而霸”，(31)“修礼者王，为政者强”，“王者富民，霸者富士，仅存之国富大夫，亡国富筐箧，实府库”。(32) 荀子认为，君主当重义，所谓的义，指礼义之统。若君主重义，则能一统天下。成汤因重视礼义，故能一统天下，成为王者。修礼、依礼治国是王者之事。君主若只重视信，虽能治理好百姓，而所治之国只能是强国，只能成为霸者。看来，荀子对王、霸的看法和孟子有别。另外，荀子把国家分配财产所达到的不同程度，分成4等：王者之国、霸者之国、仅存之国、亡国。这是他与孟子的最大差别。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;其次是道家黄老学派，罗氏一文对之没有提及。黄老学在战国、秦汉有很大影响。该派也提出王、霸之分，《黄帝四经·经法·大分》篇说君主参与天地化育，并以明德修身，就可以王天下。若君主掌握法度，大臣遵循事理，则国家称霸。其次是上下一心，则国家强大。再次是君惠臣忠，则国家安定。再下是臣不失处，则国家堪忧，勉强生存。(33) 很明显，该篇作者以君主的精神修养为标准，认为君主越重视提升个人的精神境界，就越能统一天下，越能更好地治理天下。相反，如果君主不注重精神修养，反而多措意于“形下”的法度建设，讲究儒家的忠惠，则天下更难统一，治理天下的情形也会每况愈下。另外，《黄帝四经·称》篇提出帝、王、霸，上文已详，不赘。《老子》一书提及帝、王，没有提到霸，但帝、王两词都没有政治学之义。(34)《庄子》则“帝王”连用，(35) 文中提到的“王”字没有政治学上的意义。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;再次是法家。商君明白提到帝、王、霸三道说，该点罗氏一文也没有提及。《史记·商君列传》记商鞅见秦孝公，他以帝道、王道都不能说动孝公，就改说霸道，结果孝公重用了他。商君说：“吾说君以帝王之道比三代，而君曰：‘久远，吾不能待……安能邑邑待数十百年以成帝王乎？’故吾以强国之术说君，君大说之耳。然亦难以比德于殷周矣。”(36) 则所谓帝道乃指用三代帝王兴起之道。孝公认为帝道是三代帝王所用之术，不适合亟欲强国称霸的秦国，只有霸道，才能收到尽快强国之效。看来，帝道与霸道之别在于：一用于古，一用于今，古今时势不同，适用于三代之帝道未必能适用于当今秦国。时移势转，治道也不同。商君认为推行帝道之君主的道德比行霸道者为高，这可能与他受儒学影响有关。(37)</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;《商君书》应是商君遗著与其他法家遗著的合编。(38) 该书对帝、王未加分别，常常连用。(39)“霸”字少用，全书凡五见，(40) 反而常常连用“王”、“强”两字，如《农战》篇说：“百人农，一人居者，王；十人农，一人居者，强。”(41)《去强》篇说：“怯民勇，勇民死，国无敌者强，强必王。”(42)“王”是《商君书》的理想统治者和统治境界。国家只有先强大，才能成为“王”之国。为成为强国，商鞅和《商君书》一样，提倡重农重战政策：全国皆农，开垦土地，增加政府收入，如此君国才富；全国皆服兵役，全力作战，才能战无不胜，君国强大。为了达到富国强兵的目的，他们主张用严刑重法，百姓顺从则有赏，否则处以极刑；又强烈反对包括儒者在内的任何知识分子和知识活动。(43)《去强》篇有一段话极形象地概括了这一要点：“怯民使以刑必勇，勇民使以赏则死。怯民勇，勇民死，国无敌者强，强必王。贫者使以刑则富，富者使以赏则贫。治国能令贫者富，富者贫，则国多力，多力者王。”(44) 强调用重刑，使百姓成为敢死队，使君国由贫而富，由弱而强。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;韩非的看法和《商君书》基本相同。《韩非子》很少用“帝”，多连用“霸王”，霸与王之义相同。《五蠹》篇最能说明韩非的主张：“无书简之文，以法为教；无先王之语，以吏为师；无私剑之捍，以斩首为勇。是境内之民，其言谈者必轨于法，动作者归之于功，为勇者尽之于军。是故无事则国富，有事则兵强，此之谓王资。既畜王资而承敌国之舋，超五帝，侔三王者，必此法也。”(45) 他强烈反对国民有任何的文艺爱好和活动，反对他们学习历史文化知识，只能学习官府法令文书，只能当兵或务农（其实两者合而为一，平时务农，战时当兵），当兵作战就能为君国开疆辟土，务农垦田就能为君国增加收入，如此，君国就能国富兵强，称霸诸侯，最后一统天下。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;因此，法家的目标是强调君国一统天下，除了商鞅曾提过帝道外，其后学与韩非就不分所谓的帝、王、霸之别了。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;罗根泽在讨论孟子、荀子、韩非、《吕氏春秋》4家时提出：“后有作者，无以轶于四家之说矣。”(46) 此看法值得商榷。因为，先秦诸子除了这4家外，杂家《管子》、纵横家也谈帝道、王道、霸道。《管子》中有些篇章学属儒家，有些学归黄老，因此下文讨论就《管子》而论，而不把相关篇章归入上文儒家或黄老学来阐明。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;学者对《管子》一书的性质与写成年代，意见纷纭。有学者认为是由先秦至汉武、昭各家作品的结集。(47) 有学者认为是管子学派的著作，出自稷下学者之手。(48) 然细读《管子》，其内容集儒、道、法、阴阳等家之大成。《管子》不少篇章“王霸”、“霸王”并提，两词内涵没有太大差异。(49) 但是有些篇章对此两词的内涵还是有不同的理解。这些篇章的思想或侧重黄老，或偏重儒家，或侧重法家。下文分篇说明。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;《乘马》篇从黄老学的角度来看帝、王、霸三者之别：“无为者帝，为而无以为者王，为而不贵者霸。”(50) 君主若能无为而天下大治，则是帝。若君主有所作为，然后天下大治，君主不再为国事操劳，则为王。若君主施政有为，建制立法，即使不自以为贵，而天下能大治，则他是霸主。这样，三种君主之用心与治国的效果成反比，用心愈少而治效大者为上，用心愈多而政治事业未必最好——最重要的是君主能掌握道之枢要。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;《兵法》篇也是从君主掌握“道”这一层面来分别皇、帝、王、霸的。该篇云：“明一者皇，察道者帝，通德者王，谋得兵胜者霸。”(51) 皇、帝、王、霸四者应有差别。尹注认为前三者皆“随世立名者，其实则一也”，(52) 是不合原义的。皇能彻底了解“一”（道），帝只能察觉“道”，对道的了解和把握与皇犹且有间。王之修养达到由“道”落实到人生修养而成的德，其修养不如帝，霸者又是等而下之，用权谋打胜仗以称霸称雄。战国末期，诸子倡言皇，凌帝而上之，故有三皇五帝说。(53) 该篇应该写于战国末期。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;《幼官》篇则从儒家角度来分别帝、王、霸，云：“常至命，尊贤授德则帝；身仁行义，服忠用信则王；审谋章礼，选士利械则霸。”(54) 该节认为：君主若重用有德有才者则为帝，盖重用德贤则彼辈必多献策建言，有利治国，且臣劳君逸。君主贵在知人善用。若君主自己行仁义，必求事事表率群伦，势必劳疲不堪，然使天下风从景仰，也可为王。霸者则不免要运用谋略、强调以礼乐制度来规范臣民，并以行军来建立威信，所费之心思、力量都较诸帝、王辛苦。这样，该篇是从君主之用心、用人、建立法制等方面来分别帝、王、霸。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;《霸言》篇有一节也从儒家的角度来论王、霸之别：“夫丰国之谓霸，兼正之国之谓王。”尹注：“丰国”指“自丰其国”，“兼正”指“兼能正他国”。(55) 所以，霸者使己国强大而已，而王者不仅使己国富强，而且使他国也能进入正轨。这样，王者在道德、政策等方面对他国产生正面影响。该篇又说：“夫争天下者，必先争人……得天下之众者王，得其半者霸。”(56) 所谓“争人”，是指争取民心，要争取民心，必先使百姓有土地，以解决温饱问题。这一看法和《孟子·离娄上》中“得天下有道：得其民，斯得天下矣；得其民有道：得其心，斯得民矣”之说相同。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;另外，《枢言》篇前部份也以儒义来阐释为政之道，认为君主治国要选贤慎贵、慎民置官，慎富务地，重视贤能、民众、土地这3大要素。君主对这三者的重视程度不同，就决定他们的治国水平、境界：“王主积于民，霸主积于将战士，衰主积于贵人，亡主积于妇女珠玉，故先王慎其所积。”(57) 若君主能重视民众的福祉，必得民心，就能称王。若君主只依靠战士来东征西讨，开疆辟地，以维持政权的稳定，只能称霸。若君主只依靠权贵，而忽视贤能、百姓，那么，国家必然衰竭不振。若君主沉迷声色，玩物丧志，必然国破家亡，成为阶下之囚。《枢言》篇以重视人民为前提，以君主对百姓的态度，把君主分为这4等。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;《山至数》篇记管子对齐桓公说：“王者藏于民，霸者藏于大夫，残国亡家藏于箧。”(58) 其意即称王的君主能藏富于民，称霸的君主则藏富于大夫，至于残国之君，则只中饱私囊。这一节是从国家财富分配来论王、霸、亡主的。看法和上文所引《枢言》篇相同，不过该节侧重从财富角度为出发点。另外，这节文字也和上文所引《荀子·王制》篇的说法相同。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;最后，《治国》篇从经济角度论王、霸、亡之别。该篇认为，治国之道最重要的是先使百姓富裕。百姓富裕了，就安乡重家，相反就“危乡轻家”、“陵上犯禁”。而要使百姓富裕，就必须重视农业生产，反对“末作文巧”的知识活动。当时，农作物应以粟作为重要的粮食，因此，该篇强调君主重视粟与国家兴亡的密切关系：“不生粟之国亡，粟生而死者霸，粟生而不死者王。粟也者，民之所归也；粟也者，财之所归也；粟也者，地之所归也。”(59) 意者君主重视国民重粟，则国家会富强，进而一统天下。否则，只能成为霸者，甚至是亡主了。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;纵横家也谈帝、王、霸三者。苏秦最初见秦惠王时，以连横说惠王：“虽古五帝、三王、五伯，明主贤君，常欲坐而致之，其势不能，故以战续之。”(60) 分别了帝、王、伯（霸）三者，这三者除了在时代上有先后之外，没有说明他们的具体差别。范雎说秦昭王云：“五帝之圣而死，三王之仁而死，五伯之贤而死，乌获之力而死，奔育之勇焉而死。”(61) 他指出了五帝、三王、五伯（霸）在时代上有先后之别，并且给三者以价值判断：五帝为圣，三王为仁，五伯为贤，圣的德行、治绩比王高，王又比伯高。范雎对五帝、三王、五伯皆给以正面评价。可见，五帝、三王、五伯之治道仍是纵横家的楷模，认为皆值得战国时君的效法，主要是希望战国君主能建立像他们一样的丰功伟业，既能收到富国强兵、统一天下之效，又能名垂史册，为后世君主效法。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;帝道、王道、霸道说不仅是先秦的一大思潮，到了秦汉，仍然在士人阶层中盛行。编撰于秦代的《吕氏春秋》，对帝、王、霸三者也有看法。《谕大》篇云：“昔舜欲旗古今而不成，既足以成帝矣。禹欲帝而不成，既足以正殊俗矣。汤……既足以服四荒矣。武王欲及汤而不成，既足以王通达矣。五伯欲继三王而不成，既足以为诸侯长矣。”(62) 这里明显分别了帝、王、霸三者统治之效，等而下之。舜不能号令古代，但是已成为帝，可以号令时人。禹不能成为帝，只能改易异方殊俗。汤不能移风易俗，只能使荒服服从。武王犹不如汤，仅能臣服海内诸侯。五伯则只能为诸侯之长。该篇明确指出舜、武王、五伯为帝、王、霸之代表，时代愈早，其治道愈善愈高，明显有厚古薄今之观念。《务大》篇有相同记载，不赘。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;《先己》篇云：“五帝先道而后德，故德莫盛焉；三王先教而后杀，故事莫功焉；五伯先事而后兵，故兵莫强焉。”(63) 高诱注五帝指黄帝、高阳、高辛、尧、舜，三王指夏、商、周，五伯指昆吾、大彭、豕韦、齐桓、晋文，(64) 这也明显指出时代愈早，治道愈隆。该节以道家的角度来看治道之隆衰：五帝以无为道德治化天下，三王先教后杀以治，故治事有成功，五伯用兵称雄，又等而下之。这里以德、功来衡量帝、王，受到春秋立德为上、立功次之的观念所影响。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;帝、王、霸之等差，不仅先秦诸子言之，汉代诸子也言之。《白虎通·号》篇云：“帝王者何？号也。号者，功之表也，所以表功明德，号令臣下者也。德合天地者称帝，仁义合者称王，别优劣也。”(65) 这是从道德修养境界来分帝、王之别，帝优于王。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;帝、王、霸之别，尤其是王道与霸道之别，成为中国政治史、政治思想史上一个重要的观念，儒者以此来衡量君王施政之得失、修养之高低，并给予适当的评价、定位。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;最后，简要说一下先秦时期出现帝道、王道、霸道说的时代背景。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;诸子首先分别王道、霸道，到了战国后期，才在王、霸之上提出帝道。帝凌王、霸而上之。这种称谓的转变，应该和战国时期的政局有关。战国初中期，各国诸侯称王。如公元前344年魏惠王自称为王。公元前334年，魏惠王到徐州朝见齐威王，尊他为王，齐王也承认魏惠王的王号，即所谓徐州相王。徐中舒先生认为这是战国史上一件惊人之事，否定了周王独尊的共主地位，对周室予致命打击，周天子连虚名也不能独享。(66) 其后秦于公元前325年称王。魏国国力进一步削弱，为了抵抗秦，争取与国。魏王与韩威侯在巫沙相会，并尊韩为王。但魏仍感力量单薄，所以在公元前323年约会韩、赵、燕、中山，互相称王。其后形势发生变化：大国不断吞并小国，合纵连横出现。由于各大诸侯已经称王，王号不那么尊贵了。公元前288年10月，秦昭王在宜阳自称西帝，尊齐愍王为东帝，这就把原来上帝的称号作为国君的尊称了。从此以后，帝成为比王更尊贵的称号。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;因此，公元前323年和288年是两个重要的年份。公元前323年前后，孟子、商鞅、荀子都健在，而且比较活跃。到了公元前288年，荀子、邹衍、韩非、吕不韦、稷外学派诸子如接子、田骈、慎到、还有《管子》学派等比较活跃。这样，他们受到政治局势影响，有意识地提出帝道说，并将帝凌驾于王、霸之上。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;三、结论</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;通过上文所论，可见《鹖冠子·博选》篇提出的五至论有其理论渊源。虽然《博选》篇写成于秦代，但是，它反映了先秦诸子对五至论的重视。诸子提出的理论也受到时代影响。当各国争雄，称王尊帝的情形出现时，诸子也因应时势，提出帝道、王道、霸道说。这样，五至论与帝、王、霸三道说有紧密的关系。这些说法都是诸子关心国君怎样统一天下及统一后怎样治理的问题，以及他们作为知识分子在统一前后所扮演的角色和所能作出的贡献而提出的看法。可以说，这是先秦诸子对自己的价值和历史作用进行自我反思的结果。不仅先秦诸子，其后的秦汉士人也如此。他们虽然生活在大一统的时代里，但是仍然在探讨士的价值和理想的治国之道，还在探讨五至论和帝、王、霸说。可以说，五至论和三道说是先秦迄汉代的两大重要思潮，而后者更是中国传统政治思想的重要内容之一。《博选》篇虽然没有充分阐明帝、王的具体内涵，但是其历史地位还是由于前揭内容而彰显。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;［收稿日期：2009年3月23日］</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;注释：</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;① 戴卡琳著，杨民译：《解读〈鹖冠子〉》，沈阳：辽宁教育出版社，2000年：孙福喜：《〈鹖冠子〉研究》，西安：陕西人民出版社，2002年；杨兆贵：《〈鹖冠子〉研究》，北京：北京师范大学中国古代史博士论文，2003年。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;② 有关考证，详参拙文《〈鹖冠子〉研究》，第18—109页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;③ 本文有关《鹖冠子》引文均据香港中文大学图书馆馆藏景明刻本《子汇》本，该本无阿拉伯页码，故引文位置标注如上。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;④ 胡家聪：《管子新探》，北京：中国社会科学出版社，1995年，第12页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⑤ 余英时：《士与中国文化》，上海：上海人民出版社，1987年，第51—68，103—104页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⑥ 傅增湘：《跋唐人写〈鹖冠子〉上卷卷子》，《国立北平图书馆月刊》，第3卷第6号，第720页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⑦ 翁元圻注，王应麟著：《翁注困学纪闻》，北京：商务印书馆，1959年，第905页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⑧ 张清常，王延栋笺注：《战国策笺注》，天津：南开大学出版社，1993年，第777页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⑨ 裘锡圭：《古代文史研究新探》，南京：江苏古籍出版社，1992年，第400—401页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⑩ 孔颖达：《尚书正义》，北京：北京大学出版社，1999年，第198页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(11) 有关《左传》、《墨子》、《荀子》等书引用“仲虺”的详情，详参刘起釪：《尚书学史》，北京：中华书局，1989年，第26—27页；陈梦家：《尚书通论》，石家庄：河北教育出版社，2000年，第14页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(12) 李硕之，王式金：《吴子浅说》，北京：解放军出版社，1986年，第59页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(13) 杨伯峻：《春秋左传注》，北京：中华书局，1981年，第434页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(14) 杨伯峻：《春秋左传注》，第842页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(15) 韦昭注：《国语》，上海：上海古籍出版社，1990年，第466页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(16) 陈奇猷：《吕氏春秋校释》，上海：学林出版社，1990年，第1404页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(17) 《韩诗外传》把君主闻道术先后、闻道与否分为先生、后生、不生三种。韩婴称赞楚庄王能以臣下见解不如自己而担忧没有贤佐治国为先生。庄王云：“能自取师者王，能自取友者霸，而与居不若其身者亡。”见魏达纯：《韩诗外传译注》，长春：东北师范大学出版社，1993年，第208页。此处强调王霸之别在于君主得师抑得友；楚王所说亡主是因他常和才德不如己的左右在一起，居不处仁，故自取灭亡，没有说亡主与奴徒相处，这和《博选》篇大意相同。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(18) 《说苑·君道》记燕昭王问郭隗，郭氏回答有关“帝者之臣，其名臣也，其实师也”云云，和《黄帝四经·称》篇相同，并指出燕王应以不同的态度招徕四至者（厮役、人臣、朋友、师傅），这样“上可以王，下可以霸”。燕王采纳郭氏建言，于是苏代、邹衍、乐毅、屈景来襄助而终于以弱燕打败强齐。详参刘向撰，向宗鲁校证：《说苑校证》，北京：中华书局，1987年，第16—17页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(19) 余明光：《黄帝四经与黄老思想》，第322页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(20) ［日］大形彻：《〈鹖冠子〉の成立》，《大阪府立大学纪要（人社）》第31卷，1983年，第17页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(21) 王先谦：《荀子集解》，北京：中华书局，1988年，第548页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(22) 王利器：《新语校注》，北京：中华书局，1986年，第51页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(23) 贾谊著，閰振益、钟夏校注：《新书校注》，北京：中华书局，1992年，第292—293页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(24) 钱穆：《国史大纲》，北京：商务印书馆，1996年，第143页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(25) 该文载罗根泽：《诸子考索》，北京：人民出版社，1958年，第115—129页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(26) 罗根泽：《诸子考索》，第115－117页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(27) 朱熹：《四书章句集注·公孙丑上》，北京：中华书局，1983年，第235页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(28) 朱熹：《四书章句集注·公孙丑上》，第227页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(29) 王先谦：《荀子集解·王霸》，第222页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(30) 王先谦：《荀子集解·王制》，第172页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(31) 王先谦：《荀子集解·王霸》，第202页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(32) 王先谦：《荀子集解·王制》，第153—154页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(33) 余明光：《黄帝四经与黄老思想》，第253—254页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(34) 如《老子》第16章：“知常容，容乃公，公乃王，王乃天。”（王弼著、楼宇烈校释：《王弼集校释》，北京：中华书局，1999年，第36—37页）第25章：“道大，天大，地大，王亦大。”（《王弼集校释》，第64页）第39章“侯王自谓孤、寡、不谷”（《王弼集校释》，第106页），所说的“王”都是指天子，而非一统天下、推行王道之王。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(35) 如《天道》篇说：“六通四辟于帝王之德者，其自为也，昧然无不静者矣！”《天运》篇：“天有六极五常，帝王顺之则治，逆之则凶。”《秋水》篇说：“帝王殊禅，三代殊继。”</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(36) 司马迁：《史记》，北京：中华书局，1959年，第2228页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(37) 钱穆：《先秦诸子系年考辨》，上海：上海书店，1992年，第211—212页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(38) 高亨：《商君书注释》，北京：中华书局，1974年，第7页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(39) 如《更法》篇：“帝王不相复，何礼之循？”《弱民》篇：“今夫人众兵强，此帝王之大资也。”两篇都把帝王并提。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(40) 如《更法》篇说：“三代不同礼而王，五霸不同法而霸。”《修权》篇说：“三王以义亲，五霸以法正诸侯。”都提到春秋五霸，这是历史名词，而没有本文政治学上的意义。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(41) 高亨：《商君书注释》，第37页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(42) 高亨：《商君书注释》，第46页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(43) 可详高亨：《商君书注释》，第9—18页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(44) 高亨：《商君书注释》，第46页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(45) 陈奇猷：《韩非子集释》，台北：世界书局，1991年，第1067页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(46) 罗根泽：《诸子考索》，第123页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(47) 罗根泽：《诸子考索》，第422—500页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(48) 胡家聪：《管子新探》，第21页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(49) 如《重令》篇“地大国富，人众兵强，此霸王之本也。”《霸形》篇“君有霸王之心。”《小问》“霸王之君兴，而登山神见。”《度地》篇“能为霸王者，盖天子圣人也。”</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(50) 戴望：《管子校正》，《诸子集成》第5册，北京：中华书局，1954年，第13页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(51) 戴望：《管子校正》，第94页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(52) 戴望：《管子校正》，第94页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(53) 顾颉刚：《三皇考》，载《顾颉刚古史论文集》第3册，北京：中华书局，1996年，第41—44页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(54) 戴望：《管子校正》，第37页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(55) 戴望：《管子校正》，第142页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(56) 戴望：《管子校正》，第142页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(57) 戴望：《管子校正》，第64页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(58) 戴望：《管子校正》，第370页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(59) 戴望：《管子校正》，第262页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(60) 张清常，王延栋笺注：《战国策笺注》，第59页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(61) 张清常，王延栋笺注：《战国策笺注》，第128页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(62) 陈奇猷：《吕氏春秋校释》，上海：学林出版社，1990年，第722页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(63) 陈奇猷：《吕氏春秋校释》，第144页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(64) 陈奇猷：《吕氏春秋校释》，第153—154页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(65) 陈立：《白虎通疏证》，北京：中华书局，1994年，第43页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(66) 徐中舒：《先秦史论稿》，成都：巴蜀书社，1992年，第249—250页。
+</div>
+<div class="page-list">
+    <div class="pageNav" id="pageList"></div>
+</div>
+</div><br class="cls"/>
+		</div>
+		</body></html>

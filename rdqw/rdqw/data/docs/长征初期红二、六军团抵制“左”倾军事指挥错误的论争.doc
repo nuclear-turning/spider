@@ -1,0 +1,200 @@
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><style>.trR{ text-align:right;}
+#wraper{width:1190px; margin:0 auto; margin-bottom:10px;text-align:left;}
+#left{ float:left;width:250px; text-align:left;}
+#right{float:right;width:930px;text-align:left;border-top:2px solid #619bc0; padding-bottom:10px;}
+.border_w{ border:1px solid #d3d3d3;border-top:2px solid #619bc0;}
+.t01{height:30px;line-height:30px;border:1px solid #dddddd;padding-left:10px;background:url(../images/tbg01.jpg) repeat-x bottom; color:#1183c1; font-size:14px;}
+.con_01{ padding:10px;}
+.con_cbg{ background:url(../images/con_cbg.gif) repeat-y;}
+.con_bbg{ background:url(../images/con_bbg.gif) no-repeat left bottom; height:1px; line-height:1px; font-size:0;}
+
+.source{margin:15px;background:url(../images/linex.gif) repeat-x bottom; padding-bottom:30px; margin-bottom:30px;}
+.source .source-img{border:1px solid #d3d3d3; text-align:center; padding:5px;margin-bottom:10px; }
+.source p{color:#666666; font-weight:bold; font-size:12px;}
+.source .fblue{ color:#236bac; font-weight:normal;}
+
+.t_tj{ height:27px;padding-top:2px;margin:15px; background:url(../images/con_t_tj.gif) no-repeat left top; padding-left:10px; color:#FFFFFF; font-size:14px;}
+.c12_01{ margin-left:15px; margin-right:15px; margin-bottom:15px;}
+.c12_01 li{font-size:12px; line-height:24px; background: url(../images/dot.gif) no-repeat 2px 10px; padding-left:15px;}
+
+#artibodyTitle{color:#236bac;font-family:"宋体";font-size:20px;font-weight: normal;line-height:35px;text-align:center;margin-top:10px;	text-align:center;}
+#artisubTitle{font-family:"宋体";font-size:16px;font-weight: normal;line-height:28px;text-align:center;}
+.articl_info{margin-left:30px; margin-right:30px; position:relative;border-bottom:1px solid #e1e1e1;padding-bottom:20px; margin-bottom:20px;}
+.btn-img{
+	background-image:url(../images/allbg.png);
+	background-repeat:no-repeat;
+	font-size:12px;		
+	cursor:pointer;
+	border: 0px none;
+	display: inline-block;
+	vertical-align:middle;
+	text-align:center;}
+
+.artInfo{height:22px;border-top:1px solid #e1e1e1;border-bottom:1px solid #e1e1e1;padding:5px;margin:20px;}
+.artInfo li{float:left;width:33%;height:22px; line-height:22px; color:#666666;}
+
+.artInfo li .collectionPage_link{
+	background-position:-509px -80px;
+	padding-left:10px;
+	margin-top:-2px;
+	_margin-top:0px;
+	margin-left:10px;
+	width:51px;
+	height:22px; 
+	line-height:22px;		
+	color:#1183c1;	}
+.artInfo li .printPage_link{
+	background-position:-570px -80px;
+	padding-left:10px;
+	margin-top:-2px;
+	_margin-top:0px;
+	margin-left:10px;
+	width:51px;
+	height:22px; 
+	line-height:22px;	
+	color:#1183c1;}
+.artInfo li .downloadPage_link{
+	background-position:-631px -80px;
+	margin-top:-2px;
+	_margin-top:0px;
+	margin-left:10px;
+	width:51px;
+	padding-left:10px;
+	height:22px; 
+	line-height:22px;	
+	color:#1183c1;}
+
+
+.artBaseInfo{line-height:24px; margin-bottom:5px;}
+.artBaseInfo .info_left{float:left;width:80px;}
+.artBaseInfo .info_right{float:left;width:790px;}
+
+.artBaseInfo dt{float:left;width:80px; color:#666666;line-height:20px; display:inline-block;}
+.artBaseInfo dd{color:#666666;line-height:20px;display:inline-block;}
+.artBaseInfo .col li{ float:left;width:210px; height:20px; line-height:20px;color:#666666;}
+
+.artBaseInfo .item{ float:left;width:50%;}
+.artBaseInfo .notice{
+	margin-left:10px;
+	width:61px;
+	padding-left:10px;
+	height:22px; 
+	line-height:22px;
+	background-position:-448px -80px;	
+	color:#1183c1;}
+
+.artInfo{height:30px;border-top:1px solid #e1e1e1;border-bottom:1px solid #e1e1e1;margin:20px 10px;}
+.artInfo div{ float:left;width:30%;height:30px; line-height:30px; text-align:center;}
+.artInfo div a{ margin-left:20px; margin-right:20px;}
+.artInfo li{float:left;width:33%;height:22px; line-height:22px; color:#666666;}
+
+.articl_info{margin-left:30px;margin-right:30px; position:relative;border-bottom:1px solid #e1e1e1;padding-bottom:20px; margin-bottom:20px;}
+.artBaseInfo{margin-bottom:5px;}
+.articl_info_t{float:left;width:80px;margin-right: -100%;font-weight:bold;line-height:24px;}
+.articl_info_c{float: left;width: 100%;}
+.articl_info_c .info_c{margin-left:80px; line-height:24px;}
+.artBaseInfo .marL{ margin-left:20PX;}
+.artBaseInfo .col_info{ float:left;width:30%;line-height:20px;}
+
+.fontSize{position: relative;right:0px;top:0px;font-size:12px; height:30px; line-height:30px; text-align:right;}
+.fontSize a{border:1px solid #c2c2c2;margin-right:10px;padding:4px 1px;*padding:1px; cursor:pointer;font-size:12px;}
+.fontSize a span{background:url(../images/page_a_36.png) repeat-x;padding:3px;}
+
+.fontSize a.now{border: #f9ad75 1px solid;padding:4px 1px;*padding:1px;}
+.fontSize a.now span{color:#ff7d27;background:url(../images/current_34.png) repeat-x bottom;padding:3px;}
+.artibody{margin-left:20px;margin-right:20px;font: 18px/180% "Microsoft YaHei","微软雅黑"; color:#666666;}
+.artibody p{margin-bottom:20px;}
+
+.fontSize A:link{ color:#000000;text-decoration:none;}
+.fontSize A:visited{ color:#000000;text-decoration:none;}
+.fontSize A:hover{ color:#FF0000;text-decoration:none;}
+.fontSize a.now:link{color:#ff7d27;text-decoration:none;}
+#Zoom img {max-width:600px; max-height:600px; scale:expression((this.offsetWidth > this.offsetHeight)?(this.style.width = this.offsetWidth >= 600 ? "600px" : "auto"):(this.style.height = this.offsetHeight >= 600 ? "600px" : "auto")); display:inline !important;}
+
+.t_artiInfo{font-size:14px; padding-left:20px;background:url(../images/linex.gif) repeat-x top; line-height:30px; margin-top:10px;}
+.li_artiInfo{margin-left:30px; margin-right:30px;padding-bottom:10px; }
+.li_artiInfo ul li{float:left;width:100%;padding:3px 0;}
+.li_artiInfo ul li .title{ float:left;width:65%;}
+.li_artiInfo ul li .author{ float:left;width:15%;}
+.li_artiInfo ul li .come{ float:right;width:20%;color:#999999; text-align:right;}
+
+
+.index_artInfo{height:36px; line-height:36px; border-top:1px solid #e1e1e1;border-bottom:1px solid #e1e1e1; margin-top:20px; padding-left:20px;  padding-right:20px;padding-right:10px; margin-bottom:10px; margin-left:10px;text-align:center;}
+.index_artInfo a.collectionPage_link{ background:url(../images/icon.gif) no-repeat 0 1px; padding-left:15px;}
+.index_artInfo a.printPage_link{background:url(../images/icon.gif) no-repeat 0 -55px; padding-left:15px;}
+.index_artInfo a.downloadPage_link{background:url(../images/icon.gif) no-repeat 0 -108px; padding-left:13px;}
+
+.index_body .main{margin-left:100px; line-height:28px;color:#000000; padding-bottom:30px; padding-top:20px;}</style></head><body><div id="wraper">
+			<div id="artTitles">
+				<h1 id="artibodyTitle">长征初期红二、六军团抵制“左”倾军事指挥错误的论争</h1>
+				<h2 id="artisubTitle"/>
+			</div>
+			
+			<div class="articl_info">
+				<div class="artBaseInfo" id="autInfo">
+					<div class="articl_info_t">作 者：</div>
+					<div class="articl_info_c">
+						<div class="info_c">
+								<a target="_blank" href="/qw?s0=4&amp;s1=%e5%ae%8b%e6%af%85%e5%86%9b%2f%e6%9d%8e%e7%ba%a2%e5%96%9c%2f%e5%88%98...">宋毅军/李红喜/刘...</a> 
+						</div>
+					</div>
+					<br class="cls"/>
+				</div>
+				<div class="artBaseInfo" id="autDescription">
+					<div class="articl_info_t">作者简介：</div>
+					<div class="articl_info_c">
+						<div class="info_c">宋毅军，中共中央文献研究室研究员；
+    李红喜，中共中央文献研究室副编审，北京  100017；
+    刘杰，海军大连舰艇学院社科部教授。大连  116018</div>
+					</div>
+					<br class="cls"/>
+				</div>
+				<div class="artBaseInfo" id="tAutInfo"/>
+				<div class="artBaseInfo" id="orgInfo">
+					<div class="articl_info_t">原文出处：</div>
+					<div class="articl_info_c">
+						<div class="info_c">中共党史研究</div>
+					</div>
+					<br class="cls"/>
+				</div>
+				<div class="artBaseInfo" id="astInfo">
+					<div class="articl_info_t">内容提要：</div>
+					<div class="articl_info_c">
+						<div class="info_c">
+							<p>中央红军主力开始长征时，先遣探路的红6军团和红2军团会师后，在两军战略行动方向和统一行动方面，与博古、李德控制的中革军委发生了一场争论。争论焦点在于：两军团是集中行动、统一指挥，还是分开行动、各自直受军委指挥？是集中兵力挺进湘西北开展攻势作战，还是红6军团单独进入湘西建立苏区？这场关系到红军长征成败的重要论争的结果，为红2、6军团的发展壮大，为两军团更好地策应中央红军战略转移，为湘鄂川黔革命根据地创建和发展，为红军三大主力战略格局的形成，为战胜张国焘分裂党和红军的图谋，为红军长征的最后胜利，奠定了坚实的基础。</p>
+						</div>
+					</div>
+					<br class="cls"/>
+				</div>
+				<div id="artPdcInfo" class="artBaseInfo">
+					<div class="col_info"><b>期刊代号：</b>K4 </div>
+					<div class="col_info"><b>分类名称：</b>中国现代史 </div>
+					<div class="col_info"><b>复印期号：</b>2007 年 03 期 </div>
+					<br class="cls"/>
+				</div>
+				<div class="artBaseInfo" id="artKeyword">
+					<div class="articl_info_t">关 键 词：</div>
+					<div class="articl_info_c">
+						<div class="info_c">
+								<a target="_blank" href="/qw?s0=7&amp;s1=%e9%95%bf%e5%be%81">长征</a> 
+								<a target="_blank" href="/qw?s0=7&amp;s1=%e7%ba%a22%e3%80%816%e5%86%9b%e5%9b%a2">红2、6军团</a> 
+								<a target="_blank" href="/qw?s0=7&amp;s1=%e5%86%9b%e4%ba%8b%e6%96%b9%e9%92%88">军事方针</a> 
+								<a target="_blank" href="/qw?s0=7&amp;s1=%e8%ae%ba%e4%ba%89">论争</a> 
+
+						</div>
+					</div>
+					<br class="cls"/>
+				</div>
+				<div class="artBaseInfo" id="artTitleNote"/>
+				<a id="readArea" name="readArea"/>
+				
+			</div>
+			<div id="artText"><div class="artibody" id="Zoom" style="font-size: 14px;">
+    </p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;〔中图分类号〕K264.4；E297.2  〔文献标识码〕A  〔文章编号〕1003-3815(2006)-06-0026-06</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1934年10月，任弼时、贺龙等率领的红2、红6军团会合后，在战略行动方向等问题上，与博古、李德等“左”倾教条主义者发生了一场论争。在纪念红军长征胜利70周年的今天，进一步探讨这场争论的来龙去脉，分析争论的原因、实质及其所产生的深远影响，对于全面认识、批判“左”倾领导人在军事指挥上的错误和红军长征最终取得胜利，都是很有意义的。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;一、红二、六军团领导人与“左”倾错误军事指挥论争的过程</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;长征，是中央红军第五次反“围剿”战争全局失利的必然结果。此时，临时中央成立了由博古、李德和周恩来组成的“三人团”，其中政治上由博古负责，军事上由共产国际派来的军事顾问李德负责，周恩来督促执行计划但不能参与所有事情。1934年7月，中革军委首先派出红7军团向闽浙皖赣边前进，力求调动“围剿”中央苏区之敌。随后又指令任弼时等率领红6军团挺进湖南中部（后改为西部），为中央红军战略转移先遣探路。10月，当中央红军主力开始转移时，红6军团已几经挫折，正艰苦转战于乌江以东的崇山峻岭之中，准备与贺龙等领导的红3军（会师后恢复红2军团番号）会师。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;当时控制党中央和红军命运的是博古、李德等人。尽管当时朱德任中革军委主席，周恩来、王稼祥等为副主席，但实际上，如同遵义会议决议中所指出的：“××同志特别是华夫（即李德——笔者注）同志的领导方式是极端的恶劣，军委的一切工作为华夫同志个人所包办，把军委的集体领导完全取消，……对军事上一切不同意见不但完全忽视，而且采取各种压制的方法，下层指挥员的机断专行与创造性是被抹煞了。”①博古代表临时中央领导军委工作，却对李德的错误作战指挥言听计从。虽然军委内部大多数同志曾经不止一次提出正确意见，因此发生过许多激烈的争论，然而对博古、李德来说这是徒然的，导致军委内部领导工作极不正常。当时发给红2、6军团指示电报虽然多用“军委”名义，但实际领导和指挥权却控制在博古、李德等手中，所以，这场争论实际上是红2、6军团领导人与博古、李德“左”倾教条主义者错误的军事指挥的争论。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;这场论争始于1934年10月24日红6军团与红3军在贵州印江县木黄的会师。两军会师后，首要的问题，是确定两个军团的战略行动方向。两军团领导人任弼时、贺龙等研究后，认为：一是地处梵净山区的黔东特区是新开辟的尚不巩固的根据地，四周高山，离群众太远，活动范围窄；冬季大雪封山，部队过冬有困难；二是两军现有兵力合计7000多人，其中有伤病员500余人，合则两军形成一个拳头，分则势单力薄，容易被敌人各个击破；三是两军会师前夕，中革军委曾电令红6军团应“在松桃、乾城、凤凰地域建立根据地”，熟悉该地区情况的贺龙认为，盘踞在那一带的湘西军阀陈渠珍和苗汉地主豪绅勾结，  “受陈渠珍节制”的地方反动武装“多且极强、经常可动员万人”，并拥有万余枪支。红6军团孤军深入，情况不熟，一时难于立足。两军领导人会商后，决定“我二、六军团明日向龙潭前进，到酋阳、龙山、永顺、保靖、永绥间”，再“向凤凰、乾城发展”。25日，他们致电中革军委，建议：“以目前敌情及二、六军团力量，两个军团应集中行动”②，并决定将黔东根据地的地方武装和两军现有的伤病员合编成独立师，留在黔东特区坚持，主力伸出到敌人力量较为薄弱的湘西北寻求新的发展。但是他们没有料到，中革军委在26日复电中，严厉地批评这个建议，指出：“二、六军团合成一个单位及一起行动是绝对错误的。二、六军团仍应单独的依中央及军委指示的活动地域发展，各直受中央及军委直接指挥”③，坚持要红6军团速去乾城、凤凰，“勿再延迟”。此时，两军团已向黔东苏区开进，未及时收到这封措辞严厉的电报。27日23时，贺龙、任弼时又联名致电军委，报告两军团主力挺进湘西北，在湘鄂川黔几省交界处开创新根据地的进军方向，并说明不直接向乾城、凤凰地区行动的原因。④28日，贺、任等率主力向湘西北发动攻势。当晚接到军委26日复电。两军团领导人审慎研究后，当天以夏、贺、关、任、萧、王（指夏曦、贺龙、关向应、任弼时、萧克、王震——笔者注）联名致电军委，再次陈述利弊：“在敌我及地方条件下，我们建议：二、六军团暂时集中行动，以便消灭敌一、二支队，开展新的更有利于两军团将来分开行动的局面。目前分开，敌必取各个击破之策；以一个军团力量对敌一个支队之〔无〕必胜把握，集中是可以打胜敌任何一个支队的，且两军在军事政治上十分迫切要求互相帮助。”⑤这三份电报特别是第三封电报，由两军团诸位领导人联名，并且把曾经推行“左”倾错误路线，当时已改任红2军团政治部主任的夏曦列在首位，是很不寻常的。这种意见集中反映了两军团领导人关于集中兵力、进军湘西北军事方针的正确依据，表明他们坚持实事求是、据理力争的正确态度。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;对此，中革军委29日再次复电批评，重申既定方针：2、6军团绝对不应合并，仍应保持两个军团组织，两军团均直受军委指挥；6军团可暂在苏区休息，改编数天后应直向松桃、凤凰、乾城地区发展，创立新根据地；2军团则应背靠乌江，钳制印江、秀山之敌，向黔敌积极行动。利用湘敌大部阻击中央红军之机，向湖南大发展。⑥显然，这个复电既不符合战场实际，又没有考虑下级的合理建议。尽管红2、红6军团已表明“暂时集中行动”，“将来分开行动”，中革军委竟连一点机动的余地都不给前方指挥员，而指示的内容又自相矛盾：(1)来电说：“六军团可暂在苏区休息”。但这时，川、黔、湘三省国民党军已从四面向黔东苏区的中心地域合围拢来，扬言要将红军“追出黔境百里以外”，哪里还有供红6军团休息的苏区。(2)来电既令红6军团休息，令红2军团背靠乌江“向黔敌积极行动”，但最后又说：湘敌将移其大部抗击我西方军即中央红军，2、6军团之环境如有改善，应利用此时机求得向湖南大发展。其目的虽然是要两军团配合中央红军的战略转移，但是这是机械的，脱离战场实际的，因而是错误的。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;中央既然来电要他们“向湖南大发展”，任弼时、贺龙等从实际出发，当机立断，不去乾城、凤凰地区，而是集中两军团的兵力，向湘西北进军。10月30日，两军团顺利通过酉阳，接着，连续急行军，向湖南龙山县的招头寨前进，11月7日乘虚占领湘西北交通要冲永顺县城。这样一来，两军团就摆脱了川黔军的羁绊，甩开了前来追堵的陈渠珍部，使疲惫的部队集结在永顺县城附近，获得了一周时间的休整。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;面对敌人的围追堵截，红2、6军团领导人决定集中兵力，诱敌深入，选择有利地形，伺机在运动中打好两军团会师后的第一仗。11月16日，红2、6军团在永顺城北90华里的十万坪谷地打了一个漂亮的伏击战，歼灭了湘西军阀陈渠珍部1000余人，俘参谋长以下2000多人，缴获长短枪2200余枝，轻机枪10挺和大量的军用物资，军威大振。这是红3军离开湘鄂西根据地和红6军团西征以来扭转困局的转折点，奠定了两军团在湘鄂川黔边创立根据地的可靠基础，也证明了两军团集中兵力统一行动向湘西北发展的决策的正确性。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;事实胜于雄辩。11月13日，中革军委主席朱德给夏、贺、关、任、萧、王发来电报，指示两军团应乘机深入湖南西北去扩大行动地域，这份电报最先表明中革军委已同意两军团向湘西北发展的战略方向。接着，16日，中央书记处给两军团发来电报，对建立根据地、肃反工作、特别是党政军的统一领导问题作了重要指示，决定成立以任弼时为书记，夏、贺、关、萧、王为委员的中共湘川黔边省委（即湘鄂川黔省委），两军仍保留2、6军团名义，  “均直受军委领导，但在两军团共同行动时则由贺、任统一指挥之”，贺龙、任弼时还分别兼湘川黔军区司令员和政委。⑦ 11月下旬，贺、任等率两军团主力乘胜南下，途中接到朱德代表军委于25日发来的电报：“你们应该利用最后几次胜利及湘西北敌情的空虚，坚决深入到湖南的中部及西部行动，并积极协助我西方军。”“二军团主力及六军团全部应集结一起，以便突击遭遇的正规部队，两军团为取得协同动作，暂归贺、任统一指挥。”⑧这实际上表明中革军委最终完全同意了两军团领导人提出的军事方针。至此，历时一个月的两军团和中革军委的论争，最终以两军团领导人的正确建议为军委接受而告结束。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;二、“左”倾领导人错误军事指挥产生的原因</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;中革军委决策人执意要两军团分开活动，分别去建立根据地主要有以下几个原因：</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;第一，顽固地坚持“左”倾错误指挥的中共中央关于中央红军转移湘西、建立根据地的既定决策。1934年7月，中央红军未能打破敌人第五次围剿。博古、李德等在极其秘密的情况下，实施大规模战略转移的准备。当时规定转移的基本方向是进入湘西，会合先遣探路的红6军团和在湘黔边活动的红3军建立根据地。后来，博古说到红6军团的行动目的：“当时军事计划是搬家，准备到湘鄂西去，六军团是先头部队。”⑨李德后来也回忆说，他们听说2军团巩固了湘鄂川交界处的新根据地，觉得这块三角地区位于长江附近，是中国内地几个最发达省份交界点，战略位置重要，可以为广泛的政治和军事活动提供很好的立足点。⑩如果红2、红6军团分开活动，2军团留在黔东，6军团单独到湘西另辟根据地，这样，中央红军过湘江后和2、6军团会合时，在湘西就会有一块较大范围的落脚地。而这个战略意图，“左”倾中央当时并没有与两军团领导沟通。而客观情况很快发生变化，这个计划根本无法实现。因为蒋介石发现了中央红军的进军意图，已急调重兵25个师，围追堵截，张网以待，企图将中央红军围歼在湘江以东地区。显然，军事形势异常严峻，中央红军亟需改变战略方向。然而，博古、李德仍坚持只有到湘西和红2、6军团会合，放下行李才能打仗。正是出于这个战略意图，他们竭力要求为中央红军先遣探路的红6军团尽快进入湘西，为中央红军的到达和创建新根据地做好准备。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;第二，过多地给予红2、6军团特别是红6军团钳制敌军、策应主力红军的战略任务。中革军委一直把红6军团、湘赣苏区作为中央红军、中央苏区的一支战略协同力量看待。中央苏区第一至第四次反“围剿”中，湘赣根据地的革命武装在赣江以西，始终紧密配合中央红军作战，成效显著。然而，从第五次反“围剿”开始，军委给予红6军团战略配合的任务就过重过多，超出了所能承担的能力。例如1934年1月，军委电令该军团17师迅速北上，会合16师破坏敌交通线南浔路。因敌人已经觉察，先作了戒备，我军虽按时到位，但地形生疏、缺乏破路经验和器械，未能完成破路调动敌军的任务，反受很大损失，湘赣根据地也因17师北上、力量削弱而缩小。此后，错误的军事指挥接踵而至，7月23日，军委发出训令，要求红6军团退出湘赣苏区往西向湘中发展，实施一系列钳击敌军、配合中央红军战略转移的行动。9月8日，军委发出补充训令，又要求6军团在湘桂边境积极行动，至少保持到9月20日，然后进入湘西和湘西北，协同红3军建立巩固根据地。9月中旬以后，6军团根据敌情，为摆脱湘桂黔敌军的紧追采取西进行动，中革军委予以严厉批评，指出这与军委补充训令不符合，不能让敌人将6军团压迫到军委所规定前进路线以西地域，否则对中央红军行动不利。该电报还三令五申：6军团无论如何不得再向西移；绝对不可再向西北转移。甚至6军团按其指令路线开进途中，在甘溪等地遭遇战受到很大损失，需要机动转战时，仍令其向既定目的地前进，继续执行军委原规定的任务。两军团会师后，军委要求2军团依托黔东钳制黔敌，6军团入湘西钳制湘敌，分别牵制敌人策应中央红军。这个分兵钳击各路敌人的军事策略，对红2军团来说，由于“左”倾错误路线造成的内部矛盾还未能解决，军心不稳，要单独完成箝击黔敌的任务实在是勉为其难。而要求红6军团这支转战千里、几经挫折的3000余人的疲惫之师，独自完成先遣探路和钳击强悍湘敌的双重任务，无疑是脱离了实际。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;第三，对湘西地区及敌我力量等实际情况掌握很少。博古、李德由于对各种实际情况了解不全面，导致很多决策的失误。例如，在6军团西进行动中，他们连行军需要经过的小地名在电报中一一提出，却不能指出大地名，限制了军团执行任务的机动性。特别是误判敌情，使6军团遭受不必要的损失。1934年10月初，军委数次发电报给6军团，说桂敌现向南开动，2军团已占印江，敌人一部正向我贺部追击，其兵形分散，要求6军团迅速向江口前进，相机歼敌。刚从敌人包围圈中冲出来的6军团只好从猴场调头向东北前进，准备经石阡附近进江口。实际上桂军既没有南开，贺龙部也未占领印江，湘桂黔三省敌军已经根据情况，判明我2、6军团将要会师，决定消灭6军团于石阡地区。结果，6军团在甘溪遭遇桂军，由于无预定作战方案，部队缺少战斗准备，加上担任前卫指挥的军团首长临阵犹豫，导致战斗失败。此后，6军团被敌截为三段，遭受了西征以来最为严重的损失，这同军委误判敌情的错误指挥有直接关系。此外，博古、李德等对由于夏曦推行“左”倾错误路线，备受损失的2军团情况也不了解。这时，2军团内部经过同“左”倾错误进行斗争，逐渐恢复党团组织，停止肃反，准备创建新苏区。而军委却认为他们在湘西北行动不积极，不允许两军团会师后一起行动。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;三、红二、六军团领导人坚持正确主张的客观依据</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;任弼时、贺龙等敢于对中革军委不切实际的指示提出异议，据理力争，基本原因就在于他们了解实际情况。在两支部队几经政治和军事危机后能否生存和发展、怎样完成战略配合任务的抉择面前，他们只能从实际出发来决定方针和行动。他们之所以坚持两个军团集中力量、统一行动的依据是：</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;第一，为了解决两军团内各自面临的严重困难，力求保存红2、6军团的基本力量。两军团会师后联合行动，在军事和政治上都具有重大意义。红6军团从中央根据地西征后，在无后方的条件下，行军作战78天，其间只休息了一天半，几乎昼夜同优势敌军周旋，部队非常疲劳，严重减员，已由出发时的9000多人减至3000多人，亟需一个立足休整的时机和场所，然后才能执行新任务。而红3军，由于中共湘鄂西分局书记夏曦执行王明的“左”倾冒险路线和肃反扩大化，红军力量削弱，在第四次反“围剿”中不得不撤离洪湖根据地，和党中央失去了联系，部队在湘、鄂、川边“分散游击”，直到1934年5月，占领贵州的沿河县后，中共湘鄂西分局这才决定在黔东建立根据地。7月，中央派人送来了5月6日的指示信，批评了夏曦的错误。夏曦虽然诚心接受了批评，但部队政治上组织上有一系列问题还没有来得及解决。正如贺龙所说：“六军团需要休息，二军团希望会师解决路线问题、党的领导问题。”(11)可以说，会师后一起行动是两军团生存发展的共同所需和全体指战员的一致愿望。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;事实上正是如此，会师后，中央政治局委员、中央代表任弼时主持两军团干部会议，批判了夏曦的“左”倾错误，提请上级撤销其主要领导职务，结束了夏曦“左”倾错误的指导。为加强2军团政治工作，任弼时等将原6军团政治部改为2军团政治部，先后从6军团抽调100多名政工干部到2军团担任师、团政委。2军团也为远道而来的6军团官兵准备马匹、粮食，帮助他们迅速完成休整任务。这些意义重大的互相帮助，不仅及时解决了两军团会师前各自面临的重大问题，而且使两支队伍指挥统一，更加团结，趋于一致。蒋介石当时“最害怕的是红军在湖南重建根据地，怕中央红军与贺龙所部红军会合，将来在湘鄂川黔建成一片苏区”(12)。任、贺两军在武陵山区树起的苏维埃红旗，无疑是给蒋介石平添了心腹之患。从而说明了两军团统一指挥、联合行动的战略方针是正确的。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;第二，根据湘鄂川黔边地区的实际情况，来决定红2、6军团的发展壮大的战略行动。贺龙长期生活在湘鄂川黔特别是湘西，对该地区的全面情况是了解的。两军团会师后，贺龙就在联席会议上就全面地介绍湘鄂川黔、特别是中央指示6军团将要进入的凤凰、乾城、松桃地区的政治、军事和社会情况，指出直接进入该地区难以立足。而湘西北的永顺、桑植、龙山、大庸一带地理位置好，各派势力复杂，矛盾很深，容易被我利用。并且敌驻军不多，战斗力不强。贺龙又曾率部在此地区活动过，旧属亲友较多，大都畏服贺龙。党和红军在群众中有较大影响，所以他们认为，2、6军团进入这一地区有利，能够使两支部队发展壮大。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;第三，为了更好地完成牵制湘鄂两省敌人，策应中央红军战略转移的任务。贺、任等知道中央军委不同意他们的行动方针以后，又提出暂时集中行动，开展新的更有利于将来分开行动局面的建议。当时，只有两军团联合起来行动，集中力量，打一两个影响大的胜仗，才能掌握主动，钳制敌军，策应中央红军转移。果然，两军团统一指挥、集中行动发动的强大湘西攻势，取得的龙家寨等战斗的胜利，充分调动了敌军，有力配合了中央红军战略转移。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;值得提出的是，贺、任一方面积极向中革军委申述和坚持自己的正确意见，另一方面，在龙家寨战役后出现有利局面的情况下，仍然率军南下准备执行军委指示。后来又按军委指示及时改变作战方向，向湘西北频频出击，为策应中央红军，建立根据地创造有利条件，直至中共中央、军委放弃在湘西会合2、6军团的计划。这表现了他们勇于坚持原则的革命精神和坚持下级服从上级的高度的组织纪律性。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;四、红二、六军团领导人抵制“左”倾错误军事指挥的重要影响</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;显而易见，这场论争的正确意见是在以任弼时、贺龙为核心的红2、6军团领导人方面。当时，任、贺等都不同程度地看到“左”倾错误在肃反问题上造成的危害，感受到军委指挥6军团西征以来以及2军团作战的某些指示的失误。尽管当时他们对中革军委内部由李德独揽大权发号施令的“极不正常”的情况并不十分清楚，但是他们敢于从实际出发，以对党和革命事业负责的精神，审时度势，临机决断，敢于坚持正确主张的革命魄力是可贵的。他们在事关两支军队生存发展的重大问题上，通过组织程序，有理有据地向上级提出并坚持正确意见，这是共产党人实事求是的原则性和随机应变的灵活性的统一。博古、李德为完成中央红军会合2、6军团的计划，不顾计划的实际可能性，不细致考虑6军团在甘溪战斗后损失严重和实际作战能力大减，仍命令 6军团向规定地域开进，说明他们战略上指导机械，策略上缺乏应变能力。红2、6军团领导人主张的正确性，不仅为两军会师后统一指挥、联合行动取得的一系列胜利所证明，其重要意义还在于：</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;第一，是在毛泽东等力主中央红军不去湘西、转进贵州的正确决断之前，红2、6军团领导人对“左”倾军事指挥错误的一次有力抵制；是遵义会议前，党内、军内广大指战员特别是高级干部，反对“左”倾军事路线的组成部分。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;第二，巩固和发展了两个军团的有生力量，为以后两军团向湘西北出击，继续发展攻势作战，钳制敌军，创造了更为有利的条件。为湘鄂川黔革命根据地进一步形成和发展奠定了良好基础。此后，两个军团紧密配合，开创了革命斗争新局面。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;第三，有力地牵制了对中央红军围追堵截的国民党军队，策应了中央红军的战略转移、为掩护中共中央、中央军委的安全、保存中国革命和人民军队的精华，作出了自己的贡献。红2、6军团的湘西攻势，调动和牵制了敌人11个师又2个旅的兵力，部分打乱了蒋介石的作战部署，有力地配合了中央红军在湘黔地区的行动。比如，12月18日常德被围攻后，何键急令在湘南拦阻中央红军的3个主力师日夜兼程，回援常德；蒋介石立即命令追堵中央红军的2个纵队4个师开到湘黔边境；徐源泉自行改变蒋介石要他率部追截中央红军的计划，将所部部署于湘鄂边、鄂西等地区，以防止红2、6军团进入鄂境。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;第四，为红二方面军这支强大的战略突击力量的形成准备了基本条件。两军团正是在集中行动、统一指挥的基础上，逐步发展为一个统一整体，所以，后来中共中央、军委及时地把两军团编组为红二方面军，使之成为中国工农红军的三大主力之一，从而为在长征后期战胜张国焘分裂党和红军的图谋，促进红四方面军共同北上，实现红军三大主力的胜利会师，胜利地结束伟大长征，为在西北开创抗战的新局面，发挥了重要的作用。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;注释：</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;①《遵义会议文献》，人民出版社，1985年，第21页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;②《红二、红六军团致中革军委的电报》（1934年10月25日）。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;③《中革军委给红二、红六军团的指示电》（1934年10月26日）。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;④《红二、红六军团给朱德、周恩来的电报》（1934年10月27日）。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⑤《夏曦、贺龙、关向应、任弼时、萧克、王震致中革军委的电报》（1934年10月28日）。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⑥《中革军委复贺龙、夏曦、关向应、任弼时、萧克、王震的电报》（1934年10月29日）。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⑦《贺龙年谱》，中共中央党校出版社，1981年，第171页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⑧《朱德给红二、六军团的电令》（1934年11月25日）。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⑨《遵义会议文献》，人民出版社，1985年，第103页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⑩李德：《中国纪事》，现代史料编刊社，1980年，第101页。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(11)贺龙：《回忆红二方面军》，《近代史研究》1981年第1期。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(12)晏道刚：《蒋介石追堵长征红军的部署及其失败》，《文史资料选辑》第62辑。
+</div>
+<div class="page-list">
+    <div class="pageNav" id="pageList"></div>
+</div>
+</div><br class="cls"/>
+		</div>
+		</body></html>

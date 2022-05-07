@@ -1,0 +1,200 @@
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><style>.trR{ text-align:right;}
+#wraper{width:1190px; margin:0 auto; margin-bottom:10px;text-align:left;}
+#left{ float:left;width:250px; text-align:left;}
+#right{float:right;width:930px;text-align:left;border-top:2px solid #619bc0; padding-bottom:10px;}
+.border_w{ border:1px solid #d3d3d3;border-top:2px solid #619bc0;}
+.t01{height:30px;line-height:30px;border:1px solid #dddddd;padding-left:10px;background:url(../images/tbg01.jpg) repeat-x bottom; color:#1183c1; font-size:14px;}
+.con_01{ padding:10px;}
+.con_cbg{ background:url(../images/con_cbg.gif) repeat-y;}
+.con_bbg{ background:url(../images/con_bbg.gif) no-repeat left bottom; height:1px; line-height:1px; font-size:0;}
+
+.source{margin:15px;background:url(../images/linex.gif) repeat-x bottom; padding-bottom:30px; margin-bottom:30px;}
+.source .source-img{border:1px solid #d3d3d3; text-align:center; padding:5px;margin-bottom:10px; }
+.source p{color:#666666; font-weight:bold; font-size:12px;}
+.source .fblue{ color:#236bac; font-weight:normal;}
+
+.t_tj{ height:27px;padding-top:2px;margin:15px; background:url(../images/con_t_tj.gif) no-repeat left top; padding-left:10px; color:#FFFFFF; font-size:14px;}
+.c12_01{ margin-left:15px; margin-right:15px; margin-bottom:15px;}
+.c12_01 li{font-size:12px; line-height:24px; background: url(../images/dot.gif) no-repeat 2px 10px; padding-left:15px;}
+
+#artibodyTitle{color:#236bac;font-family:"宋体";font-size:20px;font-weight: normal;line-height:35px;text-align:center;margin-top:10px;	text-align:center;}
+#artisubTitle{font-family:"宋体";font-size:16px;font-weight: normal;line-height:28px;text-align:center;}
+.articl_info{margin-left:30px; margin-right:30px; position:relative;border-bottom:1px solid #e1e1e1;padding-bottom:20px; margin-bottom:20px;}
+.btn-img{
+	background-image:url(../images/allbg.png);
+	background-repeat:no-repeat;
+	font-size:12px;		
+	cursor:pointer;
+	border: 0px none;
+	display: inline-block;
+	vertical-align:middle;
+	text-align:center;}
+
+.artInfo{height:22px;border-top:1px solid #e1e1e1;border-bottom:1px solid #e1e1e1;padding:5px;margin:20px;}
+.artInfo li{float:left;width:33%;height:22px; line-height:22px; color:#666666;}
+
+.artInfo li .collectionPage_link{
+	background-position:-509px -80px;
+	padding-left:10px;
+	margin-top:-2px;
+	_margin-top:0px;
+	margin-left:10px;
+	width:51px;
+	height:22px; 
+	line-height:22px;		
+	color:#1183c1;	}
+.artInfo li .printPage_link{
+	background-position:-570px -80px;
+	padding-left:10px;
+	margin-top:-2px;
+	_margin-top:0px;
+	margin-left:10px;
+	width:51px;
+	height:22px; 
+	line-height:22px;	
+	color:#1183c1;}
+.artInfo li .downloadPage_link{
+	background-position:-631px -80px;
+	margin-top:-2px;
+	_margin-top:0px;
+	margin-left:10px;
+	width:51px;
+	padding-left:10px;
+	height:22px; 
+	line-height:22px;	
+	color:#1183c1;}
+
+
+.artBaseInfo{line-height:24px; margin-bottom:5px;}
+.artBaseInfo .info_left{float:left;width:80px;}
+.artBaseInfo .info_right{float:left;width:790px;}
+
+.artBaseInfo dt{float:left;width:80px; color:#666666;line-height:20px; display:inline-block;}
+.artBaseInfo dd{color:#666666;line-height:20px;display:inline-block;}
+.artBaseInfo .col li{ float:left;width:210px; height:20px; line-height:20px;color:#666666;}
+
+.artBaseInfo .item{ float:left;width:50%;}
+.artBaseInfo .notice{
+	margin-left:10px;
+	width:61px;
+	padding-left:10px;
+	height:22px; 
+	line-height:22px;
+	background-position:-448px -80px;	
+	color:#1183c1;}
+
+.artInfo{height:30px;border-top:1px solid #e1e1e1;border-bottom:1px solid #e1e1e1;margin:20px 10px;}
+.artInfo div{ float:left;width:30%;height:30px; line-height:30px; text-align:center;}
+.artInfo div a{ margin-left:20px; margin-right:20px;}
+.artInfo li{float:left;width:33%;height:22px; line-height:22px; color:#666666;}
+
+.articl_info{margin-left:30px;margin-right:30px; position:relative;border-bottom:1px solid #e1e1e1;padding-bottom:20px; margin-bottom:20px;}
+.artBaseInfo{margin-bottom:5px;}
+.articl_info_t{float:left;width:80px;margin-right: -100%;font-weight:bold;line-height:24px;}
+.articl_info_c{float: left;width: 100%;}
+.articl_info_c .info_c{margin-left:80px; line-height:24px;}
+.artBaseInfo .marL{ margin-left:20PX;}
+.artBaseInfo .col_info{ float:left;width:30%;line-height:20px;}
+
+.fontSize{position: relative;right:0px;top:0px;font-size:12px; height:30px; line-height:30px; text-align:right;}
+.fontSize a{border:1px solid #c2c2c2;margin-right:10px;padding:4px 1px;*padding:1px; cursor:pointer;font-size:12px;}
+.fontSize a span{background:url(../images/page_a_36.png) repeat-x;padding:3px;}
+
+.fontSize a.now{border: #f9ad75 1px solid;padding:4px 1px;*padding:1px;}
+.fontSize a.now span{color:#ff7d27;background:url(../images/current_34.png) repeat-x bottom;padding:3px;}
+.artibody{margin-left:20px;margin-right:20px;font: 18px/180% "Microsoft YaHei","微软雅黑"; color:#666666;}
+.artibody p{margin-bottom:20px;}
+
+.fontSize A:link{ color:#000000;text-decoration:none;}
+.fontSize A:visited{ color:#000000;text-decoration:none;}
+.fontSize A:hover{ color:#FF0000;text-decoration:none;}
+.fontSize a.now:link{color:#ff7d27;text-decoration:none;}
+#Zoom img {max-width:600px; max-height:600px; scale:expression((this.offsetWidth > this.offsetHeight)?(this.style.width = this.offsetWidth >= 600 ? "600px" : "auto"):(this.style.height = this.offsetHeight >= 600 ? "600px" : "auto")); display:inline !important;}
+
+.t_artiInfo{font-size:14px; padding-left:20px;background:url(../images/linex.gif) repeat-x top; line-height:30px; margin-top:10px;}
+.li_artiInfo{margin-left:30px; margin-right:30px;padding-bottom:10px; }
+.li_artiInfo ul li{float:left;width:100%;padding:3px 0;}
+.li_artiInfo ul li .title{ float:left;width:65%;}
+.li_artiInfo ul li .author{ float:left;width:15%;}
+.li_artiInfo ul li .come{ float:right;width:20%;color:#999999; text-align:right;}
+
+
+.index_artInfo{height:36px; line-height:36px; border-top:1px solid #e1e1e1;border-bottom:1px solid #e1e1e1; margin-top:20px; padding-left:20px;  padding-right:20px;padding-right:10px; margin-bottom:10px; margin-left:10px;text-align:center;}
+.index_artInfo a.collectionPage_link{ background:url(../images/icon.gif) no-repeat 0 1px; padding-left:15px;}
+.index_artInfo a.printPage_link{background:url(../images/icon.gif) no-repeat 0 -55px; padding-left:15px;}
+.index_artInfo a.downloadPage_link{background:url(../images/icon.gif) no-repeat 0 -108px; padding-left:13px;}
+
+.index_body .main{margin-left:100px; line-height:28px;color:#000000; padding-bottom:30px; padding-top:20px;}</style></head><body><div id="wraper">
+			<div id="artTitles">
+				<h1 id="artibodyTitle">南朝“行事”考</h1>
+				<h2 id="artisubTitle"/>
+			</div>
+			
+			<div class="articl_info">
+				<div class="artBaseInfo" id="autInfo">
+					<div class="articl_info_t">作 者：</div>
+					<div class="articl_info_c">
+						<div class="info_c">
+								<a target="_blank" href="/qw?s0=4&amp;s1=%e9%b2%81%e5%8a%9b">鲁力</a> 
+						</div>
+					</div>
+					<br class="cls"/>
+				</div>
+				<div class="artBaseInfo" id="autDescription">
+					<div class="articl_info_t">作者简介：</div>
+					<div class="articl_info_c">
+						<div class="info_c">鲁力，华南师范大学历史文化学院副教授，历史学博士。（广州 510631）</div>
+					</div>
+					<br class="cls"/>
+				</div>
+				<div class="artBaseInfo" id="tAutInfo"/>
+				<div class="artBaseInfo" id="orgInfo">
+					<div class="articl_info_t">原文出处：</div>
+					<div class="articl_info_c">
+						<div class="info_c">武汉大学学报：人文科学版</div>
+					</div>
+					<br class="cls"/>
+				</div>
+				<div class="artBaseInfo" id="astInfo">
+					<div class="articl_info_t">内容提要：</div>
+					<div class="articl_info_c">
+						<div class="info_c">
+							<p>“行事”是南朝地方行政制度中一项特殊的设置，产生于东晋末年，在刘宋初年已出现相对固定的称呼。它除“行府州事”之外，还有“行郡事”、“行国事”等类型，与以前的“行某官(事)”及北朝的“行某州事”有明显的区别。“行事”是在南朝出镇宗王普遍年幼的情况下设置的，对出镇幼王兼有辅佐和防范的职能。“行事”的设置，对皇权具有两面性的影响。</p>
+						</div>
+					</div>
+					<br class="cls"/>
+				</div>
+				<div id="artPdcInfo" class="artBaseInfo">
+					<div class="col_info"><b>期刊代号：</b>K22 </div>
+					<div class="col_info"><b>分类名称：</b>魏晋南北朝隋唐史 </div>
+					<div class="col_info"><b>复印期号：</b>2009 年 02 期 </div>
+					<br class="cls"/>
+				</div>
+				<div class="artBaseInfo" id="artKeyword">
+					<div class="articl_info_t">关 键 词：</div>
+					<div class="articl_info_c">
+						<div class="info_c">
+								<a target="_blank" href="/qw?s0=7&amp;s1=%e5%8d%97%e6%9c%9d">南朝</a> 
+								<a target="_blank" href="/qw?s0=7&amp;s1=%e2%80%9c%e8%a1%8c%e4%ba%8b%e2%80%9d">“行事”</a> 
+								<a target="_blank" href="/qw?s0=7&amp;s1=%e5%ae%97%e7%8e%8b%0a%e3%80%80%e3%80%80Southern+dynasties">宗王
+　　Southern dynasties</a> 
+								<a target="_blank" href="/qw?s0=7&amp;s1=Xingshi">Xingshi</a> 
+								<a target="_blank" href="/qw?s0=7&amp;s1=clan+kings">clan kings</a> 
+
+						</div>
+					</div>
+					<br class="cls"/>
+				</div>
+				<div class="artBaseInfo" id="artTitleNote"/>
+				<a id="readArea" name="readArea"/>
+				
+			</div>
+			<div id="artText"><div class="artibody" id="Zoom" style="font-size: 14px;">
+    </p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[中图分类号]K239.1  [文献标识码]A  [文章编号]1671-881X(2008)06-0759-07</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“行事”和“典签”是南朝地方行政制度中两项特殊的设置，长期以来，学界研究“典签”较多，对“行事”则很少专门探讨。严耕望先生曾对行事的有关材料作过梳理，并指出行事因幼王出镇或刺史有事而设、多由府之上佐充任、是职而非官、与府主及典签常生矛盾等[1](第193-197页)。另外，陈琳国谈了行事对幼王的限制作用[2](第78页)，余行迈、魏向东将行事作为南朝特察制度的一部分作了概述[3](第271-272页)，唐春生考证了宋齐部分宗王不必依赖行事的年龄[4](第76页)。这些研究对了解“行事”颇有参考价值，但或以列举材料为主，或过于简略，故在此作进一步的探讨。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;一、南朝“行事”的渊源、初置、类型及任职特点</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;一般而言，南朝的“行事”即“行府州事”的简称，而“行……事”这一称呼或任职方式并不始于南朝，在史籍中早已出现。如先秦时，传说蚩尤残暴，“万民欲令黄帝行天子事”[5](卷1，五帝本纪正义引龙鱼河图)；舜被尧推举，“年五十摄行天子事”[5](卷1，五帝本纪)；周厉王逃走后，“诸侯奉和以行天子事”[5](卷4，周本纪正义引鲁连子语)；鲁定公时，“孔子行相事”[5](卷33，鲁周公世家)；赵武灵王传位于其子何，“惠王(何)初立，行王事”[5](卷40，楚世家)。这时，“行”的范围还很狭窄，只限于天子、王、相等少数最高权位。至秦、西汉时，确立了三公九卿制和郡县制，“行”的范围也逐渐广泛。在中央，史书中常见的有行丞相事和行御史大夫事，如张汤“数行丞相事”[6](卷59，张汤传)，曹窋、冯敬等曾行御史大夫事，另外，行太常事、行宗正事、行廷尉事、行少傅事、行中尉事等也偶有其例；在地方，也开始出现“行”这一任职方式，如秦末赵佗曾行南海尉事、西汉翟方进曾行南阳太守事、王尊曾先后行美阳令事和京兆尹事。东汉时，“行”的事例进一步增多，明显的变化是出现了许多“行某将军事”，如行大将军事、行车骑将军事、行度辽将军事等①，多与临时性的军事活动有关。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;三国两晋时期随着州郡县三级制的形成，开始出现“行某州刺史(事)”。建安十五年(公元210年)，孙权以步骘行交州刺史②，这是史书中关于行刺史的最早记载。此后至西晋末年，时局混乱，范阳王虓曾承制用苟晞行兖州刺史、阎鼎和荀组曾先后行豫州刺史事。东晋时，又有慕容皝行平州刺史、苏峻任命王舒行扬州刺史事的例子。这时还出现“行(某)州事”或“行州府事”的称呼。如晋惠帝时，交州刺史陶咸死，新昌太守梁硕“迎前刺史修则子湛行州事”[7](卷89，王谅传)；晋明帝时，宁州刺史王逊死，“州人复立逊中子坚行州府事”[7](卷81，王逊传)；晋安帝时，刘裕平洛阳，以毛修之“行司州事”[8](卷48，毛修之传)；徐道期攻陷广州，始兴相刘谦之讨平之，“仍行州事”[8](卷50，刘康祖传)。这种“行(某)州事”或“行州府事”与“行某州刺史(事)”并无实质的区别，只是中间没有刺史的名号。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;南朝也有各种“行某官(事)”，其中的新变化，无疑是地方行政制度中“行事”的设置，而这一设置可上溯至东晋末年。《宋书》卷5《文帝纪》载，晋安帝义熙六年(公元410年)，“卢循之难，上(刘义隆)年四岁，高祖(刘裕)使谘议参军刘粹辅上镇京城”。这是一项特殊的任命，京城(即京口，今江苏镇江)是当时徐州刺史的治所、北府兵的根据地，刘裕讨伐桓玄就起兵于此，驱逐恒玄后长期担任徐州刺史。义熙六年，卢循起义军直逼建康，刘裕忙于应付，而根据地不能动摇，所以安排第三子刘义隆坐镇京口。当时刘义隆只有4岁，显然无力担当镇守的重任，刘裕于是安排自己中军府的谘议参军刘粹为辅佐。这一任命实际上开启了一种控制地方的新模式，即当权者(当时是刘裕)任命自己的家族成员担任地方的最高军政长官，而当这些家族成员因为年幼或其它原因不能处理政事时，则只是充当权力的象征，实际权力由僚属掌握。随后，这一模式得到普遍的应用。如义熙十三年(公元417年)，刘裕灭姚秦后从长安返还，以第二子刘义真为雍州刺史，以王修为长史，“委以关中之任”[8](卷61，庐陵王义真传)；十四年(公元418年)，刘义隆任荆州刺史，西镇江陵，“太祖(刘义隆)未亲政，政事悉委司马张邵”[8](卷63，王华传)；元熙二年(公元420年)，刘裕从寿阳到建康登基，以第四子义康为豫州刺史，留镇寿阳，以刘湛为长史，“义康弱年未亲政，府州军事悉委湛”[8](卷69，刘湛传)。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;刘宋建立后，这一模式延续下来，只不过上面所说的当权者变成了皇帝，家族成员变成了宗王，而那些辅佐的僚属则逐渐有了一个新的称呼——“行府州事”，简称“行事”。刘宋时，对辅佐的僚属还偶尔称“众事一以委之”[8](卷53，庾登之传)、“众务悉委焉”[8](卷53，庾炳之传)、“行州府之任”[8](卷60，王准之传)、“总府州之任”[8](卷72，晋熙王燮传)等。约永初二年(公元421年)，荆州刺史刘义隆镇西府谘议参军王华“代(张邵)为司马、南郡太守，行府州事”③，这是关于南朝“行府州事”这一称呼的最早记载。元嘉十七年(公元440年)，始兴王浚任扬州刺史，范晔以长史“行州事”，文帝对主簿沈璞说：“范晔性疏，……彼虽行事，其实委卿也”。[8](卷100，自序)这是关于南朝“行事”这一简称的最早记载。此后直到梁陈，就一般用“行府州事”、“行事”等称呼了。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;南朝的“行事”只是一种简称，其具体类型和称呼则比较混杂，概括起来，主要有“行府州事”和“行郡事”两类。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;行府州事，又有行某州事、行某州府州事、行某州府事、行府事、行州事等称呼，是南朝行事中最主要的类型。其中，“府”即军府，是将军的官署；“州”即州署，是刺史的官署。魏晋南朝军事活动频繁，形成了大大小小的都督区(方镇)，是凌驾于州之上的军事区划。一个都督往往都督一州、数州乃至十余州的军事，而且通常兼任本州刺史。出任都督者都有某个军号，如镇西将军、冠军将军、征虏将军等，其官署也随之称镇西府、冠军府、征虏府等。都督兼任本州刺史，则同时又设有州署。有的刺史虽然不任都督，但通常也带军号，置军府。这样，各州一般有两套僚属班子，即府佐和州佐。南朝重要镇、州的都督、刺史，多由宗王担任，所谓“行府州事”，即由府的上佐“总摄州府”[9](卷45，颜之推传)，全面负责府、州事务。如上所列举，史书中又有单称“行州事”、“行府事”的，因为府、州联系紧密，且常常连称，是否单称“行府事”就不行州事，单称“行州事”就不行府事，还不能肯定，所以这里都归入“行府州事”一类。行郡事在南朝也比较常见。南朝除重要的镇、州由宗王担任都督、刺史外，一些重要的郡也往往由宗王担任太守，如吴兴、吴、会稽、丹阳、南琅邪(侨立)、南彭城(侨立)、淮南(侨立)、宣城等，都是南朝经济发达、高门大族聚居之地，其中会稽还是当时一个重要都督区——会稽都督区的首郡。宗王出任太守者通常也带军号，置军府，因此也有府佐和郡佐两套班子，所谓“行郡事”，即由府的上佐全面负责府、郡事务。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;此外，还有行石头戍事、行东宫事和行国事。石头戍是保卫京师的军事要地，宋、齐、梁三代都设有领石头戍事，多由宗王兼任[10](第63页)。偶尔也由宗王僚属行石头戍事，如南齐江夏王宝玄领石头戍事，曾由长史萧颖胄行石头戍事[11](卷38，萧颖胄传)；梁代南康王绩领石头戍军事，曾由长史司马褧行府国并石头戍军事[12](卷40，司马褧传)。行东宫事仅见于陈代，王通、沈君理、陆缮都曾以太子詹事行东宫事。史书中还屡见行国事的例子，如刘宋张岱行巴陵王府州国事、梁代王泰行南康王府州国事、王筠行湘东王府国郡事、陈代徐陵行晋熙王郡国事等。至于行国事的具体内容如何，史无明文，可能职责较轻，所以一般附于“行府州事”或“行郡事”之后。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;这里附带谈一下北朝的“行某州事”。北朝“行某州事”很普遍，但在史书中不简称行事④，一般临时由它官兼任或单独担任，而很少由府佐兼任，与刺史无异。北朝“行某州事”大致沿袭两晋，与南朝宗王出镇背景下的“行事”迥然不同。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;综观南朝以前的“行某官(事)”，虽然名目繁多，但有一些共同之处，即它们只是一种任职方式，通常是由某一较低职位的官暂时行使某一较高职位的权力，具有临时性、非正式任命的特点。如汉武帝时，“(韩)安国为御史大夫四岁余，丞相田蚡死，安国行丞相事，奉引堕车蹇。天子议置相，欲用安国，使使视之，蹇甚，乃更以平棘侯薛泽为丞相”[5](卷108，韩长孺传)。丞相田蚡死后，没有另任丞相，而是由职位相对较低的御史大夫韩安国暂时行使丞相的职权，汉武帝本来有意正式任命他，但因为他脚伤严重，最后改任薛泽为丞相。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;南朝的“行事”不仅在称呼上套用了以前的“行某官(事)”，而且在任职方式上也继承了“行某官(事)”的上述特点。比如“行事”是由职位相对较低的僚属行使长官的职权，它通常在长官年幼时设置，它也不是一种正式的官职。但南朝的“行事”在任职方式上又与以前的“行某官(事)”有很大的区别，不能将二者混同。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;首先，以前的“行某官(事)”之上并没有另外一个长官，而南朝的“行事”之上有都督、刺史等长官存在，且通常是宗王，行事只是行使长官的职权。如汉武帝时韩安国行丞相事，他的上面并没有另外一个丞相。两晋时虽然已出现“行(某)州事”或“行州府事”的称呼，但上面并没有另外一个刺史，与南朝的“行事”根本不同。南朝都督、刺史等加行事的模式是一个创举，有特定的历史原因，这点下文再论。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;其次，以前的“行某官(事)”通常由其它机构的官员兼任，而南朝的“行事”通常由所在机构的僚属兼任。如汉武帝时韩安国就是以御史大夫行丞相事，另外如东汉岑彭以廷尉行大将军事、曹魏董昭以卫尉行司徒事等，都是其例。而南朝的“行事”主要由所在军府的上佐——长史、司马、谘议参军担任⑤，其中长史为首佐，司马掌军事，谘议参军主讽议。就“行府州事”而言，笔者从《宋书》、《南齐书》、《梁书》、《陈书》中收集了114个有明确官职记载的例子，其中长史97例、司马9例、谘议参军6例，另外还有属于分职诸曹的录事参军1例、中兵参军1例，基本上是府的上佐。而由州的上佐——别驾、治中从事担任行事的一例也没有，这反映了当时府凌驾于州之上的事实。就“行郡事”而言，笔者收集了22个有明确官职记载的例子，其中长史16例、司马4例、录事参军1例，基本上是府的上佐。而由郡的上佐——丞担任行事的只见到1例：南齐时邵陵王子贞为东中郎将、吴郡太守，由郡丞王思远行郡事，这也是在郡这一地方层级府凌驾于郡之上的反映。另外如前所述，两例“行石头戍事”都是长史，也为府的上佐；三例“行东宫事”都是太子詹事，为东宫僚属。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;既然“行事”只是一种任职方式，而非官名，无品级印绶，自然不可能由朝廷“除拜”，那么怎样认定呢？梁初，萧颖达出为信威将军、江州刺史，沈瑀任长史，“瑀性屈强，每忤颖达，颖达衔之。天监八年，因入谘事，辞又激厉，颖达作色曰：‘朝廷用君作行事耶？’”[12](卷53，沈瑀传)沈瑀为长史而非行事，却“每忤颖达”，所以“颖达衔之”，以至勃然大怒。材料从反面说明行事虽然由长史、司马等府佐充任，但有权制约府主，与单纯的长史、司马不同。同时，萧颖达所云“朝廷用君作行事耶”，也说明府佐担任“行事”确实需要朝廷的认定。宋大明五年(公元461年)，雍州刺史海陵王休茂杀司马庾深之，僚属曾共推中兵参军刘恭之行府州事[8](卷79，海陵王休茂传)，这是特殊情况，另当别论。梁普通元年(公元520年)，晋安王萧纲出为云麾将军、南徐州刺史，孔休源任长史，“别敕专行南徐州事”[12](卷36，孔休源传)，这是通过“别敕”的形式来认定长史的行事职权，恐非通例。按常理，在长史、司马等除身(南朝的委任状)中写明其行事职权，是一种简便、有效的认定方式。南朝各代正史通常将“行府州事”、“行某州事”等加在长史、司马等本官后面，如宋孝武帝时，邓琬“出为晋安王子勋镇军长史、寻阳内史，行江州事”[8](卷84，邓琬传)，这种写法也许就是源自除身，但这一推论还有待证实。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;二、南朝“行事”的设置原因及其对皇权的影响</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;南朝行事的设置实际上是与宗王出镇制相配套的一项措施。既然宗王出镇制在西晋已经形成，为何当时没有设置行事，而南朝要设置呢？其设置对皇权又有何影响呢？对此，《南齐书》卷40“史臣曰”有一段评论：</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;帝王子弟，生长尊贵，……朝出阃闺，暮司方岳，帝子临州，亲民尚小。年序次第，宜屏皇家，防骄剪逸，积代恒典，平允之情，操捶贻虑。故辅以上佐，简自帝心，劳旧左右，用为主帅。州国府第，先令后行，饮食游居，动应闻启。端拱守禄，遵承法度，张弛之要，莫敢厝言。“行事”执其权，“典签”掣其肘，苟利之义未申，专违之咎已及。处地虽重，行己莫由，威不在身，恩未接下，仓卒一朝，艰难总集，望其释位扶危，不可得矣。以上所论为宋齐尤其是齐代“行事”和“典签”的设置原因及其对皇权的负面影响。但对理解整个南朝的行事有普遍意义，以下试作分析。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.“朝出阃闺，暮司方岳，帝子临州，亲民尚小”。即南朝出镇宗王普遍年幼，因此要设置行事辅佐出镇宗王处理府州事务。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;西晋宗室成员众多，司马懿及其兄弟共8人，第二世27人，第三、四世各近70人。这些人身份尊贵，从政能力普遍较强，因此要推行宗王出镇制，不乏可用的宗室成员。而在西晋建立之初，晋武帝的儿子都很小，最大的司马衷才7岁。在宗室成员众多的情况下，显然没有必要让如此年幼的皇子出镇，为他们设置辅佐也就无从谈起。但刘宋建立者刘裕的情况却很不一样，他只有两个同父异母弟，即刘道怜和刘道规，他本人直到义熙二年(公元406年)42岁才有子，陆续生了7子。因此，刘裕要和西晋一样用血缘关系来控制方镇，除了让幼子出镇外，别无选择。这些幼子没有从政能力，自然要为他们设置辅佐，“行事”制度也由此产生。刘裕以后的南朝各代皇帝仍然推行宗王出镇制，也经常出现登位后皇子年幼的情况，继续设置“行事”也就顺理成章了。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;参南朝各代正史，笔者对宋武帝、宋文帝、宋孝武帝、宋明帝、齐高帝、齐武帝、齐明帝、梁武帝、陈文帝、陈宣帝这10位皇帝之子最初出镇的年龄作了统计，共收集可考者72人，其中4～15岁61人，约占85％；16～22岁9人，约占12％；30岁以上2人，约占3％。由此可见，南朝最初出镇的皇子中，15岁以下占了绝大多数，这些人基本上没有从政能力，出镇主要起权力象征的作用，政务的处理必须依赖于“行事”。如宋文帝时，庾登之任衡阳王义季征虏府长史，“义季年少，未亲政，众事一以委之”[8](卷53，庾登之传)。梁武帝时，寻阳王大心为郢州刺史，“时年十三，太宗(萧纲)以其幼，恐未达民情，戒之曰：‘事无大小，悉委行事，纤毫不须措怀。’”[12](卷44，寻阳王大心传)陈宣帝时，晋安王伯恭为南豫州刺史，萧允任长史，“时王尚少，未亲民务，故委允行府州事”[13](卷21，萧允传)。因为不用处理政务，有的幼王最初虽然担任刺史、太守，但实际上仍留在京师。如宋南平王铄初为湘州刺史，“不之镇”[8](卷72，南平王铄传)，在此期间，陆徽曾任司马，“行湘州府事”[8](卷92，陆徽传)。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;出镇幼王虽然主要充当权力的象征，但在正常情况下，他们年长后是要亲自处理政务的，所以在位皇帝往往要求他们以“行事”为师，史书中也不乏出镇幼王适度参政的事例。如梁湘东王绎为会稽太守，到溉为长史、行事，梁武帝敕湘东王“到溉非直为汝行事，足为汝师，间有进止，每须询访”[12](卷40，到溉传)。晋安王纲多次出镇，孔休源曾任长史、行事，梁武帝敕晋安王“孔休源人伦仪表，汝年尚幼，当每事师之”，晋安王则“深相倚仗，军民机务，动止询谋”[12](卷36，孔休源传)，“自年十一，便能亲庶务，历试蕃政，所在有称”[12](卷4，简文帝纪)。前引寻阳王大心“虽不亲州务，发言每合于理，众皆惊服”[12](卷44，寻阳王大心传)。又如陈晋安王伯恭“年十余岁，便留心政事，官曹治理”[13](卷28，晋安王伯恭传)。始兴王叔陵16岁都督江州，时孔奂任“行事”，但叔陵“政自己出，僚佐莫预焉”[13](卷36，始兴王叔陵传)。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“行事”主要在幼王出镇时设置，随府主年龄的增长，能力的增强，一般会撤除“行事”，由府主亲自处理府州事务。早在宋文帝时，江夏王义恭出镇荆州，长史刘湛行府州事，“义恭性甚狷隘，年又渐长，欲专政事，每为湛所裁，主佐之间，嫌隙遂构。太祖闻之，密遣使诘让义恭，并使深加谐缉。义恭具陈湛无居下之礼，又自以年长，未得行意，虽奉诏旨，颇有怨言”[8](卷69，刘湛传)，最后文帝召回了刘湛。但各代府主亲政的具体年龄难以查考，史书记载较明确的有：宋江夏王义恭19岁亲政、彭城王义康18岁“始亲庶务”[8](卷52，谢述传)、齐随郡王子隆18岁“亲府州事”[11](卷40，随郡王子隆传)、晋安王子懋20岁“亲府州事”[11](卷40，晋安王子懋传)、鄱阳王锵23岁“始亲府州事”[11](卷35，鄱阳王锵传)、武陵王晔约25岁“得自亲政”[11](卷35，武陵王晔传)。据此推测，南朝宗王亲政的年龄约在18～25岁之间。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;年长的出镇宗王有事、病亡或品质太差，也往往会设“行事”。如宋江州刺史武陵王骏讨伐刘劭，“府缺上佐，(谘议参军刘延孙)转补长史、寻阳太守，行留府事”[8](卷78，刘延孙传)。晋平王休祐为南徐州刺史，宋明帝“以休祐贪虐不可莅民，留之京邑，遣上佐行府州事”[8](卷72，晋平王休祐传)。梁庐陵王续为荆州刺史，王冲为长史，“王薨，行州府事”[13](卷17，王冲传)。异姓也有设“行事”的例子，原因类似。如“(宋)益州刺史刘亮卒，(长史沈)仲玉行府州事”[8](卷100，自序)。梁初，“江州刺史曹景宗疾笃，(长史沈)瑀行府州事”[12](卷53，沈瑀传)。以上情况并不普遍，可视为“行事”辅佐幼王这一主要职能的扩充。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.“年序次第，宜屏皇家，防骄剪逸，积代恒典”。即出镇宗王身份尊贵，位高权重，设置“行事”和“典签”能防范他们骄纵不法，尤其是凌驾于皇权之上。南朝对方镇的监察主要依靠“典签”，“行事”的主要职责是辅佐出镇的幼王，但也有防范的责任。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;刘宋初期，宗室内部的矛盾相对缓和，但在宋文帝元嘉年间，开始出现权力之争。宋孝武帝上台后，矛盾就很尖锐了，南郡王义宣、竟陵王诞先后起兵叛乱，武昌王浑也自号楚王，“备置百官，以为戏笑”[8](卷79，武昌王浑传)，最后都被孝武帝诛杀。为限制宗王，孝武帝采取了许多措施，比如分割强藩、贬抑诸王的车服制度等。这时，“行事”的防范作用也有明显的体现。如海陵王休茂出任雍州刺史，“时司马庾深之行府事，休茂性急疾，欲自专，深之及主帅每禁之，常怀忿怒”[8](卷79，海陵王休茂传)，最后竟将“行事”和“典签”杀死。宋明帝在位时，将孝武帝十余子及文帝数子全部诛杀，“唯休范谨涩无才能，不为物情所向，故得自保”[8](卷79，桂阳王休范传)，设置“行事”就无从谈起了。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;齐高帝萧道成吸取刘宋灭亡的教训，临终前告诫齐武帝：“宋氏若不骨肉相图，他族岂得乘其衰弊，汝深戒之。”[11](卷25，长沙王晃传)齐武帝在位期间，虽然没有滥杀宗室，但限制很严，“诸王行事多相裁割”[11](卷46，蔡约传)。而且，有的宗王设置行事的时间很长，如武陵王晔15岁出镇，因“无宠于世祖”，约25岁“始不复置行事，得自亲政”[11](卷35，武陵王晔传)。齐明帝登台后，大肆屠杀高、武子孙，出镇的主要是其本系成员，但他也注意防范。如江夏王宝玄出任郢州刺史，刘暄为“行事”，“执事过刻。有人献马，宝玄欲看之，暄曰：‘马何用看。’妃索煮肫，帐下谘暄，暄曰：‘旦已煮鹅，不烦复此。’”[11](卷42，江祏传)其限制已及于幼王的日常生活。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;梁陈二代对出镇宗王的控制相对较松，但还不至于放纵。如武陵王纪任东扬州刺史，长史臧盾行府州国事，“(武陵王)颇自骄纵，上召(江)革面敕曰：‘武陵王年少，臧盾性弱，不能匡正，欲以卿代为行事。非卿不可，不得有辞。’……府王惮之，遂雅相钦重”[12](卷36，江革传)。陈长沙王叔坚为江州刺史，“不循法度，高宗以王年少，授(陆)琼长史，行江州府国事”[13](卷30，陆琼传)，陆琼虽然没有成行，但从中可以看出陈宣帝利用“行事”限制出镇宗王的意图。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.“处地虽重，行己莫由，威不在身，恩未接下，仓卒一朝，艰难总集，望其释位扶危，不可得矣”。即出镇宗王的权力被“行事”和“典签”架空，无法起到维护皇权的作用。萧子显所论指的是“行事”和“典签”的负面影响，实际上二者的影响都有两面性，不能一概而论。就“行事”而言，其影响在南朝的几次政局变动中有充分的体现。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;第一次在宋明帝登位后。孝武帝死后，太子刘子业即位，大肆诛杀，人不自保。泰始元年(公元465年)，刘子业被侍卫杀死，孝武帝之弟刘彧登位，是为宋明帝。这次中央政局的突变，在方镇中引起了巨大的混乱。当时方镇有不少由孝武帝诸子出镇，这些宗王仅10岁左右，府州权力完全由“行事”掌握：晋安王子勋为江州刺史，邓琬任“行事”；临海王子顼为荆州刺史，孔道存任“行事”；邵陵王子元为湘州刺史，何慧文任“行事”；安陆王子绥为郢州刺史，荀卞之任“行事”；寻阳王子房为会稽太守，孔觊任“行事”。宋明帝登位后，邓琬拒不承认，奉子勋为帝，首先起兵反叛，其它方镇，包括“行事”所在的方镇纷纷响应，“国家所保，唯丹阳、淮南数郡”[8](卷57，蔡兴宗传)，形势一时非常严峻。宋明帝最后平定了叛乱，各“行事”的反对虽然以失败而告终，但毕竟维护了孝武帝的皇权。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;第二次在萧道成代宋前。宋明帝死后，太子刘昱即位，时年9岁，由萧道成等人辅政。这时，宋明帝之子刘准、刘燮、刘友、刘跻、刘赞、刘翙等都年仅数岁，尚未出镇。江州刺史桂阳王休范“自谓宗戚莫二，应居宰辅，事既不至，怨愤弥结”，“时夏口阙镇，朝议以居寻阳上流，欲树置腹心，重其兵力”[8](卷79，桂阳王休范传)，元徽元年(公元473年)，以刘燮为郢州刺史，由长史王奂行府州事。次年，休范起兵反叛，东攻建康，郢州派兵袭取寻阳，休范旋即被杀。此后，荆州刺史沈攸之“密有异志”[8](卷85，王蕴传)，萧道成的长子萧赜、亲信柳世隆又先后任郢州“行事”，防备沈攸之。升明元年(公元477年)，沈攸之起兵东下，至郢州便被打败。另外，刘准镇扬州、刘友镇江州、刘赞镇荆州、刘翙镇湘州、刘跻镇会稽，权力都由“行事”掌握。在此期间，幼王不过是傀儡，“行事”则成为萧道成控制方镇、取代刘宋的工具。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;第三次在齐明帝夺位前。齐武帝死后，太孙萧昭业即位，齐武帝堂弟萧鸾等辅政。不久，萧鸾废昭业，立其弟昭文，控制了中央。这时，宗王出镇的格局为：齐武帝之弟萧銶镇郢州、萧锐镇湘州、萧铿镇南豫州；之子萧子懋镇江州、萧子敬镇南兖州；之孙萧昭秀镇荆州、萧昭粲镇南徐州[14](第4320-4321页)。其中萧銶、萧昭秀、萧昭粲年幼，仍置有“行事”。萧鸾一方面“防制诸蕃，致密旨于上佐”[11](卷53，孔琇之传)，另一方面则派兵袭杀，如派裴叔业杀萧锐、派王广之杀萧子懋和萧子敬。这样里应外合，杀出镇诸王如探囊取物。但也有例外，如“明帝遣徐玄庆西上害蕃镇诸王，玄庆至荆州，欲以便宜从事。(行事何)昌寓曰：‘仆受朝廷意寄，翼辅外蕃，何容以殿下付君一介之使！若朝廷必须殿下还，当更听后旨。’昭秀以此得还京师”[11](卷43，何昌寓传)。何昌寓所言所为，明显是对齐武帝一系的维护。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;第四次在萧衍代齐前。齐明帝死后，太子萧宝卷即位，杀尚书令萧懿，并派兵袭萧懿之弟雍州刺史萧衍，萧衍于是准备起兵。这时，齐明帝之子萧宝义镇扬州、萧宝融镇荆州、宝攸镇江州、宝嵩镇南徐州、宝源镇会稽；之侄宝览镇湘州。他们约十余岁，由“行事”执政。其中荆州是与扬州相对应的西部重镇，萧衍与荆州行事萧颖胄合谋，最终攻入建康，建立了梁朝。另外，荆雍兵东下时，湘州“行事”张宝积“释甲以俟”[12](卷10，杨公则传)，南徐州“行事”范岫“遣使降，且请兵于高祖”[12](卷22，安成王秀传)，都站到了萧衍这一边。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;概言之，“行事”总摄府州，权力很大，能在关键时刻决定方镇对中央的向背。正因为如此，“行事”多“简自帝心”，是在位皇帝所信任者。在政局稳定时，“行事”一般能辅佐幼主，维护皇权；但当政局动荡尤其是皇位更替时，“行事”受政治利益或道德观念的影响，就会体现出两面性，有时能维护皇权，有时则相反。就以上四例而言，第一、三例中“行事”体现了维护皇权的一面，第二、四例中“行事”则成为改朝换代的推动力量。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;综上所述，尽管“行”这一任职方式在先秦时已经出现，并一直沿袭下来，但“行事”作为一项特殊的任命和一个特定的概念，却仅存于南朝。北朝的“行某州事”很普遍，甚至偶尔有称“行事”者，但与南朝的“行事”在内涵上有根本的不同。南朝的“行事”是在幼王出镇的背景下出现的，由出镇幼王的府佐充当，主要的职责是辅佐幼王处理府州事务，同时对幼王也有防范的责任。幼王出镇，“行事”辅佐，“典签”监察，这是南朝宗王出镇制不同于两晋及北朝宗王出镇制的重要特点，也使有朝中央与地方的关系呈现更复杂的面貌。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;注释：</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;①从东汉开始，史书中称“行某官事”的例子逐渐减少，常常直接称“行某官”，二者并无实质的区别，史书中常常互用。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;②《后汉书·百官志五》注引《献帝春秋》。但《三国志》卷52《步骘传》及卷49《士燮传》都没有“行”字。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;③《宋书》卷63《王华传》。本传没有写王华行府州事的时间，《宋书》卷43《徐羡之传》：“上(刘裕)初即位，思佐命之功，诏曰：‘西中郎司马南郡宜阳侯张邵……可封临沮县伯。’”同书卷44《谢晦传》：“(永初)二年，(谢晦)坐行玺封镇西司马、南郡太守王华大封，而误封北海太守球，版免晦侍中。”可知永初元年司马还是张邵，二年已换成王华。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;④笔者在正史中只见到2例，即《北齐书》卷19《高市贵传》中的“晋州行事封祖业”卷21、《封隆之传》中的“冀州行事司马子如”，还不足以说明“行事”这一概念适用于北朝。</p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⑤也有一些以太守或中央官行府州事者，如《南齐书》卷2《高帝下》：“建元元年，……以试守武平太守行交州府事李叔献为交州刺史。”同书卷27《王玄载传》：“王玄载，……建元元年，为左民尚书，……会虏动，南兖州刺史王敬则奔京师，上遣玄载……行南兖州事，本官如故。”这种事例任命方式沿袭两晋，统计时没有计入。
+</div>
+<div class="page-list">
+    <div class="pageNav" id="pageList"></div>
+</div>
+</div><br class="cls"/>
+		</div>
+		</body></html>
